@@ -64,6 +64,7 @@ def documentSearch(query):
   p_retrieval = DocumentSearchPipeline(embedding_retriever)
   res = p_retrieval.run(query=query, params={"Retriever": {"top_k": 5}})
   print_documents(res, max_text_len=500)
+  return res
 
 def questionAnswer(question):
   
@@ -88,6 +89,7 @@ def questionAnswer(question):
       query= question, params={"EmbeddingRetriever": {"top_k": 5}, "BM25Retriever": {"top_k": 5}}
   )
   print_answers(res, details="all")
+  return res
 
    
 
@@ -103,9 +105,10 @@ def extractiveQA(query):
 
     
 def predict(query):
-    question = "times of prayer"
-    questionAnswer(question)
-    documentSearch(question)
+    # question = "times of prayer"
+    answers = questionAnswer(query)
+    documents = documentSearch(query)
+    return {"answers" : answers, "documents" : documents}
 
 
 
