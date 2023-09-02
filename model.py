@@ -108,6 +108,5 @@ def predict(query):
     documentSearch(question)
 
 
-predict("xyz")
 
 
