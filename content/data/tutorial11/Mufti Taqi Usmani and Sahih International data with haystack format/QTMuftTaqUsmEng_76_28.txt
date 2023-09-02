@@ -1,0 +1,1 @@
+{'text': 'We have created them and have made their joints strong. And whenever We will, We would replace them with others like them, a total replacement.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 28, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

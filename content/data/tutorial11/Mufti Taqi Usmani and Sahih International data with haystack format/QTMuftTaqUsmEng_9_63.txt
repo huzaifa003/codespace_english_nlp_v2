@@ -1,0 +1,1 @@
+{'text': 'Have they not come to know that whoever opposes Allah and His Messenger, definite for him is the fire of Jahannam (Hell) wherein he will remain forever. That is the extreme disgrace.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 63, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

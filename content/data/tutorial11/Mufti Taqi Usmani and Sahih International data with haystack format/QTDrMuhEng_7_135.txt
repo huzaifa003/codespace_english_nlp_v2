@@ -1,0 +1,1 @@
+{'text': 'But when We removed the punishment from them to a fixed term, which they had to reach, behold! They broke their word!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 135, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

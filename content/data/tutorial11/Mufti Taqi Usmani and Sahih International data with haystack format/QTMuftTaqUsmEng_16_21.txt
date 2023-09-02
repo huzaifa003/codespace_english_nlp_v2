@@ -1,0 +1,1 @@
+{'text': 'they are dead, having no life, and they do not know when they shall be raised again.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 21, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

@@ -1,0 +1,1 @@
+{'text': 'Do they think that We do not hear their secrets and their whispers? Yes of course, Our messengers (angels) are with them who record (whatever they plan).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 80, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

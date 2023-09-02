@@ -1,0 +1,1 @@
+{'text': 'Surely there is a lesson for you in the cattle. We provide you, out of what lies in their bellies between feces and blood, the (drink of) milk, pure and pleasant for those who drink.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 66, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

@@ -1,0 +1,1 @@
+{'text': '"Verily! We really hope that our Lord will forgive us our sins, as we are the first of the believers (in Moosa (Moses) and in the Monotheism which he has brought from Allah)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 51, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

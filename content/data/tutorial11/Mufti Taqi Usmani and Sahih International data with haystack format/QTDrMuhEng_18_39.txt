@@ -1,0 +1,1 @@
+{'text': 'It was better for you to say, when you entered your garden: That which Allah wills (will come to pass)! There is no power but with Allah . If you see me less than you in wealth, and children.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 39, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

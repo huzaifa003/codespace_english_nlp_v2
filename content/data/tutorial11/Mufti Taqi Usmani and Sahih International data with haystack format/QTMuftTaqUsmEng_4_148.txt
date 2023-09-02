@@ -1,0 +1,1 @@
+{'text': 'Allah does not like the evil words to be said openly except from anyone wronged. Allah is All-Hearing, All-Knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 4, 'ayah_no': 148, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

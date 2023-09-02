@@ -1,0 +1,1 @@
+{'text': 'There is none in the heavens and the earth, but bound to come to the All-Merciful as a salve.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 93, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

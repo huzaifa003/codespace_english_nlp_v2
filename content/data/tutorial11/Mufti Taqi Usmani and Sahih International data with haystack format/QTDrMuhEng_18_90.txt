@@ -1,0 +1,1 @@
+{'text': 'Until, when he came to the rising place of the sun, he found it rising on a people for whom We (Allah) had provided no shelter against the sun.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 90, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

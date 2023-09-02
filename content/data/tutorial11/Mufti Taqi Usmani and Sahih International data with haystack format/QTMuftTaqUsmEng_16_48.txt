@@ -1,0 +1,1 @@
+{'text': 'Have they not observed the things Allah has created, their shadows inclining from the right and the left prostrating themselves before Allah, while they are humble?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 48, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

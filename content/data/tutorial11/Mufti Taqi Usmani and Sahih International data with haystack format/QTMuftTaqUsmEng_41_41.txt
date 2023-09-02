@@ -1,0 +1,1 @@
+{'text': 'Surely those who have rejected the advice (the Qur’ān) when it came to them (are the ones who adopted perversity, and are not hidden from Us). And surely, it is an unassailable book', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 41, 'ayah_no': 41, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

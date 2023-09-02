@@ -1,0 +1,1 @@
+{'text': 'Surely whoever comes to his Lord as a sinner, for him there is Jahannam in which he neither will die nor will live (a happy life).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 74, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

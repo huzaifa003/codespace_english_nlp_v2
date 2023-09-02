@@ -1,0 +1,1 @@
+{'text': 'He sends down the angels with inspiration of His Command to whom of His slaves He pleases (saying): "Warn mankind that La ilaha illa Ana (none has the right to be worshipped but I), so fear Me (by abstaining from sins and evil deeds).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 2, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

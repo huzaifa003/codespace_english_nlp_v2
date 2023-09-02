@@ -1,0 +1,1 @@
+{'text': 'And indeed We have created above you seven heavens (one over the other), and We are never unaware of the creation.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 23, 'ayah_no': 17, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

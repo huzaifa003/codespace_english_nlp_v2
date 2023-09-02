@@ -1,0 +1,1 @@
+{'text': 'AlifLamMeem. (These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings.)', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 29, 'ayah_no': 1, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

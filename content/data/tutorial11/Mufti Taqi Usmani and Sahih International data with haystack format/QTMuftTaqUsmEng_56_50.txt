@@ -1,0 +1,1 @@
+{'text': 'will be gathered together for a fixed time of a specified Day.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 56, 'ayah_no': 50, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

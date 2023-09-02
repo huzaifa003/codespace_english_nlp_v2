@@ -1,0 +1,1 @@
+{'text': 'He said, “Do you know what you did to Yūsuf and his brother when you were ignorant?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 89, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

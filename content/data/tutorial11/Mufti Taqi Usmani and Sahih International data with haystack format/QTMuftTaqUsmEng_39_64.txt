@@ -1,0 +1,1 @@
+{'text': 'Say, “Is it, then, someone other than Allah that you ask me to worship, O ignorant people?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 64, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

@@ -1,0 +1,1 @@
+{'text': 'Most of the people are not going to believe despite your strong desire for it.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 103, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

@@ -1,0 +1,1 @@
+{'text': 'Had your Lord willed, He would have made all the people a single community. But, they will continue in their differences,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 118, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

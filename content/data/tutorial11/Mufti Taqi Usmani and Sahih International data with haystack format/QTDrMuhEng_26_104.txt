@@ -1,0 +1,1 @@
+{'text': 'And verily, your Lord! He is truly the All-Mighty, the Most Merciful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 104, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

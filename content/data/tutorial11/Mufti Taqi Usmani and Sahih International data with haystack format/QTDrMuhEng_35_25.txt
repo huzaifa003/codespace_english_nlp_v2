@@ -1,0 +1,1 @@
+{'text': 'And if they belie you, those before them also belied. Their Messengers came to them with clear signs, and with the Scriptures, and the book giving light.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 35, 'ayah_no': 25, 'surah_name_en': 'Fatir (Originator)', 'surah_name_ar': 'فاطر'}}

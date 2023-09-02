@@ -1,0 +1,1 @@
+{'text': 'So We forgave him that, and verily, for him is a near access to Us, and a good place of (final) return (Paradise).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 25, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

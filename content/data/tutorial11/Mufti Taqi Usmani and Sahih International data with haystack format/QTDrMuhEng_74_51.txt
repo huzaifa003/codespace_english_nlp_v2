@@ -1,0 +1,1 @@
+{'text': 'Fleeing from a hunter, or a lion, or a beast of prey.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 74, 'ayah_no': 51, 'surah_name_en': 'Al-Muddathir (The cloaked one)', 'surah_name_ar': 'المدّثّر'}}

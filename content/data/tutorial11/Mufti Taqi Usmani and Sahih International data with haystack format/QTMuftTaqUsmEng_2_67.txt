@@ -1,0 +1,1 @@
+{'text': 'When Mūsā said to his people, “Allah commands you to slaughter a cow”, they said, “Are you making fun of us?” He said, “I seek refuge with Allah from being one of the ignorant.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 67, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

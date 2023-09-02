@@ -1,0 +1,1 @@
+{'text': 'And how could you take it (back) while you have gone in unto each other, and they have taken from you a firm and strong covenant?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 4, 'ayah_no': 21, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

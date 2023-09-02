@@ -1,0 +1,1 @@
+{'text': 'Whoever makes a good recommendation, there shall be for him a share from it (in the Hereafter), and whoever makes a bad recommendation, there shall be for him a share from it. Allah is powerful over everything.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 4, 'ayah_no': 85, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

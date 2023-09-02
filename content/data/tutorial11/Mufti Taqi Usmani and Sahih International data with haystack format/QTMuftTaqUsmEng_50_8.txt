@@ -1,0 +1,1 @@
+{'text': 'as a source of vision and as a lesson to every servant (of Allah) who turns (to Him for guidance).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 8, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

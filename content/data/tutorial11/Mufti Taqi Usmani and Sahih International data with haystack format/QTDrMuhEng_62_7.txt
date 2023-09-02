@@ -1,0 +1,1 @@
+{'text': 'But they will never long for it (death), because of what (deeds) their hands have sent before them! And Allah knows well the Zalimoon (polytheists, wrong-doers, disbelievers, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 62, 'ayah_no': 7, 'surah_name_en': 'Al-Jumua (The congregation, Friday)', 'surah_name_ar': 'الجُمعۃ'}}

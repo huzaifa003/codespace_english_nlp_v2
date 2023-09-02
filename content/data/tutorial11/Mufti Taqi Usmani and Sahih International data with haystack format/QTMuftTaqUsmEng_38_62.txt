@@ -1,0 +1,1 @@
+{'text': 'And they (the infidels) will say, “What is the matter with us that we do not see those men (here in Hell) whom we used to count amongst the worst? (i.e the Muslims whom the infidels used to treat as the worst people among them)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 62, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

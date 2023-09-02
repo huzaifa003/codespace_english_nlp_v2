@@ -1,0 +1,1 @@
+{'text': 'And a ban is laid on every town (population) which We have destroyed that they shall not return (to this world again, nor repent to Us).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 95, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

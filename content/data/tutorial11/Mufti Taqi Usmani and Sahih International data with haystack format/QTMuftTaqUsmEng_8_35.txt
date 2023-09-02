@@ -1,0 +1,1 @@
+{'text': 'And their prayer near the House was not more than whistling and clapping. So, taste the punishment, because you used to disbelieve.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 35, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

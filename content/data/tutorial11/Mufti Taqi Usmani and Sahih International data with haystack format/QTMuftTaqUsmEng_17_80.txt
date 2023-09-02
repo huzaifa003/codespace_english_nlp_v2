@@ -1,0 +1,1 @@
+{'text': 'And say, “O my Lord, make me enter a rightful entrance and make me exit a rightful exit, and grant me from Your Own a power, favored (by You).”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 80, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

@@ -1,0 +1,1 @@
+{'text': 'And whatever you have been given is an enjoyment of the life of (this) world and its adornment, and that (Hereafter) which is with Allah is better and will remain forever. Have you then no sense?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 60, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

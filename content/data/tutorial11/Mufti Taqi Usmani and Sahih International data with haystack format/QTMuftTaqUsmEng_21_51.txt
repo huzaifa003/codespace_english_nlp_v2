@@ -1,0 +1,1 @@
+{'text': 'Even earlier We had given Ibrāhīm his right course, and We knew him well', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 51, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

@@ -1,0 +1,1 @@
+{'text': 'They said, “No, but we have found our fathers doing like this.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 74, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

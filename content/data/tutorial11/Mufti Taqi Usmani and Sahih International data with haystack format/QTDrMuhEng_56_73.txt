@@ -1,0 +1,1 @@
+{'text': 'We have made it a Reminder (for the Hell-fire, in the Hereafter); and an article of use for the travellers (and all the others, in this world).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 56, 'ayah_no': 73, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

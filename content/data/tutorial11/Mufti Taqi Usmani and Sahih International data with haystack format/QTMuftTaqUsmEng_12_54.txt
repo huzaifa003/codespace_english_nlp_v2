@@ -1,0 +1,1 @@
+{'text': 'The king said, “Bring him to me, and I shall employ him purely for myself.” So, when he (the king) talked to him, he said (to Yūsuf), “Today you are with us well-placed, fully trusted.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 54, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

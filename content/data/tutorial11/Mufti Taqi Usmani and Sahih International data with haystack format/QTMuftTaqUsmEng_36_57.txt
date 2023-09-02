@@ -1,0 +1,1 @@
+{'text': 'For them there are fruits, and for them there is whatever they ask for.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 57, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

@@ -1,0 +1,1 @@
+{'text': 'And O my people, I fear for you a day in which people will call one another,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 32, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

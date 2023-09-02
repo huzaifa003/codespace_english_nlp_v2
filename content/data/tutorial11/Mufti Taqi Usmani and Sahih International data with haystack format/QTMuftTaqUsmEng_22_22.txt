@@ -1,0 +1,1 @@
+{'text': 'Whenever, in their anguish, they will intend to come out of it (the fire), they will be turned back to it, and (it will be said to them,) “Taste the punishment of burning”.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 22, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

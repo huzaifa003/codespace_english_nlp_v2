@@ -1,0 +1,1 @@
+{'text': '(whereby) they do not believe in it (the Qur’ān), and this has been the way of earlier people.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 13, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

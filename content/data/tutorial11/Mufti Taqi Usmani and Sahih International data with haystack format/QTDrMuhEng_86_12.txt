@@ -1,0 +1,1 @@
+{'text': 'And the earth which splits (with the growth of trees and plants),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 86, 'ayah_no': 12, 'surah_name_en': 'At-Tariq (The morning star)', 'surah_name_ar': 'الطَّارق'}}

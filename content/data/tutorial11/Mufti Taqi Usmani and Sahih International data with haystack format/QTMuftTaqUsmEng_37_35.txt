@@ -1,0 +1,1 @@
+{'text': 'They were those to whom when it was said: “There is no god but Allah”, they waxed proud,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 35, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

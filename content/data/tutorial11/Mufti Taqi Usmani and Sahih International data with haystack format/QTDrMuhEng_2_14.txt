@@ -1,0 +1,1 @@
+{'text': 'And when they meet those who believe, they say: "We believe," but when they are alone with their Shayatin (devils - polytheists, hypocrites, etc.), they say: "Truly, we are with you; verily, we were but mocking."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 14, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

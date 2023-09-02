@@ -1,0 +1,1 @@
+{'text': 'Gone to waste are the deeds of those who have rejected Our signs and the meeting of the Hereafter. They will be recompensed only for what they have been doing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 147, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

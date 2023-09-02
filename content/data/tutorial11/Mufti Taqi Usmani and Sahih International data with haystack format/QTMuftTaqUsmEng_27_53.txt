@@ -1,0 +1,1 @@
+{'text': 'And We saved those who believed and who used to be God-fearing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 53, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

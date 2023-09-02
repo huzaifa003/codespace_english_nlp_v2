@@ -1,0 +1,1 @@
+{'text': '(The followers of the misleaders will say): "Nay, you (too)! No welcome for you! It is you (misleaders) who brought this upon us (because you misled us in the world), so evil is this place to stay in!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 60, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

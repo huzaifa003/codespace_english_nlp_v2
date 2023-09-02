@@ -1,0 +1,1 @@
+{'text': 'As for LūT, We gave him wisdom and knowledge, and We delivered him from the town that used to do dirty deeds. Indeed, they were the people of evil, the sinners.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 74, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

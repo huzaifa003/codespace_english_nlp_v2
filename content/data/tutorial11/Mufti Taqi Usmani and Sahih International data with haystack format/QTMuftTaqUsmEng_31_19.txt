@@ -1,0 +1,1 @@
+{'text': 'and be moderate in your walk, and lower your voice. Surely, the ugliest of voices is the voice of the donkeys.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 31, 'ayah_no': 19, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

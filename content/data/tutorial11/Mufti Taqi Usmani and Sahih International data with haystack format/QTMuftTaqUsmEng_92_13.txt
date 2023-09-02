@@ -1,0 +1,1 @@
+{'text': 'and in Our control is the Hereafter and the worldly life.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 92, 'ayah_no': 13, 'surah_name_en': 'Al-Lail (The night)', 'surah_name_ar': 'الَّیل'}}

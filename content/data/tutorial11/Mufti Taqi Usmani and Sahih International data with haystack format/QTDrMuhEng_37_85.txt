@@ -1,0 +1,1 @@
+{'text': 'When he said to his father and to his people: "What is it that which you worship?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 85, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

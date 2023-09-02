@@ -1,0 +1,1 @@
+{'text': 'The Mujrimoon (polytheists, criminals, sinners, etc.) will be known by their marks (black faces), and they will be seized by their forelocks and their feet.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 55, 'ayah_no': 41, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

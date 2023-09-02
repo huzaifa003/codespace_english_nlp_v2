@@ -1,0 +1,1 @@
+{'text': 'And on the Day when the Hour will be established, that Day shall (all men) be separated (i.e the believers will be separated from the disbelievers).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 30, 'ayah_no': 14, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

@@ -1,0 +1,1 @@
+{'text': 'What these people are engaged in is sure to be destroyed; and false is what they are doing.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 139, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

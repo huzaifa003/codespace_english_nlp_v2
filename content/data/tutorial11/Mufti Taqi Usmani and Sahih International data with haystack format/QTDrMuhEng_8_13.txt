@@ -1,0 +1,1 @@
+{'text': 'This is because they defied and disobeyed Allah and His Messenger. And whoever defies and disobeys Allah and His Messenger, then verily, Allah is Severe in punishment.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 8, 'ayah_no': 13, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

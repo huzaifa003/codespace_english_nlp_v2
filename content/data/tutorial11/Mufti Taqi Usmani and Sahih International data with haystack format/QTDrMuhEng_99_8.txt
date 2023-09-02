@@ -1,0 +1,1 @@
+{'text': 'And whosoever does evil equal to the weight of an atom (or a small ant), shall see it.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 99, 'ayah_no': 8, 'surah_name_en': 'Al-Zalzala (The earthquake)', 'surah_name_ar': 'الزّلزال'}}

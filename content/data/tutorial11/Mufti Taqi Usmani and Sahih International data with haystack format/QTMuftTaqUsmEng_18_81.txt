@@ -1,0 +1,1 @@
+{'text': 'We, therefore, wished that their Lord would replace him with someone better than him in piety, and more akin to affection.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 81, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

@@ -1,0 +1,1 @@
+{'text': 'Here you have the privilege that you will not be hungry nor will you be unclad,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 118, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

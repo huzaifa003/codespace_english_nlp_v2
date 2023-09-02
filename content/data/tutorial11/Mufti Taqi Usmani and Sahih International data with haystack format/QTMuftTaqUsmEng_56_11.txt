@@ -1,0 +1,1 @@
+{'text': 'Those are the ones blessed with nearness (to Allah)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 56, 'ayah_no': 11, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

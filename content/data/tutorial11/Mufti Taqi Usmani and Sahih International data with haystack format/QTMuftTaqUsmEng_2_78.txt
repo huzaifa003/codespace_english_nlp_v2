@@ -1,0 +1,1 @@
+{'text': 'And some among them are illiterate who have no knowledge of the Book, but have some fancies and do nothing but conjecture.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 78, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

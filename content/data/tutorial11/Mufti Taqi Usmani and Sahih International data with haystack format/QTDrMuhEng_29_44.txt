@@ -1,0 +1,1 @@
+{'text': '(Allah says to His Prophet Muhammad SAW): "Allah (Alone) created the heavens and the earth with truth (and none shared Him in their creation)." Verily! Therein is surely a sign for those who believe.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 29, 'ayah_no': 44, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

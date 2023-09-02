@@ -1,0 +1,1 @@
+{'text': 'So let not their wealth or their children amaze you (O Muhammad SAW); in reality Allahs Plan is to punish them with these things in the life of the this world, and that their souls shall depart (die) while they are disbelievers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 55, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

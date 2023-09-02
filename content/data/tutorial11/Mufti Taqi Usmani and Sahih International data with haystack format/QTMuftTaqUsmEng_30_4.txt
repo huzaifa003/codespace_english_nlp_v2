@@ -1,0 +1,1 @@
+{'text': 'within a few years. To Allah belonged the matter before and (to Him it belongs) thereafter. And on that day the believers will rejoice', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 4, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

@@ -1,0 +1,1 @@
+{'text': 'so that Allah may forgive you of your previous and subsequent faults, and may complete His favour upon you, and may guide you to a straight path,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 48, 'ayah_no': 2, 'surah_name_en': 'Al-Fath (The victory)', 'surah_name_ar': 'الفتح'}}

@@ -1,0 +1,1 @@
+{'text': 'So, when he (her husband) saw his shirt ripped from behind, he said, “This is certainly your trickery, O women. Great is the trickery of you women indeed.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 28, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

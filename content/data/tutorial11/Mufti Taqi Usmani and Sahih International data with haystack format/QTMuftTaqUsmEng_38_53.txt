@@ -1,0 +1,1 @@
+{'text': 'This is what you are being promised for the Day of Reckoning.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 53, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

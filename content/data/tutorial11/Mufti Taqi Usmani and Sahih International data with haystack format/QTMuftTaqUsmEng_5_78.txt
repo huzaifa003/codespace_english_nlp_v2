@@ -1,0 +1,1 @@
+{'text': 'On those who disbelieve from among the children of Isrā’īl , a curse was pronounced by Dawūd and ‘Īsā, Son of Maryam. All this because they disobeyed and used to cross the limits', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 78, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

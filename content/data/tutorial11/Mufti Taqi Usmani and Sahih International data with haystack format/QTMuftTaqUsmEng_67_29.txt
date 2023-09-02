@@ -1,0 +1,1 @@
+{'text': 'Say, “He is the RaHmān; we have believed in Him, and in Him we placed our trust. So, you will soon come to know who is in open error.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 67, 'ayah_no': 29, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

@@ -1,0 +1,1 @@
+{'text': 'They said, "Call upon your Lord for us that He may make plain to us what it is!" He said, "He says, Verily, it is a cow neither too old nor too young, but (it is) between the two conditions, so do what you are commanded."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 68, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

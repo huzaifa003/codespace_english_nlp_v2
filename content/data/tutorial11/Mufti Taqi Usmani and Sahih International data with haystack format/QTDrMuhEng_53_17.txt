@@ -1,0 +1,1 @@
+{'text': 'The sight (of Prophet Muhammad SAW) turned not aside (right or left), nor it transgressed beyond (the) limit (ordained for it).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 17, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

@@ -1,0 +1,1 @@
+{'text': 'But the Messenger and the believers in his company have carried out Jihād with their wealth and lives, and for them there are the good things, and they are the successful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 88, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

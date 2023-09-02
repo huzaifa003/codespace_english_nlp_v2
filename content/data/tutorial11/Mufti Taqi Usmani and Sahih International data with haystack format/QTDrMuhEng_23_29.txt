@@ -1,0 +1,1 @@
+{'text': 'And say: "My Lord! Cause me to land at a blessed landing-place, for You are the Best of those who bring to land."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 23, 'ayah_no': 29, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

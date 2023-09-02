@@ -1,0 +1,1 @@
+{'text': 'It is those who believe (in the Oneness of Allah and worship none but Him Alone) and confuse not their belief with Zulm (wrong i.e. by worshipping others besides Allah), for them (only) there is security and they are the guided.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 82, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

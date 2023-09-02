@@ -1,0 +1,1 @@
+{'text': 'the Lord of Mūsā and Hārūn.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 122, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

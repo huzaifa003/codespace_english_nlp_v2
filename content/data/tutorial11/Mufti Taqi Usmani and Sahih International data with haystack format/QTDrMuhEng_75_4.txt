@@ -1,0 +1,1 @@
+{'text': 'Yes, We are Able to put together in perfect order the tips of his fingers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 75, 'ayah_no': 4, 'surah_name_en': 'Al-Qiyama (The rising of the dead)', 'surah_name_ar': 'القیٰمۃ'}}

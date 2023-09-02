@@ -1,0 +1,1 @@
+{'text': 'They will have no intercessors from among their (so-called) ‘partners of Allah’, and they themselves will reject their (such) ‘partners’.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 13, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

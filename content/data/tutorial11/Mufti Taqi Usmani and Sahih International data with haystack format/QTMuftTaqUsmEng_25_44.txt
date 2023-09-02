@@ -1,0 +1,1 @@
+{'text': 'Or do you think that most of them listen or understand? They are but like cattle. Rather, they are even farther astray from the (right) way.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 44, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

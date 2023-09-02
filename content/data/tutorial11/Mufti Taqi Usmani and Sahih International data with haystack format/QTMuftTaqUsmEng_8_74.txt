@@ -1,0 +1,1 @@
+{'text': 'Those who have believed and emigrated and carried out Jihād in the way of Allah, and those who gave refuge and help, both are the believers in truth. For them there is forgiveness and a respectful provision.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 74, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

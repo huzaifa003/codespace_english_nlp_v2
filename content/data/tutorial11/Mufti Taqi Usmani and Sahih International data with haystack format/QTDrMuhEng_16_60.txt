@@ -1,0 +1,1 @@
+{'text': 'For those who believe not in the Hereafter is an evil description, and for Allah is the highest description. And He is the All-Mighty, the All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 60, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

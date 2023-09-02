@@ -1,0 +1,1 @@
+{'text': 'Is it not sufficient for them that We have sent down to you the Book (the Quran) which is recited to them? Verily, herein is mercy and a reminder (or an admonition) for a people who believe.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 29, 'ayah_no': 51, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

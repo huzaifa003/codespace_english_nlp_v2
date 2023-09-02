@@ -1,0 +1,1 @@
+{'text': 'As for me, I believe that Allah is my Lord, and I do not associate anyone with my Lord.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 38, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

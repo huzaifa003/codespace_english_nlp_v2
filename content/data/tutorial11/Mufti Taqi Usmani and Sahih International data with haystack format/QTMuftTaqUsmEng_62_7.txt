@@ -1,0 +1,1 @@
+{'text': 'And they will never express this desire, because of what their hands have sent ahead. And Allah is fully aware of the wrongdoers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 62, 'ayah_no': 7, 'surah_name_en': 'Al-Jumua (The congregation, Friday)', 'surah_name_ar': 'الجُمعۃ'}}

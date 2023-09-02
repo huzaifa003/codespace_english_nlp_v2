@@ -1,0 +1,1 @@
+{'text': 'He taught man what he did not know.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 96, 'ayah_no': 5, 'surah_name_en': 'Al-Alaq (The Clot)', 'surah_name_ar': 'العَلَق'}}

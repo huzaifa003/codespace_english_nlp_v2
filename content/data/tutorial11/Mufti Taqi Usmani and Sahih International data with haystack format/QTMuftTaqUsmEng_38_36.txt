@@ -1,0 +1,1 @@
+{'text': 'Then We subjugated the wind for him that blew smoothly on his command to wherever he wished,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 36, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

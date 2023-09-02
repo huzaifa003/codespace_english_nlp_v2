@@ -1,0 +1,1 @@
+{'text': 'Nay, but those who do wrong follow their own lusts without knowledge, Then who will guide him whom Allah has sent astray? And for such there will be no helpers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 30, 'ayah_no': 29, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

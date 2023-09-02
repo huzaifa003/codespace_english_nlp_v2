@@ -1,0 +1,1 @@
+{'text': 'Or that He may catch them in the midst of their going to and fro (in their jobs), so that there be no escape for them (from Allahs Punishment)?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 46, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

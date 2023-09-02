@@ -1,0 +1,1 @@
+{'text': 'and believes in the best (religion),', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 92, 'ayah_no': 6, 'surah_name_en': 'Al-Lail (The night)', 'surah_name_ar': 'الَّیل'}}

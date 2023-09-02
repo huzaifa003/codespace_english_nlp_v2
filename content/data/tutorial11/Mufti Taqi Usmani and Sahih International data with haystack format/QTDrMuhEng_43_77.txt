@@ -1,0 +1,1 @@
+{'text': 'And they will cry: "O Malik (Keeper of Hell)! Let your Lord make an end of us." He will say: "Verily you shall abide forever."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 77, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

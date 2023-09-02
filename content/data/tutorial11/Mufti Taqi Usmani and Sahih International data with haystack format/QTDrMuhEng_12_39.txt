@@ -1,0 +1,1 @@
+{'text': '"O two companions of the prison! Are many different lords (gods) better or Allah, the One, the Irresistible?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 39, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

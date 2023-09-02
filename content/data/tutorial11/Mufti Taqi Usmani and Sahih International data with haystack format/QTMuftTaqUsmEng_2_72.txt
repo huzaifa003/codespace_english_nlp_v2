@@ -1,0 +1,1 @@
+{'text': 'And when you killed a man, and started putting the blame for it on one another, while Allah was to bring forth what you were holding back.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 72, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

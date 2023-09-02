@@ -1,0 +1,1 @@
+{'text': 'They said: "We broke not the promise to you, of our own will, but we were made to carry the weight of the ornaments of the (Firauns (Pharaoh)) people, then we cast them (into the fire), and that was what As-Samiri suggested."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 87, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

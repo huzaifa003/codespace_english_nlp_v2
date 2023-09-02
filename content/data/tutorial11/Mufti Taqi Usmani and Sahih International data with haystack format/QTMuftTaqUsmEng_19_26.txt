@@ -1,0 +1,1 @@
+{'text': 'So eat, drink and cool your eyes. Then if you see any human being, say (to him), “I have vowed a fast (of silence) for the All-Merciful (Allah,) and therefore, I shall never speak to any human today.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 26, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

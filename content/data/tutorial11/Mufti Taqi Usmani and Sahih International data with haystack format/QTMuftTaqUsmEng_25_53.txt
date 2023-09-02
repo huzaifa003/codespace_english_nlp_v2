@@ -1,0 +1,1 @@
+{'text': 'He is the One who joined the two seas, so as this is sweet, very sweet, and this is bitter, very bitter, and made between them a buffer and an insurmountable barrier.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 53, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

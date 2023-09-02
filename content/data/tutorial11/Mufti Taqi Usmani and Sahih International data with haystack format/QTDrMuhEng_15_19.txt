@@ -1,0 +1,1 @@
+{'text': 'And the earth We spread out, and placed therein firm mountains, and caused to grow therein all kinds of things in due proportion.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 15, 'ayah_no': 19, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

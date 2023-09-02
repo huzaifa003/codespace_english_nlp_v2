@@ -1,0 +1,1 @@
+{'text': 'And the mountains as pegs?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 78, 'ayah_no': 7, 'surah_name_en': 'An-Naba (The tidings)', 'surah_name_ar': 'النَّبَاِ'}}

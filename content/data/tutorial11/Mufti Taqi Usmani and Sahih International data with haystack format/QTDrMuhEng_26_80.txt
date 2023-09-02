@@ -1,0 +1,1 @@
+{'text': '"And when I am ill, it is He who cures me;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 80, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

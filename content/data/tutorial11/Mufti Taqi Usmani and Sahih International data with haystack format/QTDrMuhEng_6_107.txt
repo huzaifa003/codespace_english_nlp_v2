@@ -1,0 +1,1 @@
+{'text': 'Had Allah willed, they would not have taken others besides Him in worship. And We have not made you a watcher over them nor are you set over them to dispose of their affairs.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 107, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

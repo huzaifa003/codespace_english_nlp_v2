@@ -1,0 +1,1 @@
+{'text': 'And walk not on the earth with conceit and arrogance. Verily, you can neither rend nor penetrate the earth, nor can you attain a stature like the mountains in height.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 37, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

@@ -1,0 +1,1 @@
+{'text': 'For them there is a bed from the Jahannam, and over them there are coverings. This is how We recompense the transgressors.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 41, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

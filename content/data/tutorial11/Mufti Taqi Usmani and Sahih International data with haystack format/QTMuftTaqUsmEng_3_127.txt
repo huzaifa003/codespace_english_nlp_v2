@@ -1,0 +1,1 @@
+{'text': '(Allah helped you) so that He may cut off a flank of disbelievers or throw them down in disgrace, and they go back frustrated.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 127, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

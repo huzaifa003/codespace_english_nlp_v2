@@ -1,0 +1,1 @@
+{'text': 'Those who reject Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) are deaf and dumb in darkness. Allah sends astray whom He wills and He guides on the Straight Path whom He wills.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 39, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

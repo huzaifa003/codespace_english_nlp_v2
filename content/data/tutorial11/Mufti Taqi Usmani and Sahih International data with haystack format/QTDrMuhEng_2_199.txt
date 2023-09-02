@@ -1,0 +1,1 @@
+{'text': 'Then depart from the place whence all the people depart and ask Allah for His Forgiveness. Truly, Allah is Oft-Forgiving, Most-Merciful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 199, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'What excuse do we have if we do not believe in Allah and in the truth that has come to us, while we hope that our Lord will admit us to the company of the righteous people?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 84, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

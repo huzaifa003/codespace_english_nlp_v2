@@ -1,0 +1,1 @@
+{'text': 'They said, “O ‘Azīz, he has a father, a very old man. So, take one of us in his place. We see you are a generous man.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 78, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

@@ -1,0 +1,1 @@
+{'text': 'But as to him who came to you running.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 80, 'ayah_no': 8, 'surah_name_en': 'Abasa (He Frowned)', 'surah_name_ar': 'عَبَسَ'}}

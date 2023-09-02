@@ -1,0 +1,1 @@
+{'text': 'They said, “(It seems to be) a mishmash of dreams, and we do not know the interpretation of dreams.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 44, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

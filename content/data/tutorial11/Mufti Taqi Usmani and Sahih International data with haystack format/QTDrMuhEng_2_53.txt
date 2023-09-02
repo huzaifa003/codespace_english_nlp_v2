@@ -1,0 +1,1 @@
+{'text': 'And (remember) when We gave Moosa (Moses) the Scripture (the Taurat (Torah)) and the criterion (of right and wrong) so that you may be guided aright.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 53, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

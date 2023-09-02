@@ -1,0 +1,1 @@
+{'text': 'On the Day when He will call you, and you will answer (His Call) with (words of) His Praise and Obedience, and you will think that you have stayed (in this world) but a little while!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 52, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

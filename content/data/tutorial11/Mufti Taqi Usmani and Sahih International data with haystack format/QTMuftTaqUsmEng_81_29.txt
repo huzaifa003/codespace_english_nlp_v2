@@ -1,0 +1,1 @@
+{'text': 'And you cannot intend (to do anything) unless it is so willed by Allah, the Lord of all the worlds.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 81, 'ayah_no': 29, 'surah_name_en': 'At-Takwir (The Overthrowing)', 'surah_name_ar': 'التَّکوِیر'}}

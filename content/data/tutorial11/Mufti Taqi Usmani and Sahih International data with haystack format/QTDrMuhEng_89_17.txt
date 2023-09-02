@@ -1,0 +1,1 @@
+{'text': 'Nay! But you treat not the orphans with kindness and generosity (i.e. you neither treat them well, nor give them their exact right of inheritance)!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 89, 'ayah_no': 17, 'surah_name_en': 'Al-Fajr (The Dawn)', 'surah_name_ar': 'الفجر'}}

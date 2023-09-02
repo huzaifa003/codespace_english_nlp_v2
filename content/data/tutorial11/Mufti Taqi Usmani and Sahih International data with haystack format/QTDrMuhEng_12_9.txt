@@ -1,0 +1,1 @@
+{'text': '"Kill Yoosuf (Joseph) or cast him out to some (other) land, so that the favour of your father may be given to you alone, and after that you will be righteous folk (by intending repentance before committing the sin)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 9, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

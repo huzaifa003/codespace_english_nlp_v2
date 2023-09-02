@@ -1,0 +1,1 @@
+{'text': '"Verily, I intend to let you draw my sin on yourself as well as yours, then you will be one of the dwellers of the Fire, and that is the recompense of the Zalimoon (polytheists and wrongdoers)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 5, 'ayah_no': 29, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

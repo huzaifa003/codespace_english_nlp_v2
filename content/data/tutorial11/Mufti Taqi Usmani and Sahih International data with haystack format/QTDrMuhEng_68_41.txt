@@ -1,0 +1,1 @@
+{'text': 'Or have they "partners"? Then let them bring their "partners" if they are truthful!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 68, 'ayah_no': 41, 'surah_name_en': 'Al-Qalam (The Pen)', 'surah_name_ar': 'القلم'}}

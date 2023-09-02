@@ -1,0 +1,1 @@
+{'text': '(We sent them) with clear signs and scriptures. And We sent down the Reminder (The Qur’ān) to you, so that you explain to the people what has been revealed for them, and so that they may ponder.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 44, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

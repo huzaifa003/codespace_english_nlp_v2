@@ -1,0 +1,1 @@
+{'text': 'And We have brought them under their control, so as some of them are their means of transport, and some of them they eat.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 72, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

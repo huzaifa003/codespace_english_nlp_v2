@@ -1,0 +1,1 @@
+{'text': 'The Day whereon neither wealth nor sons will avail,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 88, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

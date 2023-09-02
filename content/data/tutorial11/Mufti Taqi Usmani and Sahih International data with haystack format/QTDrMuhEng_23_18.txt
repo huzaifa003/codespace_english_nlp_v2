@@ -1,0 +1,1 @@
+{'text': 'And We sent down from the sky water (rain) in (due) measure, and We gave it lodging in the earth, and verily, We are Able to take it away.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 23, 'ayah_no': 18, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

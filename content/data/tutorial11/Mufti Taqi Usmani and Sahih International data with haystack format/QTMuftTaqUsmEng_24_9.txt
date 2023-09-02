@@ -1,0 +1,1 @@
+{'text': 'and the fifth (oath) that Allah’s wrath be on her if he is one of the truthful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 9, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

@@ -1,0 +1,1 @@
+{'text': '(And it will be said,) “This is what you were promised for everyone who was oft-returning to Allah, vigilant (against sins),', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 32, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

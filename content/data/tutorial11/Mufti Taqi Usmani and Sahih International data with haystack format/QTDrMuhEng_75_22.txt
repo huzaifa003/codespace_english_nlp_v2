@@ -1,0 +1,1 @@
+{'text': 'Some faces that Day shall be Nadirah (shining and radiant).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 75, 'ayah_no': 22, 'surah_name_en': 'Al-Qiyama (The rising of the dead)', 'surah_name_ar': 'القیٰمۃ'}}

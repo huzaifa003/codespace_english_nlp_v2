@@ -1,0 +1,1 @@
+{'text': 'Hell! Where they will burn, and worst (indeed) is that place to rest!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 56, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

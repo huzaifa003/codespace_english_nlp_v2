@@ -1,0 +1,1 @@
+{'text': 'The first of them will say to the last of them: "You were not better than us, so taste the torment for what you used to earn."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 39, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

@@ -1,0 +1,1 @@
+{'text': 'Verily, Al-Abrar (the pious who fear Allah and avoid evil) will be in delight (Paradise).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 83, 'ayah_no': 22, 'surah_name_en': 'Al-Mutaffifin (Defrauding)', 'surah_name_ar': 'المُطَفِّفِین'}}

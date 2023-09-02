@@ -1,0 +1,1 @@
+{'text': 'They (the people of the Town) said, “You are no more than human beings like us, and the RaHmān (the All-Merciful Allah) has not sent down any thing. You are but telling a lie.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 15, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

@@ -1,0 +1,1 @@
+{'text': 'They have taken their oaths as a shield, and then have prevented (people) from the way of Allah. Therefore, for them there is a humiliating punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 58, 'ayah_no': 16, 'surah_name_en': 'Al-Mujadila (She that disputes)', 'surah_name_ar': 'المجادلۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'They shall never (be able to) cause you any harm except a little hurt. If they fight you, they will turn their backs on you, then they shall not be helped.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 111, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

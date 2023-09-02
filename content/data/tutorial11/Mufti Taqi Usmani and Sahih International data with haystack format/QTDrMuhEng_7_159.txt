@@ -1,0 +1,1 @@
+{'text': 'And of the people of Moosa (Moses) there is a community who lead (the men) with truth and establish justice therewith (i.e. judge men with truth and justice).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 159, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

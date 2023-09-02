@@ -1,0 +1,1 @@
+{'text': 'Whoever, male or female, has acted righteously, while being a believer, We shall certainly make him live a good life, and shall give such people their reward for the best of what they used to do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 97, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

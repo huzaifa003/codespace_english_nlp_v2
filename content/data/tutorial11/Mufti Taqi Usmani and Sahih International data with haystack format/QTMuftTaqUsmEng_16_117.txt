@@ -1,0 +1,1 @@
+{'text': '(Let there be) a little enjoyment, and (then) for them there is a painful punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 117, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

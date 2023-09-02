@@ -1,0 +1,1 @@
+{'text': 'Nay, they wonder that there has come to them a warner (Muhammad SAW) from among themselves. So the disbelievers say: "This is a strange thing!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 50, 'ayah_no': 2, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

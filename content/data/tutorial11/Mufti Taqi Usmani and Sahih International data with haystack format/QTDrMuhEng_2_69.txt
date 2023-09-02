@@ -1,0 +1,1 @@
+{'text': 'They said, "Call upon your Lord for us to make plain to us its colour." He said, "He says, It is a yellow cow, bright in its colour, pleasing to the beholders. "', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 69, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

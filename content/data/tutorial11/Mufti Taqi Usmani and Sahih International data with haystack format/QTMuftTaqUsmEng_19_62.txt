@@ -1,0 +1,1 @@
+{'text': 'They will not hear anything absurd therein, but a word of peace, and there they will have their provision at morn and eve.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 62, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

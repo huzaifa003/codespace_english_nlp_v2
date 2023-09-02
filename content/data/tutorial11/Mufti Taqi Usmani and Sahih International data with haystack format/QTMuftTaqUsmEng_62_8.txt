@@ -1,0 +1,1 @@
+{'text': 'Say, “Indeed, the death from which you (try to) run away has to visit you, then you will be sent back to the Knower of the Unseen and the seen, and He will tell you what you used to do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 62, 'ayah_no': 8, 'surah_name_en': 'Al-Jumua (The congregation, Friday)', 'surah_name_ar': 'الجُمعۃ'}}

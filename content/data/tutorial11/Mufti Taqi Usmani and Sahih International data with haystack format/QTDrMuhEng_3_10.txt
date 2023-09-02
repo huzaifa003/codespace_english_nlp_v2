@@ -1,0 +1,1 @@
+{'text': 'Verily, those who disbelieve, neither their properties nor their offspring will avail them whatsoever against Allah; and it is they who will be fuel of the Fire.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 10, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

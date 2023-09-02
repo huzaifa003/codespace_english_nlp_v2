@@ -1,0 +1,1 @@
+{'text': 'And mention in the Book (the story of) Mūsā. Indeed he was a chosen one and was a messenger, a prophet.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 51, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

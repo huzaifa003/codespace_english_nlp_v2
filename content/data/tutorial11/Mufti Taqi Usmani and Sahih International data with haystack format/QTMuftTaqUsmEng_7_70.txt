@@ -1,0 +1,1 @@
+{'text': 'They said, “Have you come to us that we should worship Allah alone and give up what our fathers used to worship? Now, bring upon us that (scourge) with which you threaten us if you are one of the truthful.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 70, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

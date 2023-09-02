@@ -1,0 +1,1 @@
+{'text': 'so that you (O people,) believe in Allah and His Messenger, and support him and revere him, and pronounce His (Allah’s) purity morning and evening.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 48, 'ayah_no': 9, 'surah_name_en': 'Al-Fath (The victory)', 'surah_name_ar': 'الفتح'}}

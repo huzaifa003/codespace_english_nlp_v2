@@ -1,0 +1,1 @@
+{'text': 'There comes to them no sign from the signs of your Lord, but they turn averse to it.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 46, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

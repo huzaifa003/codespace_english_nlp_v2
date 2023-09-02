@@ -1,0 +1,1 @@
+{'text': 'And the sun runs on its fixed course for a term (appointed). That is the Decree of the All-Mighty, the All-Knowing.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 38, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

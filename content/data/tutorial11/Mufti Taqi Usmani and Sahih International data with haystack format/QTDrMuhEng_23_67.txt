@@ -1,0 +1,1 @@
+{'text': 'In pride (they Quraish pagans and polytheists of Makkah used to feel proud that they are the dwellers of Makkah sanctuary Haram), talking evil about it (the Quran) by night.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 23, 'ayah_no': 67, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

@@ -1,0 +1,1 @@
+{'text': 'As for Thamūd, We showed them the way, but they preferred blindness to the guidance. Therefore, they were seized by the bang of the abasing punishment because of what they used to earn.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 41, 'ayah_no': 17, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

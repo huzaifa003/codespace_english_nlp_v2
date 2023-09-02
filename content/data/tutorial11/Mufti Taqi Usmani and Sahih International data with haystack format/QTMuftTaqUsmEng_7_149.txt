@@ -1,0 +1,1 @@
+{'text': 'When they became remorseful and saw that they had gone astray, they said, “If Allah shows no mercy to us, and does not forgive us, we shall certainly be among the losers.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 149, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

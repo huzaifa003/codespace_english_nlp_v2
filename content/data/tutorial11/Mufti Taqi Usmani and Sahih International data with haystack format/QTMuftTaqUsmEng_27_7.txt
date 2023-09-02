@@ -1,0 +1,1 @@
+{'text': '(Remember) when Mūsā said to his family, “I have noticed a fire. I shall bring to you some news from it, or bring to you a live ember, so that you may warm yourselves.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 7, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

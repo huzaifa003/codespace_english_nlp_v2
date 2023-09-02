@@ -1,0 +1,1 @@
+{'text': 'There is life for you in QiSāS, O people of wisdom, so that you may refrain (from killing).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 179, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

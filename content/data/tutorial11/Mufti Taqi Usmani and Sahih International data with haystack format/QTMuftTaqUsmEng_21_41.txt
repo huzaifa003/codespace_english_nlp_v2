@@ -1,0 +1,1 @@
+{'text': 'In fact, messengers have been mocked at prior to you. So those who laughed at them were besieged by what they used to ridicule.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 41, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

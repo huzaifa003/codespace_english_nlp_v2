@@ -1,0 +1,1 @@
+{'text': 'until when he reached the point of sunset, he found it setting into a miry spring, and found a people near it. We said, “O Dhul-Qarnain, either punish them or adopt good behavior with them.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 86, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

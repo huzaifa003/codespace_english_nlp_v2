@@ -1,0 +1,1 @@
+{'text': 'Truly, those who believe (in the Oneness of Allah Islamic Monotheism, and in His Messenger Muhammad SAW) and do righteous good deeds, for them will be an endless reward that will never stop (i.e. Paradise).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 41, 'ayah_no': 8, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

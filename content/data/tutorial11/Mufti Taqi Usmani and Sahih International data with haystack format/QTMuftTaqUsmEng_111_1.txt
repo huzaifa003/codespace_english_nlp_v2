@@ -1,0 +1,1 @@
+{'text': 'Perish the two hands of Abū Lahab, and perish he!', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 111, 'ayah_no': 1, 'surah_name_en': 'Al-Masadd (The Flame)', 'surah_name_ar': 'اللَّھب'}}

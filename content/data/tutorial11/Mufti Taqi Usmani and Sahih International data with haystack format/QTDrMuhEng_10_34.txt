@@ -1,0 +1,1 @@
+{'text': 'Say: "Is there of your (Allahs so-called) partners one that originates the creation and then repeats it?" Say: "Allah originates the creation and then He repeats it. Then how are you deluded away (from the truth)?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 10, 'ayah_no': 34, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

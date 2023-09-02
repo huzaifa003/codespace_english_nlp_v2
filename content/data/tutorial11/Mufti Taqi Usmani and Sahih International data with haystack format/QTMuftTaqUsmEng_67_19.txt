@@ -1,0 +1,1 @@
+{'text': 'Have they not looked to the birds above them spreading their wings, and (at times) they fold (them) in? No one holds them up except the RaHmān (the All-Merciful Allah). Surely He is watchful of every thing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 67, 'ayah_no': 19, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

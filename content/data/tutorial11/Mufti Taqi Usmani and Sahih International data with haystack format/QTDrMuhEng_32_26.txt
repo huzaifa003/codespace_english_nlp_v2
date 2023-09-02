@@ -1,0 +1,1 @@
+{'text': 'Is it not a guidance for them, how many generations We have destroyed before them in whose dwellings they do walk about? Verily, therein indeed are signs. Would they not then listen?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 32, 'ayah_no': 26, 'surah_name_en': 'As-Sajda (The Prostration)', 'surah_name_ar': 'السجدۃ'}}

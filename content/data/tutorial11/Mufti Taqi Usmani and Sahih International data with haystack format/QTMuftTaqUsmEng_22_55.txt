@@ -1,0 +1,1 @@
+{'text': 'Those who disbelieve will remain in doubt about it (the Qur’ān) forever, until the Hour (of Judgment) comes upon them suddenly, or there comes to them the punishment of a barren day.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 55, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

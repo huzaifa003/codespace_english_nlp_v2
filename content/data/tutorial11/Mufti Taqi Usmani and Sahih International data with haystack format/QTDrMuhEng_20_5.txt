@@ -1,0 +1,1 @@
+{'text': 'The Most Beneficent (Allah) Istawa (rose over) the (Mighty) Throne (in a manner that suits His Majesty).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 5, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

@@ -1,0 +1,1 @@
+{'text': 'If someone acts righteously, he does so for the benefit of his own soul, and if someone commits evil, he does so against it. Your Lord is not unjust to His servants.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 41, 'ayah_no': 46, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

@@ -1,0 +1,1 @@
+{'text': 'and that when Allah’s servant stood invoking Him, they almost rushed on him in crowds.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 72, 'ayah_no': 19, 'surah_name_en': 'Al-Jinn (The Jinn)', 'surah_name_ar': 'الجن'}}

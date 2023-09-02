@@ -1,0 +1,1 @@
+{'text': 'As for those who believed and those who migrated and carried out Jihād in the way of Allah, they hope for Allah’s mercy: and Allah is Forgiving, Very-Merciful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 218, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

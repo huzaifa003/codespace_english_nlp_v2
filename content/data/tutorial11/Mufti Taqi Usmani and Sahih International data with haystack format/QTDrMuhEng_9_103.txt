@@ -1,0 +1,1 @@
+{'text': 'Take Sadaqah (alms) from their wealth in order to purify them and sanctify them with it, and invoke Allah for them. Verily! Your invocations are a source of security for them, and Allah is All-Hearer, All-Knower.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 103, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

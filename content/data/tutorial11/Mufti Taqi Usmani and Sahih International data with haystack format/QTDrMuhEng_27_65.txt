@@ -1,0 +1,1 @@
+{'text': 'Say: "None in the heavens and the earth knows the Ghaib (unseen) except Allah, nor can they perceive when they shall be resurrected."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 65, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

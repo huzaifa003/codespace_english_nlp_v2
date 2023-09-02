@@ -1,0 +1,1 @@
+{'text': 'They said: "Our Lord! Verily! We fear lest he should hasten to punish us or lest he should transgress (all bounds against us)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 45, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

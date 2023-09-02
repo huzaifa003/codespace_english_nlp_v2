@@ -1,0 +1,1 @@
+{'text': 'Said those who disbelieved, “Why has the Qur’ān not been revealed to him all at once?” (It has been sent down) in this way (i.e. in parts) so that We make your heart firm, and We revealed it little by little.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 32, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

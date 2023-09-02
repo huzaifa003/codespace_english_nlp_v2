@@ -1,0 +1,1 @@
+{'text': 'He knows what is in the heavens and on earth, and He knows what you conceal and what you reveal. And Allah is the All-Knower of what is in the breasts (of men).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 64, 'ayah_no': 4, 'surah_name_en': 'At-Taghabun (Mutual Disillusion)', 'surah_name_ar': 'التّغابن'}}

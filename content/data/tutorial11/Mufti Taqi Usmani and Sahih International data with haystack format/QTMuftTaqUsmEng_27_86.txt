@@ -1,0 +1,1 @@
+{'text': 'Did they not see that We made the night, so that they may have rest in it, and (made) the day to make them see? Surely, in this there are signs for a people who believe.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 86, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

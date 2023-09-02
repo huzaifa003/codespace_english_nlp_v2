@@ -1,0 +1,1 @@
+{'text': 'The dwellers of Al-Aiyka (near Madyan (Midian)) belied the Messengers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 176, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

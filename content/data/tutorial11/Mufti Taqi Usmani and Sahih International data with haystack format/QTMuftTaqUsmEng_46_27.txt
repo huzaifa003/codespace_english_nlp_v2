@@ -1,0 +1,1 @@
+{'text': 'And We have (also) destroyed (other) towns around you, while We had given to them a variety of signs, so that they might return (from disbelief).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 46, 'ayah_no': 27, 'surah_name_en': 'Al-Ahqaf (The wind-curved sandhills)', 'surah_name_ar': 'الاحقاف'}}

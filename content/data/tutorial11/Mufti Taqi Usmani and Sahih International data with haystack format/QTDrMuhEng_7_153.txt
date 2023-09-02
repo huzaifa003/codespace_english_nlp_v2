@@ -1,0 +1,1 @@
+{'text': 'But those who committed evil deeds and then repented afterwards and believed, verily, your Lord after (all) that is indeed Oft-Forgiving, Most Merciful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 153, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

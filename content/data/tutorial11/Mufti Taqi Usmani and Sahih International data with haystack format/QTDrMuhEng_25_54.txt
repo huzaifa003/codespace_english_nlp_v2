@@ -1,0 +1,1 @@
+{'text': 'And it is He Who has created man from water, and has appointed for him kindred by blood, and kindred by marriage. And your Lord is Ever All-Powerful to do what He will.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 54, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

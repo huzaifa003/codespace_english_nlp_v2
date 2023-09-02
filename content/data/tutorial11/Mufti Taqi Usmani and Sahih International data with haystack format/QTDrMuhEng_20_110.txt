@@ -1,0 +1,1 @@
+{'text': 'He (Allah) knows what happens to them (His creatures) in this world, and what will happen to them (in the Hereafter), and they will never compass anything of His Knowledge.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 110, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

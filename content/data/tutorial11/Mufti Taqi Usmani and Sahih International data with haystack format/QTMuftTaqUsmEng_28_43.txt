@@ -1,0 +1,1 @@
+{'text': 'And We gave Mūsā, after We destroyed the earlier generations, the Book having insights for people and a guidance and mercy, so that they may receive the advice.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 43, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

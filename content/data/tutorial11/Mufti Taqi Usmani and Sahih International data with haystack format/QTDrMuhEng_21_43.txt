@@ -1,0 +1,1 @@
+{'text': 'Or have they aliha (gods) who can guard them from Us? They have no power to help themselves, nor can they be protected from Us (i.e. from Our Torment).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 43, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

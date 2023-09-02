@@ -1,0 +1,1 @@
+{'text': 'and if you slip, even after clear signs have come to you, then you must know that Allah is Mighty, Wise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 209, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

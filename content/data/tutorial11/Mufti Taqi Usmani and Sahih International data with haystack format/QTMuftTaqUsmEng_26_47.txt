@@ -1,0 +1,1 @@
+{'text': 'They said, “We have believed in the Lord of the worlds,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 47, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

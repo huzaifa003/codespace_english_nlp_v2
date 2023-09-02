@@ -1,0 +1,1 @@
+{'text': 'He said, “This is a mercy from my Lord. Then, when the promise of my Lord will come, He will make it leveled to the ground. The promise of my Lord is true.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 98, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

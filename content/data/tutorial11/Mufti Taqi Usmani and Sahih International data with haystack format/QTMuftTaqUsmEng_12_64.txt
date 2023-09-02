@@ -1,0 +1,1 @@
+{'text': 'He said, “Shall I trust you about him as I trusted you earlier about his brother? Well, Allah is the best guardian, and He is the Most-Merciful of all the merciful.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 64, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

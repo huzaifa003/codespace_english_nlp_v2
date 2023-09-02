@@ -1,0 +1,1 @@
+{'text': 'And if they intend to deceive you, then verily, Allah is All-Sufficient for you. He it is Who has supported you with His Help and with the believers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 8, 'ayah_no': 62, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

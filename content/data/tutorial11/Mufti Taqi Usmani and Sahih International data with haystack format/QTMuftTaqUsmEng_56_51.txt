@@ -1,0 +1,1 @@
+{'text': 'Then O you, the erring, the denying people,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 56, 'ayah_no': 51, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

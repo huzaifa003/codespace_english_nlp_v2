@@ -1,0 +1,1 @@
+{'text': 'Allah has brought you forth from your mothers’ wombs when you knew nothing, and He made for you ears, eyes and hearts, so that you may be grateful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 78, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

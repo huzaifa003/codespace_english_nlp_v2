@@ -1,0 +1,1 @@
+{'text': 'who concentrate their attention in humbleness when offering Salāh (prayers)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 23, 'ayah_no': 2, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

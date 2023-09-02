@@ -1,0 +1,1 @@
+{'text': 'They (hypocrites) say: "We have believed in Allah and in the Messenger (Muhammad SAW), and we obey," then a party of them turn away thereafter, such are not believers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 47, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

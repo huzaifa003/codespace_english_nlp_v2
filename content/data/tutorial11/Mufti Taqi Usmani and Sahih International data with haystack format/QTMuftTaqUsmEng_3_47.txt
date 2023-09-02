@@ -1,0 +1,1 @@
+{'text': 'She said: “O my Lord, how shall I have a son while no human has ever touched me?” Said He: “That is how Allah creates what He wills. When He decides a matter, He simply says to it ‘Be’, and it comes to be.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 47, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

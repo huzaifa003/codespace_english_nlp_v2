@@ -1,0 +1,1 @@
+{'text': 'There is no sin on you if you enter uninhabited houses in which you have rightful benefit. Allah knows what you reveal and what you conceal.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 29, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

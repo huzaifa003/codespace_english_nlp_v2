@@ -1,0 +1,1 @@
+{'text': 'And the sun and moon will be joined together (by going one into the other or folded up or deprived of their light, etc.)', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 75, 'ayah_no': 9, 'surah_name_en': 'Al-Qiyama (The rising of the dead)', 'surah_name_ar': 'القیٰمۃ'}}

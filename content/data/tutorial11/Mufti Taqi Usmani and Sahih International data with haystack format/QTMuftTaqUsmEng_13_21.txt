@@ -1,0 +1,1 @@
+{'text': 'and those who maintain the relationships Allah has commanded to be maintained and fear their Lord and are frightful of evil reckoning,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 13, 'ayah_no': 21, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

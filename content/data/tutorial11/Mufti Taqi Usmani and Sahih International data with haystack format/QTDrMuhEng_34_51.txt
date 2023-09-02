@@ -1,0 +1,1 @@
+{'text': 'And if you could but see, when they will be terrified with no escape (for them), and they will be seized from a near place.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 34, 'ayah_no': 51, 'surah_name_en': 'Saba (Saba)', 'surah_name_ar': 'سبا'}}

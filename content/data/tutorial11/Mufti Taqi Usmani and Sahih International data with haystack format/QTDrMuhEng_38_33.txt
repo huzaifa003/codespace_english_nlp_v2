@@ -1,0 +1,1 @@
+{'text': 'Then he said "Bring them (horses) back to me." Then he began to pass his hand over their legs and their necks (till the end of the display).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 33, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

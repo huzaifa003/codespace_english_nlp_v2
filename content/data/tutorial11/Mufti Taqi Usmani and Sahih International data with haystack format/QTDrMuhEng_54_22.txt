@@ -1,0 +1,1 @@
+{'text': 'And We have indeed made the Quran easy to understand and remember, then is there any that will remember (or receive admonition)?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 22, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

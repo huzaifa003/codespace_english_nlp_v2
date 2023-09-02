@@ -1,0 +1,1 @@
+{'text': 'In that case, We would have surely made you taste a double (punishment) in life and a double (punishment) after death, then you would not have found anyone to help you against Us.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 75, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

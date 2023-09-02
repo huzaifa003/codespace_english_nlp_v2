@@ -1,0 +1,1 @@
+{'text': '(Be mindful of) the day when Allah will assemble the messengers and will say to them, “How were you responded to?” They will say, “We have no knowledge. Surely You alone have the full knowledge of all that is unseen.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 109, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

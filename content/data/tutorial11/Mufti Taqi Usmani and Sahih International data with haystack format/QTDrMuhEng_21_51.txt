@@ -1,0 +1,1 @@
+{'text': 'And indeed We bestowed aforetime on Ibrahim (Abraham) his (portion of) guidance, and We were Well-Acquainted with him (as to his Belief in the Oneness of Allah, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 51, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

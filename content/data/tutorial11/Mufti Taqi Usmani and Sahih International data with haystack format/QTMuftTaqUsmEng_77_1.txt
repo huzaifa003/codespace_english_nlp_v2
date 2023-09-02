@@ -1,0 +1,1 @@
+{'text': '(I swear) by those (winds) that are sent one after the other,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 77, 'ayah_no': 1, 'surah_name_en': 'Al-Mursalat (The emissaries)', 'surah_name_ar': 'المرسلٰت'}}

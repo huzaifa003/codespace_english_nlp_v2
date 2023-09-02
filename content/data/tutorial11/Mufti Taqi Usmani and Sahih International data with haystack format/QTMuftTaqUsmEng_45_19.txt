@@ -1,0 +1,1 @@
+{'text': 'They will never help you against Allah in the least. The wrongdoers are friends to one another, and Allah is the friend of the God-fearing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 19, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

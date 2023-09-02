@@ -1,0 +1,1 @@
+{'text': 'O you who believe! Be afraid of Allah, and be with those who are true (in words and deeds).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 119, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

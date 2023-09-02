@@ -1,0 +1,1 @@
+{'text': 'Or they say, "He (Prophet Muhammad SAW) forged it (the Quran)." Say: "Bring you then ten forged Soorah (chapters) like unto it, and call whomsoever you can, other than Allah (to your help), if you speak the truth!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 13, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

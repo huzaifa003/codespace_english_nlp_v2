@@ -1,0 +1,1 @@
+{'text': 'And certainly this (Qur’ān) is a word of honour for you and your people, and you will be questioned.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 44, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

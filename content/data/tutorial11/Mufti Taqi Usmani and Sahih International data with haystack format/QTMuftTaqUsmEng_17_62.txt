@@ -1,0 +1,1 @@
+{'text': 'He (Iblīs) added, “Tell me, this one whom You have honored more than me, if You give me respite till the Doomsday, I will subdue his progeny, except a few of them.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 62, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

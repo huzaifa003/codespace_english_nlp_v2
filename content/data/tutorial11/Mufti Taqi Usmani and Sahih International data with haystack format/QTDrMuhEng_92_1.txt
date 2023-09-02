@@ -1,0 +1,1 @@
+{'text': 'By the night as it envelops;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 92, 'ayah_no': 1, 'surah_name_en': 'Al-Lail (The night)', 'surah_name_ar': 'الَّیل'}}

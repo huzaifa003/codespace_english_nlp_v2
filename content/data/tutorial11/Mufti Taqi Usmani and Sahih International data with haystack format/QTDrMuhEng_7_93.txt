@@ -1,0 +1,1 @@
+{'text': 'Then he (Shuaib) turned from them and said: "O my people! I have indeed conveyed my Lords Messages unto you and I have given you good advice. Then how can I sorrow for the disbelieving peoples (destruction)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 93, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

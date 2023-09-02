@@ -1,0 +1,1 @@
+{'text': 'Those who believe will say, “Are these the ones who swore their solemn oaths by Allah that they were with you?” Their deeds have gone to waste, and they became losers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 53, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

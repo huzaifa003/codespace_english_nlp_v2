@@ -1,0 +1,1 @@
+{'text': 'Should not He Who has created know? And He is the Most Kind and Courteous (to His slaves) All-Aware (of everything).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 67, 'ayah_no': 14, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

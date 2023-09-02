@@ -1,0 +1,1 @@
+{'text': '-the ones who spend (for Allah’s sake) in prosperity and adversity, and those who control anger and forgive people. And Allah loves those who are good in their deeds,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 134, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

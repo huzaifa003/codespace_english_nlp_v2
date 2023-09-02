@@ -1,0 +1,1 @@
+{'text': 'So when they had passed further on (beyond that fixed place), Moosa (Moses) said to his boy-servant: "Bring us our morning meal; truly, we have suffered much fatigue in this, our journey."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 62, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

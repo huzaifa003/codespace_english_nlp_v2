@@ -1,0 +1,1 @@
+{'text': 'O you who believe, remember Allah’s favour upon you, when some people planned to lay their hands on you, and He kept their hands away from you. Fear Allah; and in Allah the believers should place their trust.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 11, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

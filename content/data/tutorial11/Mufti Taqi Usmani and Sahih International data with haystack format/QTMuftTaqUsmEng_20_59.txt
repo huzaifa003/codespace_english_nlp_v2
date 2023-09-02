@@ -1,0 +1,1 @@
+{'text': 'He (Mūsā) said, “Your appointment is the festival day, and the people should be assembled at forenoon.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 59, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

@@ -1,0 +1,1 @@
+{'text': 'Is it you who grow it, or are We the One who grows?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 56, 'ayah_no': 64, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

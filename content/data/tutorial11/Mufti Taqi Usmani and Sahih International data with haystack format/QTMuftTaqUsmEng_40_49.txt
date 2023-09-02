@@ -1,0 +1,1 @@
+{'text': 'And those in the Fire will say to the keepers of Jahannam (Hell), “Pray to your Lord to lighten the punishment for us some day.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 49, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

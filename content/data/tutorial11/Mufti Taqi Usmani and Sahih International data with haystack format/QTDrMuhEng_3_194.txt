@@ -1,0 +1,1 @@
+{'text': '"Our Lord! Grant us what You promised unto us through Your Messengers and disgrace us not on the Day of Resurrection, for You never break (Your) Promise."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 194, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

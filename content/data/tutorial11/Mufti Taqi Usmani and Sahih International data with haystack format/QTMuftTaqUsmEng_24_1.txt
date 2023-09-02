@@ -1,0 +1,1 @@
+{'text': 'This is a Sūrah We have sent down and enjoined, and sent down in it clear signs, so that you may receive the advice.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 1, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

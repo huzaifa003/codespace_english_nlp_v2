@@ -1,0 +1,1 @@
+{'text': 'And besides these two, there are two other gardens (for the second category of the God-fearing),-', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 55, 'ayah_no': 62, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

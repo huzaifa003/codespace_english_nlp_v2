@@ -1,0 +1,1 @@
+{'text': 'Nothing is being said to you but what has been said to the messengers before you. Your Lord is certainly the Lord of forgiveness and the Lord of painful punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 41, 'ayah_no': 43, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

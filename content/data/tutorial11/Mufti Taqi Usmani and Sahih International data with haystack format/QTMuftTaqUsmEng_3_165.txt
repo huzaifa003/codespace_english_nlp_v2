@@ -1,0 +1,1 @@
+{'text': 'How is it that, when you suffered a hardship the twice of which you had inflicted upon them, you say, “Where did this come from?” Say, “This is from your own selves. Allah is surely Powerful over everything.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 165, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

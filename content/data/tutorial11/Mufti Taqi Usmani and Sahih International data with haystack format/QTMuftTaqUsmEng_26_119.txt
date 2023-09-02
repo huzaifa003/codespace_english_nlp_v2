@@ -1,0 +1,1 @@
+{'text': 'So We saved him and those with him in the Ark that was fully occupied.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 119, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

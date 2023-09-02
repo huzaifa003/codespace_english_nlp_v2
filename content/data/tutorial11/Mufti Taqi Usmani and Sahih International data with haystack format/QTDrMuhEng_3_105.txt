@@ -1,0 +1,1 @@
+{'text': 'And be not as those who divided and differed among themselves after the clear proofs had come to them. It is they for whom there is an awful torment.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 105, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

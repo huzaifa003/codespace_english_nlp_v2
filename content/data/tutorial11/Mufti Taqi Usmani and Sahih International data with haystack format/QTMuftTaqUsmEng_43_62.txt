@@ -1,0 +1,1 @@
+{'text': 'And let not the ShaiTān (Satan) prevent you (from following this way). He is surely an open enemy for you.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 62, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

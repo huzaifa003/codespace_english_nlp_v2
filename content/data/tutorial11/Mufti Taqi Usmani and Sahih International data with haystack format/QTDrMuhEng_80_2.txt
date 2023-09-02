@@ -1,0 +1,1 @@
+{'text': 'Because there came to him the blind man (i.e. Abdullah bin Umm-Maktoom, who came to the Prophet (Peace be upon him) while he was preaching to one or some of the Quraish chiefs).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 80, 'ayah_no': 2, 'surah_name_en': 'Abasa (He Frowned)', 'surah_name_ar': 'عَبَسَ'}}

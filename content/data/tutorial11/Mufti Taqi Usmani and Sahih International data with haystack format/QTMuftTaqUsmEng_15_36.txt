@@ -1,0 +1,1 @@
+{'text': 'He said, “My Lord, then give me respite up to the day they (the dead) shall be raised.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 36, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

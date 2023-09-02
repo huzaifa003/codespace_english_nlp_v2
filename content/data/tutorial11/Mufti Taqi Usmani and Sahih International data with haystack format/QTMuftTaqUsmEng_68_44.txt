@@ -1,0 +1,1 @@
+{'text': 'So, leave Me alone with those who reject this discourse. We will draw them on little by little (towards Hell) from a way they do not know.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 68, 'ayah_no': 44, 'surah_name_en': 'Al-Qalam (The Pen)', 'surah_name_ar': 'القلم'}}

@@ -1,0 +1,1 @@
+{'text': 'As for those whose faces turn bright, they will rest in Allah’s mercy. They will live there forever.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 107, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

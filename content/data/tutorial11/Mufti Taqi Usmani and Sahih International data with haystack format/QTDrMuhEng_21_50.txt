@@ -1,0 +1,1 @@
+{'text': 'And this is a blessed Reminder (the Quran) which We have sent down, will you then (dare to) deny it?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 50, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

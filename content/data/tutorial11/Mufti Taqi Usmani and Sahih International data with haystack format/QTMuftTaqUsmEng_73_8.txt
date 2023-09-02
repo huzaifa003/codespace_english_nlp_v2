@@ -1,0 +1,1 @@
+{'text': 'And remember the name of your Lord, and devote yourself to Him with exclusive devotion.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 73, 'ayah_no': 8, 'surah_name_en': 'Al-Muzzammil (The enshrouded one)', 'surah_name_ar': 'المزّمّل'}}

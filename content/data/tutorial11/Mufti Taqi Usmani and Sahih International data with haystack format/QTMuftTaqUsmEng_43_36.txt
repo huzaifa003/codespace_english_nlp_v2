@@ -1,0 +1,1 @@
+{'text': 'Whoever makes himself blind against the advice of RaHmān, We assign for him a devil who accompanies him all the time.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 36, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

@@ -1,0 +1,1 @@
+{'text': 'Those who believe and do righteous deeds, We will expiate their bad deeds and will give them a better reward (than their expectation) for what they used to do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 7, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

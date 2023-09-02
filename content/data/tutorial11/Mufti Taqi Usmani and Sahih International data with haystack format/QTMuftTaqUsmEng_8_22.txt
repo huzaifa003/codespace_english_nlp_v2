@@ -1,0 +1,1 @@
+{'text': 'Surely, the worst of all animals in the sight of Allah are the deaf and the dumb who do not understand.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 22, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

@@ -1,0 +1,1 @@
+{'text': '(Remember) the Day when every person will come up pleading for himself, and every one will be paid in full for what he did (good or evil, belief or disbelief in the life of this world) and they will not be dealt with unjustly.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 111, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

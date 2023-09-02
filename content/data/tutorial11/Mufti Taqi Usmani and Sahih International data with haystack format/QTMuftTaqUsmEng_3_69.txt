@@ -1,0 +1,1 @@
+{'text': 'A group from the people of the Book loves to mislead you, while they mislead none but themselves, and they do not realize.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 69, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

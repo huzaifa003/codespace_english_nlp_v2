@@ -1,0 +1,1 @@
+{'text': 'Eat and pasture your cattle, (therein); verily, in this are proofs and signs for men of understanding.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 54, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

@@ -1,0 +1,1 @@
+{'text': 'Would you then, if you were given the authority, do mischief in the land, and sever your ties of kinship?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 47, 'ayah_no': 22, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

@@ -1,0 +1,1 @@
+{'text': 'When they are summoned to Allah and His messenger that he (the messenger) may judge between them, in no time a group of them turns averse.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 48, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

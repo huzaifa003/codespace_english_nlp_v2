@@ -1,0 +1,1 @@
+{'text': 'If they still turn away, then, your responsibility is only to convey the message clearly.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 82, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

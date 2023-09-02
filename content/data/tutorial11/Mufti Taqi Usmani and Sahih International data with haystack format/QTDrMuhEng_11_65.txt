@@ -1,0 +1,1 @@
+{'text': 'But they killed her. So he said: "Enjoy yourselves in your homes for three days. This is a promise (i.e. a threat) that will not be belied."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 65, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

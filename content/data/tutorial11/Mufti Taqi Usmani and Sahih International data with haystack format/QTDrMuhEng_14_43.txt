@@ -1,0 +1,1 @@
+{'text': '(They will be) hastening forward with necks outstretched, their heads raised up (towards the sky), their gaze returning not towards them and their hearts empty (from thinking because of extreme fear).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 14, 'ayah_no': 43, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

@@ -1,0 +1,1 @@
+{'text': 'He said, “O my Lord, then give me respite till the day they are raised again.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 79, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

@@ -1,0 +1,1 @@
+{'text': 'And there is not a thing, but with Us are the stores thereof. And We send it not down except in a known measure.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 15, 'ayah_no': 21, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

@@ -1,0 +1,1 @@
+{'text': 'O you who believe! If you obey a group of those who were given the Scripture (Jews and Christians), they would (indeed) render you disbelievers after you have believed!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 100, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

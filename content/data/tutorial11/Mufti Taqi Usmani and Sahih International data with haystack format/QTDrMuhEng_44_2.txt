@@ -1,0 +1,1 @@
+{'text': 'By the manifest Book (this Quran) that makes things clear,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 44, 'ayah_no': 2, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

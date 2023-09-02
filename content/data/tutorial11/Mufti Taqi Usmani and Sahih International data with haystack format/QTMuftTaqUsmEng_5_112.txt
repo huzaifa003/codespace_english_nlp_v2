@@ -1,0 +1,1 @@
+{'text': 'When the disciples said, “O ‘Īsā, son of Maryam, can your Lord send down to us a repast from the heavens?” He said, “Fear Allah if you are believers.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 112, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

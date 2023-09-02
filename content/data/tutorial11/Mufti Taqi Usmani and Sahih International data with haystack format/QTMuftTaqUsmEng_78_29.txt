@@ -1,0 +1,1 @@
+{'text': 'And everything (from their deeds) is thoroughly recorded by Us in writing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 78, 'ayah_no': 29, 'surah_name_en': 'An-Naba (The tidings)', 'surah_name_ar': 'النَّبَاِ'}}

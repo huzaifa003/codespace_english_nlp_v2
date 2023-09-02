@@ -1,0 +1,1 @@
+{'text': 'while it does not behove the All-Merciful to have a son.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 92, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

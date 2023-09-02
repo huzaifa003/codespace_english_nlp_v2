@@ -1,0 +1,1 @@
+{'text': 'They said, “We are missing the measuring-bowl of the king, and whoever brings it back shall deserve a camel-load, and I stand surety for it.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 72, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

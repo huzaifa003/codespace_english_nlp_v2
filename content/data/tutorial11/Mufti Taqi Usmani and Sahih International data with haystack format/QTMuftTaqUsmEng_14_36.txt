@@ -1,0 +1,1 @@
+{'text': 'My Lord, they have misled many a people. So, the one who follows me does surely belong to me. As for the one who disobeys me, then You are Most-Forgiving, Very-Merciful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 36, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

@@ -1,0 +1,1 @@
+{'text': 'When that covered the lote-tree which did cover it!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 16, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

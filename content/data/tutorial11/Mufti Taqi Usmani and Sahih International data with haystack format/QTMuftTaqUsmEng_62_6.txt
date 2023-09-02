@@ -1,0 +1,1 @@
+{'text': 'Say, “O you who are Jews, if you claim that you are the friends of Allah to the exclusion of all other people, then express your desire for death, if you are true.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 62, 'ayah_no': 6, 'surah_name_en': 'Al-Jumua (The congregation, Friday)', 'surah_name_ar': 'الجُمعۃ'}}

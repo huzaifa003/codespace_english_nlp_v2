@@ -1,0 +1,1 @@
+{'text': 'And if they intend to commit treachery against you, then, they have already committed treachery against Allah, and in turn Allah has given you full control over them. And Allah is All-Knowing, Wise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 71, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

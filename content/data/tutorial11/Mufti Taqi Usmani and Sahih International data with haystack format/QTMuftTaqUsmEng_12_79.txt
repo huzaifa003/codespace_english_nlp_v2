@@ -1,0 +1,1 @@
+{'text': 'He said, “We seek Allah’s refuge from keeping anyone other than him with whom we have found our thing, otherwise we shall be unjust.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 79, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

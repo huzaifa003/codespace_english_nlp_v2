@@ -1,0 +1,1 @@
+{'text': 'They have attributed to Him (that He is composed of) parts, (and that too) out of His servants. Surely, man is clearly ungrateful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 15, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

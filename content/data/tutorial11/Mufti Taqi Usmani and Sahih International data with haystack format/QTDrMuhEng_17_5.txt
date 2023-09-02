@@ -1,0 +1,1 @@
+{'text': 'So, when the promise came for the first of the two, We sent against you slaves of Ours given to terrible warfare. They entered the very innermost parts of your homes. And it was a promise (completely) fulfilled.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 5, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

@@ -1,0 +1,1 @@
+{'text': 'And mention in the Book (the Quran, O Muhammad SAW , the story of) Maryam (Mary), when she withdrew in seclusion from her family to a place facing east.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 16, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

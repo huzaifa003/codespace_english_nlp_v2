@@ -1,0 +1,1 @@
+{'text': 'Verily, those who hope not for their meeting with Us, but are pleased and satisfied with the life of the present world, and those who are heedless of Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 10, 'ayah_no': 7, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

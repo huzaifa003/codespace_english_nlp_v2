@@ -1,0 +1,1 @@
+{'text': 'And when they faced Jālūt and his troops, they said: “Our Lord, pour out endurance on us, make firm our feet and help us against the disbelieving people.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 250, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

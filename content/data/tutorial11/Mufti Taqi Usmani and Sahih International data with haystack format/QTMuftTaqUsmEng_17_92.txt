@@ -1,0 +1,1 @@
+{'text': 'Or you cause the sky to fall upon us in pieces, as you claimed, or you bring Allah and angels before us face to face.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 92, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

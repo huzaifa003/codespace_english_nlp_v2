@@ -1,0 +1,1 @@
+{'text': 'And there is nothing hidden in the heaven and the earth, but is in a Clear Book (i.e. Al-Lauh Al-Mahfooz).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 75, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

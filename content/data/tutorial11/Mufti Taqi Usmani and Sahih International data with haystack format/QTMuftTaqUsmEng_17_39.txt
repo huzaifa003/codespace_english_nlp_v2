@@ -1,0 +1,1 @@
+{'text': 'This is part of the Wisdom your Lord has revealed to you. And do not set up any other god along with Allah, lest you should be thrown into Jahannam , reproached, rejected.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 39, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

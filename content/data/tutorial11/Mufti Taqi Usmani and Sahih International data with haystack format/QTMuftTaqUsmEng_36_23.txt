@@ -1,0 +1,1 @@
+{'text': 'Shall I adopt those gods besides Him whose intercession, if RaHmān (the All-Merciful Allah) intends to do harm to me, cannot help me in the least, nor can they come to my rescue?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 23, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

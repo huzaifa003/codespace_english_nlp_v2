@@ -1,0 +1,1 @@
+{'text': 'And if a breath (minor calamity) of the Torment of your Lord touches them, they will surely cry: "Woe unto us! Indeed we have been Zalimoon (polytheists and wrong-doers, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 46, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

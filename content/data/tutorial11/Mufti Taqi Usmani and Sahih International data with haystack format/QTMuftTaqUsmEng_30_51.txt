@@ -1,0 +1,1 @@
+{'text': 'Should We send a (harmful) wind, and they see it (the tillage) turning yellow, then they will turn ungrateful, even after all the aforesaid (bounties of Allah).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 51, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

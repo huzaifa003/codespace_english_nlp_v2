@@ -1,0 +1,1 @@
+{'text': 'Thus he made fool of his people, and they obeyed him. Surely they were a sinful people.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 54, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

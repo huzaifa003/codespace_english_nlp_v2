@@ -1,0 +1,1 @@
+{'text': 'Once he turns back, he moves about in the land trying to spread disorder in it, and to destroy the tillage and the stock; and Allah does not like disorder.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 205, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

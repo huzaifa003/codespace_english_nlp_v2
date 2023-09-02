@@ -1,0 +1,1 @@
+{'text': 'And the dwellers of Madyan (Midian); and belied was Moosa (Moses), but I granted respite to the disbelievers for a while, then I seized them, and how (terrible) was My Punishment (against their wrong-doing).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 22, 'ayah_no': 44, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

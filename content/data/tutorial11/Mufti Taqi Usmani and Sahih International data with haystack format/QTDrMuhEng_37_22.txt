@@ -1,0 +1,1 @@
+{'text': '(It will be said to the angels): "Assemble those who did wrong, together with their companions (from the devils) and what they used to worship.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 22, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

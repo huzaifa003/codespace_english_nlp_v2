@@ -1,0 +1,1 @@
+{'text': 'And among men there are some who say, “We believe in Allah and in the Last Day”, yet they are not believers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 8, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'And what will explain to you what is the Day of sorting out?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 77, 'ayah_no': 14, 'surah_name_en': 'Al-Mursalat (The emissaries)', 'surah_name_ar': 'المرسلٰت'}}

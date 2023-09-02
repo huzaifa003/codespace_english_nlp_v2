@@ -1,0 +1,1 @@
+{'text': 'So, when the night enveloped him, he saw a star. He said, “This is my Lord.” But, when it vanished, he said, “I do not like those who vanish.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 76, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

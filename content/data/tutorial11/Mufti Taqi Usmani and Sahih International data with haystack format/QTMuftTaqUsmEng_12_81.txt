@@ -1,0 +1,1 @@
+{'text': 'Go back to your father and say, ‘Our father, your son has committed theft, and we do not testify except what we know, and we could not guard against the unseen.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 81, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

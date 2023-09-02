@@ -1,0 +1,1 @@
+{'text': 'And said the one who was released (from the prison) out of the two, and recalled (Yūsuf) after a long time, “I shall tell you its interpretation. Just send me (to Yūsuf).”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 45, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

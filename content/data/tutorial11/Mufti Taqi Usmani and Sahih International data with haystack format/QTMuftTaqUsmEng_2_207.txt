@@ -1,0 +1,1 @@
+{'text': 'And among men there is one who sells his very soul to seek the pleasure of Allah, and Allah is Very-Kind to His servants.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 207, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

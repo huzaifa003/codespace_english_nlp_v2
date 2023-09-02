@@ -1,0 +1,1 @@
+{'text': 'O you who believe! Eat not Riba (usury) doubled and multiplied, but fear Allah that you may be successful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 130, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

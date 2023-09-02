@@ -1,0 +1,1 @@
+{'text': 'Never stretch your eyes towards what We have given to groups of them to enjoy, and do not grieve for them, and be kind to believers in humbleness,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 88, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

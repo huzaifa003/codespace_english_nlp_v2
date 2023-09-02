@@ -1,0 +1,1 @@
+{'text': 'The Fire will be shut over them (i.e. they will be enveloped by the Fire without any opening or window or outlet.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 90, 'ayah_no': 20, 'surah_name_en': 'Al-Balad (The City)', 'surah_name_ar': 'البلد'}}

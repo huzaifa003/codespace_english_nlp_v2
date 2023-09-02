@@ -1,0 +1,1 @@
+{'text': 'We have already seized them with punishment, but they did not turn humble to their Lord, nor do they supplicate in humility,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 23, 'ayah_no': 76, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

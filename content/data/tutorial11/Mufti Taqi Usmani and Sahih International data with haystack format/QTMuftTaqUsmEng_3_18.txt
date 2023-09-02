@@ -1,0 +1,1 @@
+{'text': 'Allah bears witness that there is no god but He - and (so do) the angels and the men of knowledge - being the One who maintains equity. There is no god but He, the Mighty, the Wise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 18, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

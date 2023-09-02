@@ -1,0 +1,1 @@
+{'text': 'Messengers as bearers of good news as well as of warning in order that mankind should have no plea against Allah after the Messengers. And Allah is Ever AllPowerful, AllWise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 4, 'ayah_no': 165, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

@@ -1,0 +1,1 @@
+{'text': 'Allah alternates the night and the day. Surely, in that there is a lesson for those who have eyes to see.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 44, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

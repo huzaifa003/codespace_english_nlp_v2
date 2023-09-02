@@ -1,0 +1,1 @@
+{'text': 'Thereafter his Lord chose him. So He accepted his repentance and gave (him) guidance.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 122, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

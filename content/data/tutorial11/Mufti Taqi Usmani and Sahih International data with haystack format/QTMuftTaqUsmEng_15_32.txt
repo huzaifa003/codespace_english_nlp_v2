@@ -1,0 +1,1 @@
+{'text': 'He (Allah) said, “O Iblīs, what is the matter with you that you did not join those who prostrated?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 32, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

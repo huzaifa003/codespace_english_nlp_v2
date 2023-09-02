@@ -1,0 +1,1 @@
+{'text': 'What is wrong with you that you do not believe in Allah, while the Messenger invites you to believe in your Lord, and He has taken your covenant, if you are to believe?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 57, 'ayah_no': 8, 'surah_name_en': 'Al-Hadid (The Iron)', 'surah_name_ar': 'الحدید'}}

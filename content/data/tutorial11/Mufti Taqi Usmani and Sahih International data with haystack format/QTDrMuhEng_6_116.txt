@@ -1,0 +1,1 @@
+{'text': 'And if you obey most of those on earth, they will mislead you far away from Allahs Path. They follow nothing but conjectures, and they do nothing but lie.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 116, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

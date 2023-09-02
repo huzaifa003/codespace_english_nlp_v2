@@ -1,0 +1,1 @@
+{'text': 'He said, “There is LūT in it.” They said, “We know well who is in it. We will certainly save him and his family except his wife who will be among those remaining behind.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 32, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

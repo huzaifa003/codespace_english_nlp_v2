@@ -1,0 +1,1 @@
+{'text': 'And We did not send any Messenger before you (O Muhammad SAW) but We inspired him (saying): La ilaha illa Ana (none has the right to be worshipped but I (Allah)), so worship Me (Alone and none else)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 25, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

@@ -1,0 +1,1 @@
+{'text': 'And among His Signs is the creation of the heavens and the earth, and the difference of your languages and colours. Verily, in that are indeed signs for men of sound knowledge.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 30, 'ayah_no': 22, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

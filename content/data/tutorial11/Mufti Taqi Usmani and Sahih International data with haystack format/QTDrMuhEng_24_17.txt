@@ -1,0 +1,1 @@
+{'text': 'Allah forbids you from it and warns you not to repeat the like of it forever, if you are believers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 17, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

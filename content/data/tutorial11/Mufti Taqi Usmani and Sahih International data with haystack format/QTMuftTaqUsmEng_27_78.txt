@@ -1,0 +1,1 @@
+{'text': 'And surely your Lord will decide between them by His judgment, and He is the All-Mighty, the All-Knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 78, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

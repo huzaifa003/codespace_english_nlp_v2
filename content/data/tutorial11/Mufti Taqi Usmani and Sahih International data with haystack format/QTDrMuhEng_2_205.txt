@@ -1,0 +1,1 @@
+{'text': 'And when he turns away (from you "O Muhammad SAW "), his effort in the land is to make mischief therein and to destroy the crops and the cattle, and Allah likes not mischief.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 205, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

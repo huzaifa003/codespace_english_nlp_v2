@@ -1,0 +1,1 @@
+{'text': 'Look! To Allah belongs all that is in the heavens and the earth. Look! Allah’s promise is certainly true, but most of them do not know.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 55, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

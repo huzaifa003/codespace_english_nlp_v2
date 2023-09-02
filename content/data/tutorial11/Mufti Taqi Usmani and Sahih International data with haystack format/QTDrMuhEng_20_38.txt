@@ -1,0 +1,1 @@
+{'text': '"When We inspired your mother with that which We inspired.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 38, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

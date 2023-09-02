@@ -1,0 +1,1 @@
+{'text': '(Always) Turning in repentance to Him (only), and be afraid and dutiful to Him; and perform AsSalat (IqamatasSalat) and be not of AlMushrikoon (the disbelievers in the Oneness of Allah, polytheists, idolaters, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 30, 'ayah_no': 31, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

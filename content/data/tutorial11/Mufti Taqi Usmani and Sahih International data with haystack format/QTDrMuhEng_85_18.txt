@@ -1,0 +1,1 @@
+{'text': 'Of Firaun (Pharaoh) and Thamood?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 85, 'ayah_no': 18, 'surah_name_en': 'Al-Burooj (The Mansions of the stars)', 'surah_name_ar': 'البُرُوج'}}

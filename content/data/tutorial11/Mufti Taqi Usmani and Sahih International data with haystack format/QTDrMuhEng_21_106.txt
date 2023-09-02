@@ -1,0 +1,1 @@
+{'text': 'Verily, in this (the Quran) there is a plain Message for people who worship Allah (i.e. the true, real believers of Islamic Monotheism who act practically on the Quran and the Sunnah legal ways of the Prophet SAW).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 106, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

@@ -1,0 +1,1 @@
+{'text': 'The Day when the Trumpet will be blown (the second blowing): that Day, We shall gather the Mujrimoon (criminals, polytheists, sinners, disbelievers in the Oneness of Allah, etc.) Zurqa: (blue or blind eyed with black faces).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 102, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

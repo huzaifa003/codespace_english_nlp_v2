@@ -1,0 +1,1 @@
+{'text': 'The Originator of the heavens and the earth. When He decrees a matter, He only says to it : "Be!" - and it is.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 117, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

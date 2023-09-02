@@ -1,0 +1,1 @@
+{'text': 'And when We said to the angels: “Prostrate yourselves before ’Ādam!” So, they prostrated themselves, all but Iblīs (Satan). He refused, and became one of the infidels.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 34, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

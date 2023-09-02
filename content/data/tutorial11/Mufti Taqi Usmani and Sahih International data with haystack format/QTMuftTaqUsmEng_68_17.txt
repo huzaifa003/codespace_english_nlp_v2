@@ -1,0 +1,1 @@
+{'text': 'We have tested them as We had tested the Owners of the Garden, when they had sworn an oath that they would pluck its fruits on the next morning,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 68, 'ayah_no': 17, 'surah_name_en': 'Al-Qalam (The Pen)', 'surah_name_ar': 'القلم'}}

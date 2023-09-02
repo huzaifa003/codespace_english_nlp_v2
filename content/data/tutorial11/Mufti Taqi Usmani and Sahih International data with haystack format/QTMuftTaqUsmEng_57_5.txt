@@ -1,0 +1,1 @@
+{'text': 'To Him belongs the kingdom of the heavens and the earth, and to Allah all matters are returned.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 57, 'ayah_no': 5, 'surah_name_en': 'Al-Hadid (The Iron)', 'surah_name_ar': 'الحدید'}}

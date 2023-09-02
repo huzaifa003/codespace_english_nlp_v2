@@ -1,0 +1,1 @@
+{'text': 'Therefore, remind and preach (mankind, O Muhammad SAW of Islamic Monotheism). By the Grace of Allah, you are neither a soothsayer, nor a madman.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 52, 'ayah_no': 29, 'surah_name_en': 'At-tur (Mount Sinai)', 'surah_name_ar': 'الطّور'}}

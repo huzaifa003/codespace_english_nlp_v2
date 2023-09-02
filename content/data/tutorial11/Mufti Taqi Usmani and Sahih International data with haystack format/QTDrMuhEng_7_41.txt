@@ -1,0 +1,1 @@
+{'text': 'Theirs will be a bed of Hell (Fire), and over them coverings (of Hell-fire). Thus do We recompense the Zalimoon (polytheists and wrongdoers, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 41, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

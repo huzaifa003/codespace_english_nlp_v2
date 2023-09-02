@@ -1,0 +1,1 @@
+{'text': 'And the king said: "Bring him to me that I may attach him to my person." Then, when he spoke to him, he said: "Verily, this day, you are with us high in rank and fully trusted."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 54, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

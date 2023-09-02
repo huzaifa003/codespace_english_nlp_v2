@@ -1,0 +1,1 @@
+{'text': 'He created man (Adam) from sounding clay like the clay of pottery.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 55, 'ayah_no': 14, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

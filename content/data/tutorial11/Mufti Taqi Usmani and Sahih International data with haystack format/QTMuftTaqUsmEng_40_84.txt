@@ -1,0 +1,1 @@
+{'text': 'When they saw Our punishment, they said, “We have (now) come to believe in Allah alone, and We have rejected everything we used to ascribe (to Him) as partners.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 84, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

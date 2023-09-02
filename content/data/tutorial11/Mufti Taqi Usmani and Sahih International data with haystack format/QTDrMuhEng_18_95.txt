@@ -1,0 +1,1 @@
+{'text': 'He said: "That (wealth, authority and power) in which my Lord had established me is better (than your tribute). So help me with strength (of men), I will erect between you and them a barrier.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 95, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

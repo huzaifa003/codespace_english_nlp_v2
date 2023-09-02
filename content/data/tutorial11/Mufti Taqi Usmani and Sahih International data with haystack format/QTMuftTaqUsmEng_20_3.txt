@@ -1,0 +1,1 @@
+{'text': 'rather to remind him who has the fear (of Allah),', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 3, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

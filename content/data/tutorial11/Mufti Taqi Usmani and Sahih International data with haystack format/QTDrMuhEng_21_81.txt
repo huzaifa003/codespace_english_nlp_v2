@@ -1,0 +1,1 @@
+{'text': 'And to Sulaiman (Solomon) (We subjected) the wind strongly raging, running by his command towards the land which We had blessed. And of everything We are the All-Knower.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 81, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

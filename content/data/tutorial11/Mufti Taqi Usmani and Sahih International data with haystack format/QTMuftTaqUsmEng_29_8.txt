@@ -1,0 +1,1 @@
+{'text': 'We have instructed man to do good to his parents. And if they insist upon you that you should ascribe partners to Me, then do not obey them. To Me is your return; then I shall tell you what you used to do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 8, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

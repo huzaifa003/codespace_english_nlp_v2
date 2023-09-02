@@ -1,0 +1,1 @@
+{'text': 'Verily, you are to die and they are to die.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 30, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

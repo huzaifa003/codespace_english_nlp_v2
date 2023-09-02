@@ -1,0 +1,1 @@
+{'text': 'He is the One who has sent His Messenger with Guidance and the religion of truth, so that He makes it prevail over all religions. And enough is Allah for being a witness (to His promise).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 48, 'ayah_no': 28, 'surah_name_en': 'Al-Fath (The victory)', 'surah_name_ar': 'الفتح'}}

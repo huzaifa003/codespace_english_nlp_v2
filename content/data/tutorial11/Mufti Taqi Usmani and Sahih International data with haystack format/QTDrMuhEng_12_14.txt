@@ -1,0 +1,1 @@
+{'text': 'They said: "If a wolf devours him, while we are Usbah (a strong group) (to guard him), then surely, we are the losers."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 14, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

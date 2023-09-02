@@ -1,0 +1,1 @@
+{'text': 'And also some of their fathers and their progeny and their brethren, We chose them, and We guided them to a Straight Path.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 87, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

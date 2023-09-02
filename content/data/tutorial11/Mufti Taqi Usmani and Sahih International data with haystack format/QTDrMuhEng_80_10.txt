@@ -1,0 +1,1 @@
+{'text': 'Of him you are neglectful and divert your attention to another,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 80, 'ayah_no': 10, 'surah_name_en': 'Abasa (He Frowned)', 'surah_name_ar': 'عَبَسَ'}}

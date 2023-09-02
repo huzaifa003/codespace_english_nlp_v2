@@ -1,0 +1,1 @@
+{'text': 'And said NūH, “My Lord, they disobeyed me, and followed him whose wealth and children added nothing to him but loss,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 71, 'ayah_no': 21, 'surah_name_en': 'Nooh (Nooh)', 'surah_name_ar': 'نُوح'}}

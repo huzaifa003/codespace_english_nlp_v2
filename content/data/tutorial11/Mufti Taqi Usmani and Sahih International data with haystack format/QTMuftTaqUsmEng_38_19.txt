@@ -1,0 +1,1 @@
+{'text': 'and the birds as well, mustered together. All were turning to Allah with him.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 19, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

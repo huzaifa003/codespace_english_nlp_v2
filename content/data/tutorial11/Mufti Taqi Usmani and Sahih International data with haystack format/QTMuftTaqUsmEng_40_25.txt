@@ -1,0 +1,1 @@
+{'text': 'And when he brought them the truth from Us, they said, “Kill the sons of those who have accepted faith with him, and spare the lives of their women.” But the plot of the disbelievers is nothing but a failure.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 25, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

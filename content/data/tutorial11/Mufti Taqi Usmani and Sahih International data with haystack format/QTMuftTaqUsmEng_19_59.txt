@@ -1,0 +1,1 @@
+{'text': 'Then came after them the successors who neglected Salāh and followed (their selfish) desires. So they will soon face (the outcome of their) deviation,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 59, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

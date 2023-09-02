@@ -1,0 +1,1 @@
+{'text': 'He is the One who has made the night an apparel for you, and the sleep a means of rest, and has made the day a means of revival.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 47, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

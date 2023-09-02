@@ -1,0 +1,1 @@
+{'text': 'And peace is upon me the day I was born, the day I shall die, and the day I shall be raised alive again.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 33, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

@@ -1,0 +1,1 @@
+{'text': 'The Mosques of Allah shall be maintained only by those who believe in Allah and the Last Day; perform As-Salat (Iqamat-as-Salat), and give Zakat and fear none but Allah. It is they who are expected to be on true guidance.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 18, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

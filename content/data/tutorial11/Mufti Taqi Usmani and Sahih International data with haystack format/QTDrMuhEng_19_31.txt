@@ -1,0 +1,1 @@
+{'text': '"And He has made me blessed wheresoever I be, and has enjoined on me Salat (prayer), and Zakat, as long as I live."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 31, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

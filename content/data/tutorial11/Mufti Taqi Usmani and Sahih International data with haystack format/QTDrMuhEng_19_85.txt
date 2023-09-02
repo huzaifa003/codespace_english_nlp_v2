@@ -1,0 +1,1 @@
+{'text': 'The Day We shall gather the Muttaqoon (pious - see V.2:2) unto the Most Beneficent (Allah), like a delegate (presented before a king for honour).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 85, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

@@ -1,0 +1,1 @@
+{'text': 'We send not the angels down except with the truth (i.e. for torment, etc.), and in that case, they (the disbelievers) would have no respite!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 15, 'ayah_no': 8, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

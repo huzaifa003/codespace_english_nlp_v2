@@ -1,0 +1,1 @@
+{'text': 'And he drew out his hand, and behold! it was white (with radiance) for the beholders.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 108, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

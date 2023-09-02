@@ -1,0 +1,1 @@
+{'text': 'Every time they seek to get away therefrom, from anguish, they will be driven back therein, and (it will be) said to them: "Taste the torment of burning!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 22, 'ayah_no': 22, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

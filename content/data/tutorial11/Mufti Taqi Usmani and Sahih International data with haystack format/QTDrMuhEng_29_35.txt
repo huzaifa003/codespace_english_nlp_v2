@@ -1,0 +1,1 @@
+{'text': 'And indeed We have left thereof an evident Ayah (a lesson and a warning and a sign the place where the Dead Sea is now in Palestine) for a folk who understand.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 29, 'ayah_no': 35, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

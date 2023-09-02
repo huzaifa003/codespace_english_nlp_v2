@@ -1,0 +1,1 @@
+{'text': 'In fact, they are kept far away from hearing (it at the time of revelation).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 212, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

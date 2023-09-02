@@ -1,0 +1,1 @@
+{'text': 'Know they not that Allah accepts repentance from His slaves and takes the Sadaqat (alms, charities) and that All&achrc;h Alone is the One Who forgives and accepts repentance, Most Merciful?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 104, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

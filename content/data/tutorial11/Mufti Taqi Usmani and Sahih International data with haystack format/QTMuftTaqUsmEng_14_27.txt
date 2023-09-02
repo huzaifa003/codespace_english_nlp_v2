@@ -1,0 +1,1 @@
+{'text': 'Allah keeps the believers firm with the stable word in the worldly life and in the Hereafter; and Allah lets the unjust go astray; and Allah does what He wills.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 27, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

@@ -1,0 +1,1 @@
+{'text': 'This is a troop entering with you (in Hell), no welcome for them! Verily, they shall burn in the Fire!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 59, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

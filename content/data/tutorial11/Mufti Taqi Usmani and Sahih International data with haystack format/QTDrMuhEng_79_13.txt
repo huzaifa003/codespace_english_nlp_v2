@@ -1,0 +1,1 @@
+{'text': 'But only, it will be a single Zajrah (shout (i.e., the second blowing of the Trumpet)). (See Verse 37:19).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 79, 'ayah_no': 13, 'surah_name_en': 'An-Naziat (Those who drag forth)', 'surah_name_ar': 'النّٰزِعٰتِ'}}

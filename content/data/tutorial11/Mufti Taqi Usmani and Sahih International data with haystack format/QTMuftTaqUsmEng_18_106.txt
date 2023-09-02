@@ -1,0 +1,1 @@
+{'text': 'That is their punishment, the Jahannam , for they disbelieved and made My signs and My messengers a mockery.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 106, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

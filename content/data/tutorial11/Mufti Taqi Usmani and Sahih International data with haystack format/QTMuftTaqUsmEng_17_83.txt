@@ -1,0 +1,1 @@
+{'text': 'When We bestow Our favor upon man, he avoids (to recognize it) and keeps himself far aside (from obedience), and when some evil touches him, he is in total despair.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 83, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

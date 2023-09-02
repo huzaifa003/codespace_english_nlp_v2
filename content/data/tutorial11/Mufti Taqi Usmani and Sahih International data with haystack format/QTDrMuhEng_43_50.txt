@@ -1,0 +1,1 @@
+{'text': 'But when We removed the torment from them, behold! They broke their covenant (that they will believe if We remove the torment for them).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 50, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

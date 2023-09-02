@@ -1,0 +1,1 @@
+{'text': 'And how many a town have We destroyed that were over-proud of their means of living. Now, those are their habitations, which were never inhabited after them except a few, and We alone were the inheritors.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 58, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

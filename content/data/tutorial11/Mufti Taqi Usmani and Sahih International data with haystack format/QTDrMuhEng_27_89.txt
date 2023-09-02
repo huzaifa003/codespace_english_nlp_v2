@@ -1,0 +1,1 @@
+{'text': 'Whoever brings a good deed (i.e. Belief in the Oneness of Allah along with every deed of righteousness), will have better than its worth, and they will be safe from the terror on that Day.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 89, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

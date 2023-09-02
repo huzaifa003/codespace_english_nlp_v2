@@ -1,0 +1,1 @@
+{'text': 'Say it is He Who has created you, and endowed you with hearing (ears), seeing (eyes), and hearts. Little thanks you give.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 67, 'ayah_no': 23, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

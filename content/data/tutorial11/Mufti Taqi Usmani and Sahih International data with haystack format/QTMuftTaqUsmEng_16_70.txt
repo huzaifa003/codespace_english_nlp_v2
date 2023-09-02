@@ -1,0 +1,1 @@
+{'text': 'Allah has created you, then He takes you back. And among you there is one who is carried to the worst part of the age, so that he knows nothing after having knowledge. Surely, Allah is All-Knowing, All-Powerful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 70, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

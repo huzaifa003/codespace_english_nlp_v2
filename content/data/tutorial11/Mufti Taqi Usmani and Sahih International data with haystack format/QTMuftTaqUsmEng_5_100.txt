@@ -1,0 +1,1 @@
+{'text': 'Say, “The evil and the good are not equal, even though the abundance of (what is) evil may attract you. So, fear Allah, O people of understanding, so that you may be successful.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 100, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

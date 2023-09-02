@@ -1,0 +1,1 @@
+{'text': 'Or those who do evil deeds think that they can outstrip Us (i.e. escape Our Punishment)? Evil is that which they judge!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 29, 'ayah_no': 4, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

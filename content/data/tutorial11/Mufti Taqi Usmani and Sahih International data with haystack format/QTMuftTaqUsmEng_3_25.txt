@@ -1,0 +1,1 @@
+{'text': 'Then, how (will it be) when We will gather them together on a day about which there is no doubt, and everybody will be paid in full for what he has earned, and they shall not be wronged?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 25, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

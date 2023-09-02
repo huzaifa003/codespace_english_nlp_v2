@@ -1,0 +1,1 @@
+{'text': 'Firaun (Pharaoh) said: "Leave me to kill Moosa (Moses), and let him call his Lord (to stop me from killing him)! I fear that he may change your religion, or that he may cause mischief to appear in the land!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 26, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

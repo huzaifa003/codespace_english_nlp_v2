@@ -1,0 +1,1 @@
+{'text': 'When We bestow Our favor upon man, he avoids (to appreciate it) and keeps himself far aside (from obedience), and when some evil touches him, he is full of lengthy prayers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 41, 'ayah_no': 51, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

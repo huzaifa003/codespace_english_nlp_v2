@@ -1,0 +1,1 @@
+{'text': 'On the Day when they will be dragged into the Fire on their faces, (it will be said to them,) “Taste the touch of Hell.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 54, 'ayah_no': 48, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

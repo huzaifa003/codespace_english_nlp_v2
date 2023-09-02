@@ -1,0 +1,1 @@
+{'text': 'We did not do injustice to them, rather, they themselves were the unjust.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 76, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

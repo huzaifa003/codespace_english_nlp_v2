@@ -1,0 +1,1 @@
+{'text': 'So, Mūsā concealed some fear in his heart.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 67, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

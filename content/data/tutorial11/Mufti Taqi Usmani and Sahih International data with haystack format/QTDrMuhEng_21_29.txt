@@ -1,0 +1,1 @@
+{'text': 'And if any of them should say: "Verily, I am an ilah (a god) besides Him (Allah)," such a one We should recompense with Hell. Thus We recompense the Zalimoon (polytheists and wrong-doers, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 29, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

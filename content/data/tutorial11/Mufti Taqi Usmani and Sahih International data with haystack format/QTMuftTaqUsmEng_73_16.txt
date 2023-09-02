@@ -1,0 +1,1 @@
+{'text': 'Then, Fir‘aun disobeyed the messenger; so We seized him with a severe seizure.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 73, 'ayah_no': 16, 'surah_name_en': 'Al-Muzzammil (The enshrouded one)', 'surah_name_ar': 'المزّمّل'}}

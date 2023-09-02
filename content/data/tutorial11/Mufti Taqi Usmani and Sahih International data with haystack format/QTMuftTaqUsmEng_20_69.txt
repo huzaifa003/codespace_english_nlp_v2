@@ -1,0 +1,1 @@
+{'text': 'And throw what is in your right hand, and it will devour what they have concocted. What they have concocted is but a sleight of a magician. And the magician does not succeed wherever he comes from.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 69, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

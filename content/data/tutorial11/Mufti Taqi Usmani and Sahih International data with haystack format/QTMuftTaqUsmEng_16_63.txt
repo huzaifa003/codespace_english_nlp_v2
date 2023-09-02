@@ -1,0 +1,1 @@
+{'text': 'By Allah, We sent (messengers) to communities before you, but the Satan made their deeds look good to them. So, he is their patron today, and for them there is a painful punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 63, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

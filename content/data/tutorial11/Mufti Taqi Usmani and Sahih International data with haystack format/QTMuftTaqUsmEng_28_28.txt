@@ -1,0 +1,1 @@
+{'text': 'He (Mūsā) said, “This is (done) between me and you. Whichever of the two terms I fulfill, there should be no excess against me, and Allah is witness to what we are saying.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 28, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

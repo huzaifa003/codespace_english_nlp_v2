@@ -1,0 +1,1 @@
+{'text': 'Surely, those who believe and do good deeds and humble themselves before their Lord, those are the people of Paradise. There they shall live forever.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 23, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

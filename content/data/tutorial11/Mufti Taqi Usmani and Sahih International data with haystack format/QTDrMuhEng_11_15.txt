@@ -1,0 +1,1 @@
+{'text': 'Whosoever desires the life of the world and its glitter; to them We shall pay in full (the wages of) their deeds therein, and they will have no diminution therein.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 15, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

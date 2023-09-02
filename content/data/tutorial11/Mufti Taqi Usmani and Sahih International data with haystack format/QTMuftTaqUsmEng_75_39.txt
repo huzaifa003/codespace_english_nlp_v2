@@ -1,0 +1,1 @@
+{'text': 'and made from him two kinds, male and female.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 75, 'ayah_no': 39, 'surah_name_en': 'Al-Qiyama (The rising of the dead)', 'surah_name_ar': 'القیٰمۃ'}}

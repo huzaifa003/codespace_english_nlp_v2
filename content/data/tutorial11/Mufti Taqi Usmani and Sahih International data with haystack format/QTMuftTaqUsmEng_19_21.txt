@@ -1,0 +1,1 @@
+{'text': 'He said, “So it is; your Lord said, ‘It is easy for Me, and (We will do this) so that We make it a sign for people and a mercy from Us, and this is a matter already destined.’”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 21, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

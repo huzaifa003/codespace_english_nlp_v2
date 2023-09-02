@@ -1,0 +1,1 @@
+{'text': 'And it will be said (to them): "Call upon your (so-called) partners (of Allah), and they will call upon them, but they will give no answer to them, and they will see the torment. (They will then wish) if only they had been guided!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 64, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

@@ -1,0 +1,1 @@
+{'text': 'He said (to ’Ādam and Iblīs), “Go down from here, all of you, some of you enemies of some others. Then, should some guidance come to you from Me, the one who follows My guidance shall not go astray, nor shall he be in trouble.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 123, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

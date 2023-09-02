@@ -1,0 +1,1 @@
+{'text': 'Verily, those who disbelieve, and hinder (men) from the Path of Allah (i.e. Islam); then die while they are disbelievers, Allah will not forgive them.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 47, 'ayah_no': 34, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

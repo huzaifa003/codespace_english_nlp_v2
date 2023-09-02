@@ -1,0 +1,1 @@
+{'text': 'And He is the One who restrained their hands from you and your hands from them in the valley of Makkah after He had let you prevail over them, and Allah is watchful over what you do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 48, 'ayah_no': 24, 'surah_name_en': 'Al-Fath (The victory)', 'surah_name_ar': 'الفتح'}}

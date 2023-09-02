@@ -1,0 +1,1 @@
+{'text': 'Their Lord gives them glad tidings of a Mercy from Him, and that He is pleased (with them), and of Gardens (Paradise) for them wherein are everlasting delights.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 21, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

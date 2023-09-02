@@ -1,0 +1,1 @@
+{'text': 'Why do not the rabbis and the religious learned men forbid them from uttering sinful words and from eating illegal things. Evil indeed is that which they have been performing.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 5, 'ayah_no': 63, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

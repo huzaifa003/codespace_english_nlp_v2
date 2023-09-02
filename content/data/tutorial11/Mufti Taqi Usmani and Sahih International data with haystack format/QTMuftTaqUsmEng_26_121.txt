@@ -1,0 +1,1 @@
+{'text': 'Surely, in this there is a sign, but most of them are not believers', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 121, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

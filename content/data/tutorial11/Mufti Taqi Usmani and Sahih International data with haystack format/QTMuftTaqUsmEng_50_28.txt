@@ -1,0 +1,1 @@
+{'text': 'He (Allah) will say, “Do not quarrel before Me, while I had sent to you My threat well in advance.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 28, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

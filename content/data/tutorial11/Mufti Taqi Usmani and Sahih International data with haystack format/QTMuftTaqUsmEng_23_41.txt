@@ -1,0 +1,1 @@
+{'text': 'So the Cry seized them according to the true (promise), and We turned them in to scum. So, away with the wrongdoing people.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 23, 'ayah_no': 41, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

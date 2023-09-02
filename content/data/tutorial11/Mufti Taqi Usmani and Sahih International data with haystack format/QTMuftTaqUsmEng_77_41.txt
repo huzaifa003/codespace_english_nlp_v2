@@ -1,0 +1,1 @@
+{'text': 'Of course, the God-fearing will be amid shades and streams,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 77, 'ayah_no': 41, 'surah_name_en': 'Al-Mursalat (The emissaries)', 'surah_name_ar': 'المرسلٰت'}}

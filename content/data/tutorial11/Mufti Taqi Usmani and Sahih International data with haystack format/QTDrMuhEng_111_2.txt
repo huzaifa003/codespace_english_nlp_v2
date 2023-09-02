@@ -1,0 +1,1 @@
+{'text': 'His wealth and his children (etc.) will not benefit him!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 111, 'ayah_no': 2, 'surah_name_en': 'Al-Masadd (The Flame)', 'surah_name_ar': 'اللَّھب'}}

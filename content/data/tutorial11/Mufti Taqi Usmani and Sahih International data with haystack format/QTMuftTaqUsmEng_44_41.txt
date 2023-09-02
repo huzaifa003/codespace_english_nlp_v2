@@ -1,0 +1,1 @@
+{'text': 'the day when no close relation will be of any use to any close relation, nor will they be helped,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 44, 'ayah_no': 41, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

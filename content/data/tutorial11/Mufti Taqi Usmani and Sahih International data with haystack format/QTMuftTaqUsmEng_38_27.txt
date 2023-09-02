@@ -1,0 +1,1 @@
+{'text': 'We did not create the heavens and the earth and what is between them in vain. That is the thinking of those who disbelieve. So, woe to the disbelievers because of the Fire (they have to face).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 27, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

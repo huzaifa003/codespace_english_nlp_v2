@@ -1,0 +1,1 @@
+{'text': 'the One who created in six days the heavens and the earth and whatever lies between them, then He positioned Himself on the Throne. (He is) the RaHmān (the All-Merciful, Allah). So ask about Him someone who knows.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 59, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

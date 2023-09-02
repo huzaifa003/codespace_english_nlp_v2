@@ -1,0 +1,1 @@
+{'text': '"He indeed led me astray from the Reminder (this Quran) after it had come to me. And Shaitan (Satan) is ever a deserter to man in the hour of need."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 29, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

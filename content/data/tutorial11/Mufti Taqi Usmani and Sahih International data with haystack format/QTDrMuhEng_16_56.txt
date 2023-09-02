@@ -1,0 +1,1 @@
+{'text': 'And they assign a portion of that which We have provided them unto what they know not (false deities). By Allah, you shall certainly be questioned about (all) that you used to fabricate.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 56, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

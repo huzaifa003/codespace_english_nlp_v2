@@ -1,0 +1,1 @@
+{'text': 'So the end of both of them is that they will be in the Fire, living there forever. That is the punishment of the wrongdoers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 59, 'ayah_no': 17, 'surah_name_en': 'Al-Hashr (Exile)', 'surah_name_ar': 'الحشر'}}

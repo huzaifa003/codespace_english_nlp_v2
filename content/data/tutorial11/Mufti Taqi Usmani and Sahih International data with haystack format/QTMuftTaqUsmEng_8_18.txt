@@ -1,0 +1,1 @@
+{'text': 'Apart from that, Allah is the One who frustrates the device of the disbelievers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 18, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

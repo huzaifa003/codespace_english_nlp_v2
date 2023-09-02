@@ -1,0 +1,1 @@
+{'text': 'So, Allah seized him for an exemplary punishment in the Hereafter and the present world.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 79, 'ayah_no': 25, 'surah_name_en': 'An-Naziat (Those who drag forth)', 'surah_name_ar': 'النّٰزِعٰتِ'}}

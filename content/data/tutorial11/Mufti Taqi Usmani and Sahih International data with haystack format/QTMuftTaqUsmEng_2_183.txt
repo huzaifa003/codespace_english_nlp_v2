@@ -1,0 +1,1 @@
+{'text': 'O you who believe, the fasts have been enjoined upon you as they were enjoined upon those before you, so that you may be God-fearing,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 183, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

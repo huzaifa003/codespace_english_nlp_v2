@@ -1,0 +1,1 @@
+{'text': 'Has created man from a clot (a piece of thick coagulated blood).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 96, 'ayah_no': 2, 'surah_name_en': 'Al-Alaq (The Clot)', 'surah_name_ar': 'العَلَق'}}

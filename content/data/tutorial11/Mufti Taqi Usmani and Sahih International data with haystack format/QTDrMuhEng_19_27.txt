@@ -1,0 +1,1 @@
+{'text': 'Then she brought him (the baby) to her people, carrying him. They said: "O Mary! Indeed you have brought a thing Fariya (an unheard mighty thing).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 27, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

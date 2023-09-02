@@ -1,0 +1,1 @@
+{'text': 'And these similitudes We put forward for mankind, but none will understand them except those who have knowledge (of Allah and His Signs, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 29, 'ayah_no': 43, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

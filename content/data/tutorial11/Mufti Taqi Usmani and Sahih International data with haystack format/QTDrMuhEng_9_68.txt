@@ -1,0 +1,1 @@
+{'text': 'Allah has promised the hypocrites; men and women, and the disbelievers, the Fire of Hell, therein shall they abide. It will suffice them. Allah has cursed them and for them is the lasting torment.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 68, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'He said, “It makes me sad that you should take him with you, and I fear that some wolf may eat him up when you are heedless of him.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 13, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

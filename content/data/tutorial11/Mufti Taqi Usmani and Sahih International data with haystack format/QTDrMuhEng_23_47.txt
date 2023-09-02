@@ -1,0 +1,1 @@
+{'text': 'They said: "Shall we believe in two men like ourselves, and their people are obedient to us with humility (and we use them to serve us as we like)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 23, 'ayah_no': 47, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

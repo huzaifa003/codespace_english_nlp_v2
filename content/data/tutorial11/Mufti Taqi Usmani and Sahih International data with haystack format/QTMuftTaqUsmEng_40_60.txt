@@ -1,0 +1,1 @@
+{'text': 'Your Lord has said, “Call Me, I will respond to you. Definitely those who show arrogance against worshipping Me shall enter Jahannam (Hell) with disgrace.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 60, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

@@ -1,0 +1,1 @@
+{'text': 'Had We sent down this Quran on a mountain, you would surely have seen it humbling itself and rending asunder by the fear of Allah. Such are the parables which We put forward to mankind that they may reflect .', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 59, 'ayah_no': 21, 'surah_name_en': 'Al-Hashr (Exile)', 'surah_name_ar': 'الحشر'}}

@@ -1,0 +1,1 @@
+{'text': 'The blind one and the sighted one are not equal, and those who believed and did good deeds and the evil ones are not (equal) either. Little you heed to the advice!', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 58, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

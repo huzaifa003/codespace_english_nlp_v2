@@ -1,0 +1,1 @@
+{'text': 'And they say: "There is nothing but our life of this world, we die and we live and nothing destroys us except Ad-Dahr (the time). And they have no knowledge of it, they only conjecture.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 45, 'ayah_no': 24, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

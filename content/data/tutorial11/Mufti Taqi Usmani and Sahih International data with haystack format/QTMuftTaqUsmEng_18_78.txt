@@ -1,0 +1,1 @@
+{'text': 'He said, “Here is the point of parting ways between me and you. I shall now explain to you the reality of things about which you could not remain patient.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 78, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

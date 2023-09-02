@@ -1,0 +1,1 @@
+{'text': '"Or you cause the heaven to fall upon us in pieces, as you have pretended, or you bring Allah and the angels before (us) face to face;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 92, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

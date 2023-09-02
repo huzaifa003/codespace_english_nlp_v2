@@ -1,0 +1,1 @@
+{'text': 'There is none in the heavens and the earth but comes unto the Most Beneficent (Allah) as a slave.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 93, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

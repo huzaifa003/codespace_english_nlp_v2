@@ -1,0 +1,1 @@
+{'text': 'Say, “Tell me, if Allah were to impose the night over you, continuing forever up to the Day of Judgment, which god, other than Allah, would bring to you light? Then, do you not listen?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 71, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

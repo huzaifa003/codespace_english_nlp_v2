@@ -1,0 +1,1 @@
+{'text': '"Shall I take besides Him aliha (gods), if the Most Beneficent (Allah) intends me any harm, their intercession will be of no use for me whatsoever, nor can they save me?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 23, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

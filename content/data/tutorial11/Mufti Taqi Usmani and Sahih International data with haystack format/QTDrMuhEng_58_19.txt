@@ -1,0 +1,1 @@
+{'text': 'Shaitan (Satan) has overtaken them. So he has made them forget the remembrance of Allah. They are the party of Shaitan (Satan). Verily, it is the party of Shaitan (Satan) that will be the losers!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 58, 'ayah_no': 19, 'surah_name_en': 'Al-Mujadila (She that disputes)', 'surah_name_ar': 'المجادلۃ'}}

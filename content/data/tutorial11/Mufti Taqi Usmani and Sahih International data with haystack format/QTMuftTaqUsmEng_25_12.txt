@@ -1,0 +1,1 @@
+{'text': 'When it will see them from a distant place, they will hear (the sounds of) its raging and breathing,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 12, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

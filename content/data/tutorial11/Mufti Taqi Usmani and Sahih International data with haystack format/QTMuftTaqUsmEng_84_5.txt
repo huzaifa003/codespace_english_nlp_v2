@@ -1,0 +1,1 @@
+{'text': 'and will listen to (the command of) its Lord,- and it ought to,- (then man will see the consequences of his deeds.)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 84, 'ayah_no': 5, 'surah_name_en': 'Al-Inshiqaq (The Sundering, Splitting Open)', 'surah_name_ar': 'الاِنشِقَاق'}}

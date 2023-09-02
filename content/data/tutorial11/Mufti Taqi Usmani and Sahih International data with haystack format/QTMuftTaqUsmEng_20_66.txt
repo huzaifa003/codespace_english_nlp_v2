@@ -1,0 +1,1 @@
+{'text': 'He said, “Rather, you throw.” Then, suddenly their ropes and sticks seemed to him, due to their magic, as if they were running.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 66, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

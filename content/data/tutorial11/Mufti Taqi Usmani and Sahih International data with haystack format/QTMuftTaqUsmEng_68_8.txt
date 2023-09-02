@@ -1,0 +1,1 @@
+{'text': 'So, do not obey those who reject (the true faith.)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 68, 'ayah_no': 8, 'surah_name_en': 'Al-Qalam (The Pen)', 'surah_name_ar': 'القلم'}}

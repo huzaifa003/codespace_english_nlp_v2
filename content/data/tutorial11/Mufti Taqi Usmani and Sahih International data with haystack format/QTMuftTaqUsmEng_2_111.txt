@@ -1,0 +1,1 @@
+{'text': 'They say that no one shall ever enter Paradise unless he is a Jew, or a Christian. These are their fancies. Say, “Bring your proof, if you are truthful.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 111, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

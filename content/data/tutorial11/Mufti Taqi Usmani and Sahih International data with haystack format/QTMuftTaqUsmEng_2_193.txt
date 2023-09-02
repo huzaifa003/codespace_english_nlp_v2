@@ -1,0 +1,1 @@
+{'text': 'Fight them until there is no Fitnah any more, and obedience remains for Allah. But, if they desist, then aggression is not allowed except against the transgressors.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 193, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

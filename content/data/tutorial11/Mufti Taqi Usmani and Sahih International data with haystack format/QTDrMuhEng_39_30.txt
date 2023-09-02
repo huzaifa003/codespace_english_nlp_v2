@@ -1,0 +1,1 @@
+{'text': 'Verily, you (O Muhammad SAW) will die and verily, they (too) will die.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 30, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

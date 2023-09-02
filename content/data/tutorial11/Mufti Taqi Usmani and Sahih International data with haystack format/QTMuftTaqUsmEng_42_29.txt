@@ -1,0 +1,1 @@
+{'text': 'Among His signs is the creation of the heavens and the earth and the creatures He has spread in them. He is Powerful to assemble them whenever He so wills.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 42, 'ayah_no': 29, 'surah_name_en': 'Ash-Shura (Council, Consultation)', 'surah_name_ar': 'الشُّورٰی'}}

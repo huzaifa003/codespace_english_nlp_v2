@@ -1,0 +1,1 @@
+{'text': 'And revealed to them will be the evils of what they did, and encircled they will be by what they used to ridicule.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 33, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

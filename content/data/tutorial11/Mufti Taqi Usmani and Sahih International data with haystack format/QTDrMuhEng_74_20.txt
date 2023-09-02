@@ -1,0 +1,1 @@
+{'text': 'And once more let him be cursed, how he plotted!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 74, 'ayah_no': 20, 'surah_name_en': 'Al-Muddathir (The cloaked one)', 'surah_name_ar': 'المدّثّر'}}

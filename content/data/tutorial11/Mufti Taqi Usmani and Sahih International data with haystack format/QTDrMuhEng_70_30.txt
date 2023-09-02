@@ -1,0 +1,1 @@
+{'text': 'Except with their wives and the (women slaves and captives) whom their right hands possess, for (then) they are not to be blamed,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 70, 'ayah_no': 30, 'surah_name_en': 'Al-Maarij (The Ascending stairways)', 'surah_name_ar': 'المعارج'}}

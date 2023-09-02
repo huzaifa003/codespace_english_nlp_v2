@@ -1,0 +1,1 @@
+{'text': 'But those who believed (in the Oneness of Allah - Islamic Monotheism), and worked righteousness - We tax not any person beyond his scope, such are the dwellers of Paradise. They will abide therein.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 42, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

@@ -1,0 +1,1 @@
+{'text': 'And there are others whose matter is deferred till the command of Allah (comes): either He would punish them or relent towards them. Allah is All-Knowing, All-Wise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 106, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

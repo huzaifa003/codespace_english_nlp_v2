@@ -1,0 +1,1 @@
+{'text': 'And verily, for those who do wrong, there is a portion of torment like to the evil portion of torment (which came for) their likes (of old), so let them not ask Me to hasten on!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 51, 'ayah_no': 59, 'surah_name_en': 'Adh-Dhariyat (The winnowing winds)', 'surah_name_ar': 'الذّٰریٰت'}}

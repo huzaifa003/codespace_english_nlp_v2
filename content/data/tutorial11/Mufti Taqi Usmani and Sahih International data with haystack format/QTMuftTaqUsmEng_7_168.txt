@@ -1,0 +1,1 @@
+{'text': 'We divided them on the earth as separate communities. Some of them were righteous, while some others were otherwise. We tested them with good and bad times, so that they might return.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 168, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

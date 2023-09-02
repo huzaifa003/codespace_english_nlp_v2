@@ -1,0 +1,1 @@
+{'text': 'Indeed, your Lord expands sustenance for whomsoever He wills, and constricts (for whomsoever He wills). Surely, He is All-Aware of His servants, All-Seeing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 30, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

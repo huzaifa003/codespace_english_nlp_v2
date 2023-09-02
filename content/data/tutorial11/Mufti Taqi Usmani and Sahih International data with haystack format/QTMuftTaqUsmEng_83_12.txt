@@ -1,0 +1,1 @@
+{'text': 'And none denies it but every sinful transgressor.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 83, 'ayah_no': 12, 'surah_name_en': 'Al-Mutaffifin (Defrauding)', 'surah_name_ar': 'المُطَفِّفِین'}}

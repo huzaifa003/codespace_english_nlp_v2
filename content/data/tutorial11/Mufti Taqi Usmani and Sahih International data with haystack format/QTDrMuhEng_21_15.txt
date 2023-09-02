@@ -1,0 +1,1 @@
+{'text': 'And that cry of theirs ceased not, till We made them as a field that is reaped, extinct (dead).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 15, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

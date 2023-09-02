@@ -1,0 +1,1 @@
+{'text': 'So, We will certainly make them taste a severe punishment, and will certainly recompense them for the worst of what they used to do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 41, 'ayah_no': 27, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

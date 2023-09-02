@@ -1,0 +1,1 @@
+{'text': 'Of course, if you stay patient and fear Allah, and they come upon you even in this heat of theirs, your Lord will reinforce you with five thousand of the angels, each having distinct marks.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 125, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

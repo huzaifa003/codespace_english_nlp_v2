@@ -1,0 +1,1 @@
+{'text': 'and those who, when they are reminded of the verses of their Lord, do not fall at them as deaf and blind ones,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 73, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

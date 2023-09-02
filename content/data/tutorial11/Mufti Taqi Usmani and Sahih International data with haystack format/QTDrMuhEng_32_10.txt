@@ -1,0 +1,1 @@
+{'text': 'And they say: "When we are (dead and become) lost in the earth, shall we indeed be recreated anew?" Nay, but they deny the Meeting with their Lord!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 32, 'ayah_no': 10, 'surah_name_en': 'As-Sajda (The Prostration)', 'surah_name_ar': 'السجدۃ'}}

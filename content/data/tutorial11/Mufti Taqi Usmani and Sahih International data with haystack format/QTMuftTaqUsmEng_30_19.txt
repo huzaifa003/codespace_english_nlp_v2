@@ -1,0 +1,1 @@
+{'text': 'He brings out the living from the dead, and brings out the dead from the living, and gives life to the land after it is dead. And in similar way you will be brought out (from graves).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 19, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

@@ -1,0 +1,1 @@
+{'text': 'and many spoils that they would receive. And Allah is Mighty, Wise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 48, 'ayah_no': 19, 'surah_name_en': 'Al-Fath (The victory)', 'surah_name_ar': 'الفتح'}}

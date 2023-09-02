@@ -1,0 +1,1 @@
+{'text': 'So, you have no power today to benefit or harm one another, and We will say to the wrongdoers, “Taste the punishment of the Fire that you used to deny.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 34, 'ayah_no': 42, 'surah_name_en': 'Saba (Saba)', 'surah_name_ar': 'سبا'}}

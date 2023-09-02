@@ -1,0 +1,1 @@
+{'text': 'And whoever opts for the Hereafter and makes efforts for it as due, while he is a believer, then, the effort of such people is appreciated!', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 19, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

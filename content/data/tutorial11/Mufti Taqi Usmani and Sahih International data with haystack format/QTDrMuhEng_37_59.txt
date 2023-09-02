@@ -1,0 +1,1 @@
+{'text': '"Except our first death, and we shall not be punished? (after we have entered Paradise)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 59, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

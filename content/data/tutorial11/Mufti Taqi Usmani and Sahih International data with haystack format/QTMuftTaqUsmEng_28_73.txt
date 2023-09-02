@@ -1,0 +1,1 @@
+{'text': 'And it is out of His mercy that He has made day and night for you, so that you may have rest in it, and so that you may search for His grace, and so that you may be grateful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 73, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

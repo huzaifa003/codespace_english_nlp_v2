@@ -1,0 +1,1 @@
+{'text': 'And He (Allah) will teach him (Iesa (Jesus)) the Book and Al-Hikmah (i.e. the Sunnah, the faultless speech of the Prophets, wisdom, etc.), (and) the Taurat (Torah) and the Injeel (Gospel).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 48, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

@@ -1,0 +1,1 @@
+{'text': 'When Our verses are recited to them in all their clarity, the disbelievers say to the believers, “Which of the two groups is superior in its place and better in its assembly?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 73, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

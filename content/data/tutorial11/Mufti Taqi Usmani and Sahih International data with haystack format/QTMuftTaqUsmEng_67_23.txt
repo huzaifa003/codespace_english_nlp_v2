@@ -1,0 +1,1 @@
+{'text': 'Say, “He is the One who has originated you, and made for you ears and eyes and hearts. How little you pay gratitude!”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 67, 'ayah_no': 23, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

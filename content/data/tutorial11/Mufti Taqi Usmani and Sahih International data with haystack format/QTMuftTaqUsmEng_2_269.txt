@@ -1,0 +1,1 @@
+{'text': 'He gives wisdom to whom He wills, and whoever is given wisdom is certainly given a lot of good. Only the people of understanding observe the advice.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 269, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

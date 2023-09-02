@@ -1,0 +1,1 @@
+{'text': 'Those who reject Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.), We shall gradually seize them with punishment in ways they perceive not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 182, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

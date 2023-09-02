@@ -1,0 +1,1 @@
+{'text': 'So, be patient. Surely Allah’s promise is true, and let not the disbelievers shake your firmness.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 60, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

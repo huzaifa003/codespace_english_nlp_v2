@@ -1,0 +1,1 @@
+{'text': 'Then, We revealed to you, “Follow the way of Ibrāhīm, the upright, and he was not among the Mushriks”.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 123, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

@@ -1,0 +1,1 @@
+{'text': 'And We have conveyed (Our) word to them one after the other, so that they may receive the advice.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 51, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

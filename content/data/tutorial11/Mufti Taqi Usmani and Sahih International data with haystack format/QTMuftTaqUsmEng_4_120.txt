@@ -1,0 +1,1 @@
+{'text': 'He (the Satan) makes promises to them, and he tempts them with hopes. The Satan does not make a promise to them but to deceive.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 4, 'ayah_no': 120, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

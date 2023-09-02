@@ -1,0 +1,1 @@
+{'text': 'and the fifth (oath) that Allah’s curse be on him if he is one of the liars.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 7, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

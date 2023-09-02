@@ -1,0 +1,1 @@
+{'text': 'Do you think that you shall enter Paradise even before Allah knows those of you who carry out Jihād and those who are steadfast.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 142, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

@@ -1,0 +1,1 @@
+{'text': 'For each (of these two groups) there are (different) ranks because of what they did, and so that He may repay them in full for their deeds; and they will not be wronged.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 46, 'ayah_no': 19, 'surah_name_en': 'Al-Ahqaf (The wind-curved sandhills)', 'surah_name_ar': 'الاحقاف'}}

@@ -1,0 +1,1 @@
+{'text': 'when we used to equate you with the Lord of the worlds,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 98, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

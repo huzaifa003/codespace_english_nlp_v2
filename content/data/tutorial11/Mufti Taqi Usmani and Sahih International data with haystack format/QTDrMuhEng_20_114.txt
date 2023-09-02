@@ -1,0 +1,1 @@
+{'text': 'Then High above all be Allah, the True King. And be not in haste (O Muhammad SAW) with the Quran before its revelation is completed to you, and say: "My Lord! Increase me in knowledge."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 114, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

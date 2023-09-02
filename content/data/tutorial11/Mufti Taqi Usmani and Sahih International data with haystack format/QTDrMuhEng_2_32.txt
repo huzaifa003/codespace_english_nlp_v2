@@ -1,0 +1,1 @@
+{'text': 'They (angels) said: "Glory be to You, we have no knowledge except what you have taught us. Verily, it is You, the All-Knower, the All-Wise."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 32, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

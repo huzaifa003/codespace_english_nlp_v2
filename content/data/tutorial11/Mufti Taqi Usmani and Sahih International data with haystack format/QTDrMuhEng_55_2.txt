@@ -1,0 +1,1 @@
+{'text': 'Has taught (you mankind) the Quran (by His Mercy).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 55, 'ayah_no': 2, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

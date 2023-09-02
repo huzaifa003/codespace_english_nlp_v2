@@ -1,0 +1,1 @@
+{'text': '"But whosoever turns away from My Reminder (i.e. neither believes in this Quran nor acts on its orders, etc.) verily, for him is a life of hardship, and We shall raise him up blind on the Day of Resurrection."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 124, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

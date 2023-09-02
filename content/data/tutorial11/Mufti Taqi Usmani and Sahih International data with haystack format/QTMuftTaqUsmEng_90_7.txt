@@ -1,0 +1,1 @@
+{'text': 'Does he think that no one has seen him?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 90, 'ayah_no': 7, 'surah_name_en': 'Al-Balad (The City)', 'surah_name_ar': 'البلد'}}

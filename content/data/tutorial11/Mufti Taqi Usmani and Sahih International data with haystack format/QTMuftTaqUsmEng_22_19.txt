@@ -1,0 +1,1 @@
+{'text': 'These are two opponents who have disputed about their Lord. As for those who disbelieve, garments from fire shall be tailored for them, and boiling water shall be poured from over their heads', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 19, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

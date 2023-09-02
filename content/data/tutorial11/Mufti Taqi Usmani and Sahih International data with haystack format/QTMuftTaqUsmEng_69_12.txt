@@ -1,0 +1,1 @@
+{'text': 'so that We make it a reminder for you, and so that a preserving ear (that hears their story) may preserve it.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 69, 'ayah_no': 12, 'surah_name_en': 'Al-Haaqqa (The reality)', 'surah_name_ar': 'الحاقہ'}}

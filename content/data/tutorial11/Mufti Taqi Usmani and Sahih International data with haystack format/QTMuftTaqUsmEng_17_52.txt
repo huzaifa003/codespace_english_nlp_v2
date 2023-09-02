@@ -1,0 +1,1 @@
+{'text': '(It will be) on a day when He will call you, and you will respond praising Him, and you will think you did not stay (on the earth) but for a short while.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 52, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

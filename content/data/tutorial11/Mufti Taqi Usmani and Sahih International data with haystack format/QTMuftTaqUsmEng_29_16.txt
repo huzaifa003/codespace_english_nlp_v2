@@ -1,0 +1,1 @@
+{'text': 'And (We sent) Ibrāhīm when he said to his people, “Worship Allah and fear Him. That is better for you if you know.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 16, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

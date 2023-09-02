@@ -1,0 +1,1 @@
+{'text': 'O you who believe, if you will help (the religion prescribed by) Allah, He will help you, and will stabilize your footings.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 47, 'ayah_no': 7, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

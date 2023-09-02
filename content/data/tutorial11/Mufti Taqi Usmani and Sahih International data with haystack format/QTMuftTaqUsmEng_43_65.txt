@@ -1,0 +1,1 @@
+{'text': 'Then different groups, out of them, fell into disagreement. Woe to the wrongdoers because of the punishment of a painful day!', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 65, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

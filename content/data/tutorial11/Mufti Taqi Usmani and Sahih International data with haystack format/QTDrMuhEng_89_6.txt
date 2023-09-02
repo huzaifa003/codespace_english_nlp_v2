@@ -1,0 +1,1 @@
+{'text': 'Did you (O Muhammad (Peace be upon him)) not see (thought) how your Lord dealt with Ad (people)?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 89, 'ayah_no': 6, 'surah_name_en': 'Al-Fajr (The Dawn)', 'surah_name_ar': 'الفجر'}}

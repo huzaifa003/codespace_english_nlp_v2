@@ -1,0 +1,1 @@
+{'text': 'Mūsā said, “Do you say (this) about the Truth when it came to you? Is this magic, while the magicians do not achieve success?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 77, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

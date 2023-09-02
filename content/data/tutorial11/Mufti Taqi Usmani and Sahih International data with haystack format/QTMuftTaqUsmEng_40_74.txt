@@ -1,0 +1,1 @@
+{'text': 'beside Allah?” They will say, “They are lost to us, rather, we used to invoke nothing at all.” This is how Allah makes disbelievers get lost.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 74, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

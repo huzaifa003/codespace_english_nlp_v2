@@ -1,0 +1,1 @@
+{'text': 'and they devised a mighty plot,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 71, 'ayah_no': 22, 'surah_name_en': 'Nooh (Nooh)', 'surah_name_ar': 'نُوح'}}

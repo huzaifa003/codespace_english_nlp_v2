@@ -1,0 +1,1 @@
+{'text': 'As for the one who believes and acts righteously, he will have the best (life) as reward, and we shall speak to him politely in our directions.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 88, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

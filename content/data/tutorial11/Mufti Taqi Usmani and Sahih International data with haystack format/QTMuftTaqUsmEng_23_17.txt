@@ -1,0 +1,1 @@
+{'text': 'And We created above you seven paths (heavens), and We were never neglectful of the creation.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 23, 'ayah_no': 17, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

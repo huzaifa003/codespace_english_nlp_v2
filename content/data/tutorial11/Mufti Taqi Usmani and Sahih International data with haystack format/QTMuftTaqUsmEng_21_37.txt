@@ -1,0 +1,1 @@
+{'text': 'Man is made of haste. I shall show you My signs, so do not seek haste from Me.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 37, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

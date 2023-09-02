@@ -1,0 +1,1 @@
+{'text': 'They said, “It is all equal for us, whether you give us advice or you do not become one of the advisors.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 136, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

@@ -1,0 +1,1 @@
+{'text': 'And as for those whose scale will be light, they are those who will lose their ownselves (by entering Hell) because they denied and rejected Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 9, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

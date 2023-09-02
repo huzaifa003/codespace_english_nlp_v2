@@ -1,0 +1,1 @@
+{'text': 'And of Ibrahim (Abraham) who fulfilled (or conveyed) all that (what Allah ordered him to do or convey),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 37, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

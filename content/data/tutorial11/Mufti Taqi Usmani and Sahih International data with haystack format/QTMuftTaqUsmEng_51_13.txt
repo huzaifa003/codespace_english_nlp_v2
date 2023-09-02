@@ -1,0 +1,1 @@
+{'text': '(It will be) the Day when they will be heated on the Fire,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 51, 'ayah_no': 13, 'surah_name_en': 'Adh-Dhariyat (The winnowing winds)', 'surah_name_ar': 'الذّٰریٰت'}}

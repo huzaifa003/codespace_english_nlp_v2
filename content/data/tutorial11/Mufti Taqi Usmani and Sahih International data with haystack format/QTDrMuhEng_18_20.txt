@@ -1,0 +1,1 @@
+{'text': '"For if they come to know of you, they will stone you (to death or abuse and harm you) or turn you back to their religion, and in that case you will never be successful."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 20, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

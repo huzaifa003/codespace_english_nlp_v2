@@ -1,0 +1,1 @@
+{'text': '“Our Lord, do not let our hearts deviate from the right path after You have given us guidance, and bestow upon us mercy from Your own. Surely, You, and You alone, are the One who bestows in abundance.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 8, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

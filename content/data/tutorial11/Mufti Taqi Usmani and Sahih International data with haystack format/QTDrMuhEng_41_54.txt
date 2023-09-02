@@ -1,0 +1,1 @@
+{'text': 'Verily! They are in doubt concerning the Meeting with their Lord? (i.e. Resurrection after their deaths, and their return to their Lord). Verily! He it is Who is surrounding all things!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 41, 'ayah_no': 54, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

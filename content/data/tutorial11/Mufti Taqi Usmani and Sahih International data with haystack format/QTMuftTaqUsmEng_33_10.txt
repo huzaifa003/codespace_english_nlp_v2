@@ -1,0 +1,1 @@
+{'text': '(Recall) when they came upon you from above you and from below you, and when the eyes were distracted, and the hearts reached the throats, and you were thinking about Allah all sorts of thoughts.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 10, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

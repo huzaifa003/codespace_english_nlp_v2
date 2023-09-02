@@ -1,0 +1,1 @@
+{'text': 'the ones to whom angels bring death while they are pure (in beliefs and deeds). They (angels) say, “Peace on you! Enter Paradise for the deeds you have been doing.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 32, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

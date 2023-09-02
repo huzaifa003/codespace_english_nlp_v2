@@ -1,0 +1,1 @@
+{'text': 'Indeed My Verses used to be recited to you, but you used to turn back on your heels (denying them, and with hatred to listen to them).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 23, 'ayah_no': 66, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

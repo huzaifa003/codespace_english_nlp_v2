@@ -1,0 +1,1 @@
+{'text': 'There was no other answer given by his people except that they said: "Drive out the family of Lout (Lot) from your city. Verily, these are men who want to be clean and pure!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 56, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

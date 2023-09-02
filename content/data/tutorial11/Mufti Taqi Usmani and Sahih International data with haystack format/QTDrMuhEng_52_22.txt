@@ -1,0 +1,1 @@
+{'text': 'And We shall provide them with fruit and meat, such as they desire.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 52, 'ayah_no': 22, 'surah_name_en': 'At-tur (Mount Sinai)', 'surah_name_ar': 'الطّور'}}

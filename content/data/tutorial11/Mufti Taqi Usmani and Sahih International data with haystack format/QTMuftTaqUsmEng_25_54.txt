@@ -1,0 +1,1 @@
+{'text': 'And He is the One who created man from water, then made of him relations created by lineage and relations created by marriage. Your Lord is All-Powerful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 54, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

@@ -1,0 +1,1 @@
+{'text': 'Do they not know that Allah knows what they conceal and what they whisper, and that Allah is well aware of all the Unseen?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 78, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

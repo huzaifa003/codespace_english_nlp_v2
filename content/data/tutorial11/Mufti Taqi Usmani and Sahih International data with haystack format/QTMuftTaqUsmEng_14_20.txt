@@ -1,0 +1,1 @@
+{'text': 'and that is not at all difficult for Allah.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 20, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

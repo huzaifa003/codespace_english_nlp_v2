@@ -1,0 +1,1 @@
+{'text': 'O my fellow prisoners, are different gods better or Allah, the One, the All-Dominant?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 39, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

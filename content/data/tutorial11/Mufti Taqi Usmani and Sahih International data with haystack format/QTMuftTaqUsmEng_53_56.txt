@@ -1,0 +1,1 @@
+{'text': 'This (Prophet) is a warner from the (genus of the) previous warners.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 53, 'ayah_no': 56, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

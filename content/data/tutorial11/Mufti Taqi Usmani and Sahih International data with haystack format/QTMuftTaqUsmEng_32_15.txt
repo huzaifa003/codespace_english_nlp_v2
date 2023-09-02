@@ -1,0 +1,1 @@
+{'text': 'Only those people believe in Our verses who, when they are reminded of them, fall in prostration and pronounce the purity and praise of their Lord, and who do not wax proud.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 32, 'ayah_no': 15, 'surah_name_en': 'As-Sajda (The Prostration)', 'surah_name_ar': 'السجدۃ'}}

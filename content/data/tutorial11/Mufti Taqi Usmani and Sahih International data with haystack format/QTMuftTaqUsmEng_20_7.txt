@@ -1,0 +1,1 @@
+{'text': 'If you pronounce the word aloud, then (it makes no difference, for) He certainly knows the secret and what is even more hidden.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 7, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

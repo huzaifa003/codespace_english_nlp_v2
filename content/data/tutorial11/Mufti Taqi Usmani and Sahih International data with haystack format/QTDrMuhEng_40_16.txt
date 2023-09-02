@@ -1,0 +1,1 @@
+{'text': 'The Day when they will (all) come out, nothing of them will be hidden from Allah. Whose is the kingdom this Day? (Allah Himself will reply to His Question): It is Allahs the One, the Irresistible!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 16, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

@@ -1,0 +1,1 @@
+{'text': 'If they (Jews) belie you (Muhammad SAW) say you: "Your Lord is the Owner of Vast Mercy, and never will His Wrath be turned back from the people who are Mujrimoon (criminals, polytheists, sinners, etc.)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 147, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

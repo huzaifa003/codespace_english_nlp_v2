@@ -1,0 +1,1 @@
+{'text': 'So nothing was the answer of (Ibraheems (Abraham)) people except that they said: "Kill him or burn him." Then Allah saved him from the fire. Verily, in this are indeed signs for a people who believe.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 29, 'ayah_no': 24, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

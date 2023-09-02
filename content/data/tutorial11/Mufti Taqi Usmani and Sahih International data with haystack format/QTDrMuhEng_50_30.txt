@@ -1,0 +1,1 @@
+{'text': 'On the Day when We will say to Hell: "Are you filled?" It will say: "Are there any more (to come)?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 50, 'ayah_no': 30, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

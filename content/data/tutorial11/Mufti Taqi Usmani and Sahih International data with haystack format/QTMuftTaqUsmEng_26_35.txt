@@ -1,0 +1,1 @@
+{'text': 'He wants to expel you from your land with his sorcery. So what do you suggest?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 35, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

@@ -1,0 +1,1 @@
+{'text': 'When they do a shameful act, they say, “We have found our fathers doing it, and Allah has ordered us to do so.” Say, “Allah never orders anything shameful. Do you say about Allah what you do not know?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 28, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

@@ -1,0 +1,1 @@
+{'text': 'Leave (O mankind, all kinds of) sin, open and secret. Verily, those who commit sin will get due recompense for that which they used to commit.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 120, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

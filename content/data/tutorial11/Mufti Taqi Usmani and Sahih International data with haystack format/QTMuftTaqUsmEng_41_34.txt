@@ -1,0 +1,1 @@
+{'text': 'Good and evil are not equal. Repel (evil) with what is best, and you will see that the one you had mutual enmity with him will turn as if he were a close friend.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 41, 'ayah_no': 34, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

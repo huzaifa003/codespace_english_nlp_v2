@@ -1,0 +1,1 @@
+{'text': 'the path of those on whom You have bestowed Your Grace, not of those who have incurred Your wrath, nor of those who have gone astray.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 1, 'ayah_no': 7, 'surah_name_en': 'Al-Fatiha (The Opening)', 'surah_name_ar': 'الفاتحۃ'}}

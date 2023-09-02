@@ -1,0 +1,1 @@
+{'text': 'O you who believe, fear Allah, as He should be feared, and let not yourself die save as Muslims.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 102, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

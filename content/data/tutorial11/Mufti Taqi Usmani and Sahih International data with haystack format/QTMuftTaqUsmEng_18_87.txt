@@ -1,0 +1,1 @@
+{'text': 'He said, “As for him who does wrong, we shall punish him, then he will be sent back to his Lord, and He will punish him with a severe punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 87, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

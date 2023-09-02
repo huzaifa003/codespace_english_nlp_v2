@@ -1,0 +1,1 @@
+{'text': 'Say (O Prophet), “My Lord will never care about you, if you will not invoke Him. Now since you rejected (the truth), the punishment will be inseparable from you.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 77, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

@@ -1,0 +1,1 @@
+{'text': '(Such is) Allah. There is no god but He. For Him are the Beautiful Names.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 8, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

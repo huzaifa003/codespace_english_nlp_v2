@@ -1,0 +1,1 @@
+{'text': 'When you said, “Mūsā, we will never believe you till we see Allah openly!” So, the thunderbolt took you while you were looking on.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 55, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

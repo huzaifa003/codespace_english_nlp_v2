@@ -1,0 +1,1 @@
+{'text': 'Truly We have made it (as) a trail for the Zalimoon (polytheists, disbelievers, wrong-doers, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 63, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

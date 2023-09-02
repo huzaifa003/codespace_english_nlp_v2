@@ -1,0 +1,1 @@
+{'text': 'There have been many prophets with whom many men of Allah have fought; they did not lose heart for what they suffered in the way of Allah, nor did they become weak, nor did they yield. Allah loves the steadfast.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 146, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

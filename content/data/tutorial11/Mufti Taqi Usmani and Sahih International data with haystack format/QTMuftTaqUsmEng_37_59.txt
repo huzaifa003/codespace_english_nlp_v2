@@ -1,0 +1,1 @@
+{'text': 'beyond our first death, nor are we going to be punished?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 59, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

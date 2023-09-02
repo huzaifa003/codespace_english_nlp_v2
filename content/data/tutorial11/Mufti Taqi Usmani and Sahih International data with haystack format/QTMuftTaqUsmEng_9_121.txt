@@ -1,0 +1,1 @@
+{'text': 'Whatever they spend, be it less or more, and whenever they cross a valley, is all written down for them, so that Allah may give them the best reward for what they used to do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 121, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

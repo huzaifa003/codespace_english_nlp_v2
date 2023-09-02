@@ -1,0 +1,1 @@
+{'text': 'We know very well what they say, when the best of them in his ways will say, “You did not remain more than one day.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 104, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

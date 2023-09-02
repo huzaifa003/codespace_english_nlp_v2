@@ -1,0 +1,1 @@
+{'text': 'He (the speaker) will say (to other people in Paradise) “Would you like to have a look (at Jahannam to find out what happened to that companion of mine)?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 54, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

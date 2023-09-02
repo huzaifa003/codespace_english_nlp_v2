@@ -1,0 +1,1 @@
+{'text': 'If you disclose your Sadaqat (alms-giving), it is well, but if you conceal it, and give it to the poor, that is better for you. (Allah) will forgive you some of your sins. And Allah is Well-Acquainted with what you do.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 271, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

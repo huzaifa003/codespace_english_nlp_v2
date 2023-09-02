@@ -1,0 +1,1 @@
+{'text': 'They ask you about the spoils. Say, “The spoils are for Allah and the Messenger.” So, fear Allah, and set your relations right, and obey Allah and His Messenger, if you are believers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 1, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

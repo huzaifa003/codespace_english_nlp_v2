@@ -1,0 +1,1 @@
+{'text': 'This is Our book that speaks against you with truth. We used to get recorded all that you used to do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 29, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

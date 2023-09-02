@@ -1,0 +1,1 @@
+{'text': 'those who fulfill (their) pledge with Allah and do not break the covenant,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 13, 'ayah_no': 20, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

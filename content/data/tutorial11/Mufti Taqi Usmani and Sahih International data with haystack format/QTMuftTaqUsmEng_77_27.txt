@@ -1,0 +1,1 @@
+{'text': 'And We placed towering mountains therein, and provided you with sweet water to drink.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 77, 'ayah_no': 27, 'surah_name_en': 'Al-Mursalat (The emissaries)', 'surah_name_ar': 'المرسلٰت'}}

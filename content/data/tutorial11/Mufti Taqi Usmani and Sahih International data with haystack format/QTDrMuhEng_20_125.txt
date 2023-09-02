@@ -1,0 +1,1 @@
+{'text': 'He will say:"O my Lord! Why have you raised me up blind, while I had sight (before)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 125, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

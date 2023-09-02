@@ -1,0 +1,1 @@
+{'text': 'For everyone there is a direction to which he turns his face. Strive, then, to excel each other in good deeds. Wherever you are, Allah will bring you all together. Allah is certainly powerful over everything.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 148, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

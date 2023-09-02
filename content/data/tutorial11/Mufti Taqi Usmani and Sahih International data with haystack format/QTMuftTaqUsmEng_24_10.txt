@@ -1,0 +1,1 @@
+{'text': 'Had it not been for the grace of Allah upon you, and His mercy, and (had it not been) that Allah is Most-Relenting, All-Wise, (you would have faced severe hardships).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 10, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

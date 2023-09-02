@@ -1,0 +1,1 @@
+{'text': 'And with them will be chaste females, restraining their glances (desiring none except their husbands), with wide and beautiful eyes.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 48, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

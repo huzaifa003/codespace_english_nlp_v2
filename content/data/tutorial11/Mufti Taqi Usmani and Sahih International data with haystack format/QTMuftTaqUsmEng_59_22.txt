@@ -1,0 +1,1 @@
+{'text': 'He is Allah, besides whom there is no god, the Knower of the unseen and the seen. He is All-Merciful, Very-Merciful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 59, 'ayah_no': 22, 'surah_name_en': 'Al-Hashr (Exile)', 'surah_name_ar': 'الحشر'}}

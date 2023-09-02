@@ -1,0 +1,1 @@
+{'text': 'If you stretch your hand towards me to kill me, I am not going to stretch my hand towards you to kill you. Indeed, I fear Allah, the Lord of the worlds.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 28, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

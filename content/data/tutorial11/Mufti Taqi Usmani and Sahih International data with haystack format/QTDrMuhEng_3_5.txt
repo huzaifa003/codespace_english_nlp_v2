@@ -1,0 +1,1 @@
+{'text': 'Truly, nothing is hidden from Allah, in the earth or in the heavens.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 5, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

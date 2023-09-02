@@ -1,0 +1,1 @@
+{'text': 'Is your creation more difficult or that of the sky? He has built it,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 79, 'ayah_no': 27, 'surah_name_en': 'An-Naziat (Those who drag forth)', 'surah_name_ar': 'النّٰزِعٰتِ'}}

@@ -1,0 +1,1 @@
+{'text': 'Hence, they shall bear the full weight of their burdens on the Day of Judgment, and also some of the burdens of those whom they mislead without knowledge. Remember, evil is the burden they bear.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 25, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

@@ -1,0 +1,1 @@
+{'text': 'Why do the Men of Allah and the Men of Knowledge not forbid them from saying what is sinful and devouring what is unlawful? Evil indeed is what they have been working.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 63, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

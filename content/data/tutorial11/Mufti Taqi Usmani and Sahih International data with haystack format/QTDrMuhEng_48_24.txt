@@ -1,0 +1,1 @@
+{'text': 'And He it is Who has withheld their hands from you and your hands from them in the midst of Makkah, after He had made you victors over them. And Allah is Ever the All-Seer of what you do.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 48, 'ayah_no': 24, 'surah_name_en': 'Al-Fath (The victory)', 'surah_name_ar': 'الفتح'}}

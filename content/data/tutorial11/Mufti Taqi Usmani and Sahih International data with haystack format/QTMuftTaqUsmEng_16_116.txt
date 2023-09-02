@@ -1,0 +1,1 @@
+{'text': 'Do not say about what your tongues describe falsely, “This is lawful and that is unlawful” so that you may forge the lie upon Allah. Surely, those who forge a lie upon Allah do not prosper.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 116, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

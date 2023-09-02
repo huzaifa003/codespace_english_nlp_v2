@@ -1,0 +1,1 @@
+{'text': 'Verily! In this is indeed a sign (or a proof), yet most of them are not believers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 67, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

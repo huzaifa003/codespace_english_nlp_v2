@@ -1,0 +1,1 @@
+{'text': 'Certainly you have knowledge of those among you who transgressed in (the matter of) the Sabbath. We said to them, “Become apes, abased.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 65, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

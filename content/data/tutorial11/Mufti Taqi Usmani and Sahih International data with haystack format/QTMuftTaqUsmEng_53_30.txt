@@ -1,0 +1,1 @@
+{'text': 'That is the limit of their access to knowledge. Indeed only your Lord knows well about the one who has gone astray from his way, and He knows well about the one who has adopted the right path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 53, 'ayah_no': 30, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

@@ -1,0 +1,1 @@
+{'text': 'They will hear neither an absurd talk in it, nor something leading to sin,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 56, 'ayah_no': 25, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

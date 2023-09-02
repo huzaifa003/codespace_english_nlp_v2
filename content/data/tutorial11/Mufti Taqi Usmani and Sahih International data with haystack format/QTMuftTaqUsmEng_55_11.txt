@@ -1,0 +1,1 @@
+{'text': 'in which there are fruits and date palms having sheaths,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 55, 'ayah_no': 11, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

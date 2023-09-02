@@ -1,0 +1,1 @@
+{'text': 'So if you have a plot, use it against Me (Allah Ìá ÌáÇáå )!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 77, 'ayah_no': 39, 'surah_name_en': 'Al-Mursalat (The emissaries)', 'surah_name_ar': 'المرسلٰت'}}

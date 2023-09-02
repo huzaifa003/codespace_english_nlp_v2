@@ -1,0 +1,1 @@
+{'text': 'They were unable to frustrate (Allah’s plan) on the earth, and they had no supporters besides Allah. Punishment will be doubled for them. They were not able to hear, nor would they see.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 20, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

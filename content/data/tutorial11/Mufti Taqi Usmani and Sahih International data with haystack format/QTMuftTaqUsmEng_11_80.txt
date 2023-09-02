@@ -1,0 +1,1 @@
+{'text': 'He said, “Would that I had some power over you, or could seek refuge in a strong support!”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 80, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

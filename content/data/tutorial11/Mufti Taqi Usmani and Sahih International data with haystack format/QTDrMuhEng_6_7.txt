@@ -1,0 +1,1 @@
+{'text': 'And even if We had sent down unto you (O Muhammad SAW) a Message written on paper so that they could touch it with their hands, the disbelievers would have said: "This is nothing but obvious magic!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 7, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

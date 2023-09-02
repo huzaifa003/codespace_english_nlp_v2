@@ -1,0 +1,1 @@
+{'text': 'And if an evil whisper comes to you from Shaitan (Satan) then seek refuge with Allah. Verily, He is All-Hearer, All-Knower.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 200, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

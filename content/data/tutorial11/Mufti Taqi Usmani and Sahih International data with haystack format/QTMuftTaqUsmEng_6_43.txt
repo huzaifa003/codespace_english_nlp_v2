@@ -1,0 +1,1 @@
+{'text': 'Why then, did they not supplicate in humility when a calamity from Us came upon them? Instead, their hearts were hardened and Satan adorned for them what they were doing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 43, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

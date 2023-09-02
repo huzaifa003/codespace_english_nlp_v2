@@ -1,0 +1,1 @@
+{'text': 'And the messenger will say, “O my Lord, my people had taken this Qur’ān as deserted.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 30, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

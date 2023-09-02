@@ -1,0 +1,1 @@
+{'text': '"And press your (right) hand to your (left) side, it will come forth white (and shining), without any disease as another sign,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 22, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

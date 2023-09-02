@@ -1,0 +1,1 @@
+{'text': 'When the word will come to fall upon them, We will bring forth for them a beast from the earth who will speak to them that the human beings (i.e the infidels) did not believe in Our signs.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 82, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

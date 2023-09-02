@@ -1,0 +1,1 @@
+{'text': 'That is because they followed that which has angered Allah, and they disliked His pleasure; therefore He has nullified their deeds.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 47, 'ayah_no': 28, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

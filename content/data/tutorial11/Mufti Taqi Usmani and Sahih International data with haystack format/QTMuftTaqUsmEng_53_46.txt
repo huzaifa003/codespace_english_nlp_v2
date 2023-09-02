@@ -1,0 +1,1 @@
+{'text': 'from a sperm-drop when it is poured (into a womb),', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 53, 'ayah_no': 46, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

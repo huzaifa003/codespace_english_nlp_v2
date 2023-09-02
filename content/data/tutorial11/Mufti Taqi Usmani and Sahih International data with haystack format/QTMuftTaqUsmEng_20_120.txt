@@ -1,0 +1,1 @@
+{'text': 'Then the Satan instigated him. He said, “’Ādam, shall I guide you to the tree of eternity and to an empire that does not decay?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 120, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

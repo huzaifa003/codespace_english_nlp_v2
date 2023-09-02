@@ -1,0 +1,1 @@
+{'text': 'So, they returned with bounty from Allah, and grace, with no evil having even touched them, and submitted to the pleasure of Allah. Allah is the Lord of great bounty.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 174, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

@@ -1,0 +1,1 @@
+{'text': 'Such was the tribe of ‘Ād who rejected the signs of their Lord, disobeyed their Messengers and followed the dictates of every obstinate tyrant!', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 59, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

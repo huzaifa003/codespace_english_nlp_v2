@@ -1,0 +1,1 @@
+{'text': 'Did we take them as an object of mockery, or have (our) eyes failed to perceive them?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 63, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

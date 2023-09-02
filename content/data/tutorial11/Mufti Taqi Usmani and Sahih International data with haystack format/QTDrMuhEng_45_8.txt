@@ -1,0 +1,1 @@
+{'text': 'Who hears the Verses of Allah (being) recited to him, yet persists with pride as if he heard them not. So announce to him a painful torment!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 45, 'ayah_no': 8, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

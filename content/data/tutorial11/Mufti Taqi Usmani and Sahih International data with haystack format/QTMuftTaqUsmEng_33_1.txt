@@ -1,0 +1,1 @@
+{'text': 'O Prophet, fear Allah and do not obey the disbelievers and the hypocrites. Surely Allah is All-Knowing, All-Wise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 1, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

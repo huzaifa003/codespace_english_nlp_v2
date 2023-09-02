@@ -1,0 +1,1 @@
+{'text': 'And pronounce the name of Allah morning and evening.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 25, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

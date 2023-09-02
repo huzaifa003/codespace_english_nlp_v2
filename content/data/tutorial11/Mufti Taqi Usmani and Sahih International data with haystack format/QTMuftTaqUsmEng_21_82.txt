@@ -1,0 +1,1 @@
+{'text': 'And from the devils, (We subjugated for him) those who dived in water for him and did jobs other than that. And We were the One who kept watch over them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 82, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

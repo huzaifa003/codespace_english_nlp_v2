@@ -1,0 +1,1 @@
+{'text': 'He (Our Messenger) said, “My Lord, judge with truth. And Our Lord is the RaHmān (All-Merciful), the One whose help is sought against what you describe.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 112, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

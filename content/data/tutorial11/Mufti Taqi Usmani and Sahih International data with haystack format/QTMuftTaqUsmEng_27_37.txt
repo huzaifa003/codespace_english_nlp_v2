@@ -1,0 +1,1 @@
+{'text': 'Go back to them, and we will bring to them forces they have no power to face, and we will certainly drive them out from there in humiliation while they are disgraced.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 37, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

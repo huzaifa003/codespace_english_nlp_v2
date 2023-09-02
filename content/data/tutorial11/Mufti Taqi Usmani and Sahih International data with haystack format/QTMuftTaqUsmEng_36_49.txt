@@ -1,0 +1,1 @@
+{'text': 'They are looking for nothing but for a single Cry that will seize them when they will be quarrelling.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 49, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

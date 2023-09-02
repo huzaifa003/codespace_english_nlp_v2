@@ -1,0 +1,1 @@
+{'text': 'O you who believe, do not betray the trust of Allah and the Messenger-, and do not betray your mutual trusts, while you know.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 27, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

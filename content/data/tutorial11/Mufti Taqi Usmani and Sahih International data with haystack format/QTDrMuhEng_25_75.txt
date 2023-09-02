@@ -1,0 +1,1 @@
+{'text': 'Those will be rewarded with the highest place (in Paradise) because of their patience. Therein they shall be met with greetings and the word of peace and respect.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 75, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

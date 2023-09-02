@@ -1,0 +1,1 @@
+{'text': 'That is because they were hostile to Allah and His Messenger; and whoever becomes hostile to Allah and His Messenger, then, Allah is severe at punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 13, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

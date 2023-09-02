@@ -1,0 +1,1 @@
+{'text': 'We have destroyed people like you; so, is there one to take lesson?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 54, 'ayah_no': 51, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

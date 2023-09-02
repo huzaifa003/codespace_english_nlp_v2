@@ -1,0 +1,1 @@
+{'text': 'And among His Signs is this, that He created you (Adam) from dust, and then (Hawwa (Eve) from Adams rib, and then his offspring from the semen, and), - behold you are human beings scattered!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 30, 'ayah_no': 20, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

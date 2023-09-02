@@ -1,0 +1,1 @@
+{'text': 'And they came with fake blood on his shirt. He said, “Rather, your inner desires have tempted you to do something. So, patience is best. It is Allah whose help is sought against what you describe.’’', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 18, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

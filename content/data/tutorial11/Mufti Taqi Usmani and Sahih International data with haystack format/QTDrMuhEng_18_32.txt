@@ -1,0 +1,1 @@
+{'text': 'And put forward to them the example of two men; unto one of them We had given two gardens of grapes, and We had surrounded both with date-palms; and had put between them green crops (cultivated fields etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 32, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

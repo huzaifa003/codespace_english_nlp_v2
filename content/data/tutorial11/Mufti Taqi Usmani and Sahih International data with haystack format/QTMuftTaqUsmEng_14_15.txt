@@ -1,0 +1,1 @@
+{'text': 'They sought final decision (by demanding the divine scourge), and (thus) every obstinate tyrant failed.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 15, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

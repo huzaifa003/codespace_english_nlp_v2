@@ -1,0 +1,1 @@
+{'text': 'And when I (Allah) put in the hearts of Al-Hawareeeen (the disciples) (of Iesa (Jesus)) to believe in Me and My Messenger, they said: "We believe. And bear witness that we are Muslims."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 5, 'ayah_no': 111, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

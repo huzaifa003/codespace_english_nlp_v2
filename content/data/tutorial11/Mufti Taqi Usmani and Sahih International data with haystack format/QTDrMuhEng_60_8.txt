@@ -1,0 +1,1 @@
+{'text': 'Allah does not forbid you to deal justly and kindly with those who fought not against you on account of religion and did not drive you out of your homes. Verily, Allah loves those who deal with equity.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 60, 'ayah_no': 8, 'surah_name_en': 'Al-Mumtahina (She that is to be examined)', 'surah_name_ar': 'الممتحنۃ'}}

@@ -1,0 +1,1 @@
+{'text': '(As for an obedient man, it will be said to him,) “O content soul,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 89, 'ayah_no': 27, 'surah_name_en': 'Al-Fajr (The Dawn)', 'surah_name_ar': 'الفجر'}}

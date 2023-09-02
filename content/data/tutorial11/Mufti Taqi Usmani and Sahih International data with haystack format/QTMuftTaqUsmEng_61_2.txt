@@ -1,0 +1,1 @@
+{'text': 'O you who believe, why do you say what you do not do?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 61, 'ayah_no': 2, 'surah_name_en': 'As-Saff (The Ranks)', 'surah_name_ar': 'الصّف'}}

@@ -1,0 +1,1 @@
+{'text': 'except the One on whom Allah has mercy. Of course, He is the All-Mighty, the Very-Merciful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 44, 'ayah_no': 42, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

@@ -1,0 +1,1 @@
+{'text': 'So they threw their ropes and their sticks, and said: "By the might of Firaun (Pharaoh), it is we who will certainly win!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 44, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

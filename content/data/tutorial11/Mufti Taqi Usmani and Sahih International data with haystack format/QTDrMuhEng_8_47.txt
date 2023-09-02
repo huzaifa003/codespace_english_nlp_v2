@@ -1,0 +1,1 @@
+{'text': 'And be not like those who come out of their homes boastfully and to be seen of men, and hinder (men) from the Path of Allah. and Allah is Muheetun (encircling and thoroughly comprehending) all that they do.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 8, 'ayah_no': 47, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

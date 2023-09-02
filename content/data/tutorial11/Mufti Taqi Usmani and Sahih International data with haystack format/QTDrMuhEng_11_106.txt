@@ -1,0 +1,1 @@
+{'text': 'As for those who are wretched, they will be in the Fire, sighing in a high and low tone.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 106, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

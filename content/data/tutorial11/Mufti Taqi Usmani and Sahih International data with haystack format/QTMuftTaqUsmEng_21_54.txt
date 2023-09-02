@@ -1,0 +1,1 @@
+{'text': 'He said, “Surely you and your fathers have been in open error.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 54, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

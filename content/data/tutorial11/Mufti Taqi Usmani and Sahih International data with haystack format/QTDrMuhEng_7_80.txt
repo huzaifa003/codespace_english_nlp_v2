@@ -1,0 +1,1 @@
+{'text': 'And (remember) Lout (Lot), when he said to his people: "Do you commit the worst sin such as none preceding you has committed in the Alameen (mankind and jinns)?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 80, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

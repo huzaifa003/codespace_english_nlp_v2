@@ -1,0 +1,1 @@
+{'text': '(We dye ourselves with) the colouring of Allah! For who is better in colouring than Allah? We are to worship none but Him.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 138, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

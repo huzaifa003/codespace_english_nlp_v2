@@ -1,0 +1,1 @@
+{'text': 'Do you erect on every height a monument, having no sound purpose,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 128, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

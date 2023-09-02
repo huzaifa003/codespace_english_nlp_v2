@@ -1,0 +1,1 @@
+{'text': 'If you make Sadaqāt (alms) openly, it is good enough, and if you keep it secret and give it to the needy, it is much better for you, and this will write off part of your sins. Allah is All-Aware of what you do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 271, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

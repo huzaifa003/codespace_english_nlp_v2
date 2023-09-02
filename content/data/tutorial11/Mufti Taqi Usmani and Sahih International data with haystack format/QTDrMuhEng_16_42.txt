@@ -1,0 +1,1 @@
+{'text': '(They are) those who remained patient (in this world for Allahs sake), and put their trust in their Lord (Allah Alone).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 42, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

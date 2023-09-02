@@ -1,0 +1,1 @@
+{'text': 'Say, “Allah knows best how long they stayed. To Him belongs the unseen of the heavens and the earth - how well He sees and how well He hears! They have no supporter other than Him and He lets no one share His authority.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 26, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

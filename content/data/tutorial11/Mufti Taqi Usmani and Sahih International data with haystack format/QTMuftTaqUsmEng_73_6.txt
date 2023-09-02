@@ -1,0 +1,1 @@
+{'text': 'Truly, rising by night (for prayer of tahajjud) is the most effective way to subdue (one’s base self) and to make speech more upright.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 73, 'ayah_no': 6, 'surah_name_en': 'Al-Muzzammil (The enshrouded one)', 'surah_name_ar': 'المزّمّل'}}

@@ -1,0 +1,1 @@
+{'text': '"And you will know who it is on whom will come a torment that will cover him with disgrace and on whom will fall a lasting torment."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 39, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

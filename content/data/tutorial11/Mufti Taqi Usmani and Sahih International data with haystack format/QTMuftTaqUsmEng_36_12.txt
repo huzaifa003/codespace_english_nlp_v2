@@ -1,0 +1,1 @@
+{'text': 'Surely We will give new life to the dead, and We are recording whatever (deeds) they send before them and whatever effects they leave behind. Every thing is fully computed by Us in a manifest book of record.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 12, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

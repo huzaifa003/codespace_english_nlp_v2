@@ -1,0 +1,1 @@
+{'text': 'Whatever good they do, they shall never go unappreciated for it. Allah is All-Aware of the God-fearing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 115, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

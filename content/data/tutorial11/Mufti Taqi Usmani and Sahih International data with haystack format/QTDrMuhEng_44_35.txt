@@ -1,0 +1,1 @@
+{'text': '"There is nothing but our first death, and we shall not be resurrected.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 44, 'ayah_no': 35, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

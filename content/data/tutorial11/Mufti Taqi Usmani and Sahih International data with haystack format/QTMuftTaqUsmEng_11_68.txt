@@ -1,0 +1,1 @@
+{'text': 'as though they had never lived there. Lo! The people of Thamūd disbelieved their Lord. Lo! Ruined were the people of Thamūd.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 68, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

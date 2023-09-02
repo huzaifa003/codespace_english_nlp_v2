@@ -1,0 +1,1 @@
+{'text': '(When the child was born, Allah said to him,) “O YaHyā, hold on to the Book firmly.” And We gave him wisdom, while he was still a child,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 12, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

@@ -1,0 +1,1 @@
+{'text': 'Had he (the prophet) forged some statements in Our name,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 69, 'ayah_no': 44, 'surah_name_en': 'Al-Haaqqa (The reality)', 'surah_name_ar': 'الحاقہ'}}

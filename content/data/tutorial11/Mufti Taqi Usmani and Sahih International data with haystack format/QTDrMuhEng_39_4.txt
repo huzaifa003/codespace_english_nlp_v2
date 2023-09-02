@@ -1,0 +1,1 @@
+{'text': 'Had Allah willed to take a son (or offspring or children), He could have chosen whom He pleased out of those whom He created. But glory be to Him! (He is above such things). He is Allah, the One, the Irresistible.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 4, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

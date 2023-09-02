@@ -1,0 +1,1 @@
+{'text': 'Whoever obeys Allah and His messenger and has awe of Him and observes Taqwā for His sake, then such people are the victorious.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 52, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

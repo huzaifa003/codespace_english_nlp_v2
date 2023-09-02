@@ -1,0 +1,1 @@
+{'text': '(The angel) said: "I am only a Messenger from your Lord, (to announce) to you the gift of a righteous son."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 19, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

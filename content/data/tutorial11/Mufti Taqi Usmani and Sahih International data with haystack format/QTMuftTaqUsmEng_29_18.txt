@@ -1,0 +1,1 @@
+{'text': 'And if you reject me, then many nations have rejected their messengers before you. The messenger has no more obligation than to convey the message clearly.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 18, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

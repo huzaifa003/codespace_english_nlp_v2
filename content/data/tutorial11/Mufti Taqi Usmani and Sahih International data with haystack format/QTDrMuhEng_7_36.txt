@@ -1,0 +1,1 @@
+{'text': 'But those who reject Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) and treat them with arrogance, they are the dwellers of the (Hell) Fire, they will abide therein forever.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 36, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

@@ -1,0 +1,1 @@
+{'text': 'the one who feared the RaHmān (The All-Merciful Allah), without seeing Him, and came up with a heart oriented towards Him.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 33, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

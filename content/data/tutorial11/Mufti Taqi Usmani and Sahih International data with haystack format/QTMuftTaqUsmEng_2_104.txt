@@ -1,0 +1,1 @@
+{'text': 'O you who believe, do not say Rā‘inā, but say UnZurnā, and listen, as there is a grievous punishment for the unbelievers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 104, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

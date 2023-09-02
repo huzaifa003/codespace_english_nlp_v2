@@ -1,0 +1,1 @@
+{'text': 'They wish to extinguish the light of Allah with their mouths, but Allah is to perfect His light, even though the disbelievers dislike (it).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 61, 'ayah_no': 8, 'surah_name_en': 'As-Saff (The Ranks)', 'surah_name_ar': 'الصّف'}}

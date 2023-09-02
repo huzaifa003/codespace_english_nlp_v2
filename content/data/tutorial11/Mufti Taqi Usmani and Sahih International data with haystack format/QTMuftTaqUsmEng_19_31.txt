@@ -1,0 +1,1 @@
+{'text': 'and He has made me a blessed one wherever I be, and has enjoined Salāh and Zakāh upon me as long as I am alive,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 31, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

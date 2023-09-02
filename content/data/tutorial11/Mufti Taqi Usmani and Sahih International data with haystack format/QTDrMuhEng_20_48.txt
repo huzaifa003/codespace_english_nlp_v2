@@ -1,0 +1,1 @@
+{'text': 'Truly, it has been revealed to us that the torment will be for him who denies (believes not in the Oneness of Allah, and in His Messengers, etc.), and turns away.(from the truth and obedience of Allah)"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 48, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

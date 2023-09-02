@@ -1,0 +1,1 @@
+{'text': 'Or have they plotted some plan? Then We too are planning.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 79, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

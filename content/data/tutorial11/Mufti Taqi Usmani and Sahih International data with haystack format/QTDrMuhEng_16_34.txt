@@ -1,0 +1,1 @@
+{'text': 'Then, the evil results of their deeds overtook them, and that at which they used to mock surrounded them.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 34, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

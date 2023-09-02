@@ -1,0 +1,1 @@
+{'text': 'And put your hand into your bosom, and it will come out white, without any evil, as one of the nine signs (sent) to Pharaoh and his people. Surely they have been a sinful people.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 12, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

@@ -1,0 +1,1 @@
+{'text': 'She placed a screen (to screen herself) from them; then We sent to her Our Ruh (angel Jibrael (Gabriel)), and he appeared before her in the form of a man in all respects.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 17, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

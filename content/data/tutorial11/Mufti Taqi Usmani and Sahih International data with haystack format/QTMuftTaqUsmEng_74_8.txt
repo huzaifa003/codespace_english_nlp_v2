@@ -1,0 +1,1 @@
+{'text': 'For when the trumpet will be blown,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 74, 'ayah_no': 8, 'surah_name_en': 'Al-Muddathir (The cloaked one)', 'surah_name_ar': 'المدّثّر'}}

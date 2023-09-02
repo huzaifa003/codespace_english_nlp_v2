@@ -1,0 +1,1 @@
+{'text': 'And indeed Moosa (Moses) came to you with clear proofs, yet you worshipped the calf after he left, and you were Zalimoon (polytheists and wrong-doers).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 92, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

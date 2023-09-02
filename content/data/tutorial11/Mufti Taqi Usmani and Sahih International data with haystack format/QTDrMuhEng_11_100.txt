@@ -1,0 +1,1 @@
+{'text': 'These are some of the news of the (population of) towns which We relate unto you (O Muhammad SAW); of them, some are standing, and some have been (already) reaped.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 100, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

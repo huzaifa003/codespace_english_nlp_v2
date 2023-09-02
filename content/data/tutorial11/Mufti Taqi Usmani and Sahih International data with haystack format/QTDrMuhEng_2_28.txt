@@ -1,0 +1,1 @@
+{'text': 'How can you disbelieve in Allah? Seeing that you were dead and He gave you life. Then He will give you death, then again will bring you to life (on the Day of Resurrection) and then unto Him you will return.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 28, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

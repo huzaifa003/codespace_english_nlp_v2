@@ -1,0 +1,1 @@
+{'text': 'By those (angels) who gently take out (the souls of the believers);', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 79, 'ayah_no': 2, 'surah_name_en': 'An-Naziat (Those who drag forth)', 'surah_name_ar': 'النّٰزِعٰتِ'}}

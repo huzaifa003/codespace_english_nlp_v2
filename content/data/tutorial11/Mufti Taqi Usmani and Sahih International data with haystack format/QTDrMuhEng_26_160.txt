@@ -1,0 +1,1 @@
+{'text': 'The prople of Lout (Lot) (those dwelt in the towns of Sodom in Palestine) belied the Messengers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 160, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

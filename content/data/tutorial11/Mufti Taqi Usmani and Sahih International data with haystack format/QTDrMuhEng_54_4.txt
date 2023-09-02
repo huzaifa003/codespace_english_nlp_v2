@@ -1,0 +1,1 @@
+{'text': 'And indeed there has come to them news (in this Quran) wherein there is (enough warning) to check (them from evil),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 4, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

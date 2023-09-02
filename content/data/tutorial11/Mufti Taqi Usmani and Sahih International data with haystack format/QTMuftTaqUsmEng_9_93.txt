@@ -1,0 +1,1 @@
+{'text': 'Blame lies, in fact, on those who ask you permission despite being rich. They are happy being with women who sit back. Allah has sealed their hearts; so they do not know.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 93, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

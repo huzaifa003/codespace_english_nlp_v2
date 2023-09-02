@@ -1,0 +1,1 @@
+{'text': 'O sister of Hārūn, neither your father was a man of evil nor was your mother unchaste.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 28, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

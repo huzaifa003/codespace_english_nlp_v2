@@ -1,0 +1,1 @@
+{'text': 'And He it is Who has put the night and the day in succession, for such who desires to remember or desires to show his gratitude.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 62, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

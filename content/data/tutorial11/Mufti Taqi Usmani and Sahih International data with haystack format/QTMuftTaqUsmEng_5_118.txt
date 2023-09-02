@@ -1,0 +1,1 @@
+{'text': 'If You punish them, they are Your slaves after all, but if You forgive them, You are the Mighty, the Wise.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 118, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

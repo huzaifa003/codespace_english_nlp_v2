@@ -1,0 +1,1 @@
+{'text': 'Surely, We do help Our messengers and the believers, in the worldly life, as well as (we will help them) on the day in which witnesses will stand (to give their testimony)-', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 51, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

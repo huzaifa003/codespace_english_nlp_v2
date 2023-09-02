@@ -1,0 +1,1 @@
+{'text': 'so that Allah repays everyone in full whatever he earned. Indeed, Allah is swift at reckoning.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 51, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

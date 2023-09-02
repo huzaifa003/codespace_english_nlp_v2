@@ -1,0 +1,1 @@
+{'text': 'It is the same (to Him) whether any of you conceal his speech or declare it openly, whether he be hid by night or go forth freely by day.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 13, 'ayah_no': 10, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

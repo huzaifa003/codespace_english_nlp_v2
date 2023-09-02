@@ -1,0 +1,1 @@
+{'text': 'When ‘Īsā came with clear proofs, he said, “I have come to you with wisdom, and to explain to you some of those matters in which you differ. So, fear Allah, and obey me.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 63, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

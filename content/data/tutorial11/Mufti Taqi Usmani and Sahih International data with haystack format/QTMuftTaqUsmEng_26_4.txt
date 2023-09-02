@@ -1,0 +1,1 @@
+{'text': 'If We so will, We can send down to them a sign from the sky, for which their necks will stay bent in submission.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 4, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

@@ -1,0 +1,1 @@
+{'text': 'Surely, for those who believe and do righteous deeds there are gardens of bliss', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 31, 'ayah_no': 8, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

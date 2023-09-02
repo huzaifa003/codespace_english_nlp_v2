@@ -1,0 +1,1 @@
+{'text': 'We did not destroy any town unless it has had warners', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 208, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

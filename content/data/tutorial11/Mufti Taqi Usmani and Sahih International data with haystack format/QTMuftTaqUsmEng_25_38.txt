@@ -1,0 +1,1 @@
+{'text': 'And (We annihilated also the peoples of) ‘Ād and Thamūd and the people of Rass, and many generations in between them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 38, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

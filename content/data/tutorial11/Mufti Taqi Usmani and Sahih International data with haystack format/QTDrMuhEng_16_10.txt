@@ -1,0 +1,1 @@
+{'text': 'He it is Who sends down water (rain) from the sky; from it you drink and from it (grows) the vegetation on which you send your cattle to pasture;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 10, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

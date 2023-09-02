@@ -1,0 +1,1 @@
+{'text': 'So, the one whose scales (of good deeds) turn out to be heavy, then such people are the successful ones,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 23, 'ayah_no': 102, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

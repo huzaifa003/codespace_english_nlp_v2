@@ -1,0 +1,1 @@
+{'text': 'And they say, “Once we are reduced to bones and dust, is it then that we will be raised, created anew?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 49, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

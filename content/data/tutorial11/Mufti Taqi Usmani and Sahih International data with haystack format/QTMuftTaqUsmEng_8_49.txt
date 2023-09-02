@@ -1,0 +1,1 @@
+{'text': 'When the hypocrites and those who have a malady in their hearts said, “The belief of these people has deluded them.” And whoever places his trust in Allah (becomes victorious, because) Allah is Mighty, Wise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 49, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

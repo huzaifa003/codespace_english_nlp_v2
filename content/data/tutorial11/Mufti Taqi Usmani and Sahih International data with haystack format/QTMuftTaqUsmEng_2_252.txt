@@ -1,0 +1,1 @@
+{'text': 'These are the verses of Allah that We recite to you (O Prophet), with all veracity, and certainly you are among the Messengers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 252, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

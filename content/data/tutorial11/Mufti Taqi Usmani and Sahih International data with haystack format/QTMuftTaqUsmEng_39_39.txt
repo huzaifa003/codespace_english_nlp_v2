@@ -1,0 +1,1 @@
+{'text': 'Say, “O my people, do at your place (what you are doing). I am to do (what I have been ordered to). Very soon, you will come to know', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 39, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

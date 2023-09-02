@@ -1,0 +1,1 @@
+{'text': 'It is taught to him by one (angel) of strong faculties,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 53, 'ayah_no': 5, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

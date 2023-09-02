@@ -1,0 +1,1 @@
+{'text': 'Say (O Muhammad SAW): "Verily, if I disobey my Lord, I am afraid of the torment of a great Day."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 13, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

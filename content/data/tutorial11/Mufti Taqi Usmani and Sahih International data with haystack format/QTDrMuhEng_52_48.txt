@@ -1,0 +1,1 @@
+{'text': 'So wait patiently (O Muhammad SAW) for the Decision of your Lord, for verily, you are under Our Eyes , and glorify the Praises of your Lord when you get up from sleep.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 52, 'ayah_no': 48, 'surah_name_en': 'At-tur (Mount Sinai)', 'surah_name_ar': 'الطّور'}}

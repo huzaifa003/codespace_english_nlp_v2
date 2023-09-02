@@ -1,0 +1,1 @@
+{'text': 'And indeed he (Muhammad SAW) saw him (Jibrael (Gabriel)) at a second descent (i.e. another time).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 13, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

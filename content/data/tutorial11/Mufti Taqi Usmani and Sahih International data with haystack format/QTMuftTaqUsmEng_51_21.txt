@@ -1,0 +1,1 @@
+{'text': 'and in your own selves! So, do you not perceive?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 51, 'ayah_no': 21, 'surah_name_en': 'Adh-Dhariyat (The winnowing winds)', 'surah_name_ar': 'الذّٰریٰت'}}

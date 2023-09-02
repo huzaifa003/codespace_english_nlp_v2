@@ -1,0 +1,1 @@
+{'text': 'Say (O Muhammad SAW) "Allah Alone I worship by doing religious deeds sincerely for His sake only and not to show-off, and not to set up rivals with Him in worship."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 14, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

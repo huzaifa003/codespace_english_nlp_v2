@@ -1,0 +1,1 @@
+{'text': '"O my people! Enter the holy land (Palestine) which Allah has assigned to you, and turn not back (in flight) for then you will be returned as losers." \n \n \n 22. They said: "O Moosa (Moses)! In it (this holy', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 5, 'ayah_no': 21, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'Though he may put forth his excuses (to cover his evil deeds).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 75, 'ayah_no': 15, 'surah_name_en': 'Al-Qiyama (The rising of the dead)', 'surah_name_ar': 'القیٰمۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'So, he turned away from them and said, “O my people, I have surely delivered to you the message of my Lord, and wished your betterment. How, then, should I grieve over a disbelieving people?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 93, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

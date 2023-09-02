@@ -1,0 +1,1 @@
+{'text': 'Floating under Our Eyes, a reward for him who had been rejected!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 14, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

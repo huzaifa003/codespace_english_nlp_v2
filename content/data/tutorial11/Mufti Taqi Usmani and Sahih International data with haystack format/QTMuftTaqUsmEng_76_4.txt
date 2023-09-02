@@ -1,0 +1,1 @@
+{'text': 'We have prepared, for the disbelievers, shackles and iron-collars and a blazing Fire.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 4, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

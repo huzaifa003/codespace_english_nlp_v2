@@ -1,0 +1,1 @@
+{'text': 'So worship what you like besides Him. Say (O Muhammad SAW): "The losers are those who will lose themselves and their families on the Day of Resurrection. Verily, that will be a manifest loss!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 15, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

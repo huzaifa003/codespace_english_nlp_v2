@@ -1,0 +1,1 @@
+{'text': 'and he drew out his hand, and it was luminous for the onlookers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 108, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

@@ -1,0 +1,1 @@
+{'text': 'On the Day when the earth will be changed to another earth and so will be the heavens, and they (all creatures) will appear before Allah, the One, the Irresistible.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 14, 'ayah_no': 48, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

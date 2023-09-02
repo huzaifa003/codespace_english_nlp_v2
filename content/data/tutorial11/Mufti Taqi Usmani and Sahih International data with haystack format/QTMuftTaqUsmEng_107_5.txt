@@ -1,0 +1,1 @@
+{'text': 'who are neglectful of their Salāh,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 107, 'ayah_no': 5, 'surah_name_en': 'Al-Maun (Alms Giving)', 'surah_name_ar': 'المَاعُون'}}

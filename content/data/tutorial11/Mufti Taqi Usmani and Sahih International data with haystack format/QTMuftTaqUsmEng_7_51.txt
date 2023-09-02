@@ -1,0 +1,1 @@
+{'text': 'who had taken their faith as play and a game, and the worldly life had deceived them.” So, We shall forget them today, as they had forgotten to face this day of theirs, and as they used to deny Our signs.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 51, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

@@ -1,0 +1,1 @@
+{'text': 'And indeed We showed him (Firaun (Pharaoh)) all Our Signs and Evidences, but he denied and refused.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 56, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

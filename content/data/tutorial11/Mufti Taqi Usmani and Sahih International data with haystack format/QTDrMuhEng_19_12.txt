@@ -1,0 +1,1 @@
+{'text': '(It was said to his son): "O Yahya (John)! Hold fast the Scripture (the Taurat (Torah))." And We gave him wisdom while yet a child.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 12, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

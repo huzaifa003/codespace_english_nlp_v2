@@ -1,0 +1,1 @@
+{'text': 'On that day, neither a man will be questioned about his sin, nor a Jinn.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 55, 'ayah_no': 39, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

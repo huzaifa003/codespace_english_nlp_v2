@@ -1,0 +1,1 @@
+{'text': 'until when such a person will come to us, he will say (to the devil), “Would that there were the distance of East and West between me and you, because you were the worst companion.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 38, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

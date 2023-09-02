@@ -1,0 +1,1 @@
+{'text': 'that is, they do not prostrate to Allah who brings forth what is hidden in the heavens and the earth,-and who knows whatever you conceal and whatever you reveal.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 25, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

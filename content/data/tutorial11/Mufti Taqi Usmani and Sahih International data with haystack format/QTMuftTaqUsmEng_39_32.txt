@@ -1,0 +1,1 @@
+{'text': 'So, who is more unjust than him who forges a lie against Allah and rejects the truth when it reached him? Is it not that in Jahannam (Hell) there is an abode for the disbelievers?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 32, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

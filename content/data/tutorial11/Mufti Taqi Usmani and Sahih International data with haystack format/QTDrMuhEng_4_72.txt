@@ -1,0 +1,1 @@
+{'text': 'There is certainly among you he who would linger behind (from fighting in Allahs Cause). If a misfortune befalls you, he says, "Indeed Allah has favoured me in that I was not present among them."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 4, 'ayah_no': 72, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

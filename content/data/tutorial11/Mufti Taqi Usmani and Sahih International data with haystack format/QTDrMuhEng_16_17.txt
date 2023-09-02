@@ -1,0 +1,1 @@
+{'text': 'Is then He, Who creates as one who creates not? Will you not then remember?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 17, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

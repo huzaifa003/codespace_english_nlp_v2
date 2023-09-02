@@ -1,0 +1,1 @@
+{'text': 'And if you do not believe in me, then keep away from me.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 44, 'ayah_no': 21, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

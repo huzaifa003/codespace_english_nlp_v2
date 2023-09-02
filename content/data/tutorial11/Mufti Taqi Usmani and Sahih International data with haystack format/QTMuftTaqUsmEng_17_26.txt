@@ -1,0 +1,1 @@
+{'text': 'Give the relative his right, and the needy and the wayfarer. And do not squander recklessly.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 26, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

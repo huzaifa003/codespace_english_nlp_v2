@@ -1,0 +1,1 @@
+{'text': 'Say, “If you were to own the treasures of my Lord’s blessing, you would certainly hold them back, lest it should be spent. Man is so niggardly.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 100, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

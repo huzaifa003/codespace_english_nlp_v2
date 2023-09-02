@@ -1,0 +1,1 @@
+{'text': 'He said, “My Lord! Forgive me and my brother, and admit us into Your mercy. You are the most Merciful of all the merciful.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 151, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

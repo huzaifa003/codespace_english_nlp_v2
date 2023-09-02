@@ -1,0 +1,1 @@
+{'text': 'So, when the sight shall be dazed,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 75, 'ayah_no': 7, 'surah_name_en': 'Al-Qiyama (The rising of the dead)', 'surah_name_ar': 'القیٰمۃ'}}

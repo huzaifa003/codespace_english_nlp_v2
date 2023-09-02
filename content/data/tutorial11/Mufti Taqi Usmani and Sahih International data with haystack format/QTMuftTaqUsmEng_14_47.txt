@@ -1,0 +1,1 @@
+{'text': 'So, never think that Allah will do against His promise to His messengers. Surely, Allah is Mighty, the Lord of Retribution', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 47, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

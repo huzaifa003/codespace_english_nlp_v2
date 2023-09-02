@@ -1,0 +1,1 @@
+{'text': 'Every (kind of) food was lawful for the children of Isrā’īl, except what Isrā’īl had made unlawful for himself, well before the Torah was revealed. Say, “Then, bring the Torah and recite it, if you are true.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 93, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

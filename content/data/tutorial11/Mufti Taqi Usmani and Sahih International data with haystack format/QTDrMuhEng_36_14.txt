@@ -1,0 +1,1 @@
+{'text': 'When We sent to them two Messengers, they belied them both, so We reinforced them with a third, and they said: "Verily! We have been sent to you as Messengers."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 14, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

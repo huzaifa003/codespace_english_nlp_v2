@@ -1,0 +1,1 @@
+{'text': 'Having said that, if one observes the sanctity of the symbols of Allah, then such things emanate from the piety of the hearts.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 32, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

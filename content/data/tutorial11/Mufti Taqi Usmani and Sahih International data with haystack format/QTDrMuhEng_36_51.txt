@@ -1,0 +1,1 @@
+{'text': 'And the Trumpet will be blown (i.e. the second blowing) and behold! From the graves they will come out quickly to their Lord.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 51, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

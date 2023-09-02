@@ -1,0 +1,1 @@
+{'text': 'Nay, but the Hour is their appointed time (for their full recompense), and the Hour will be more grievous and more bitter.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 46, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

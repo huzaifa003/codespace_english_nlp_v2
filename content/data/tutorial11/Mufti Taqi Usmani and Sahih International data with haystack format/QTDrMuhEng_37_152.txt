@@ -1,0 +1,1 @@
+{'text': '"Allah has begotten off spring or children (i.e. angels are the daughters of Allah)?" And, verily, they are liars!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 152, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

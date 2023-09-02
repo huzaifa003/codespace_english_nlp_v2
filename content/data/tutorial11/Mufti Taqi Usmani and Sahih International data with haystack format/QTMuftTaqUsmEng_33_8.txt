@@ -1,0 +1,1 @@
+{'text': 'so that He (Allah) may ask the truthful ones about their truth. And He has prepared a painful punishment for the disbelievers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 8, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

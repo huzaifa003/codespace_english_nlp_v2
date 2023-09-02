@@ -1,0 +1,1 @@
+{'text': 'And said those who were given knowledge, “Woe to you, Allah’s reward is much better for him who believes and acts righteously. But this is given to none but to those who observe restraint.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 80, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

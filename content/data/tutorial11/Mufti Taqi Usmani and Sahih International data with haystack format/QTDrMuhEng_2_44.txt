@@ -1,0 +1,1 @@
+{'text': 'Enjoin you Al-Birr (piety and righteousness and each and every act of obedience to Allah) on the people and you forget (to practise it) yourselves, while you recite the Scripture (the Taurat (Torah))! Have you then no sense?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 44, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'What is with you shall perish and what is with Allah shall last. And certainly, We shall bless those who observed patience, with their reward for the best of what they used to do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 96, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

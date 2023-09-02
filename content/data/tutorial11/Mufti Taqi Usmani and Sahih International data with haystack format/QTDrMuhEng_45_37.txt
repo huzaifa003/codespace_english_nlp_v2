@@ -1,0 +1,1 @@
+{'text': 'And His (Alone) is the Majesty in the heavens and the earth, and He is the All-Mighty, the All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 45, 'ayah_no': 37, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

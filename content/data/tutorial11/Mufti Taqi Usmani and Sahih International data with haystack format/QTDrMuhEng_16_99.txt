@@ -1,0 +1,1 @@
+{'text': 'Verily! He has no power over those who believe and put their trust only in their Lord (Allah).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 99, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

@@ -1,0 +1,1 @@
+{'text': 'See you not that Allah sends down water (rain) from the sky, and then the earth becomes green? Verily, Allah is the Most Kind and Courteous, Well-Acquainted with all things.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 22, 'ayah_no': 63, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

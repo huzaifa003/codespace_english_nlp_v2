@@ -1,0 +1,1 @@
+{'text': 'except boiling water and pus,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 78, 'ayah_no': 25, 'surah_name_en': 'An-Naba (The tidings)', 'surah_name_ar': 'النَّبَاِ'}}

@@ -1,0 +1,1 @@
+{'text': 'And for all, there will be degrees according to that which they did, that He (Allah) may recompense them in full for their deeds. And they will not be wronged.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 46, 'ayah_no': 19, 'surah_name_en': 'Al-Ahqaf (The wind-curved sandhills)', 'surah_name_ar': 'الاحقاف'}}

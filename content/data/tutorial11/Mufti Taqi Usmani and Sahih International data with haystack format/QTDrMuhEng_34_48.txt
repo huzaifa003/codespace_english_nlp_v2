@@ -1,0 +1,1 @@
+{'text': 'Say (O Muhammad SAW): "Verily! My Lord sends down Inspiration and makes apparent the truth (i.e. this Revelation that had come to me), the AllKnower of the Ghaib (unseen).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 34, 'ayah_no': 48, 'surah_name_en': 'Saba (Saba)', 'surah_name_ar': 'سبا'}}

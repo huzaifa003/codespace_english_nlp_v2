@@ -1,0 +1,1 @@
+{'text': 'And when they shall be thrown into a narrow place thereof, chained together, they will exclaim therein for destruction.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 13, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

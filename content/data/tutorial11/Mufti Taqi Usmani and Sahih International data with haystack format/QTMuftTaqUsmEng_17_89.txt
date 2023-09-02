@@ -1,0 +1,1 @@
+{'text': 'Indeed We explained every subject in this Qur’ān in various ways for the benefit of mankind. Still, most of the people refused to do anything but reject.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 89, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

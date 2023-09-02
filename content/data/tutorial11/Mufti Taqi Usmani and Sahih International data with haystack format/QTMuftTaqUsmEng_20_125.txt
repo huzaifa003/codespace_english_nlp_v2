@@ -1,0 +1,1 @@
+{'text': 'He will say, “My Lord, why did you raise me blind while I was sighted?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 125, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

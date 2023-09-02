@@ -1,0 +1,1 @@
+{'text': 'How could you disbelieve while you are the ones to whom the verses of Allah are recited, and present amidst you is His Messenger? Whoever holds on to Allah, is surely led to the straight path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 101, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

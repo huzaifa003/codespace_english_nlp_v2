@@ -1,0 +1,1 @@
+{'text': 'And We have not sent down the Book (the Quran) to you (O Muhammad SAW), except that you may explain clearly unto them those things in which they differ, and (as) a guidance and a mercy for a folk who believe.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 64, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

@@ -1,0 +1,1 @@
+{'text': 'So when Mūsā came to them with Our clear signs, they said, “This is nothing but a forged magic, and we have never heard of such a thing happening in the days of our forefathers.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 36, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

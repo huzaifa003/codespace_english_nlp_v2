@@ -1,0 +1,1 @@
+{'text': '"And keep your duty to Him, fear Him Who has aided you with all (good things) that you know.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 132, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

@@ -1,0 +1,1 @@
+{'text': 'We have placed iron collars on their necks, so they are reaching up to their chins, and their heads are forced to remain upwards.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 8, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

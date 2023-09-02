@@ -1,0 +1,1 @@
+{'text': 'I will punish him with a severe punishment or slaughter him unless he brings to me a clear plea.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 21, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

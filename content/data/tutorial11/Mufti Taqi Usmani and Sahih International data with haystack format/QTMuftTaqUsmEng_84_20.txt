@@ -1,0 +1,1 @@
+{'text': 'So, what is wrong with them that they do not believe,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 84, 'ayah_no': 20, 'surah_name_en': 'Al-Inshiqaq (The Sundering, Splitting Open)', 'surah_name_ar': 'الاِنشِقَاق'}}

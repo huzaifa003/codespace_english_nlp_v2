@@ -1,0 +1,1 @@
+{'text': 'O people of the Book, why do you disbelieve in the verses of Allah (revealed in the former Scriptures to foretell about the advent of the Holy Prophet ?) while you are yourselves witnesses (to those verses)?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 70, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

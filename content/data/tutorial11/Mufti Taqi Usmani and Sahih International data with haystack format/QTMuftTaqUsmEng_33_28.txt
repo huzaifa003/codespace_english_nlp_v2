@@ -1,0 +1,1 @@
+{'text': 'O prophet, say to your wives, “If you intend (to have the pleasure of) worldly life and its charm, then come on, and I shall give you some stuff, and release you in a handsome fashion;', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 28, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

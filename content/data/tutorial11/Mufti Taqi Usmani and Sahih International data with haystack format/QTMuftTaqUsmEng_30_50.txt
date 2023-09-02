@@ -1,0 +1,1 @@
+{'text': 'So, look to the effects of Allah’s mercy, how He gives life to the earth after its death. Surely, That (Allah) is the One who will give life to the dead; and He has the power to do everything.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 50, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

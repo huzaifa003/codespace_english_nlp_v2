@@ -1,0 +1,1 @@
+{'text': 'Then seven hard years shall come after that, which shall eat up what you have stored for them, except a little which you preserve (to sow).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 48, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

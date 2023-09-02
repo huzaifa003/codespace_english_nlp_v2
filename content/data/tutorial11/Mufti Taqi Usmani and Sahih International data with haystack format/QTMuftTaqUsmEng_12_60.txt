@@ -1,0 +1,1 @@
+{'text': 'Still, if you do not bring him to me, then you deserve no (further) measure from me, nor shall you approach me any more.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 60, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

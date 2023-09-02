@@ -1,0 +1,1 @@
+{'text': 'Obey Allah and His Messenger, and do not quarrel with each other, lest you should lose courage, and your prowess should evaporate; and be patient. Surely, Allah is with the patient.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 46, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

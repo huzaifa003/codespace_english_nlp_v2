@@ -1,0 +1,1 @@
+{'text': 'Is Allah not sufficient for (the protection of) His slave? They are frightening you of those (false gods whom they worship) other than Him. Whomsoever Allah would let go astray, for him there is no one to guide.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 36, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

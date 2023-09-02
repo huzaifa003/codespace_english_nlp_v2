@@ -1,0 +1,1 @@
+{'text': 'And they (the alleged partners) cannot extend to them any help, nor can they help themselves.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 192, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

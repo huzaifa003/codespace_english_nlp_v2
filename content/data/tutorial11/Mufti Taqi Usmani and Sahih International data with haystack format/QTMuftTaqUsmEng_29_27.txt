@@ -1,0 +1,1 @@
+{'text': 'And We granted him IsHāq (Isaac) and Ya‘qūb (Jacob), and assigned prophet-hood and Book to his progeny, and gave him his reward in the world; and of course, in the Hereafter, he will be one of the righteous.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 27, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

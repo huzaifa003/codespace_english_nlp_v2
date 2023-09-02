@@ -1,0 +1,1 @@
+{'text': 'We have given you the seven oft-repeated verses and the glorious Qur’ān.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 87, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

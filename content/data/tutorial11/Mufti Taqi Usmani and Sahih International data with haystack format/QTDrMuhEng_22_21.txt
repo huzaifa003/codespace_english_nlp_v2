@@ -1,0 +1,1 @@
+{'text': 'And for them are hooked rods of iron (to punish them).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 22, 'ayah_no': 21, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

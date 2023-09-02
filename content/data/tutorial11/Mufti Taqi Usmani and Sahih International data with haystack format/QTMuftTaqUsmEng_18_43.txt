@@ -1,0 +1,1 @@
+{'text': 'There were no supporters for him beside Allah, who could come to his help, nor was he able to defend himself.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 43, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

@@ -1,0 +1,1 @@
+{'text': 'When the children from among you reach puberty, they must seek permission, as the permission is sought by those before them. This is how Allah explains His verses to you. Allah is All-Knowing, All-Wise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 59, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

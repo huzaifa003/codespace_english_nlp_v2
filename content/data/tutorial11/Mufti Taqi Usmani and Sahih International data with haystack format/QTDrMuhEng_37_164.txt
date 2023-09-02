@@ -1,0 +1,1 @@
+{'text': 'There is not one of us (angels) but has his known place (or position);', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 164, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

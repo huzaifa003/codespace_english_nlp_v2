@@ -1,0 +1,1 @@
+{'text': 'They will say, “Yes, a warner had come to us, but We had rejected, and said, ‘Allah has not revealed anything. You are only in great error.’”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 67, 'ayah_no': 9, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

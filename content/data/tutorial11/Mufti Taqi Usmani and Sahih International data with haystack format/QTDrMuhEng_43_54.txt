@@ -1,0 +1,1 @@
+{'text': 'Thus he (Firaun (Pharaoh)) befooled and misled his people, and they obeyed him. Verily, they were ever a people who were Fasiqoon (rebellious, disobedient to Allah).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 54, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

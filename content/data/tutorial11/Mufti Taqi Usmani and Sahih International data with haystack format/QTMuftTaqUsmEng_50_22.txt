@@ -1,0 +1,1 @@
+{'text': '“You were heedless of this. Now We have removed your veil from you; so your sight today is sharp.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 22, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

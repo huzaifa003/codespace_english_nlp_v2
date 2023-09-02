@@ -1,0 +1,1 @@
+{'text': '"And I free not myself (from the blame). Verily, the (human) self is inclined to evil, except when my Lord bestows His Mercy (upon whom He wills). Verily, my Lord is Oft-Forgiving, Most Merciful."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 53, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

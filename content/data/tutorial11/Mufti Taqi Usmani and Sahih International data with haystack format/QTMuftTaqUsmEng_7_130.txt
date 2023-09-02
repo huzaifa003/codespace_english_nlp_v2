@@ -1,0 +1,1 @@
+{'text': 'And We seized the people of Pharaoh with years of famine and poor production of fruits, so that they may learn a lesson.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 130, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

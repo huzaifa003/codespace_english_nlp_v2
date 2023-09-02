@@ -1,0 +1,1 @@
+{'text': 'Said the chiefs of his people who disbelieved, “Indeed, we see you in folly, and we believe you are one of the liars.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 66, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

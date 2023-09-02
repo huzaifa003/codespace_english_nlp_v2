@@ -1,0 +1,1 @@
+{'text': 'And it is surely an absolute truth.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 69, 'ayah_no': 51, 'surah_name_en': 'Al-Haaqqa (The reality)', 'surah_name_ar': 'الحاقہ'}}

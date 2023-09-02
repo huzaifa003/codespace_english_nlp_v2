@@ -1,0 +1,1 @@
+{'text': '"I had no knowledge of the chiefs (angels) on high when they were disputing and discussing (about the creation of Adam).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 69, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

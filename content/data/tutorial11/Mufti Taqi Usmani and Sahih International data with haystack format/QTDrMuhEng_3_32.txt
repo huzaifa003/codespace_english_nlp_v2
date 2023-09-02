@@ -1,0 +1,1 @@
+{'text': 'Say (O Muhammad SAW): "Obey Allah and the Messenger (Muhammad SAW)." But if they turn away, then Allah does not like the disbelievers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 32, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

@@ -1,0 +1,1 @@
+{'text': 'So he watered (their flocks) for them, then he turned back to shade, and said: "My Lord! Truly, I am in need of whatever good that You bestow on me!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 24, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

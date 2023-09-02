@@ -1,0 +1,1 @@
+{'text': 'He is the One who gives life and brings death, and when He decides to do something, He only says to it: “Be” and it comes to be.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 68, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

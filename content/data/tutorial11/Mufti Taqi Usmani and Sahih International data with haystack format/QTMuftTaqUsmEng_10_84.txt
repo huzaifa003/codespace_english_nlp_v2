@@ -1,0 +1,1 @@
+{'text': 'And Mūsā said, “My people, if you have believed in Allah, then, in Him place your trust if you are obedient.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 84, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

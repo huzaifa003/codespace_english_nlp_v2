@@ -1,0 +1,1 @@
+{'text': 'and created in it sources of sustenance for you and those (creatures) for whom you are not the sustainers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 20, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

@@ -1,0 +1,1 @@
+{'text': 'O mankind! Worship your Lord (Allah), Who created you and those who were before you so that you may become Al-Muttaqoon (the pious - see V.2:2).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 21, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

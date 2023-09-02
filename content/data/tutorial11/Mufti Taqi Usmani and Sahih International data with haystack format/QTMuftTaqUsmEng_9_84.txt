@@ -1,0 +1,1 @@
+{'text': 'And never offer a prayer on any one of them who dies, and do not stand by his grave. They disbelieved in Allah and His Messenger and died while they were sinners.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 84, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

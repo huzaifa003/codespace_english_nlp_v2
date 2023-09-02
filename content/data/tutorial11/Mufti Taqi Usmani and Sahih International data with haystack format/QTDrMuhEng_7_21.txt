@@ -1,0 +1,1 @@
+{'text': 'And he (Shaitan (Satan)) swore by Allah to them both (saying): "Verily, I am one of the sincere wellwishers for you both."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 21, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

@@ -1,0 +1,1 @@
+{'text': 'And Allah will deliver those who are the Muttaqoon (pious - see V.2:2) to their places of success (Paradise). Evil shall touch them not, nor shall they grieve.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 61, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

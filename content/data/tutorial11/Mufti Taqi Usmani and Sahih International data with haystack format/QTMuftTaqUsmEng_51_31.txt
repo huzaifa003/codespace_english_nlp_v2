@@ -1,0 +1,1 @@
+{'text': 'He (Ibrāhīm) said (to the angels), “Then, what is your mission O messengers?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 51, 'ayah_no': 31, 'surah_name_en': 'Adh-Dhariyat (The winnowing winds)', 'surah_name_ar': 'الذّٰریٰت'}}

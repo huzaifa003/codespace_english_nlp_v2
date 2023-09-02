@@ -1,0 +1,1 @@
+{'text': 'And recite what has been revealed to you of the Book of your Lord. There is no one to change His words, and you will never find a refuge beside Him.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 27, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

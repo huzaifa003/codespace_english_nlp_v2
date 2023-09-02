@@ -1,0 +1,1 @@
+{'text': 'Neither his wealth benefited him, nor what he earned.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 111, 'ayah_no': 2, 'surah_name_en': 'Al-Masadd (The Flame)', 'surah_name_ar': 'اللَّھب'}}

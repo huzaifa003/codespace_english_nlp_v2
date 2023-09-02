@@ -1,0 +1,1 @@
+{'text': 'Still, if you turn away, then, I did not demand any reward from you. My reward is with none except Allah, and I have been commanded to be among those who submit.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 72, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

@@ -1,0 +1,1 @@
+{'text': 'So the one who does not believe in it and follows his desires must not make you neglectful of it, otherwise you will perish.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 16, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

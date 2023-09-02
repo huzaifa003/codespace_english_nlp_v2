@@ -1,0 +1,1 @@
+{'text': 'And Fir‘aun (Pharaoh) said, “O Hāmān, make a tower for me, perhaps I could reach the ways -', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 36, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

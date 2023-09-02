@@ -1,0 +1,1 @@
+{'text': 'Such people will be rewarded with the high place - because they observed patience - and will be received therein with prayers of their eternal life and peace,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 75, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

@@ -1,0 +1,1 @@
+{'text': 'Do those who have committed evils assume that We will make them like those who believe and do righteous deeds, so as their life and death becomes equal? Evil is what they judge.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 21, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

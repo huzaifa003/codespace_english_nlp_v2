@@ -1,0 +1,1 @@
+{'text': 'O you who believe, if you obey those who disbelieve, they will make you turn back on your heels, then you shall turn into losers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 149, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

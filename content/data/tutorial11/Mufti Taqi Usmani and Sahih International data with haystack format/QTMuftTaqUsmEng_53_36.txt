@@ -1,0 +1,1 @@
+{'text': 'Has he not been told of what was (revealed) in the scriptures of Mūsā', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 53, 'ayah_no': 36, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

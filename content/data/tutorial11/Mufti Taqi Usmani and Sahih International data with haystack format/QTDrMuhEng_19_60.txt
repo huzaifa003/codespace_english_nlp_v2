@@ -1,0 +1,1 @@
+{'text': 'Except those who repent and believe (in the Oneness of Allah and His Messenger Muhammad SAW), and work righteousness. Such will enter Paradise and they will not be wronged in aught.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 60, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

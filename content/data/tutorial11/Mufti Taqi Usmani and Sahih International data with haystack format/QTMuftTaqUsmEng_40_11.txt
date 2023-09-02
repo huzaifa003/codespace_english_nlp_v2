@@ -1,0 +1,1 @@
+{'text': 'They will say, “Our Lord, You gave us death twice and You gave us life twice. Now we confess our sins. So, is there any way to come out of here?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 11, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

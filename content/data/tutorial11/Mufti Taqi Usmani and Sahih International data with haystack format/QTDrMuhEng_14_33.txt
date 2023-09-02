@@ -1,0 +1,1 @@
+{'text': 'And He has made the sun and the moon, both constantly pursuing their courses, to be of service to you; and He has made the night and the day, to be of service to you.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 14, 'ayah_no': 33, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

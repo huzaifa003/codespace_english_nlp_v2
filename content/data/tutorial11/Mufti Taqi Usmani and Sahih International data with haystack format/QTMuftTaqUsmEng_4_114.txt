@@ -1,0 +1,1 @@
+{'text': 'There is no good in most of their whisperings, unless one bids charity or a fair action, or reconciliation between people. The one who does this, to seek Allah’s pleasure, We shall give him a great reward.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 4, 'ayah_no': 114, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

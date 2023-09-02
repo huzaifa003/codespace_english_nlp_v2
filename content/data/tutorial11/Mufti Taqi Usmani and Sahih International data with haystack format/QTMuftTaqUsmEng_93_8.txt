@@ -1,0 +1,1 @@
+{'text': 'and He found you in need, then made you need-free.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 93, 'ayah_no': 8, 'surah_name_en': 'Ad-Dhuha (The morning hours)', 'surah_name_ar': 'الضُّحٰی'}}

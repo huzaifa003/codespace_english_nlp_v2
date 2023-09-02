@@ -1,0 +1,1 @@
+{'text': 'And We will certainly make them taste the nearer punishment before the greater punishment, so that they may return.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 32, 'ayah_no': 21, 'surah_name_en': 'As-Sajda (The Prostration)', 'surah_name_ar': 'السجدۃ'}}

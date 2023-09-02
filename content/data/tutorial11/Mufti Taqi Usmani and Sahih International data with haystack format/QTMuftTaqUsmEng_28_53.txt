@@ -1,0 +1,1 @@
+{'text': 'And when this (Qur’ān) is recited to them, they say, “We believe in it. It is the truth from our Lord, and we are the ones who had submitted (to it) even before it (was revealed).”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 53, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

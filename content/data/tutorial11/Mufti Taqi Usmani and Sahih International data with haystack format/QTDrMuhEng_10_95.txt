@@ -1,0 +1,1 @@
+{'text': 'And be not one of those who belie the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of Allah, for then you shall be one of the losers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 10, 'ayah_no': 95, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

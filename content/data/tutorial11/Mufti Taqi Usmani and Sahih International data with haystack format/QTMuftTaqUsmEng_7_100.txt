@@ -1,0 +1,1 @@
+{'text': 'Have all these events still not taught a lesson to those who inherit the land after its (former) inhabitants, that if We so willed, We could afflict them for their sins? But We seal their hearts, so that they do not listen.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 100, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

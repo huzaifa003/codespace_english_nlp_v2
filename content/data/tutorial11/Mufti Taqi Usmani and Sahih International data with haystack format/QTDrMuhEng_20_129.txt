@@ -1,0 +1,1 @@
+{'text': 'And had it not been for a Word that went forth before from your Lord, and a term determined, (their punishment) must necessarily have come (in this world).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 129, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

@@ -1,0 +1,1 @@
+{'text': 'And similarly, the word of your Lord has become due against those who disbelieve-that they are the people of the Fire.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 6, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

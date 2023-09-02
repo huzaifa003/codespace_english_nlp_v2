@@ -1,0 +1,1 @@
+{'text': 'But those who disbelieve (in the Oneness of Allah Islamic Monotheism), for them is destruction, and (Allah) will make their deeds vain.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 47, 'ayah_no': 8, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

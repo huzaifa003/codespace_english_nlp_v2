@@ -1,0 +1,1 @@
+{'text': 'Upon them will be garments of green sundus (a kind of fine silk), and of istabraq (a kind of thick silk), and they will be adorned by bracelets of silver. Their Lord will give them a pure beverage to drink:', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 21, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

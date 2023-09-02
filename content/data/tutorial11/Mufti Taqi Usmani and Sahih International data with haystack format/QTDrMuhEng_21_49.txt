@@ -1,0 +1,1 @@
+{'text': 'Those who fear their Lord without seeing Him, while they are afraid of the Hour.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 49, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

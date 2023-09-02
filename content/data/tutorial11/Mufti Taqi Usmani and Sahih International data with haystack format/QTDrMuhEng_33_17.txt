@@ -1,0 +1,1 @@
+{'text': 'Say: "Who is he who can protect you from Allah if He intends to harm you, or intends mercy on you?" And they will not find, besides Allah, for themselves any Walee (protector, supporter, etc.) or any helper.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 33, 'ayah_no': 17, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

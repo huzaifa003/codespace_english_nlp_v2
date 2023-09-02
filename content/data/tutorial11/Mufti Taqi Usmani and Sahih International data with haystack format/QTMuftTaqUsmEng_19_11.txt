@@ -1,0 +1,1 @@
+{'text': 'Then he came out to his people from the place of prayer, and directed them by gestures to proclaim the purity of Allah at morning and evening.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 11, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

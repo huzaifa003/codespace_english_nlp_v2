@@ -1,0 +1,1 @@
+{'text': 'If you ask them as to who has created the heavens and the earth and has subjugated the sun and the moon, they will certainly say, “Allah”. How then are they driven aback (by their whims?)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 61, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

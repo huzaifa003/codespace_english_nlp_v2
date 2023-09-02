@@ -1,0 +1,1 @@
+{'text': 'Who is there to advance a loan, a good loan, to Allah so that He multiplies it for him, and he may have a noble reward?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 57, 'ayah_no': 11, 'surah_name_en': 'Al-Hadid (The Iron)', 'surah_name_ar': 'الحدید'}}

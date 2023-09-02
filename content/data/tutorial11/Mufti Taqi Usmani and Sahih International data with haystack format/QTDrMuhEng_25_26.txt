@@ -1,0 +1,1 @@
+{'text': 'The sovereignty on that Day will be the true (sovereignty), belonging to the Most Beneficent (Allah), and it will be a hard Day for the disbelievers (those who disbelieve in the Oneness of Allah Islamic Monotheism).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 26, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

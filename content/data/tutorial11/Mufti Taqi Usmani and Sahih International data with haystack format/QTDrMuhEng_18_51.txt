@@ -1,0 +1,1 @@
+{'text': 'I (Allah) made them (Iblees and his offspring) not to witness (nor took their help in) the creation of the heavens and the earth and not (even) their own creation, nor was I (Allah) to take the misleaders as helpers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 51, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

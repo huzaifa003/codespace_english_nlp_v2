@@ -1,0 +1,1 @@
+{'text': '"Verily, you practise your lusts on men instead of women. Nay, but you are a people transgressing beyond bounds (by committing great sins)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 81, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

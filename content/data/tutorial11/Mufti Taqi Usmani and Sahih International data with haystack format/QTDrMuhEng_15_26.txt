@@ -1,0 +1,1 @@
+{'text': 'And indeed, We created man from sounding clay of altered black smooth mud.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 15, 'ayah_no': 26, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

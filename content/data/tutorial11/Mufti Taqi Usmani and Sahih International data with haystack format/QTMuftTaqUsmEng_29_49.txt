@@ -1,0 +1,1 @@
+{'text': 'But it (the Qur’ān in itself) is (a package of) evident signs in the hearts of those who are given knowledge. And no one rejects our verses except the wrongdoers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 49, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

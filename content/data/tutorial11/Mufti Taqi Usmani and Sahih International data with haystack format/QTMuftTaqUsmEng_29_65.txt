@@ -1,0 +1,1 @@
+{'text': 'So when they embark on a ship, they invoke Allah, having their faith purely in Him. But when He saves them (and brings them) to the land, in no time they start committing shirk (ascribing partners to Allah),', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 65, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

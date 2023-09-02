@@ -1,0 +1,1 @@
+{'text': 'And what will make you know exactly what Hell-fire is?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 74, 'ayah_no': 27, 'surah_name_en': 'Al-Muddathir (The cloaked one)', 'surah_name_ar': 'المدّثّر'}}

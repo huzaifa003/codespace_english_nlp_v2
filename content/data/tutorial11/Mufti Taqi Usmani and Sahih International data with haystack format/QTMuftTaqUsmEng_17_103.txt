@@ -1,0 +1,1 @@
+{'text': 'Then he (Pharaoh) tried to harass them to drive them out of the land, so We drowned him and those with him altogether,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 103, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

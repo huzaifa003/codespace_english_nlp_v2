@@ -1,0 +1,1 @@
+{'text': 'They said (to Ya‘qūb), “Our father, why is it that you do not trust us about Yūsuf, while we are his well-wishers indeed.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 11, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

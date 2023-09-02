@@ -1,0 +1,1 @@
+{'text': 'We gave the children of Isrā’īl the book and the wisdom and the prophet-hood, and provided them with good things, and preferred them above all (people of) the world,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 16, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

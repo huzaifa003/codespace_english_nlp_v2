@@ -1,0 +1,1 @@
+{'text': 'Surely, Allah will admit those who believe and do good deeds to the gardens beneath which rivers flow. As for those who disbelieve, they enjoy (the worldly life), and eat as cattle eat, and the Fire is the final abode for them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 47, 'ayah_no': 12, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

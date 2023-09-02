@@ -1,0 +1,1 @@
+{'text': 'And say (O Muhammad SAW): My Lord! Let my entry (to the city of Al-Madinah) be good, and likewise my exit (from the city of Makkah) be good. And grant me from You an authority to help me (or a firm sign or a proof).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 80, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

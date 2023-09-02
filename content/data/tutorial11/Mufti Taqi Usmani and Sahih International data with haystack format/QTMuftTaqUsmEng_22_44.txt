@@ -1,0 +1,1 @@
+{'text': 'and the people of Madyan as well. Mūsā was (also) rejected. So, I gave some respite to the disbelievers, then seized them. So how was My censure?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 44, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

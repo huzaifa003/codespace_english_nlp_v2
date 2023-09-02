@@ -1,0 +1,1 @@
+{'text': 'Say: "If there were on the earth, angels walking about in peace and security, We should certainly have sent down for them from the heaven an angel as a Messenger."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 95, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

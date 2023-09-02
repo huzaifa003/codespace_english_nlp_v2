@@ -1,0 +1,1 @@
+{'text': 'Those to whom We have given the Book and they recite it observing the rights of its recitation - they are the ones who believe in it. And those who disbelieve in it, they are the losers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 121, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

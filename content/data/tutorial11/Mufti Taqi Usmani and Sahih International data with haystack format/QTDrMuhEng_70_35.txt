@@ -1,0 +1,1 @@
+{'text': 'Such shall dwell in the Gardens (i.e. Paradise) honoured.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 70, 'ayah_no': 35, 'surah_name_en': 'Al-Maarij (The Ascending stairways)', 'surah_name_ar': 'المعارج'}}

@@ -1,0 +1,1 @@
+{'text': '"And O my people! Ask forgiveness of your Lord and then repent to Him, He will send you (from the sky) abundant rain, and add strength to your strength, so do not turn away as Mujrimoon (criminals, disbelievers in the Oneness of Allah)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 52, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

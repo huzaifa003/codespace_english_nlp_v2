@@ -1,0 +1,1 @@
+{'text': 'He (Mūsā) said, “If I ask you about something after this, do not allow me your company. You have now reached a point where you have a valid excuse (to part with me) from my own side. “', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 76, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

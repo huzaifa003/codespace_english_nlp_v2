@@ -1,0 +1,1 @@
+{'text': 'No doubt, in the Hereafter, they will be the losers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 109, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

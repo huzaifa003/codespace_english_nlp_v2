@@ -1,0 +1,1 @@
+{'text': 'With it He causes to grow for you the crops, the olives, the date-palms, the grapes, and every kind of fruit. Verily! In this is indeed an evident proof and a manifest sign for people who give thought.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 11, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

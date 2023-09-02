@@ -1,0 +1,1 @@
+{'text': 'Ask (the people of) the town in which we have been, and the caravan with which we have come, and undoubtedly we are truthful.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 82, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

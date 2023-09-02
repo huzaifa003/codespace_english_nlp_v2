@@ -1,0 +1,1 @@
+{'text': 'And indeed We gave Moosa (Moses), after We had destroyed the generations of old, the Scripture (the Taurat (Torah)) as an enlightenment for mankind, and a guidance and a mercy, that they might remember (or receive admonition).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 43, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

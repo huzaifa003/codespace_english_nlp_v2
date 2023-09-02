@@ -1,0 +1,1 @@
+{'text': 'Set not up with Allah any other ilah (god), (O man)! (This verse is addressed to Prophet Muhammad SAW , but its implication is general to all mankind), or you will sit down reproved, forsaken (in the Hell-fire).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 22, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

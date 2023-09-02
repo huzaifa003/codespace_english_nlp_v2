@@ -1,0 +1,1 @@
+{'text': '(It is) a Promise of Allah (i.e. Allah will give victory to the Romans against the Persians), and Allah fails not in His Promise, but most of men know not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 30, 'ayah_no': 6, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

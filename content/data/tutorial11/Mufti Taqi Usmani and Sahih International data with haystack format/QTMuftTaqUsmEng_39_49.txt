@@ -1,0 +1,1 @@
+{'text': 'When man is visited by a trouble, he prays to Us, but when, after that, We favor him with some blessing from Us, he says, “This is given to me because of (my) knowledge.” No, but this is a trial, yet most of them do not know.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 49, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

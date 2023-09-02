@@ -1,0 +1,1 @@
+{'text': 'Would it always be that every time they enter into a pact, a group from among them should throw it aside? In fact, most of them do not believe.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 100, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

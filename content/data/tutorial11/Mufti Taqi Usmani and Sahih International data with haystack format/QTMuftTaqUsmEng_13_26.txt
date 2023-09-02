@@ -1,0 +1,1 @@
+{'text': 'Allah expands the provision for whom He wills and narrows it (for whom He wills). They are happy with the worldly life, while the worldly life, compared to the Hereafter, is nothing but a little enjoyment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 13, 'ayah_no': 26, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

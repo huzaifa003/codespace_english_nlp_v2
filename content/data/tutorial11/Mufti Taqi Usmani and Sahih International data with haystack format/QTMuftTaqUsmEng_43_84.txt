@@ -1,0 +1,1 @@
+{'text': 'He is the One who is God to be worshipped in the sky, and God to be worshipped on the earth. And He is the Wise, the All-Knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 84, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

@@ -1,0 +1,1 @@
+{'text': 'A stalwart of the Jinn said, “I will bring it to you before you rise up from your place, and for this (task) I am powerful, reliable.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 39, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

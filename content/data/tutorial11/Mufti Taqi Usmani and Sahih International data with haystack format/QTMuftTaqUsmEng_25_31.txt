@@ -1,0 +1,1 @@
+{'text': 'In a similar way We made for every prophet an enemy from among the sinners, but your Lord suffices as a guide and as a supporter.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 31, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

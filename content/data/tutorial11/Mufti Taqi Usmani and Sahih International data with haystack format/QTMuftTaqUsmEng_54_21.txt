@@ -1,0 +1,1 @@
+{'text': 'So how was My torment and My warnings?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 54, 'ayah_no': 21, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

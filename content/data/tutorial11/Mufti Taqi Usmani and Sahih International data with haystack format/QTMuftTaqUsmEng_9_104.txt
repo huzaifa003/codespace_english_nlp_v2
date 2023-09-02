@@ -1,0 +1,1 @@
+{'text': 'Have they not come to know that Allah is He who accepts repentance from His slaves and accepts Sadaqāt, and that Allah is Most-Relenting, Very-Merciful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 104, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

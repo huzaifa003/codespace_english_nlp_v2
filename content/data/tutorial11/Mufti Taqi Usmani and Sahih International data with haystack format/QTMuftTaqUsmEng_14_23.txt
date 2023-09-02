@@ -1,0 +1,1 @@
+{'text': 'And those who believed and did good deeds shall be admitted to Gardens beneath which rivers flow, living there forever by the will of Allah. There they shall greet each other with “Salām.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 23, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

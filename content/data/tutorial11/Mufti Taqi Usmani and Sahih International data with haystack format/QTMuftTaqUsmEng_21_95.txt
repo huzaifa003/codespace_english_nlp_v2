@@ -1,0 +1,1 @@
+{'text': 'It is banned for (the people of) a town that We destroyed that they come back', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 95, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

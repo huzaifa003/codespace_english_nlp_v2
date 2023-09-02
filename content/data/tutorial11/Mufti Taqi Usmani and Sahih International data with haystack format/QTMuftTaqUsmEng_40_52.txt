@@ -1,0 +1,1 @@
+{'text': 'a day when apology of the unjust will bring them no benefit, and on them shall be the curse, and for them will be the evil abode.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 52, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

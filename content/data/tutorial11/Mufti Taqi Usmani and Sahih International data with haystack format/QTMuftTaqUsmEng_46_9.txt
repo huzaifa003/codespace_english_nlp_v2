@@ -1,0 +1,1 @@
+{'text': 'Say, “I am not something unprecedented among the messengers, and I do not know what will be done to me or to you. I do not follow anything but what is revealed to me, and I am only a clear warner.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 46, 'ayah_no': 9, 'surah_name_en': 'Al-Ahqaf (The wind-curved sandhills)', 'surah_name_ar': 'الاحقاف'}}

@@ -1,0 +1,1 @@
+{'text': 'Is it such a talk (this Quran) that you (disbelievers) deny?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 56, 'ayah_no': 81, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

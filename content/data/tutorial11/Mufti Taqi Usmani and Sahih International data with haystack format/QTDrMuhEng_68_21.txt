@@ -1,0 +1,1 @@
+{'text': 'Then they called out one to another as soon as the morning broke,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 68, 'ayah_no': 21, 'surah_name_en': 'Al-Qalam (The Pen)', 'surah_name_ar': 'القلم'}}

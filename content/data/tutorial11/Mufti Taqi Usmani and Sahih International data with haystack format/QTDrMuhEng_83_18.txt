@@ -1,0 +1,1 @@
+{'text': 'Nay! Verily, the Record (writing of the deeds) of Al-Abrar (the pious who fear Allah and avoid evil), is (preserved) in Illiyyoon.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 83, 'ayah_no': 18, 'surah_name_en': 'Al-Mutaffifin (Defrauding)', 'surah_name_ar': 'المُطَفِّفِین'}}

@@ -1,0 +1,1 @@
+{'text': 'As for the brethren of satans, they are dragged by them on into the error, and they do not desist.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 202, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

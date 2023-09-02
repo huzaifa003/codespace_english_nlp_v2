@@ -1,0 +1,1 @@
+{'text': 'So, in case he (the dying person) is from among those blessed with nearness,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 56, 'ayah_no': 88, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

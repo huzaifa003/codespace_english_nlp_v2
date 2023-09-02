@@ -1,0 +1,1 @@
+{'text': 'The Day their faces will be rolled in the fire, they will say, “Oh, would that we had obeyed Allah and obeyed the Messenger!”.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 66, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

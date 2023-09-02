@@ -1,0 +1,1 @@
+{'text': 'Woe, then, to those who disbelieve because of the Day of theirs that they are promised (for punishment).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 51, 'ayah_no': 60, 'surah_name_en': 'Adh-Dhariyat (The winnowing winds)', 'surah_name_ar': 'الذّٰریٰت'}}

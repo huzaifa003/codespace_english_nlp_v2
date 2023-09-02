@@ -1,0 +1,1 @@
+{'text': 'Later, when he equipped them with their provisions, he placed the bowl in the camel-pack of his brother. Then, an announcer shouted out, “O people of the caravan, you are thieves.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 70, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

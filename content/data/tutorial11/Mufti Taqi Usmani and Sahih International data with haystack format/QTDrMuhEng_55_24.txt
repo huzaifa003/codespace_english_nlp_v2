@@ -1,0 +1,1 @@
+{'text': 'And His are the ships going and coming in the seas, like mountains.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 55, 'ayah_no': 24, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

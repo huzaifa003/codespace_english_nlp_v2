@@ -1,0 +1,1 @@
+{'text': 'Those are the ones whom Allah has cursed; so He has made them deaf, and made their eyes blind.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 47, 'ayah_no': 23, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

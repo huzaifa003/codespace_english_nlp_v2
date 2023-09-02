@@ -1,0 +1,1 @@
+{'text': 'Send him with us tomorrow, that he may eat and play, and of course, we will remain as guards for him.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 12, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

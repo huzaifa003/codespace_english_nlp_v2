@@ -1,0 +1,1 @@
+{'text': 'Thus We brought him back to his mother, so that her eye might have comfort and she might not grieve, and so that she might know that Allah’s promise is true, but most of them do not know.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 13, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

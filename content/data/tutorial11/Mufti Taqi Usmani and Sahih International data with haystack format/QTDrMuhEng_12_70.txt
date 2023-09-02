@@ -1,0 +1,1 @@
+{'text': 'So when he had furnished them forth with their provisions, he put the (golden) bowl into his brothers bag, then a crier cried: "O you (in) the caravan! Surely, you are thieves!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 70, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

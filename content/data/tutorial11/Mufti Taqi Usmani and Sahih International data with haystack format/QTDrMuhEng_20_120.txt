@@ -1,0 +1,1 @@
+{'text': 'Then Shaitan (Satan) whispered to him, saying : "O Adam! Shall I lead you to the Tree of Eternity and to a kingdom that will never waste away?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 120, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

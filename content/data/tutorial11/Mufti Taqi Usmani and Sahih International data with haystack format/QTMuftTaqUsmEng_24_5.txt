@@ -1,0 +1,1 @@
+{'text': 'except those who repent afterwards and mend their ways; then, Allah is All-Forgiving, Very-Merciful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 5, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

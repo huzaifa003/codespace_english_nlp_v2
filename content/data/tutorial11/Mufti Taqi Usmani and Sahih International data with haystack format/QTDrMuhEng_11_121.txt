@@ -1,0 +1,1 @@
+{'text': 'And say to those who do not believe: "Act according to your ability and way, We are acting (in our way).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 121, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

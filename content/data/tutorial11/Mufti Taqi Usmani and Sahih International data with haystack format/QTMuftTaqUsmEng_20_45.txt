@@ -1,0 +1,1 @@
+{'text': 'They said, “Our Lord, we fear that he will hasten against us, or will become (more) rebellious (against You).”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 45, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

@@ -1,0 +1,1 @@
+{'text': 'I convey to you the messages of my Lord and wish your betterment, and I know from Allah what you do not know.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 62, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

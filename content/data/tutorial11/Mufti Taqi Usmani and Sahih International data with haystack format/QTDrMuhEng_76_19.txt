@@ -1,0 +1,1 @@
+{'text': 'And round about them will (serve) boys of everlasting youth. If you see them, you would think them scattered pearls.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 76, 'ayah_no': 19, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

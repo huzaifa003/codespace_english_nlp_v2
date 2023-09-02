@@ -1,0 +1,1 @@
+{'text': 'As for those who do not believe in meeting Us and are quite happy with the life of this world and are content with it, and those who are heedless to Our signs,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 7, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

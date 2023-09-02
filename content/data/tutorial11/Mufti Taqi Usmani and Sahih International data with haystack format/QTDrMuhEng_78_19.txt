@@ -1,0 +1,1 @@
+{'text': 'And the heaven shall be opened, and it will become as gates,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 78, 'ayah_no': 19, 'surah_name_en': 'An-Naba (The tidings)', 'surah_name_ar': 'النَّبَاِ'}}

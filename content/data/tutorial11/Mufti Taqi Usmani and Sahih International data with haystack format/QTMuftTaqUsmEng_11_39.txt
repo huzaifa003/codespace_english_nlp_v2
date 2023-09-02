@@ -1,0 +1,1 @@
+{'text': 'So, you shall soon know who will be visited by a scourge that will humiliate him, and upon whom a lasting punishment will settle forever.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 39, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

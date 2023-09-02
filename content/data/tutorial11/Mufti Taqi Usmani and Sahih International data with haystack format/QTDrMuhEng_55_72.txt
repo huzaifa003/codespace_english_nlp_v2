@@ -1,0 +1,1 @@
+{'text': 'Houris (beautiful, fair females) restrained in pavilions;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 55, 'ayah_no': 72, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

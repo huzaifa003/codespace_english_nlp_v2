@@ -1,0 +1,1 @@
+{'text': '"I found her and her people worshipping the sun instead of Allah, and Shaitan (Satan) has made their deeds fair-seeming to them, and has barred them from (Allahs) Way, so they have no guidance,"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 24, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

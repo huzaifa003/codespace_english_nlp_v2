@@ -1,0 +1,1 @@
+{'text': 'These are the Verses of Allah, We recite them to you (O Muhammad SAW) in truth, and surely, you are one of the Messengers (of Allah).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 252, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

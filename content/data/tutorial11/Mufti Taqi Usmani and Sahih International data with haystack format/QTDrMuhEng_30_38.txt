@@ -1,0 +1,1 @@
+{'text': 'So give to the kindred his due, and to AlMiskeen (the poor) and to the wayfarer. That is best for those who seek Allahs Countenance, and it is they who will be successful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 30, 'ayah_no': 38, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

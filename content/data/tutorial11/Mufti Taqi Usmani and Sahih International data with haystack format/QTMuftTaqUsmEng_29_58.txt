@@ -1,0 +1,1 @@
+{'text': 'As for those who believe and do righteous deeds, We shall accommodate them in mansions of the Paradise beneath which rivers flow, where they will live forever. Excellent is the reward of the workers,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 58, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

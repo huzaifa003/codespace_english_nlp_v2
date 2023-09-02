@@ -1,0 +1,1 @@
+{'text': 'Know well that Allah revives the land after its death. We have made the signs clear for you, so that you may understand.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 57, 'ayah_no': 17, 'surah_name_en': 'Al-Hadid (The Iron)', 'surah_name_ar': 'الحدید'}}

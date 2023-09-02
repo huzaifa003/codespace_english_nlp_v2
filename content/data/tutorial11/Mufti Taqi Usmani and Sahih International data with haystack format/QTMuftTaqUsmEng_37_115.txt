@@ -1,0 +1,1 @@
+{'text': 'and We delivered them and their people from the great agony,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 115, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

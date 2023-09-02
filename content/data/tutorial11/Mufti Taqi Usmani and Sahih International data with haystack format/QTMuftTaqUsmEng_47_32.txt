@@ -1,0 +1,1 @@
+{'text': 'Those who disbelieve and prevent (others) from Allah’s way, and oppose the Messenger, after the Guidance has appeared to them clearly, shall never bring harm to Allah in the least, and He will render their deeds vain.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 47, 'ayah_no': 32, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

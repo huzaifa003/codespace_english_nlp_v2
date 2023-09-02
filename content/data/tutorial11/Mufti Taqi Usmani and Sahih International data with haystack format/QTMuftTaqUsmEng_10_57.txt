@@ -1,0 +1,1 @@
+{'text': 'O men, there has come to you an advice from your Lord, and a cure for the ailments of your hearts, and guidance and mercy for the believers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 57, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

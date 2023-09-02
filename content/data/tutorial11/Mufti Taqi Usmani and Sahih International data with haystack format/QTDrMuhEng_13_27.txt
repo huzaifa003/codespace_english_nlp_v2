@@ -1,0 +1,1 @@
+{'text': 'And those who disbelieve say: "Why is not a sign sent down to him (Muhammad SAW) from his Lord?" Say: "Verily, Allah sends astray whom He wills and guides unto Himself those who turn to Him in repentance."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 13, 'ayah_no': 27, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

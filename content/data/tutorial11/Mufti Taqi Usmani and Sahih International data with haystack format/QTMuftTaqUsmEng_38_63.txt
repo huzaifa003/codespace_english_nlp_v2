@@ -1,0 +1,1 @@
+{'text': 'Had we taken them as a laughing-stock (unjustly), or have our eyes missed them?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 63, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

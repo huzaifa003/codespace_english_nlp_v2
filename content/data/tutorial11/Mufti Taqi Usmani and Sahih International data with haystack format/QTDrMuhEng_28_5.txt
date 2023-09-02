@@ -1,0 +1,1 @@
+{'text': 'And We wished to do a favour to those who were weak (and oppressed) in the land, and to make them rulers and to make them the inheritors,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 5, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

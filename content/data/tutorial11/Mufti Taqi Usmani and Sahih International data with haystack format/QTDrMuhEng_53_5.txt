@@ -1,0 +1,1 @@
+{'text': 'He has been taught (this Quran) by one mighty in power (Jibrael (Gabriel)).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 5, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

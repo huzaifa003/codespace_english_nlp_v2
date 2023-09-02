@@ -1,0 +1,1 @@
+{'text': 'Truly, Allah will admit those who believe (in Islamic Monotheism) and do righteous good deeds (according to the Quran and the Sunnah) to Gardens underneath which rivers flow (in Paradise). Verily, Allah does what He wills.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 22, 'ayah_no': 14, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

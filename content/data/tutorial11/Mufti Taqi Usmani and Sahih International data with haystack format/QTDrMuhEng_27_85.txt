@@ -1,0 +1,1 @@
+{'text': 'And the Word (of torment) will be fulfilled against them, because they have done wrong, and they will be unable to speak (in order to defend themselves).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 85, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

@@ -1,0 +1,1 @@
+{'text': '"When we are dead and have become dust and bones, shall we (then) verily be resurrected?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 16, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

@@ -1,0 +1,1 @@
+{'text': 'even though they were absolutely hopeless before it was sent down to them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 49, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

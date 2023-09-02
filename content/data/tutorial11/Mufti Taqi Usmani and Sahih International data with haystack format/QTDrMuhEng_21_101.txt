@@ -1,0 +1,1 @@
+{'text': 'Verily those for whom the good has preceded from Us, they will be removed far therefrom (Hell) (e.g. Iesa (Jesus), son of Maryam (Mary); Uzair (Ezra), etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 101, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

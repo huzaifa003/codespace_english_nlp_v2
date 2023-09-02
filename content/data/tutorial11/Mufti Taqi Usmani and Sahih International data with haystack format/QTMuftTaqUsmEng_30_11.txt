@@ -1,0 +1,1 @@
+{'text': 'Allah originates the creation, then He will create it again, then to Him you are to be returned.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 11, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

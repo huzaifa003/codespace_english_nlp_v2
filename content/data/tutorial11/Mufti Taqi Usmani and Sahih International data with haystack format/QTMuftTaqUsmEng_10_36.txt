@@ -1,0 +1,1 @@
+{'text': 'Most of them follow nothing but conjectures. Surely, conjectures are of no avail in the matter of truth at all. Certainly, Allah is fully aware of what they do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 36, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

@@ -1,0 +1,1 @@
+{'text': 'And invoke not any other ilah (god) along with Allah, La ilaha illa Huwa (none has the right to be worshipped but He). Everything will perish save His Face. His is the Decision, and to Him you (all) shall be returned.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 88, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

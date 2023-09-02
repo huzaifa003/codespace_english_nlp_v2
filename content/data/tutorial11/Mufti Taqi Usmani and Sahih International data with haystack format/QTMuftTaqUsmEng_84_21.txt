@@ -1,0 +1,1 @@
+{'text': 'and when the Qur’ān is recited to them, they do not offer sajdah (prostration)?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 84, 'ayah_no': 21, 'surah_name_en': 'Al-Inshiqaq (The Sundering, Splitting Open)', 'surah_name_ar': 'الاِنشِقَاق'}}

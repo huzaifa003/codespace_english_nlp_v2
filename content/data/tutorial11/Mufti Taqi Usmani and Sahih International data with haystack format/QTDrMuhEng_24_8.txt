@@ -1,0 +1,1 @@
+{'text': 'But it shall avert the punishment (of stoning to death) from her, if she bears witness four times by Allah, that he (her husband) is telling a lie.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 8, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

@@ -1,0 +1,1 @@
+{'text': 'He is Allah, the Creator, the Inventor of all things, the Bestower of forms. To Him belong the Best Names . All that is in the heavens and the earth glorify Him. And He is the All-Mighty, the All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 59, 'ayah_no': 24, 'surah_name_en': 'Al-Hashr (Exile)', 'surah_name_ar': 'الحشر'}}

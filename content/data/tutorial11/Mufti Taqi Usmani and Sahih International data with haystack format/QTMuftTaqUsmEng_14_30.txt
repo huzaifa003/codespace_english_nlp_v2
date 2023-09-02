@@ -1,0 +1,1 @@
+{'text': 'They have set up partners with Allah, so that they may mislead (the people) from His path. Say, “Enjoy (for a while). Then your ultimate journey is to the Fire.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 30, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

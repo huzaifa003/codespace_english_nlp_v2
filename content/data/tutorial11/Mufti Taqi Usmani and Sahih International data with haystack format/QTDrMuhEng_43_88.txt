@@ -1,0 +1,1 @@
+{'text': '(Allah has knowledge) of (Prophet Muhammads) saying: "O my Lord! Verily, these are a people who believe not!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 88, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

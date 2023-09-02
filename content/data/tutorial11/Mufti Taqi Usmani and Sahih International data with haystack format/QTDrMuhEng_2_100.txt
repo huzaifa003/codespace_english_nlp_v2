@@ -1,0 +1,1 @@
+{'text': 'Is it not (the case) that every time they make a covenant, some party among them throw it aside? Nay! the truth is most of them believe not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 100, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

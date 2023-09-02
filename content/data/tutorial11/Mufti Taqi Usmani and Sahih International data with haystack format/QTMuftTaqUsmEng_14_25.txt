@@ -1,0 +1,1 @@
+{'text': 'It brings its fruits at all times with the will of its Lord. Allah sets forth the parables for the people, so that they may take lesson.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 25, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

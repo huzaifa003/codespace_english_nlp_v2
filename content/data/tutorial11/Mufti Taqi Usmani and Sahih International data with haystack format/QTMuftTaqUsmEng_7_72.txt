@@ -1,0 +1,1 @@
+{'text': 'So, We saved him and those with him out of mercy from Us, and We eradicated those who rejected Our signs. They were not believers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 72, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

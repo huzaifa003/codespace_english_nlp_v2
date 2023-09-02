@@ -1,0 +1,1 @@
+{'text': 'Reclining thereon, face to face.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 56, 'ayah_no': 16, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

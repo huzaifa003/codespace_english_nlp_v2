@@ -1,0 +1,1 @@
+{'text': 'He did not have any power over them, but for the reason that We should recognize the one who believes in the Hereafter as distinct from the one who is in doubt about it; and your Lord is Watchful over every thing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 34, 'ayah_no': 21, 'surah_name_en': 'Saba (Saba)', 'surah_name_ar': 'سبا'}}

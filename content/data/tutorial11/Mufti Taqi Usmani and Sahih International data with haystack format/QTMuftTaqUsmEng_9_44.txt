@@ -1,0 +1,1 @@
+{'text': 'Those who believe in Allah and in the Last Day do not ask you to excuse them from Jihād with their wealth and lives. Allah is aware of the God-fearing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 44, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

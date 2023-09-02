@@ -1,0 +1,1 @@
+{'text': 'Verily, We have given you (O Muhammad SAW) a manifest victory.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 48, 'ayah_no': 1, 'surah_name_en': 'Al-Fath (The victory)', 'surah_name_ar': 'الفتح'}}

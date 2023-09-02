@@ -1,0 +1,1 @@
+{'text': 'Surely, those who level a false charge against the chaste, natve and believing women are cursed in this world and the Hereafter, and for them there is a mighty punishment', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 23, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

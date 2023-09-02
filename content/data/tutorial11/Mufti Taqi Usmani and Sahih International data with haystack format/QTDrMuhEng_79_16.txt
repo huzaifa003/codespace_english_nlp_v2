@@ -1,0 +1,1 @@
+{'text': 'When his Lord called him in the sacred valley of Toowa,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 79, 'ayah_no': 16, 'surah_name_en': 'An-Naziat (Those who drag forth)', 'surah_name_ar': 'النّٰزِعٰتِ'}}

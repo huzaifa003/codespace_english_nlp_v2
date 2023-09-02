@@ -1,0 +1,1 @@
+{'text': 'Neither would it suit them, nor they can (produce it).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 211, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

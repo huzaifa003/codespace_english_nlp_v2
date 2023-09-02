@@ -1,0 +1,1 @@
+{'text': '(He is the) Cleaver of the daybreak. He has appointed the night for resting, and the sun and the moon for reckoning. Such is the measuring of the AllMighty, the AllKnowing.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 96, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

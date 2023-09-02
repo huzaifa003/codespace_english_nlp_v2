@@ -1,0 +1,1 @@
+{'text': 'And what will make you know what the Day of Recompense is?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 82, 'ayah_no': 17, 'surah_name_en': 'AL-Infitar (The Cleaving)', 'surah_name_ar': 'الاِنفِطَار'}}

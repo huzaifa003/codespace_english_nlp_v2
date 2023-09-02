@@ -1,0 +1,1 @@
+{'text': 'So, be assured that there is no god but Allah, and seek forgiveness for your fault, and for (the faults of) the believing men and believing women. And Allah knows your moving from place to place and your permanent abode.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 47, 'ayah_no': 19, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

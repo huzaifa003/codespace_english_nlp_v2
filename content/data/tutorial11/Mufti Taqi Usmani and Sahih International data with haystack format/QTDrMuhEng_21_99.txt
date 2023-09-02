@@ -1,0 +1,1 @@
+{'text': 'Had these (idols, etc.) been aliha (gods), they would not have entered there (Hell), and all of them will abide therein.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 99, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

@@ -1,0 +1,1 @@
+{'text': 'And whomsoever Allah guides, for him there will be no misleader. Is not Allah All-Mighty, Possessor of Retribution?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 37, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

@@ -1,0 +1,1 @@
+{'text': 'and I do not think that the Hour (Day of Judgment) has to come. And even if I am sent back to my Lord, I will surely find a better place than this to resort to.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 36, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

@@ -1,0 +1,1 @@
+{'text': 'O you who believe, fear Allah and give up what still remains of ribā, if you are believers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 278, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

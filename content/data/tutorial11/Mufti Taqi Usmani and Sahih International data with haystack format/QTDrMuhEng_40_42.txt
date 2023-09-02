@@ -1,0 +1,1 @@
+{'text': '"You invite me to disbelieve in Allah (and in His Oneness), and to join partners in worship with Him; of which I have no knowledge, and I invite you to the All-Mighty, the Oft-Forgiving!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 42, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

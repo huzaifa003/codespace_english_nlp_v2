@@ -1,0 +1,1 @@
+{'text': 'Say (O Muhammad SAW): "I am only a warner and there is no Ilah (God) except Allah (none has the right to be worshipped but Allah) the One, the Irresistible,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 65, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

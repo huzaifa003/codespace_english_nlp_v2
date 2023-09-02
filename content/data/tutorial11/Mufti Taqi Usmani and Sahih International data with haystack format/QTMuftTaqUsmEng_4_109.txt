@@ -1,0 +1,1 @@
+{'text': 'Look, this is what you are! You have argued for them in the worldly life, but who shall argue for them with Allah on the Day of Judgement, or who shall be their defender?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 4, 'ayah_no': 109, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

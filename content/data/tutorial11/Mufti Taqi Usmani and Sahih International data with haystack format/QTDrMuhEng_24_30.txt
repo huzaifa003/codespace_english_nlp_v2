@@ -1,0 +1,1 @@
+{'text': 'Tell the believing men to lower their gaze (from looking at forbidden things), and protect their private parts (from illegal sexual acts, etc.). That is purer for them. Verily, Allah is All-Aware of what they do.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 30, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

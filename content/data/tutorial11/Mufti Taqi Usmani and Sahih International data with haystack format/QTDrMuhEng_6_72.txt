@@ -1,0 +1,1 @@
+{'text': 'And to perform As-Salat (Iqamat-as-Salat)", and to be obedient to Allah and fear Him, and it is He to Whom you shall be gathered.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 72, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

@@ -1,0 +1,1 @@
+{'text': 'Therefore be patient (O Muhammad SAW) and submit to the Command of your Lord (Allah, by doing your duty to Him and by conveying His Message to mankind), and obey neither a sinner nor a disbeliever among them.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 76, 'ayah_no': 24, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

@@ -1,0 +1,1 @@
+{'text': 'Only those believe in Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.), who, when they are reminded of them fall down prostrate, and glorify the Praises of their Lord, and they are not proud.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 32, 'ayah_no': 15, 'surah_name_en': 'As-Sajda (The Prostration)', 'surah_name_ar': 'السجدۃ'}}

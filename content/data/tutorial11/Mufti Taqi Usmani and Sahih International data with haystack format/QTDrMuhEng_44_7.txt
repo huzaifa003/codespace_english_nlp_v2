@@ -1,0 +1,1 @@
+{'text': 'The Lord of the heavens and the earth and all that is between them, if you (but) have a faith with certainty.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 44, 'ayah_no': 7, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

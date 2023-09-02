@@ -1,0 +1,1 @@
+{'text': 'So, the word of our Lord has come true against us. Indeed, we have to taste (the punishment).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 31, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

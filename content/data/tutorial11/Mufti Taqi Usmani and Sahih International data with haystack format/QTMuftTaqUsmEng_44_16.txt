@@ -1,0 +1,1 @@
+{'text': '(Then,) the day We will seize (you) with the greatest seizure, We will take vengeance.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 44, 'ayah_no': 16, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

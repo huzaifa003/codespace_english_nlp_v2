@@ -1,0 +1,1 @@
+{'text': 'He is Ever-living. There is no god but He. So worship Him making your submission exclusive for Him. All praise belongs to Allah, the Lord of all the worlds.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 65, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

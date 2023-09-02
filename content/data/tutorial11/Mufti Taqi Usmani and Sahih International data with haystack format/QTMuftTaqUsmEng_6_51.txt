@@ -1,0 +1,1 @@
+{'text': 'Warn, with it, those who have the fear of being gathered before their Lord, with no one other than Him to support or to intercede. Maybe they become God-fearing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 51, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

@@ -1,0 +1,1 @@
+{'text': '"I convey unto you the Messages of my Lord, and I am a trustworthy adviser (or wellwisher) for you.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 68, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

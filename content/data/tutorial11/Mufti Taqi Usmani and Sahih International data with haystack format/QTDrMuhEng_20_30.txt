@@ -1,0 +1,1 @@
+{'text': '"Haroon (Aaron), my brother;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 30, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

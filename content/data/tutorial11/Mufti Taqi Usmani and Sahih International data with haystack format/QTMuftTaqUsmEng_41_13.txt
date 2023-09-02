@@ -1,0 +1,1 @@
+{'text': 'So, if they turn away, then say, “I have warned you of a calamity like the calamity of ‘Ād and Thamūd,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 41, 'ayah_no': 13, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

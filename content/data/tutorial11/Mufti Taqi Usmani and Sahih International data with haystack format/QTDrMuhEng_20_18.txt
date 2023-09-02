@@ -1,0 +1,1 @@
+{'text': 'He said: "This is my stick, whereon I lean, and wherewith I beat down branches for my sheep, and wherein I find other uses."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 18, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

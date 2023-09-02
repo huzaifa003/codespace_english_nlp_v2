@@ -1,0 +1,1 @@
+{'text': '"And as for the boy, his parents were believers, and we feared lest he should oppress them by rebellion and disbelief.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 80, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

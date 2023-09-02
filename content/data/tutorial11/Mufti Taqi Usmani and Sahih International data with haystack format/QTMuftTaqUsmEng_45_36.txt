@@ -1,0 +1,1 @@
+{'text': 'So, to Allah belongs all praise, who is the Lord of the heavens and the earth, the Lord of the worlds.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 36, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

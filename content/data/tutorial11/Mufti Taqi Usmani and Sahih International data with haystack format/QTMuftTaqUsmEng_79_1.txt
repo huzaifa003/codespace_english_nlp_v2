@@ -1,0 +1,1 @@
+{'text': 'I swear by those (angels) who pull out (the souls of the infidels) with extreme force,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 79, 'ayah_no': 1, 'surah_name_en': 'An-Naziat (Those who drag forth)', 'surah_name_ar': 'النّٰزِعٰتِ'}}

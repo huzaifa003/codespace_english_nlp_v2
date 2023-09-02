@@ -1,0 +1,1 @@
+{'text': 'Has he known the unseen or has he taken a covenant from the Most Beneficent (Allah)?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 78, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

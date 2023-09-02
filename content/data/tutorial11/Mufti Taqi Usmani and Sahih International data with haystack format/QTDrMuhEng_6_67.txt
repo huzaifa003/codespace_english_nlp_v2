@@ -1,0 +1,1 @@
+{'text': 'For every news there is a fact, i.e. for everything there is an appointed term (and it is also said that for every deed there is a recompense) and you will come to know.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 67, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

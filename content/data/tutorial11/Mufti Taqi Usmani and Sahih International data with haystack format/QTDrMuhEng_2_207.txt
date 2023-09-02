@@ -1,0 +1,1 @@
+{'text': 'And of mankind is he who would sell himself, seeking the Pleasure of Allah. And Allah is full of Kindness to (His) slaves.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 207, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

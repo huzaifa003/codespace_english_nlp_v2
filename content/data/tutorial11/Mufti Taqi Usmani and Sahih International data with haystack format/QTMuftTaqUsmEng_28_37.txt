@@ -1,0 +1,1 @@
+{'text': 'Mūsā said, “My Lord is best aware of the one who has brought guidance from Him and who is going to meet the best end of the abode. It is certain that the wrongdoers will not succeed.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 37, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

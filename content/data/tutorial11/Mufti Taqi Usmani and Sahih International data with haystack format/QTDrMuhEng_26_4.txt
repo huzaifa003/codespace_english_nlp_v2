@@ -1,0 +1,1 @@
+{'text': 'If We will, We could send down to them from the heaven a sign, to which they would bend their necks in humility.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 4, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

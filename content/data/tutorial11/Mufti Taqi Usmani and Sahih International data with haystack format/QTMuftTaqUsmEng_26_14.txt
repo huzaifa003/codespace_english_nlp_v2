@@ -1,0 +1,1 @@
+{'text': 'Moreover, they have (leveled) a charge of offence against me, and I fear they will kill me;”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 14, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

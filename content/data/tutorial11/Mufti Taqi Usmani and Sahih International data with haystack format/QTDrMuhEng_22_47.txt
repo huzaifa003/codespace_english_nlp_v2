@@ -1,0 +1,1 @@
+{'text': 'And they ask you to hasten on the torment! And Allah fails not His Promise. And verily, a day with your Lord is as a thousand years of what you reckon.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 22, 'ayah_no': 47, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

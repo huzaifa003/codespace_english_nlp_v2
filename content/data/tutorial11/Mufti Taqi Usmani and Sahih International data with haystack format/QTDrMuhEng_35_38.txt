@@ -1,0 +1,1 @@
+{'text': 'Verily, Allah is the AllKnower of the unseen of the heavens and the earth. Verily! He is the AllKnower of that is in the breasts.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 35, 'ayah_no': 38, 'surah_name_en': 'Fatir (Originator)', 'surah_name_ar': 'فاطر'}}

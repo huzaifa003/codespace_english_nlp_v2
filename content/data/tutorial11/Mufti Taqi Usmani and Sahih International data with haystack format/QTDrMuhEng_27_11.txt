@@ -1,0 +1,1 @@
+{'text': '"Except him who has done wrong and afterwards has changed evil for good, then surely, I am Oft-Forgiving, Most Merciful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 11, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

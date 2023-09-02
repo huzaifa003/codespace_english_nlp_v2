@@ -1,0 +1,1 @@
+{'text': 'Thus We recompense him who exceeds the limits and does not believe in the signs of his Lord. Certainly the punishment of the Hereafter is more severe and more lasting.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 127, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

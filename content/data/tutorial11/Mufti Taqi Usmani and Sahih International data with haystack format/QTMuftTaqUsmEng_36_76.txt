@@ -1,0 +1,1 @@
+{'text': 'So, their remarks must not grieve you. Surely We know what they conceal and what they disclose.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 76, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

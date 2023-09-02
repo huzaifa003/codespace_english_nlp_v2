@@ -1,0 +1,1 @@
+{'text': 'For Allah there are the most beautiful names. So, call Him by them, and leave those who deviate in (the matter of) His names. They shall be recompensed for what they have been doing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 180, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

@@ -1,0 +1,1 @@
+{'text': 'And if the enemy had entered from all sides (of the city), and they had been exhorted to AlFitnah (i.e. to renegade from Islam to polytheism) they would surely have committed it and would have hesitated thereupon but little.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 33, 'ayah_no': 14, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

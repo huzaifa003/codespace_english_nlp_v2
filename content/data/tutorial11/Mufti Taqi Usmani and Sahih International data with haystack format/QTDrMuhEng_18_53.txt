@@ -1,0 +1,1 @@
+{'text': 'And the Mujrimoon (criminals, polytheists, sinners), shall see the Fire and apprehend that they have to fall therein. And they will find no way of escape from there.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 53, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

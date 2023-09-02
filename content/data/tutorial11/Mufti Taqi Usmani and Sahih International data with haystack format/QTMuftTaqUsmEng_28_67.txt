@@ -1,0 +1,1 @@
+{'text': 'As for the one who repents and becomes a believer and acts righteously, hopefully he will be among the successful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 67, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

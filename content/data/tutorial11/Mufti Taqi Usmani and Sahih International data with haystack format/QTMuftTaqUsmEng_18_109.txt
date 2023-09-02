@@ -1,0 +1,1 @@
+{'text': 'Say, “If the ocean were to be ink for (writing) the Words of my Lord, the ocean would have been consumed before the Words of my Lord are exhausted, even though we were to bring another (ocean) like it in addition.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 109, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

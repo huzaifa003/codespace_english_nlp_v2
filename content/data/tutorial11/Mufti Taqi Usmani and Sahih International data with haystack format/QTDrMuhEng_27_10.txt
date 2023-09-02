@@ -1,0 +1,1 @@
+{'text': '"And throw down your stick!" But when he saw it moving as if it were a snake, he turned in flight, and did not look back. (It was said): "O Moosa (Moses)! Fear not, verily! The Messengers fear not in front of Me.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 10, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

@@ -1,0 +1,1 @@
+{'text': 'Surely Jahannam (the Hell) lurks in ambush.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 78, 'ayah_no': 21, 'surah_name_en': 'An-Naba (The tidings)', 'surah_name_ar': 'النَّبَاِ'}}

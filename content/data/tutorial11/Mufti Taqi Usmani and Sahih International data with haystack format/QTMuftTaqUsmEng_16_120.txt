@@ -1,0 +1,1 @@
+{'text': 'Surely, Ibrāhīm was an Ummah (a whole community in himself), devoted to Allah, a man of pure faith; and he was not among the Mushriks (i.e. those who associate partners with Allah)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 120, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

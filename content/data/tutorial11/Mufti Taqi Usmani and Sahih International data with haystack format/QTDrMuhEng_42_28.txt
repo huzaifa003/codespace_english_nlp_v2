@@ -1,0 +1,1 @@
+{'text': 'And He it is Who sends down the rain after they have despaired, and spreads abroad His Mercy. And He is the Walee (Helper, Supporter, Protector, etc.), Worthy of all Praise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 42, 'ayah_no': 28, 'surah_name_en': 'Ash-Shura (Council, Consultation)', 'surah_name_ar': 'الشُّورٰی'}}

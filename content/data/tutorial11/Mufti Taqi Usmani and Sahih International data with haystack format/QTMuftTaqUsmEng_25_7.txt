@@ -1,0 +1,1 @@
+{'text': 'They said, “What sort of messenger is this who eats food and walks in the markets? Why is it that an angel has not been sent down to him who would have been a warner along with him.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 7, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

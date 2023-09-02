@@ -1,0 +1,1 @@
+{'text': 'If you march not forth, He will punish you with a painful torment and will replace you by another people, and you cannot harm Him at all, and Allah is Able to do all things.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 39, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

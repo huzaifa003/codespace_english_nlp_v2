@@ -1,0 +1,1 @@
+{'text': 'As for those who are blessed, they shall be in Paradise living there forever, as long as the heavens and the earth remain intact, unless your Lord wills (otherwise), It will be an award never to be ceased.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 108, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

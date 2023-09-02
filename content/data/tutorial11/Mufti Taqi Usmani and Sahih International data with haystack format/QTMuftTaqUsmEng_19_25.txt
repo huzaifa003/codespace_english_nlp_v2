@@ -1,0 +1,1 @@
+{'text': 'Shake the trunk of the palm-tree towards yourself and, it will drop upon you ripe fresh dates.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 25, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

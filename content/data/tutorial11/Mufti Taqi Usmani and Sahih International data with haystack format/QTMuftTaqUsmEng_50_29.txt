@@ -1,0 +1,1 @@
+{'text': 'The Word is not changed with Me, and I Am not so unjust to My servants.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 29, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

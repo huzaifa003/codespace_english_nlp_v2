@@ -1,0 +1,1 @@
+{'text': 'and when the scrolls (of deeds) will be unrolled,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 81, 'ayah_no': 10, 'surah_name_en': 'At-Takwir (The Overthrowing)', 'surah_name_ar': 'التَّکوِیر'}}

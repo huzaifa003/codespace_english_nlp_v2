@@ -1,0 +1,1 @@
+{'text': 'on the Day when the punishment will envelop them from above them and from under their feet and He (Allah) will say, “Taste what you used to do.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 55, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

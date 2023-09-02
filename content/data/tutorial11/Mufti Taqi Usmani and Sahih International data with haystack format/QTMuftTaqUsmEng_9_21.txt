@@ -1,0 +1,1 @@
+{'text': 'Their Lord gives them the happy news of Mercy from Him, and of (His) Pleasure, and of Gardens having an everlasting bliss for them,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 21, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

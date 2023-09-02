@@ -1,0 +1,1 @@
+{'text': 'How many a generation have We destroyed after NūH! And enough is your Lord to know, (and) watch the sins of His servants.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 17, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

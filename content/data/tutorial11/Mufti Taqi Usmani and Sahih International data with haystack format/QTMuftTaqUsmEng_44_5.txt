@@ -1,0 +1,1 @@
+{'text': 'through a command from Us. We were to send the Messenger', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 44, 'ayah_no': 5, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

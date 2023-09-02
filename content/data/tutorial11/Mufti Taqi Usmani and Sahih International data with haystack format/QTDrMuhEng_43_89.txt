@@ -1,0 +1,1 @@
+{'text': 'So turn away from them (O Muhammad SAW), and say: Salam (peace)! But they will come to know.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 89, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

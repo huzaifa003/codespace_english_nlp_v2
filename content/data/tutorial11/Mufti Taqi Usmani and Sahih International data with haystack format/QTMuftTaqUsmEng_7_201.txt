@@ -1,0 +1,1 @@
+{'text': 'Surely when the God-fearing are touched by any instigation from Satan, they become conscious (of Allah), and at once they discern (the reality).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 201, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

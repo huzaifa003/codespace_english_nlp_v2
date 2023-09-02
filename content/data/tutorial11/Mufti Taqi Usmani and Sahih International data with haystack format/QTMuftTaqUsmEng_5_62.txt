@@ -1,0 +1,1 @@
+{'text': 'You will see many of them rushing towards sin and aggression, and (towards) devouring what is unlawful. Evil indeed is what they have been doing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 62, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

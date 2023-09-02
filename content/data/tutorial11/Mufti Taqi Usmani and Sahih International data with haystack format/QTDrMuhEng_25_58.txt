@@ -1,0 +1,1 @@
+{'text': 'And put your trust (O Muhammad SAW) in the Ever Living One Who dies not, and glorify His Praises, and Sufficient is He as the All-Knower of the sins of His slaves;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 58, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

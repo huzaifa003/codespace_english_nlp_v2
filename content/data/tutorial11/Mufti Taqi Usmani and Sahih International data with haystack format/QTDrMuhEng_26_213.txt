@@ -1,0 +1,1 @@
+{'text': 'So invoke not with Allah another ilah (god) lest you be among those who receive punishment.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 213, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

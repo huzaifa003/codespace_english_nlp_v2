@@ -1,0 +1,1 @@
+{'text': 'Every one who is on it (the earth) has to perish.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 55, 'ayah_no': 26, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

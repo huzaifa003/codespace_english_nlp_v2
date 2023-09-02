@@ -1,0 +1,1 @@
+{'text': '(He is) the Lord of the heavens and the earth and whatever lies between them. So, worship Him and persevere in His worship. Do you know any one worthy of His name?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 65, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

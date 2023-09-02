@@ -1,0 +1,1 @@
+{'text': 'Establish Salāh and pay Zakāh and obey the messenger, so that you may be favored with mercy.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 56, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

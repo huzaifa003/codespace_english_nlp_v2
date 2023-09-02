@@ -1,0 +1,1 @@
+{'text': 'We created you, then gave you a shape, then We said to the angels, “Prostrate yourselves before ’Ādam.” So, they all prostrated themselves, except Iblīs (Satan). He did not join those who fell prostrate.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 11, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

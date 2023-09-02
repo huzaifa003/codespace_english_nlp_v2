@@ -1,0 +1,1 @@
+{'text': 'And recite before them the narrative of Ibrāhīm,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 69, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

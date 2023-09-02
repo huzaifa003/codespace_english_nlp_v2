@@ -1,0 +1,1 @@
+{'text': 'He has set up an argument about Us and forgot his creation. He said, “Who will give life to the bones when they are decayed?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 78, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

@@ -1,0 +1,1 @@
+{'text': 'And had they accepted the faith, and been God-fearing, the reward from Allah would have always been far better. If only they knew!', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 103, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

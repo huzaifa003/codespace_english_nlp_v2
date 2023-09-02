@@ -1,0 +1,1 @@
+{'text': '(The ones who help Allah are) those who, when We give them power in the land, establish Salāh, pay Zakāh, bid what is Fair and forbid what is Unfair. And with Allah lies the fate of all matters.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 41, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

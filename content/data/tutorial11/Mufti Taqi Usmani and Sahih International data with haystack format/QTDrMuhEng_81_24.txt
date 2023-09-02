@@ -1,0 +1,1 @@
+{'text': 'And he (Muhammad (Peace be upon him)) withholds not a knowledge of the unseen.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 81, 'ayah_no': 24, 'surah_name_en': 'At-Takwir (The Overthrowing)', 'surah_name_ar': 'التَّکوِیر'}}

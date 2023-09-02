@@ -1,0 +1,1 @@
+{'text': 'But when he came to it, he was called: "Blessed is whosoever is in the fire, and whosoever is round about it! And glorified be Allah, the Lord of the Alameen (mankind, jinns and all that exists).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 8, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

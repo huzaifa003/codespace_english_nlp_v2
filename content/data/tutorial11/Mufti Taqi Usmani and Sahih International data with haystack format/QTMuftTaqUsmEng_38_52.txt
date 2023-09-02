@@ -1,0 +1,1 @@
+{'text': 'and in their company there will be females restricting their glances (to their husbands, and) of matching ages.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 52, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

@@ -1,0 +1,1 @@
+{'text': 'Surely those who believed and did righteous deeds, theirs are the Gardens of Firdaus as entertainment', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 107, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

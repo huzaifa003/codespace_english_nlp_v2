@@ -1,0 +1,1 @@
+{'text': 'When We said to the angels, “Prostrate yourselves to ’Ādam”. So, all of them fell prostrate, except Iblīs , who refused.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 116, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

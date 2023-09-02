@@ -1,0 +1,1 @@
+{'text': 'So he (the disbeliever) neither believed (in this Quran, in the Message of Muhammad SAW) nor prayed!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 75, 'ayah_no': 31, 'surah_name_en': 'Al-Qiyama (The rising of the dead)', 'surah_name_ar': 'القیٰمۃ'}}

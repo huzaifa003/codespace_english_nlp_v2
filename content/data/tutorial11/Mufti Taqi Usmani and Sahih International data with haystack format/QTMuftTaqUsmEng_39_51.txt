@@ -1,0 +1,1 @@
+{'text': 'and they were overtaken by the evils of what they had earned; and the wrongdoers from these (infidels too) will be overtaken by the evils of what they have earned - and they will not be able to escape.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 51, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

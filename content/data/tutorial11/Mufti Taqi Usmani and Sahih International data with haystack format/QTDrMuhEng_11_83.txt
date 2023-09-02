@@ -1,0 +1,1 @@
+{'text': 'Marked from your Lord, and they are not ever far from the Zalimoon (polytheists, evil-doers, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 83, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

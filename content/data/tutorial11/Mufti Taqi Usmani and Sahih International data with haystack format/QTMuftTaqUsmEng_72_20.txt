@@ -1,0 +1,1 @@
+{'text': 'Say, “I invoke my Lord, and do not associate anyone with Him.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 72, 'ayah_no': 20, 'surah_name_en': 'Al-Jinn (The Jinn)', 'surah_name_ar': 'الجن'}}

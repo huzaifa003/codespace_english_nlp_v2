@@ -1,0 +1,1 @@
+{'text': 'No! If he does not desist, We will certainly drag (him) by forelock,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 96, 'ayah_no': 15, 'surah_name_en': 'Al-Alaq (The Clot)', 'surah_name_ar': 'العَلَق'}}

@@ -1,0 +1,1 @@
+{'text': 'And we have sought to reach the heaven; but found it filled with stern guards and flaming fires.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 72, 'ayah_no': 8, 'surah_name_en': 'Al-Jinn (The Jinn)', 'surah_name_ar': 'الجن'}}

@@ -1,0 +1,1 @@
+{'text': 'Then, once they will see it approaching, the faces of the disbelievers will be turned awkward, and it will be said, “This is what you were calling for!”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 67, 'ayah_no': 27, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

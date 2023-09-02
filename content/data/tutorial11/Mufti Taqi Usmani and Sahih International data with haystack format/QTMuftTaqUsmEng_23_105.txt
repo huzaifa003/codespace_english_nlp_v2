@@ -1,0 +1,1 @@
+{'text': '(It will be said to such people), “Were My verses not used to be recited to you and you used to reject them?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 23, 'ayah_no': 105, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

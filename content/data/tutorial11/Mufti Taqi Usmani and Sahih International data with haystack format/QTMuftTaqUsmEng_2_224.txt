@@ -1,0 +1,1 @@
+{'text': 'Do not make (the name of) Allah the subject of your oaths against your doing good, fearing Allah and setting things right between people. Allah is All-Hearing, All-Knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 224, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'Verily, he thought that he would never come back (to Us)!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 84, 'ayah_no': 14, 'surah_name_en': 'Al-Inshiqaq (The Sundering, Splitting Open)', 'surah_name_ar': 'الاِنشِقَاق'}}

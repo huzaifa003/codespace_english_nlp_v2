@@ -1,0 +1,1 @@
+{'text': 'And, indeed We gave Moosa (Moses) the guidance, and We caused the Children of Israel to inherit the Scripture (i.e. the Taurat (Torah)),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 53, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

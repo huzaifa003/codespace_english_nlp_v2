@@ -1,0 +1,1 @@
+{'text': '"Our Lord! Make us not a trial for the disbelievers, and forgive us, Our Lord! Verily, You, only You are the All-Mighty, the All-Wise."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 60, 'ayah_no': 5, 'surah_name_en': 'Al-Mumtahina (She that is to be examined)', 'surah_name_ar': 'الممتحنۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'They are waiting for nothing but for the Hour to come upon them suddenly, while they would not even imagine (it).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 66, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

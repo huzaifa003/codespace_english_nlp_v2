@@ -1,0 +1,1 @@
+{'text': 'We did not reveal the Qur’ān to you to (make you) face hardship', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 2, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

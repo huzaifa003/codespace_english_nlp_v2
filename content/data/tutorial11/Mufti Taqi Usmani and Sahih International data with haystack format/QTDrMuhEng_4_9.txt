@@ -1,0 +1,1 @@
+{'text': 'And let those (executors and guardians) have the same fear in their minds as they would have for their own, if they had left weak offspring behind. So let them fear Allah and speak right words.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 4, 'ayah_no': 9, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

@@ -1,0 +1,1 @@
+{'text': 'The last thereof (that wine) will be the smell of musk, and for this let (all) those strive who want to strive (i.e. hasten earnestly to the obedience of Allah).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 83, 'ayah_no': 26, 'surah_name_en': 'Al-Mutaffifin (Defrauding)', 'surah_name_ar': 'المُطَفِّفِین'}}

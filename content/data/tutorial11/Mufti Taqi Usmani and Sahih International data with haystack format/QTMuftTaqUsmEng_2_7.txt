@@ -1,0 +1,1 @@
+{'text': 'Allah has set a seal on their hearts and on their hearing; and on their eyes there is a covering, and for them awaits a mighty punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 7, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

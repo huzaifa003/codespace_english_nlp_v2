@@ -1,0 +1,1 @@
+{'text': 'When Our emissaries (angels) came to LūT, he was saddened because of them, and his heart felt uneasy for their sake, and He said, “This is a very hard day.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 77, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

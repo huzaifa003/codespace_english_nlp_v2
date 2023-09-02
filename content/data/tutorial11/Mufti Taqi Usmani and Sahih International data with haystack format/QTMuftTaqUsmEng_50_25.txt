@@ -1,0 +1,1 @@
+{'text': 'who used to prevent (others) from good (behavior), who transgressed all bounds, who cast doubts (in true faith),', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 25, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

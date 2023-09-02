@@ -1,0 +1,1 @@
+{'text': 'If they (non-Muslims) had believed in Allah, and went on the Right Way (i.e. Islam) We should surely have bestowed on them water (rain) in abundance.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 72, 'ayah_no': 16, 'surah_name_en': 'Al-Jinn (The Jinn)', 'surah_name_ar': 'الجن'}}

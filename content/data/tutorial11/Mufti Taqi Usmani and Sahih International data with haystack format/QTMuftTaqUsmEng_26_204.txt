@@ -1,0 +1,1 @@
+{'text': 'Is it then Our punishment that they are trying to hasten up?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 204, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

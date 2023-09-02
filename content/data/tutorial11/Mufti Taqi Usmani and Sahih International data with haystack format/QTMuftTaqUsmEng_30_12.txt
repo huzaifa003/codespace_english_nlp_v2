@@ -1,0 +1,1 @@
+{'text': 'On the day when the Hour (Qiyāmah : the Day of Judgement)) will take place, the guilty will be taken aback in grief and despair.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 12, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

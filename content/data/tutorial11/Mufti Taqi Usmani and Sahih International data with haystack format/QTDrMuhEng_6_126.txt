@@ -1,0 +1,1 @@
+{'text': 'And this is the Path of your Lord (the Quran and Islam) leading Straight. We have detailed Our Revelations for a people who take heed.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 126, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

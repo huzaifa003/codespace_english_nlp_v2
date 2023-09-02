@@ -1,0 +1,1 @@
+{'text': 'And (remember) the Day when He will call to them, and say: "Where are My (so-called) partners whom you used to assert?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 62, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

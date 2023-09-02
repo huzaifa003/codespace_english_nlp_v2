@@ -1,0 +1,1 @@
+{'text': 'He is such that he has no authority over those who believe and place trust in their Lord.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 99, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

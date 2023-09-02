@@ -1,0 +1,1 @@
+{'text': 'In their hearts is a disease (of doubt and hypocrisy) and Allah has increased their disease. A painful torment is theirs because they used to tell lies.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 10, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

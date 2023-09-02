@@ -1,0 +1,1 @@
+{'text': 'Take due care of all the prayers, and the middle prayer, and stand before Allah in total devotion.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 238, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

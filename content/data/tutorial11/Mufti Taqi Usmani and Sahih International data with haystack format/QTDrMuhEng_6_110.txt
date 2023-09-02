@@ -1,0 +1,1 @@
+{'text': 'And We shall turn their hearts and their eyes away (from guidance), as they refused to believe therein for the first time, and We shall leave them in their trespass to wander blindly.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 110, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

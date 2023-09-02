@@ -1,0 +1,1 @@
+{'text': 'That day they will follow the caller who will find no deviation (from anyone). And the voices will turn low in awe for the RaHmān (All-Merciful, Allah). So, you will hear not but whispering.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 108, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

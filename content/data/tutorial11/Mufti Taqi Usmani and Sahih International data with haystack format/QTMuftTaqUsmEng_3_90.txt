@@ -1,0 +1,1 @@
+{'text': 'Those who disbelieve after having accepted Faith and then increase in disbelief, their repentance shall never be accepted. They are the ones who have lost the right path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 90, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

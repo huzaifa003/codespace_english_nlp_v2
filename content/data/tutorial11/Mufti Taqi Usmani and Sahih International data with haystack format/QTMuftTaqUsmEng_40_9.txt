@@ -1,0 +1,1 @@
+{'text': 'and save them from evils (of punishment). And whomsoever you save from evils that day, it is surely because you bless him with mercy. And that is the great achievement indeed.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 9, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

@@ -1,0 +1,1 @@
+{'text': '(Well,) We are going to remove the punishment for a while, (but) you will certainly go back (to your original position).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 44, 'ayah_no': 15, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

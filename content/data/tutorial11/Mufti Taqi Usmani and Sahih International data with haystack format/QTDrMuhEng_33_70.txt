@@ -1,0 +1,1 @@
+{'text': 'O you who believe! Keep your duty to Allah and fear Him, and speak (always) the truth.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 33, 'ayah_no': 70, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

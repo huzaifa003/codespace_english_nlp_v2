@@ -1,0 +1,1 @@
+{'text': 'And when it is said to them, “Spend (to the needy) from the provision Allah has given to you”, the disbelievers say to the believers, “Shall we feed those whom Allah could have fed, if Allah so willed? You are but in open error.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 47, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

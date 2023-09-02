@@ -1,0 +1,1 @@
+{'text': 'So We revealed to Mūsā saying, “Strike the sea with your staff.” So it was severed apart, and each part became like a big mountain.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 63, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

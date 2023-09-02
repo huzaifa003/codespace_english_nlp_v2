@@ -1,0 +1,1 @@
+{'text': 'We created the heavens and the earth and all that is between them in six days, and no weariness even touched Us.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 38, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

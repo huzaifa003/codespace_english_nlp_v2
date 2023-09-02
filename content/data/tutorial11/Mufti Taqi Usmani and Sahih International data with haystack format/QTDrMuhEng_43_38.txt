@@ -1,0 +1,1 @@
+{'text': 'Till, when (such a one) comes to Us, he says (to his Qareen (Satan _ devil companion)) "Would that between me and you were the distance of the two easts (or the east and west)" a worst (type of) companion (indeed)!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 38, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

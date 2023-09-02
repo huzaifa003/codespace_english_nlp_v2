@@ -1,0 +1,1 @@
+{'text': 'And there has come to them as much news (of the earlier communities) as it is enough to deter,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 54, 'ayah_no': 4, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

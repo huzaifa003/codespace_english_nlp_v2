@@ -1,0 +1,1 @@
+{'text': 'O Children of Isrā’īl (the Israelites), remember My blessing that I conferred upon you, and fulfill the covenant with Me, and I shall fulfill your covenant, and have awe of Me alone.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 40, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

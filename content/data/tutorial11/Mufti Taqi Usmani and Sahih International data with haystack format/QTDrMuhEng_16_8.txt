@@ -1,0 +1,1 @@
+{'text': 'And (He has created) horses, mules and donkeys, for you to ride and as an adornment. And He creates (other) things of which you have no knowledge.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 8, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

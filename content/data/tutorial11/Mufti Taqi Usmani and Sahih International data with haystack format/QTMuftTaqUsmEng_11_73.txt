@@ -1,0 +1,1 @@
+{'text': 'They said, “Do you marvel at Allah’s command? Allah’s mercy and His blessings have always been upon you, O people of the house. Surely, He is Praiseworthy, Glorious.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 73, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

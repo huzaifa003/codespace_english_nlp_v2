@@ -1,0 +1,1 @@
+{'text': 'And We blessed Dawūd with Sulaimān. He was an excellent servant (of Allah). Surely, he was great in turning (to Us, in penitence and praise).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 30, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

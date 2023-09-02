@@ -1,0 +1,1 @@
+{'text': '(to warn them that We may send down the scourge upon them) as We sent down upon the dividers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 90, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

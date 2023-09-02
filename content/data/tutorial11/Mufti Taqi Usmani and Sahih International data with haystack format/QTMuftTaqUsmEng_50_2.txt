@@ -1,0 +1,1 @@
+{'text': 'But they wonder that a warner has come to them from among themselves; so the disbelievers said, “This is something strange.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 2, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

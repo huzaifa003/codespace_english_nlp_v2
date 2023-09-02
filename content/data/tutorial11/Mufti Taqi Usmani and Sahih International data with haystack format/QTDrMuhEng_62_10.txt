@@ -1,0 +1,1 @@
+{'text': 'Then when the (Jumuah) Salat (prayer) is finished, you may disperse through the land, and seek the Bounty of Allah (by working, etc.), and remember Allah much, that you may be successful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 62, 'ayah_no': 10, 'surah_name_en': 'Al-Jumua (The congregation, Friday)', 'surah_name_ar': 'الجُمعۃ'}}

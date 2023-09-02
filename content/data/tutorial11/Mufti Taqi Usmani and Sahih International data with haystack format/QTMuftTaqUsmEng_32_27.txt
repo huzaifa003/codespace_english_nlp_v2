@@ -1,0 +1,1 @@
+{'text': 'Have they not seen that We drive water to the dry land, then We bring forth crops thereby from which their cattle and they themselves have food? So, do they not perceive?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 32, 'ayah_no': 27, 'surah_name_en': 'As-Sajda (The Prostration)', 'surah_name_ar': 'السجدۃ'}}

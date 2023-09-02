@@ -1,0 +1,1 @@
+{'text': 'it being a revelation from the One Who created the earth, and high heavens.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 4, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

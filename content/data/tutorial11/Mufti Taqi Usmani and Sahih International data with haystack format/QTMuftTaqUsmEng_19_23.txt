@@ -1,0 +1,1 @@
+{'text': 'Then the labour pains brought her to the trunk of a palm-tree. She said “O that I would have died before this, and would have been something gone, forgotten.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 23, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

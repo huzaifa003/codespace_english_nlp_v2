@@ -1,0 +1,1 @@
+{'text': 'Does every man of them hope to enter the Paradise of delight?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 70, 'ayah_no': 38, 'surah_name_en': 'Al-Maarij (The Ascending stairways)', 'surah_name_ar': 'المعارج'}}

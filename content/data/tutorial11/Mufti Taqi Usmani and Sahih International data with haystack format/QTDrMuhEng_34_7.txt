@@ -1,0 +1,1 @@
+{'text': 'Those who disbelieve say: "Shall we direct you to a man (Muhammad SAW) who will tell you (that) when you have become fully disintegrated into dust with full dispersion, then, you will be created (again) anew?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 34, 'ayah_no': 7, 'surah_name_en': 'Saba (Saba)', 'surah_name_ar': 'سبا'}}

@@ -1,0 +1,1 @@
+{'text': 'Consider not that the disbelievers can escape in the land. Their abode shall be the Fire, and worst indeed is that destination.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 57, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

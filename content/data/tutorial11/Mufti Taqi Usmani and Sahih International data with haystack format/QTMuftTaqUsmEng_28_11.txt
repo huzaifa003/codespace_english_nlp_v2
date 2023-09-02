@@ -1,0 +1,1 @@
+{'text': 'She said to his sister, “Keep track of him.” So she watched him from a distance, while they were not aware.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 11, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

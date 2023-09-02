@@ -1,0 +1,1 @@
+{'text': 'How many a sign there are in the heavens and the Earth, which they pass by and they are heedless to them;', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 105, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

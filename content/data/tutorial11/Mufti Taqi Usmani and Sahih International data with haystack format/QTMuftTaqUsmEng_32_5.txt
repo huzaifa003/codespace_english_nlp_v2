@@ -1,0 +1,1 @@
+{'text': 'He manages (every) matter from the sky to the earth, then it (every matter) will ascend to Him in a day the measure of which is one thousand years according to the way you count.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 32, 'ayah_no': 5, 'surah_name_en': 'As-Sajda (The Prostration)', 'surah_name_ar': 'السجدۃ'}}

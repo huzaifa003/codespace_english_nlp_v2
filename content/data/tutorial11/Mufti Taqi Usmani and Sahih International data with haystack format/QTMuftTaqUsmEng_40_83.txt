@@ -1,0 +1,1 @@
+{'text': 'When their messengers came to them with manifest signs, they exulted because of whatever knowledge they had, and they were encircled by what they used to ridicule.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 83, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

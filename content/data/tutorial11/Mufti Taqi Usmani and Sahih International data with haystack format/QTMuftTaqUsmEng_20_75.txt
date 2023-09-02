@@ -1,0 +1,1 @@
+{'text': 'And whoever will come to Him as believer, having done righteous deeds, for such people there are the highest ranks,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 75, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

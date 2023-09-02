@@ -1,0 +1,1 @@
+{'text': 'And We have written in Zabūr (Psalms) after the advice that the land will be inherited by My righteous slaves.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 105, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

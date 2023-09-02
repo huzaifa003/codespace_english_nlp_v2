@@ -1,0 +1,1 @@
+{'text': 'And they swear by Allah their strongest oaths, that Allah will not raise up him who dies. Yes, (He will raise them up), a promise (binding) upon Him in truth, but most of mankind know not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 38, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

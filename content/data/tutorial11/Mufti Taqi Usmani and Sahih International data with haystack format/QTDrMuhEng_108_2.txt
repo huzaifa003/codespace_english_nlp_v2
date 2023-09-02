@@ -1,0 +1,1 @@
+{'text': 'Therefore turn in prayer to your Lord and sacrifice (to Him only).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 108, 'ayah_no': 2, 'surah_name_en': 'Al-Kauther (Abundance)', 'surah_name_ar': 'الکوثر'}}

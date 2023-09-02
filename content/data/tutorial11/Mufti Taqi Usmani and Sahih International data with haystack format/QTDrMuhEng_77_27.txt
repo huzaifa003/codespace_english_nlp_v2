@@ -1,0 +1,1 @@
+{'text': 'And have placed therein firm, and tall mountains; and have given you to drink sweet water?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 77, 'ayah_no': 27, 'surah_name_en': 'Al-Mursalat (The emissaries)', 'surah_name_ar': 'المرسلٰت'}}

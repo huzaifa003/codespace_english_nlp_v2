@@ -1,0 +1,1 @@
+{'text': 'Or do they think that We hear not their secrets and their private counsel? (Yes We do) and Our Messengers (appointed angels in charge of mankind) are by them, to record.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 80, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

@@ -1,0 +1,1 @@
+{'text': 'Then he became a clot of blood, then He created (him) and made (him) perfect,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 75, 'ayah_no': 38, 'surah_name_en': 'Al-Qiyama (The rising of the dead)', 'surah_name_ar': 'القیٰمۃ'}}

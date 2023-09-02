@@ -1,0 +1,1 @@
+{'text': 'And follow the best of what has been sent down to you from your Lord before the punishment comes to you suddenly when you do not even expect,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 55, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

@@ -1,0 +1,1 @@
+{'text': 'And Firaun (Pharaoh), and those before him, and the cities overthrown (the towns of the people of (Lout (Lot)) committed sin,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 69, 'ayah_no': 9, 'surah_name_en': 'Al-Haaqqa (The reality)', 'surah_name_ar': 'الحاقہ'}}

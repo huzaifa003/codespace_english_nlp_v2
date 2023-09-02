@@ -1,0 +1,1 @@
+{'text': 'All those in the heavens and the earth beseech Him (for their needs.) Every day He is in a state of action.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 55, 'ayah_no': 29, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

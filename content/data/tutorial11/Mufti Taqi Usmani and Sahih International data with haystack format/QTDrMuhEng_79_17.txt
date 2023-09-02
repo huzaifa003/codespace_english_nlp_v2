@@ -1,0 +1,1 @@
+{'text': 'Go to Firaun (Pharaoh), verily, he has transgressed all bounds (in crimes, sins, polytheism, disbelief, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 79, 'ayah_no': 17, 'surah_name_en': 'An-Naziat (Those who drag forth)', 'surah_name_ar': 'النّٰزِعٰتِ'}}

@@ -1,0 +1,1 @@
+{'text': 'So that Allah may remit from them the evil of what they did and give them the reward, according to the best of what they used to do.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 35, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

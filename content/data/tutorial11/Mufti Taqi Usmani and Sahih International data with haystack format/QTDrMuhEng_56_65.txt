@@ -1,0 +1,1 @@
+{'text': 'Were it Our Will, We could crumble it to dry pieces, and you would be regretful (or left in wonderment).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 56, 'ayah_no': 65, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'Say: "He is the Most Beneficent (Allah), in Him we believe, and in Him we put our trust. So you will come to know who is it that is in manifest error."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 67, 'ayah_no': 29, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

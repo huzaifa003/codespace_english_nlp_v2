@@ -1,0 +1,1 @@
+{'text': 'Then he (Salih (Saleh)) turned from them, and said: "O my people! I have indeed conveyed to you the Message of my Lord, and have given you good advice but you like not good advisers."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 79, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

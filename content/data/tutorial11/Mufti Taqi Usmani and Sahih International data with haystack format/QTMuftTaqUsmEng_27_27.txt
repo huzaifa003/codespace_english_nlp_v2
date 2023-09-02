@@ -1,0 +1,1 @@
+{'text': 'He (Sulaimān) said, “We shall see whether you have told the truth or you are one of the liars.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 27, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

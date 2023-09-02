@@ -1,0 +1,1 @@
+{'text': 'And do not do mischief on the earth, after it has been set in order, and invoke Him with fear and hope; Surely, Allahs Mercy is (ever) near unto the gooddoers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 56, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

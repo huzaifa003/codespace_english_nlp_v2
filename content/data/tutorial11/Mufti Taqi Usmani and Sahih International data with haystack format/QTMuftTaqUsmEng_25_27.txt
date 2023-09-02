@@ -1,0 +1,1 @@
+{'text': 'And (Be mindful of) the Day the wrongdoer will bite his hands saying, “Would that I had taken a path along with the messenger!', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 27, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

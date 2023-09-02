@@ -1,0 +1,1 @@
+{'text': 'And We tax not any person except according to his capacity, and with Us is a Record which speaks the truth, and they will not be wronged.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 23, 'ayah_no': 62, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

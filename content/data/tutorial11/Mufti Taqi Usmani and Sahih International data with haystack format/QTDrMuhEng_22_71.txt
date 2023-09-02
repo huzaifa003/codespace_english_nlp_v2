@@ -1,0 +1,1 @@
+{'text': 'And they worship besides Allah others for which He has sent down no authority, and of which they have no knowledge and for the Zalimoon (wrong-doers, polytheists and disbelievers in the Oneness of Allah) there is no helper.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 22, 'ayah_no': 71, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

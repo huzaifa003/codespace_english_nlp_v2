@@ -1,0 +1,1 @@
+{'text': 'So, (O prophet,) even if you are in doubt about what We have sent down to you, ask those who read the Book (revealed) before you. Surely, truth has come to you from your Lord, so never be among those who are suspicious.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 94, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

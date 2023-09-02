@@ -1,0 +1,1 @@
+{'text': 'It almost bursts up with fury. Every time a group is cast therein, its keeper will ask: "Did no warner come to you?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 67, 'ayah_no': 8, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

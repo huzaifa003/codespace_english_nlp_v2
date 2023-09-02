@@ -1,0 +1,1 @@
+{'text': 'And if We so will, We will surely take away what We have revealed to you, then you shall find no one to rely upon against Us in this matter.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 86, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

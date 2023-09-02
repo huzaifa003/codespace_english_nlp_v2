@@ -1,0 +1,1 @@
+{'text': 'But if you do not (give it up), then listen to the declaration of war from Allah and His Messenger. However, If you repent, yours is your principal. Neither wrong, nor be wronged.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 279, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

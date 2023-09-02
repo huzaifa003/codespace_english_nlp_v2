@@ -1,0 +1,1 @@
+{'text': 'Guard strictly (five obligatory) AsSalawat (the prayers) especially the middle Salat (i.e. the best prayer Asr). And stand before Allah with obedience (and do not speak to others during the Salat (prayers)).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 238, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

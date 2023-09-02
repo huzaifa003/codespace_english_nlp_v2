@@ -1,0 +1,1 @@
+{'text': 'Each of those two gardens brought forth its produce, and failed not in the least therein, and We caused a river to gush forth in the midst of them.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 33, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

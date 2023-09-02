@@ -1,0 +1,1 @@
+{'text': 'As for the boy, his parents were believers. We apprehended that he would impose rebellion and infidelity upon them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 80, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

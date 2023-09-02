@@ -1,0 +1,1 @@
+{'text': 'Alif , Lām , Rā . (This is) a book the verses of which have been made firm, and elaborated by the One who is All Wise, All Aware,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 1, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

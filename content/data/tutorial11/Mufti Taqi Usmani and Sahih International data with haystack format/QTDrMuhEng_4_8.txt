@@ -1,0 +1,1 @@
+{'text': 'And when the relatives and the orphans and AlMasakin (the poor) are present at the time of division, give them out of the property, and speak to them words of kindness and justice.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 4, 'ayah_no': 8, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

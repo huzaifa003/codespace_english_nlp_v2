@@ -1,0 +1,1 @@
+{'text': 'And verily, I am indeed Forgiving to him who repents, believes (in My Oneness, and associates none in worship with Me) and does righteous good deeds, and then remains constant in doing them, (till his death).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 82, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

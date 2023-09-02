@@ -1,0 +1,1 @@
+{'text': 'Do they not look in the dominion of the heavens and the earth and all things that Allah has created, and that it may be that the end of their lives is near. In what message after this will they then believe?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 185, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

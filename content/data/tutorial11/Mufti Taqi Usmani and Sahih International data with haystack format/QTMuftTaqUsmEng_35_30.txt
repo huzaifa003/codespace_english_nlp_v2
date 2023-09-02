@@ -1,0 +1,1 @@
+{'text': 'so that He pays them their rewards in full, and gives them more out of His grace. Surely He is Most-Forgiving, Very-Appreciative.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 35, 'ayah_no': 30, 'surah_name_en': 'Fatir (Originator)', 'surah_name_ar': 'فاطر'}}

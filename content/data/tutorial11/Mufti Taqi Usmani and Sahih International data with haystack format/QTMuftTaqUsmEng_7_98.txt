@@ -1,0 +1,1 @@
+{'text': 'Or do the people of the towns feel themselves immune from Our punishment that may befall them in broad daylight while they are at play?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 98, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

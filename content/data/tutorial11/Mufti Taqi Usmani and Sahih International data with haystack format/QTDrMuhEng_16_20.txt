@@ -1,0 +1,1 @@
+{'text': 'Those whom they (Al-Mushrikoon) invoke besides Allah have not created anything, but are themselves created.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 20, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

@@ -1,0 +1,1 @@
+{'text': 'And cast your staff down.” So when he saw it moving, as if it was a snake, he retreated turning his back, and did not look behind. “O Mūsā, be not scared. I am such that the messengers are not scared before Me,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 10, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

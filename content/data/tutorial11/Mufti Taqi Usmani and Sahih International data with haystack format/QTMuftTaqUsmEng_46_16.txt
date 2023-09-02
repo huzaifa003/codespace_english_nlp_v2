@@ -1,0 +1,1 @@
+{'text': 'Such are the people from whom We accept the best of what they did, and overlook their evil deeds, (so as they will be) among the people of Paradise according to the true promise that was made to them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 46, 'ayah_no': 16, 'surah_name_en': 'Al-Ahqaf (The wind-curved sandhills)', 'surah_name_ar': 'الاحقاف'}}

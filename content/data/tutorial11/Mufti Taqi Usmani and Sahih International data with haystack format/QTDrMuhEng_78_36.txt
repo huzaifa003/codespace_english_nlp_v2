@@ -1,0 +1,1 @@
+{'text': 'A reward from your Lord, an ample calculated gift (according to the best of their good deeds).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 78, 'ayah_no': 36, 'surah_name_en': 'An-Naba (The tidings)', 'surah_name_ar': 'النَّبَاِ'}}

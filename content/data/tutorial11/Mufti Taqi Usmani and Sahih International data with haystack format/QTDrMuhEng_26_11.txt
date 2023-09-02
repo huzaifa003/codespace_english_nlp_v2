@@ -1,0 +1,1 @@
+{'text': 'The people of Firaun (Pharaoh). Will they not fear Allah and become righteous?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 11, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

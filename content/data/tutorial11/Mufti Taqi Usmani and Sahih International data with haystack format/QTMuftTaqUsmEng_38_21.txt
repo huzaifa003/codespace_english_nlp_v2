@@ -1,0 +1,1 @@
+{'text': 'Has there come to you the story of the litigants, when they entered the sanctuary by climbing over the wall?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 21, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

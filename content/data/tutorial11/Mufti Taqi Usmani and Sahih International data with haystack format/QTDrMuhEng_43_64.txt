@@ -1,0 +1,1 @@
+{'text': '"Verily, Allah! He is my Lord (God) and your Lord (God). So worship Him (Alone). This is the (only) Straight Path (i.e. Allahs religion of true Islamic Monotheism)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 64, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

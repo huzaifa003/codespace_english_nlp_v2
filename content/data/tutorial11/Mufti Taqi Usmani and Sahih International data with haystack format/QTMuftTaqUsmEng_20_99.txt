@@ -1,0 +1,1 @@
+{'text': 'This is how We narrate to you certain events of what has passed, and We have given to you, from Ourself, a (book of) advice.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 99, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

@@ -1,0 +1,1 @@
+{'text': 'and do not obey the infidels and the hypocrites, and just ignore any hurt (that afflicts you) from them, and place your trust in Allah. Allah is sufficient (for you) to take care of all matters.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 48, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

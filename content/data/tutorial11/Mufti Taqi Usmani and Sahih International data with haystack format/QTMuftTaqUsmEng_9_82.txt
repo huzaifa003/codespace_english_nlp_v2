@@ -1,0 +1,1 @@
+{'text': 'So, let them laugh a little, and weep a lot, this being a reward of what they used to earn.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 82, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

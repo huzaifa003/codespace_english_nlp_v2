@@ -1,0 +1,1 @@
+{'text': 'And We made them a precedent (as a lesson for those coming after them), and an example to later generations.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 56, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

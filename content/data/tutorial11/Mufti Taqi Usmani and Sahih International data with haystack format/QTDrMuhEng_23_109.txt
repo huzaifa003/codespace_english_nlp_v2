@@ -1,0 +1,1 @@
+{'text': 'Verily! There was a party of My slaves, who used to say: "Our Lord! We believe, so forgive us, and have mercy on us, for You are the Best of all who show mercy!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 23, 'ayah_no': 109, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

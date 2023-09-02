@@ -1,0 +1,1 @@
+{'text': 'Those who accuse their wives (of adultery) while they have no witnesses except their own selves, then the evidence of one of them would be to swear four oaths by Allah that he is truthful,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 6, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

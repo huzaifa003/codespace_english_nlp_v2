@@ -1,0 +1,1 @@
+{'text': 'Thus Allah seals up the hearts of those who do not believe.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 59, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

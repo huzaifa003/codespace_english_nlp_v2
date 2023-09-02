@@ -1,0 +1,1 @@
+{'text': 'He said: "Can I entrust him to you except as I entrusted his brother (Yoosuf (Joseph)) to you aforetime? But Allah is the Best to guard, and He is the Most Merciful of those who show mercy."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 64, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

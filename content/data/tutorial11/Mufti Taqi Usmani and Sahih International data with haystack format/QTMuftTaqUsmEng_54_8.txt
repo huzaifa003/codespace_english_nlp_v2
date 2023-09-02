@@ -1,0 +1,1 @@
+{'text': 'rushing quickly towards the caller. (On that Day) the disbelievers will say, “This is a hard day.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 54, 'ayah_no': 8, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

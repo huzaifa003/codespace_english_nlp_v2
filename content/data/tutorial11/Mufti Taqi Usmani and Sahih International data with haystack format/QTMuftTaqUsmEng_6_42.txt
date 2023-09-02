@@ -1,0 +1,1 @@
+{'text': 'We did send messengers to communities before you and put them to hardships and sufferings, so that they may supplicate in humility.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 42, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

@@ -1,0 +1,1 @@
+{'text': 'Rather, they rejected the truth when it came to them; so they are in a confused state.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 5, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

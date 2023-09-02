@@ -1,0 +1,1 @@
+{'text': 'They said, “We did not break our promise to you of our own accord, but we were burdened with loads from the ornaments of the people;so we threw them, and thus did Sāmiriyy cast.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 87, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

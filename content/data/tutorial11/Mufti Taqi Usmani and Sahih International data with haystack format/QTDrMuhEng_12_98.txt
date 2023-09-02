@@ -1,0 +1,1 @@
+{'text': 'He said: "I will ask my Lord for forgiveness for you, verily He! Only He is the Oft-Forgiving, the Most Merciful."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 98, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

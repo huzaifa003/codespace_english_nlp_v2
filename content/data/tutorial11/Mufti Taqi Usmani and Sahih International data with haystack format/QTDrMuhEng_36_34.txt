@@ -1,0 +1,1 @@
+{'text': 'And We have made therein gardens of date-palms and grapes, and We have caused springs of water to gush forth therein.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 34, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

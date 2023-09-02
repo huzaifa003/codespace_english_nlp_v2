@@ -1,0 +1,1 @@
+{'text': 'It is nothing else but a message of advice for all the worlds,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 81, 'ayah_no': 27, 'surah_name_en': 'At-Takwir (The Overthrowing)', 'surah_name_ar': 'التَّکوِیر'}}

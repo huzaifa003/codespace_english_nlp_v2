@@ -1,0 +1,1 @@
+{'text': 'That is Allah, your Lord, the Creator of all things, La ilaha illa Huwa (none has the right to be worshipped but He), where then you are turning away (from Allah, by worshipping others instead of Him)!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 62, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

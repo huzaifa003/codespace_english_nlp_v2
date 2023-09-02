@@ -1,0 +1,1 @@
+{'text': 'and by Tūr, the mount of Sinai,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 95, 'ayah_no': 2, 'surah_name_en': 'At-Tin (The Fig)', 'surah_name_ar': 'التّین'}}

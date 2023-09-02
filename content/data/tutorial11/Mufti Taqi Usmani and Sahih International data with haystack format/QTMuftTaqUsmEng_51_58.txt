@@ -1,0 +1,1 @@
+{'text': 'In fact, Allah is the All-Sustainer, Possessor of power, the Strong.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 51, 'ayah_no': 58, 'surah_name_en': 'Adh-Dhariyat (The winnowing winds)', 'surah_name_ar': 'الذّٰریٰت'}}

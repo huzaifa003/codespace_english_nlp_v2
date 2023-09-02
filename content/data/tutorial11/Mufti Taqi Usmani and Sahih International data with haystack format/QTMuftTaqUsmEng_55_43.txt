@@ -1,0 +1,1 @@
+{'text': 'This is Jahannam (Hell) that the guilty people deny.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 55, 'ayah_no': 43, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

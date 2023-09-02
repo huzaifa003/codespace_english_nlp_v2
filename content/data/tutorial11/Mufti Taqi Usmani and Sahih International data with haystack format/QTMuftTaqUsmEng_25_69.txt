@@ -1,0 +1,1 @@
+{'text': 'the punishment will be doubled for him, and he will remain there disdained, for ever,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 69, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

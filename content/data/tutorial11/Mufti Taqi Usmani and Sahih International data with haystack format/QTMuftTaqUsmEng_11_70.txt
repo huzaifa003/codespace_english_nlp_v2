@@ -1,0 +1,1 @@
+{'text': 'So, when he noticed their hands not acceding to it, he found them strange and felt scared of them. They said, “Be not scared. We have been sent to the people of LūT.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 70, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

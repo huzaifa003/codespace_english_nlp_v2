@@ -1,0 +1,1 @@
+{'text': 'Whoever turns his back to them on such a day,- unless it is for a tactic in the battle, or to join a company,-turns with wrath from Allah, and his abode is Jahannam (Hell), and it is an evil place to return.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 16, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

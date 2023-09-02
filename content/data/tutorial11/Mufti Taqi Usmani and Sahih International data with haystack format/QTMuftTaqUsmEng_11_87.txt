@@ -1,0 +1,1 @@
+{'text': 'They said, “O Shu‘aib, does your Salāh (prayer) command you that we should forsake what our fathers used to worship or that we should not deal with our wealth as we please? You pretend to be the only man of wisdom and guidance.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 87, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

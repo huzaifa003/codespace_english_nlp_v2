@@ -1,0 +1,1 @@
+{'text': 'Verily, they had plotted sedition before, and had upset matters for you, - until the truth (victory) came and the Decree of Allah (His Religion, Islam) became manifest though they hated it.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 48, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

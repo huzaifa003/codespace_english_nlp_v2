@@ -1,0 +1,1 @@
+{'text': 'And say: "Are our aliha (gods) better or is he (Iesa (Jesus))?" They quoted not the above example except for argument. Nay! But they are a quarrelsome people. ((See VV. 21:97-101) - The Quran.)', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 58, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

@@ -1,0 +1,1 @@
+{'text': '(Ibrahim (Abraham)) said: "Do you then worship besides Allah, things that can neither profit you, nor harm you?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 66, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

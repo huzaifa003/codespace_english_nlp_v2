@@ -1,0 +1,1 @@
+{'text': 'He said, “O my people, I openly warn you', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 71, 'ayah_no': 2, 'surah_name_en': 'Nooh (Nooh)', 'surah_name_ar': 'نُوح'}}

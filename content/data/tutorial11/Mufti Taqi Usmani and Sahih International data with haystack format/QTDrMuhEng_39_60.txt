@@ -1,0 +1,1 @@
+{'text': 'And on the Day of Resurrection you will see those who lied against Allah (i.e. attributed to Him sons, partners, etc.) their faces will be black. Is there not in Hell an abode for the arrogant ones?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 60, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

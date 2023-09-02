@@ -1,0 +1,1 @@
+{'text': '"And we have brought to you the truth (the news of the destruction of your nation) and certainly, we tell the truth.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 15, 'ayah_no': 64, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

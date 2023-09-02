@@ -1,0 +1,1 @@
+{'text': 'To Him belongs the Kingdom of the heavens and the earth. He gives life and brings death, and He is Powerful to do any thing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 57, 'ayah_no': 2, 'surah_name_en': 'Al-Hadid (The Iron)', 'surah_name_ar': 'الحدید'}}

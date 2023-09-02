@@ -1,0 +1,1 @@
+{'text': 'So by your Lord, surely, We shall gather them together, and (also) the Shayatin (devils) (with them), then We shall bring them round Hell on their knees.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 68, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

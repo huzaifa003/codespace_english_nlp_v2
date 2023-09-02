@@ -1,0 +1,1 @@
+{'text': 'They (are the ones who) fulfill their vows, and fear a day whose evil (events) will spread far and wide,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 7, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

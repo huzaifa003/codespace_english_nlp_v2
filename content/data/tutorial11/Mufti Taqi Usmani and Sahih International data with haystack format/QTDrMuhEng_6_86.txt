@@ -1,0 +1,1 @@
+{'text': 'And Ismail (Ishmael) and Al-Yasa (Elisha), and Yoonus (Jonah) and Lout (Lot), and each one of them We preferred above the Alameen (mankind and jinns) (of their times).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 86, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

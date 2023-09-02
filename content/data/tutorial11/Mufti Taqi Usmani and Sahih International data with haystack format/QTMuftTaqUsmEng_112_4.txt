@@ -1,0 +1,1 @@
+{'text': 'And equal to Him has never been any one.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 112, 'ayah_no': 4, 'surah_name_en': 'Al-Ikhlas (Absoluteness)', 'surah_name_ar': 'الاخلاص'}}

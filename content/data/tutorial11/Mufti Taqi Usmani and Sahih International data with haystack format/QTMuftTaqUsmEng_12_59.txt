@@ -1,0 +1,1 @@
+{'text': 'When he equipped them with their provisions, he said, “Bring to me your other brother from your father’s side. Do you not see that I give full measure, and I extend the best hospitality?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 59, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

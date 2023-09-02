@@ -1,0 +1,1 @@
+{'text': 'He said: "My Lord! How can I have a son, when my wife is barren, and I have reached the extreme old age."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 8, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

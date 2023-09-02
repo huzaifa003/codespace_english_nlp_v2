@@ -1,0 +1,1 @@
+{'text': 'There! Every person will know (exactly) what (all) he had earned before, and they will be brought back to Allah, their rightful Lord (Maula), and their invented false deities will vanish from them.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 10, 'ayah_no': 30, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

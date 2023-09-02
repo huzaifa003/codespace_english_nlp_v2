@@ -1,0 +1,1 @@
+{'text': 'And from the fruits of date palms and grape vines, you obtain intoxicants, and good provision. Surely, in that there is a sign for a people who understand.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 67, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

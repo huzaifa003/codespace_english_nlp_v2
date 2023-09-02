@@ -1,0 +1,1 @@
+{'text': '"Or do they benefit you or do they harm (you)?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 73, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

@@ -1,0 +1,1 @@
+{'text': 'That He might cause the truth to triumph and bring falsehood to nothing, even though the Mujrimoon (disbelievers, polytheists, sinners, criminals, etc.) hate it.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 8, 'ayah_no': 8, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

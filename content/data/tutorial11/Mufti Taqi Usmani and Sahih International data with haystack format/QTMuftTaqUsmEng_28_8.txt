@@ -1,0 +1,1 @@
+{'text': 'So the family of Pharaoh picked him up, so that he becomes for them an enemy and a (cause of) grief. Indeed Pharaoh, Hāmān and their armies were mistaken.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 8, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

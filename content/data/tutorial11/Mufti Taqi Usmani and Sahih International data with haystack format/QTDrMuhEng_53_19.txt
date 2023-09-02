@@ -1,0 +1,1 @@
+{'text': 'Have you then considered Al-Lat, and Al-Uzza (two idols of the pagan Arabs)', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 19, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

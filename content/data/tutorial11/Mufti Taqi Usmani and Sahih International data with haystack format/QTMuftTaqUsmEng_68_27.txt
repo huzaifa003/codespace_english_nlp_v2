@@ -1,0 +1,1 @@
+{'text': '(Then, once they realized that the garden is the same, but it has been destroyed, they said,) “No, but we are deprived (of the fruits).”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 68, 'ayah_no': 27, 'surah_name_en': 'Al-Qalam (The Pen)', 'surah_name_ar': 'القلم'}}

@@ -1,0 +1,1 @@
+{'text': 'O you who believe, obey Allah and obey the Messenger, and do not nullify your deeds.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 47, 'ayah_no': 33, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

@@ -1,0 +1,1 @@
+{'text': 'Thus Allah makes clear His Ayat (Laws) to you, in order that you may understand.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 242, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

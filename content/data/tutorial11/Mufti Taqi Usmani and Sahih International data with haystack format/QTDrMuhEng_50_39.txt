@@ -1,0 +1,1 @@
+{'text': 'So bear with patience (O Muhammad SAW) all that they say, and glorify the Praises of your Lord, before the rising of the sun and before (its) setting (i.e. the Fajr, Zuhr, and Asr prayers) .', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 50, 'ayah_no': 39, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

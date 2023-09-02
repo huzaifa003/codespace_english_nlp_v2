@@ -1,0 +1,1 @@
+{'text': 'Then whoever turns away after this, they are the Fasiqoon (rebellious: those who turn away from Allahs Obedience).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 82, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

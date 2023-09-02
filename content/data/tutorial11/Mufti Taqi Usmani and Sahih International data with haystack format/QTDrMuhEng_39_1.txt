@@ -1,0 +1,1 @@
+{'text': 'The revelation of this Book (the Quran) is from Allah, the All-Mighty, the All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 1, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

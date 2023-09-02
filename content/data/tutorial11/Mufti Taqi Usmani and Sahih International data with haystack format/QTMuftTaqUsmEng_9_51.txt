@@ -1,0 +1,1 @@
+{'text': 'Say, “Nothing can ever reach us except what Allah has destined for us. He is our Master. And in Allah alone the believers must place their trust.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 51, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'Have they not seen that We are coming to the land narrowing it down from all its sides? Allah judges; there is none to repel His judgement. And He is swift at reckoning.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 13, 'ayah_no': 41, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

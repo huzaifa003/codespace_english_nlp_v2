@@ -1,0 +1,1 @@
+{'text': 'For them there will be alloted a share for what they have earned. And Allah is Swift at reckoning.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 202, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

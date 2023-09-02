@@ -1,0 +1,1 @@
+{'text': 'unless (you say - ‘if) Allah wills.’ And remember your Lord if you forget, and say (to those who asked you about the story of the People of the Cave), “May be, my Lord will lead me to something closer than this to guidance.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 24, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

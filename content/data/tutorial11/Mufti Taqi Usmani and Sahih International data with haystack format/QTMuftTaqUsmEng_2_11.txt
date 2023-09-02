@@ -1,0 +1,1 @@
+{'text': 'When it is said to them, “Do not spread disorder on the earth”, they say, “We are but reformers.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 11, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

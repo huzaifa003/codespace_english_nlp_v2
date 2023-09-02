@@ -1,0 +1,1 @@
+{'text': 'Indeed in that (there) is a sure lesson for those who fear the torment of the Hereafter. That is a Day whereon mankind will be gathered together, and that is a Day when all (the dwellers of the heavens and the earth) will be present.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 103, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

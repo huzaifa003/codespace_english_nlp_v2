@@ -1,0 +1,1 @@
+{'text': 'They had nothing else to say except that they said: “Our Lord, forgive us our sins and our excesses in our conduct, make firm our feet and help us against the disbelieving people.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 147, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

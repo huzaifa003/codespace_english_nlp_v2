@@ -1,0 +1,1 @@
+{'text': 'She (the queen) said (to her officials after receiving the letter), “O chieftains, there has been delivered to me an esteemed letter.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 29, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

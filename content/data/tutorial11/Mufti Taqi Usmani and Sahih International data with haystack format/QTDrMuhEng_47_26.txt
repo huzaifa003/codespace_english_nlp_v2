@@ -1,0 +1,1 @@
+{'text': 'This is because they said to those who hate what Allah has sent down: "We will obey you in part of the matter," but Allah knows their secrets.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 47, 'ayah_no': 26, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

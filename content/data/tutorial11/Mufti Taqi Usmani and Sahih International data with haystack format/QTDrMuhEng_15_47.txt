@@ -1,0 +1,1 @@
+{'text': '"And We shall remove from their breasts any sense of injury (that they may have), (So they will be like) brothers facing each other on thrones.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 15, 'ayah_no': 47, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

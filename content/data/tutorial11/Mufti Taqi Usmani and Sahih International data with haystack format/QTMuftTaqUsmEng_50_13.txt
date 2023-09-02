@@ -1,0 +1,1 @@
+{'text': 'and ‘Ād, and Fir’aun (Pharaoh), and the brothers of LūT,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 13, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

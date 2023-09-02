@@ -1,0 +1,1 @@
+{'text': 'I swear by the Fig and the Olive,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 95, 'ayah_no': 1, 'surah_name_en': 'At-Tin (The Fig)', 'surah_name_ar': 'التّین'}}

@@ -1,0 +1,1 @@
+{'text': 'They said: "We prefer you not over the clear signs that have come to us, and to Him (Allah) Who created us. So decree whatever you desire to decree, for you can only decree (regarding) this life of the world.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 72, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

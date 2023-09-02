@@ -1,0 +1,1 @@
+{'text': 'Allah is not such as He makes a people go astray after He has given them guidance, unless He explains to them what they should avoid. Indeed, Allah is fully aware of every thing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 115, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

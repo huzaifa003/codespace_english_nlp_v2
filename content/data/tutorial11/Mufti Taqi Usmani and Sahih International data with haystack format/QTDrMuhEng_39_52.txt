@@ -1,0 +1,1 @@
+{'text': 'Do they not know that Allah enlarges the provision for whom He wills, and straitens it (for whom He wills). Verily, in this are signs for the folk who believe!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 52, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

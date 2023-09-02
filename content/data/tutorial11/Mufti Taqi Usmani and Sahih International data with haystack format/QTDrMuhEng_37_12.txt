@@ -1,0 +1,1 @@
+{'text': 'Nay, you (O Muhammad SAW) wondered (at their insolence) while they mock (at you and at the Quran).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 12, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

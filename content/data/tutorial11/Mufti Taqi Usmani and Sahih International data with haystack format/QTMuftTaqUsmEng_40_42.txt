@@ -1,0 +1,1 @@
+{'text': 'You invite me to reject my belief in Allah and ascribe to Him partners about whom I have no knowledge, while I invite you to (Him who is) the Mighty, the Most-Forgiving.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 42, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

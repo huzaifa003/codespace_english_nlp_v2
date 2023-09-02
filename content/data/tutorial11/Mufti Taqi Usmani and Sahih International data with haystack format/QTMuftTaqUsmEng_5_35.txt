@@ -1,0 +1,1 @@
+{'text': 'O you who believe, fear Allah and seek means of nearness to Him, and carry out Jihād in His way, so that you may succeed.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 35, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

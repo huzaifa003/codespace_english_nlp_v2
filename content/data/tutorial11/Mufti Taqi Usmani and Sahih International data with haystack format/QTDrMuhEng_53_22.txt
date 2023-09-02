@@ -1,0 +1,1 @@
+{'text': 'That indeed is a division most unfair!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 22, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

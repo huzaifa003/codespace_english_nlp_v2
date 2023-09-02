@@ -1,0 +1,1 @@
+{'text': 'As for those who believe and do righteous deeds, for them there is a reward that will never be interrupted.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 41, 'ayah_no': 8, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

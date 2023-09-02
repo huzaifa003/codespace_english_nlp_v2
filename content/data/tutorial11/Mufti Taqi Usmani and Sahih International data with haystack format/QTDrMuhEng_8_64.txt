@@ -1,0 +1,1 @@
+{'text': 'O Prophet (Muhammad SAW)! Allah is Sufficient for you and for the believers who follow you.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 8, 'ayah_no': 64, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

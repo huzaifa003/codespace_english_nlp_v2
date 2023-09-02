@@ -1,0 +1,1 @@
+{'text': 'He said, “Mūsā, I have chosen you above all men for my messages and for My speaking (to you). So, take what I have given to you, and be among the grateful.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 144, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

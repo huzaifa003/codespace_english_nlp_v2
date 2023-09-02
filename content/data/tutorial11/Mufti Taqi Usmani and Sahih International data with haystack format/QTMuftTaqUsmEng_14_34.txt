@@ -1,0 +1,1 @@
+{'text': 'and He gave you whatever you asked for. If you (try to) count the bounties of Allah, you cannot count them all. Indeed, man is highly unjust, very ungrateful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 34, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

@@ -1,0 +1,1 @@
+{'text': '"So devise your plot, and then assemble in line. And whoever overcomes this day will be indeed successful."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 64, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

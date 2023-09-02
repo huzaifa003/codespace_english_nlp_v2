@@ -1,0 +1,1 @@
+{'text': '"Go to Firaun (Pharaoh)! Verily, he has transgressed (all bounds in disbelief and disobedience, and has behaved as an arrogant, and as a tyrant)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 24, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

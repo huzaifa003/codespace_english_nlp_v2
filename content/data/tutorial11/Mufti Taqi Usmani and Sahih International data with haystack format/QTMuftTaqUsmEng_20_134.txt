@@ -1,0 +1,1 @@
+{'text': 'And if We had destroyed them with a punishment before it, they would have said, “Our Lord, why did you not send a messenger to us, so that we might have followed Your signs before we were humiliated and put to disgrace?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 134, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

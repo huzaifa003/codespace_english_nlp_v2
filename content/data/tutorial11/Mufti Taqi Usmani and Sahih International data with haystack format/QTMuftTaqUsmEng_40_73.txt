@@ -1,0 +1,1 @@
+{'text': 'Then, it will be said to them, “Where are those whom you used to associate (in worship)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 73, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

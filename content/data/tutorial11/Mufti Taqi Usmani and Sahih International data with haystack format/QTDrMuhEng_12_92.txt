@@ -1,0 +1,1 @@
+{'text': 'He said: "No reproach on you this day, may Allah forgive you, and He is the Most Merciful of those who show mercy!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 92, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

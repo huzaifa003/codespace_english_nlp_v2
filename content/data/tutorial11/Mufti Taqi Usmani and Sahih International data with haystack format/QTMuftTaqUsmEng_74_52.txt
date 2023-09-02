@@ -1,0 +1,1 @@
+{'text': 'Rather, every one of them wishes that he should be given unrolled (divine) scriptures.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 74, 'ayah_no': 52, 'surah_name_en': 'Al-Muddathir (The cloaked one)', 'surah_name_ar': 'المدّثّر'}}

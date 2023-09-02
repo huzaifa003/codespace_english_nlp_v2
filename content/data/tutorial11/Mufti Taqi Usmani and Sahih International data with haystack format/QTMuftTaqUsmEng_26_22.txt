@@ -1,0 +1,1 @@
+{'text': 'As for the favor with which you are obliging me, it is that you have enslaved the children of Isrā’īl.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 22, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

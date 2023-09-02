@@ -1,0 +1,1 @@
+{'text': '(Iblees (Satan)) said: "O my Lord! Because you misled me, I shall indeed adorn the path of error for them (mankind) on the earth, and I shall mislead them all.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 15, 'ayah_no': 39, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

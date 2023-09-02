@@ -1,0 +1,1 @@
+{'text': 'And We made the son of Maryam (Mary) and his mother as a sign, And We gave them refuge on high ground, a place of rest, security and flowing streams.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 23, 'ayah_no': 50, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

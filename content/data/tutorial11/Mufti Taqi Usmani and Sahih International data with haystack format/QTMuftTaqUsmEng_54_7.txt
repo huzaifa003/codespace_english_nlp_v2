@@ -1,0 +1,1 @@
+{'text': 'With their eyes humbled, they will come out of the graves like locusts spread all over,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 54, 'ayah_no': 7, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

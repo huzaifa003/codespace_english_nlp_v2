@@ -1,0 +1,1 @@
+{'text': 'All this is because Allah is not the one who may change a favour He has conferred on a people unless they change their own condition, and that Allah is All-Hearing, All-Knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 53, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

@@ -1,0 +1,1 @@
+{'text': 'But as for those in whose hearts is a disease (of doubt, disbelief and hypocrisy), it will add suspicion and doubt to their suspicion, disbelief and doubt, and they die while they are disbelievers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 125, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

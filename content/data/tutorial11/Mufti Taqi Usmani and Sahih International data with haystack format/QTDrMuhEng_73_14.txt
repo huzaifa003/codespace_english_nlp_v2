@@ -1,0 +1,1 @@
+{'text': 'On the Day when the earth and the mountains will be in violent shake, and the mountains will be a heap of sand poured out and flowing down.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 73, 'ayah_no': 14, 'surah_name_en': 'Al-Muzzammil (The enshrouded one)', 'surah_name_ar': 'المزّمّل'}}

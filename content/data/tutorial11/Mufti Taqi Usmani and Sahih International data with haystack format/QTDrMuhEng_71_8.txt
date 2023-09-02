@@ -1,0 +1,1 @@
+{'text': '"Then verily, I called to them openly (aloud);', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 71, 'ayah_no': 8, 'surah_name_en': 'Nooh (Nooh)', 'surah_name_ar': 'نُوح'}}

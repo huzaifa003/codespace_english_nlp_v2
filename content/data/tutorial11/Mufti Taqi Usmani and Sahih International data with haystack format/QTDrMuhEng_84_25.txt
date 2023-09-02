@@ -1,0 +1,1 @@
+{'text': 'Save those who believe and do righteous good deeds, for them is a reward that will never come to an end (i.e. Paradise).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 84, 'ayah_no': 25, 'surah_name_en': 'Al-Inshiqaq (The Sundering, Splitting Open)', 'surah_name_ar': 'الاِنشِقَاق'}}

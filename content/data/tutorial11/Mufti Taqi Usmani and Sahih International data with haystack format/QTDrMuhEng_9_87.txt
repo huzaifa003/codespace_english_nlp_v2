@@ -1,0 +1,1 @@
+{'text': 'They are content to be with those (the women) who sit behind (at home). Their hearts are sealed up (from all kinds of goodness and right guidance), so they understand not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 87, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

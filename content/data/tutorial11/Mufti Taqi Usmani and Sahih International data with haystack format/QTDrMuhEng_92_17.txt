@@ -1,0 +1,1 @@
+{'text': 'And Al-Muttaqoon (the pious and righteous - see V.2:2) will be far removed from it (Hell).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 92, 'ayah_no': 17, 'surah_name_en': 'Al-Lail (The night)', 'surah_name_ar': 'الَّیل'}}

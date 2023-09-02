@@ -1,0 +1,1 @@
+{'text': 'Instead, We launch the truth against falsehood, which gets it smashed, and in no time it is gone. Alas to you for what you describe!', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 18, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

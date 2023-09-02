@@ -1,0 +1,1 @@
+{'text': 'My servants are such that you have no power over them except those of the deviators who will follow you.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 42, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

@@ -1,0 +1,1 @@
+{'text': 'Then when the fear had gone away from (the mind of) Ibraheem (Abraham), and the glad tidings had reached him, he began to plead with Us (Our Messengers) for the people of Lout (Lot).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 74, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

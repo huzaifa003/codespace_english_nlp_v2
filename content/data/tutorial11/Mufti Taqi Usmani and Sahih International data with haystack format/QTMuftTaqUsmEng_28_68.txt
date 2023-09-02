@@ -1,0 +1,1 @@
+{'text': 'Your Lord creates what He wills and chooses. Choice is not theirs. Pure is Allah and far higher than their ascribing of partners to Him.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 68, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

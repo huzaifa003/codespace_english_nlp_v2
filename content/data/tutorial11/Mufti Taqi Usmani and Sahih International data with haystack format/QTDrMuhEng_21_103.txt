@@ -1,0 +1,1 @@
+{'text': 'The greatest terror (on the Day of Resurrection) will not grieve them, and the angels will meet them, (with the greeting): "This is your Day which you were promised."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 103, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

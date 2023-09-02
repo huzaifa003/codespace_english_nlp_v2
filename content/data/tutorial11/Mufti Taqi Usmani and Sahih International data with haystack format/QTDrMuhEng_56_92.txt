@@ -1,0 +1,1 @@
+{'text': 'But if he (the dying person) be of the denying (of the Resurrection), the erring (away from the Right Path of Islamic Monotheism),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 56, 'ayah_no': 92, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

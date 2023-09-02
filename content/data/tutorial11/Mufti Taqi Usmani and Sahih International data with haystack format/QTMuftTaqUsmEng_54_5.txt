@@ -1,0 +1,1 @@
+{'text': '(containing) a perfect wisdom. But the warnings are of no avail (to them).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 54, 'ayah_no': 5, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

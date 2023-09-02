@@ -1,0 +1,1 @@
+{'text': 'Now, fall down in prostration and worship (Allah).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 53, 'ayah_no': 62, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

@@ -1,0 +1,1 @@
+{'text': '"Who shall inherit me, and inherit (also) the posterity of Yaqoob (Jacob) (inheritance of the religious knowledge and Prophethood, not the wealth, etc.). And make him, my Lord, one with whom You are Well-pleased!".', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 6, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

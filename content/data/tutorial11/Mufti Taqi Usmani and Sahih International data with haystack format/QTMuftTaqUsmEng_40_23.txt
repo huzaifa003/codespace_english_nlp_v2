@@ -1,0 +1,1 @@
+{'text': 'Indeed We sent Mūsā with Our signs and a manifest proof', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 23, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

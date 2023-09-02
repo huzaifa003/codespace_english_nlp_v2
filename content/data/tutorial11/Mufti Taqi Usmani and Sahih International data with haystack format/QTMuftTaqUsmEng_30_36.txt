@@ -1,0 +1,1 @@
+{'text': 'When We give people a taste of mercy, they are happy with it, and if they are touched by an evil because of what their hands sent ahead, they are at once in despair.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 36, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

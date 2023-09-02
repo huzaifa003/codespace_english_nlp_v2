@@ -1,0 +1,1 @@
+{'text': 'Those, their abode will be the Fire, because of what they used to earn.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 10, 'ayah_no': 8, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

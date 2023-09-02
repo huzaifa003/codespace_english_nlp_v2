@@ -1,0 +1,1 @@
+{'text': 'Have you not seen those who were given a portion of the Scripture? They believe in Jibt and Taghoot and say to the disbelievers that they are better guided as regards the way than the believers (Muslims).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 4, 'ayah_no': 51, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

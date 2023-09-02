@@ -1,0 +1,1 @@
+{'text': 'and save us, through Your mercy, from the disbelieving people.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 86, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

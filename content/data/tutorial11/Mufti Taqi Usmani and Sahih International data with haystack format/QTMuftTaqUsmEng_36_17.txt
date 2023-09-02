@@ -1,0 +1,1 @@
+{'text': 'Our obligation is no more than to convey the message clearly.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 17, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

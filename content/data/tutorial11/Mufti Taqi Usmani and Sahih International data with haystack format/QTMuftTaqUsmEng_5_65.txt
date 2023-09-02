@@ -1,0 +1,1 @@
+{'text': 'If the People of the Book had believed and feared Allah, We would have written off their evil deeds and would have surely admitted them to the Gardens of Bliss.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 65, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'Then (the babe Iesa (Jesus) or Jibrael (Gabriel)) cried unto her from below her, saying: "Grieve not! Your Lord has provided a water stream under you;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 24, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

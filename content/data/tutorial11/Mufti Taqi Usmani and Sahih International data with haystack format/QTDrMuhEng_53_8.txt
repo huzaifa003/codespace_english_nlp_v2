@@ -1,0 +1,1 @@
+{'text': 'Then he (Jibrael (Gabriel)) approached and came closer,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 8, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

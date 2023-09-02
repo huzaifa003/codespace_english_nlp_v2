@@ -1,0 +1,1 @@
+{'text': '(It will be said to the true believers of Islamic Monotheism): My worshippers! No fear shall be on you this Day, nor shall you grieve,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 68, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

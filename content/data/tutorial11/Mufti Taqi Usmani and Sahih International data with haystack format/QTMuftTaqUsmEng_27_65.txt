@@ -1,0 +1,1 @@
+{'text': 'Say, “No one in the heavens and the earth has the knowledge of the Unseen except Allah.” And they do not know when they will be raised again.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 65, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

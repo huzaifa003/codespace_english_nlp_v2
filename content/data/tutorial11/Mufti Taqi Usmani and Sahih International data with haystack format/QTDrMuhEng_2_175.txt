@@ -1,0 +1,1 @@
+{'text': 'Those are they who have purchased error at the price of Guidance, and torment at the price of Forgiveness. So how bold they are (for evil deeds which will push them) to the Fire.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 175, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'He has subjugated for you whatever there is in the heavens and whatever there is in the earth, all on His own. Surely in this there are signs for a people who reflect.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 13, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

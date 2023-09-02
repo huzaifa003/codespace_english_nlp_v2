@@ -1,0 +1,1 @@
+{'text': 'Indeed those who were guilty used to laugh at those who believed,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 83, 'ayah_no': 29, 'surah_name_en': 'Al-Mutaffifin (Defrauding)', 'surah_name_ar': 'المُطَفِّفِین'}}

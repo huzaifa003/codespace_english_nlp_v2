@@ -1,0 +1,1 @@
+{'text': 'and you see people entering Allah’s (approved) religion in multitudes,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 110, 'ayah_no': 2, 'surah_name_en': 'An-Nasr (The Succour)', 'surah_name_ar': 'النَّصَر'}}

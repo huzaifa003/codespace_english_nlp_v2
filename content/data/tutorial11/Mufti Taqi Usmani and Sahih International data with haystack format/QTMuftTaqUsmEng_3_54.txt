@@ -1,0 +1,1 @@
+{'text': 'They (the opponents of ‘Īsā) devised a plan, and Allah devised a plan. And Allah is the best of all planners.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 54, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

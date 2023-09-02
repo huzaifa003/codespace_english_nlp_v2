@@ -1,0 +1,1 @@
+{'text': 'That was because messengers used to come to them with clear signs, but they disbelieved. Then, Allah seized them. Surely, He is Strong, severe in punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 22, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

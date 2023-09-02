@@ -1,0 +1,1 @@
+{'text': 'And surely, We are going to turn whatever is thereon into a barren land.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 8, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

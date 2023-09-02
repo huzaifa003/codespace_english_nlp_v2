@@ -1,0 +1,1 @@
+{'text': '"And how can you have patience about a thing which you know not?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 68, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

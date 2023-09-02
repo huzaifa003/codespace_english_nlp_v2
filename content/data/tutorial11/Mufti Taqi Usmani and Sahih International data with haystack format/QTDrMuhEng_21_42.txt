@@ -1,0 +1,1 @@
+{'text': 'Say: "Who can guard and protect you in the night or in the day from the (punishment of the) Most Beneficent (Allah)?" Nay, but they turn away from the remembrance of their Lord.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 42, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

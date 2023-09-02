@@ -1,0 +1,1 @@
+{'text': 'Do they not see that they are put to trial every year once or twice; still they neither repent, nor do they take lesson?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 126, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

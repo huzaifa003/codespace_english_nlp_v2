@@ -1,0 +1,1 @@
+{'text': 'Around her neck, there is (a collar of iron, like) a well-twisted rope.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 111, 'ayah_no': 5, 'surah_name_en': 'Al-Masadd (The Flame)', 'surah_name_ar': 'اللَّھب'}}

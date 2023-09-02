@@ -1,0 +1,1 @@
+{'text': 'Allah already knows those among you who keep back (men) from fighting in Allahs Cause, and those who say to their brethren "Come here towards us," while they (themselves) come not to the battle except a little.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 33, 'ayah_no': 18, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

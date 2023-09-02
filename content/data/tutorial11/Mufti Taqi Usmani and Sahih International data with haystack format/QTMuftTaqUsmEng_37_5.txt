@@ -1,0 +1,1 @@
+{'text': 'the Lord of the heavens and the earth and what is between them, and Lord of the points of sunrise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 5, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

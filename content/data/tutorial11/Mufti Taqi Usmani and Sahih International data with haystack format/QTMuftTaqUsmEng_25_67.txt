@@ -1,0 +1,1 @@
+{'text': '- and those who, when they spend, are neither extravagant nor miserly, and it (i.e. their spending) is moderate in between (the two extremes,)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 67, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

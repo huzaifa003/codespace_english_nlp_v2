@@ -1,0 +1,1 @@
+{'text': 'Then the household of Firaun (Pharaoh) picked him up, that he might become for them an enemy and a (cause of) grief. Verily! Firaun (Pharaoh), Haman and their hosts were sinners.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 8, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

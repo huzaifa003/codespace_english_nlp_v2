@@ -1,0 +1,1 @@
+{'text': 'Then when the heaven is rent asunder, and it becomes rosy or red like red-oil, or red hide.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 55, 'ayah_no': 37, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

@@ -1,0 +1,1 @@
+{'text': 'Do people think that they will be left (at ease) only on their saying, “We believe” and will not be put to any test?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 2, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

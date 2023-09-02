@@ -1,0 +1,1 @@
+{'text': 'But, I gave these and their fathers enjoyment, until the truth came to them, and a messenger as well who explains (it).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 29, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

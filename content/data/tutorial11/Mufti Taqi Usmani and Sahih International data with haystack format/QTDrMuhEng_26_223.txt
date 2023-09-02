@@ -1,0 +1,1 @@
+{'text': 'Who gives ear (to the devils and they pour what they may have heard of the unseen from the angels), and most of them are liars.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 223, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

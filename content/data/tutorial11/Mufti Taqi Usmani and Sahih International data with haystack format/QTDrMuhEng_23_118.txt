@@ -1,0 +1,1 @@
+{'text': 'And say (O Muhammad SAW): "My Lord! Forgive and have mercy, for You are the Best of those who show mercy!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 23, 'ayah_no': 118, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

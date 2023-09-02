@@ -1,0 +1,1 @@
+{'text': 'Have you not seen those who quarrel in Allah’s verses? From where are they being turned away (by their selfish desires?)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 69, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

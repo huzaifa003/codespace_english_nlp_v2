@@ -1,0 +1,1 @@
+{'text': 'They will dwell therein for all the time that the heavens and the earth endure, except as your Lord wills. Verily, your Lord is the doer of what He wills.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 107, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

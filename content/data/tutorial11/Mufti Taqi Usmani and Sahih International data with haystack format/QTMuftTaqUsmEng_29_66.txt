@@ -1,0 +1,1 @@
+{'text': 'thus becoming ungrateful for what We gave to them. Let them have some enjoyment, then they will soon come to know (the ill-fate of their attitude).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 66, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

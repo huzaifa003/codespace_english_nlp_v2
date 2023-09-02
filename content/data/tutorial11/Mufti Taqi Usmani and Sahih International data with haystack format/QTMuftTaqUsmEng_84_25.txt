@@ -1,0 +1,1 @@
+{'text': 'but those who believed and did righteous deeds will have a reward that will never be interrupted.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 84, 'ayah_no': 25, 'surah_name_en': 'Al-Inshiqaq (The Sundering, Splitting Open)', 'surah_name_ar': 'الاِنشِقَاق'}}

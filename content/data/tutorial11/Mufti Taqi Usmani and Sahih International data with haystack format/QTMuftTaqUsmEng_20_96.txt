@@ -1,0 +1,1 @@
+{'text': 'He said, “I perceived something they did not perceive. So I picked up a handful from under the footstep of the messenger. Then, I cast it. And thus my inner self tempted me.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 96, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

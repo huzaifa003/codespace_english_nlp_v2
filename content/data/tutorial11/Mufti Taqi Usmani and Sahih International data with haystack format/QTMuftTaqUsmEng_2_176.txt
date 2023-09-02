@@ -1,0 +1,1 @@
+{'text': 'All that is because Allah revealed the Book with the truth. Yet, those who have opted for dissension about the Book are in extreme division (among themselves)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 176, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

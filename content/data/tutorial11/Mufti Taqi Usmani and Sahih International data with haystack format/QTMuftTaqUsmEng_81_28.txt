@@ -1,0 +1,1 @@
+{'text': 'for the benefit of any one from among you who intends to go straight.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 81, 'ayah_no': 28, 'surah_name_en': 'At-Takwir (The Overthrowing)', 'surah_name_ar': 'التَّکوِیر'}}

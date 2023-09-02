@@ -1,0 +1,1 @@
+{'text': 'That is because Allah is the only Real One and what they invoke other than Him is false and Allah is the High, the Great.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 31, 'ayah_no': 30, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

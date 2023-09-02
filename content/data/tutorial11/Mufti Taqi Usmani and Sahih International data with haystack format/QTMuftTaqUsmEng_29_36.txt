@@ -1,0 +1,1 @@
+{'text': 'And (We sent) to Madyan their brother Shu‘aib. So he said, “O my people, worship Allah and fear the Last Day, and do not roam about in the land as mischief makers.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 36, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

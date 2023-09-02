@@ -1,0 +1,1 @@
+{'text': 'And circling around them will be serving boys, blessed with eternal youth; when you would see them, you would take them as scattered pearls.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 19, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

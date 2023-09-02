@@ -1,0 +1,1 @@
+{'text': 'Then woe to those who write the Book with their own hands and then say, "This is from Allah," to purchase with it a little price! Woe to them for what their hands have written and woe to them for that they earn thereby.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 79, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

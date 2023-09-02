@@ -1,0 +1,1 @@
+{'text': 'Surely We have brought them a book that We have elaborated with knowledge, as guidance and mercy for a people who believe.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 52, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

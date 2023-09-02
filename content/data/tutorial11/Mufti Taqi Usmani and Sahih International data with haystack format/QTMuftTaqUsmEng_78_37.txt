@@ -1,0 +1,1 @@
+{'text': '(from) the Lord of the heavens and the earth and what is between them, the All-Merciful. No one will have power to address Him,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 78, 'ayah_no': 37, 'surah_name_en': 'An-Naba (The tidings)', 'surah_name_ar': 'النَّبَاِ'}}

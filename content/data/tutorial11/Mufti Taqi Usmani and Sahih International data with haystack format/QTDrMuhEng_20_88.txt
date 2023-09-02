@@ -1,0 +1,1 @@
+{'text': 'Then he took out (of the fire) for them a statue of a calf which seemed to low. They said: "This is your ilah (god), and the ilah (god) of Moosa (Moses), but (Moosa (Moses)) has forgotten (his god)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 88, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

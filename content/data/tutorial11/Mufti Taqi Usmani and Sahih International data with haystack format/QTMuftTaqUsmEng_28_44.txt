@@ -1,0 +1,1 @@
+{'text': 'And (O prophet,) you were not there at the Western side (of the mount Tūr) when We delegated the matter to Mūsā, nor were you among those present,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 44, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

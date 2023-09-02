@@ -1,0 +1,1 @@
+{'text': 'And if he (the dying person) be of those on the Right Hand,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 56, 'ayah_no': 90, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

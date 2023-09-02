@@ -1,0 +1,1 @@
+{'text': 'And endure you patiently (O Muhammad SAW), your patience is not but from Allah. And grieve not over them (polytheists and pagans, etc.), and be not distressed because of what they plot.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 127, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

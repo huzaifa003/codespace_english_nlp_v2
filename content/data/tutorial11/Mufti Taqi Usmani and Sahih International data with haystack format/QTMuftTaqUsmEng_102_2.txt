@@ -1,0 +1,1 @@
+{'text': 'until you reach the graves.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 102, 'ayah_no': 2, 'surah_name_en': 'At-Takathur (Competition)', 'surah_name_ar': 'التّکاثُر'}}

@@ -1,0 +1,1 @@
+{'text': 'Or do they say: "(Muhammad SAW is) a poet! We await for him some calamity by time.!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 52, 'ayah_no': 30, 'surah_name_en': 'At-tur (Mount Sinai)', 'surah_name_ar': 'الطّور'}}

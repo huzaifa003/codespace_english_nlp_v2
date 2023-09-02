@@ -1,0 +1,1 @@
+{'text': 'Creation and resurrection of all of you is no more (to Allah) than that of one single person. Surely, Allah is All-Hearing, All Seeing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 31, 'ayah_no': 28, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

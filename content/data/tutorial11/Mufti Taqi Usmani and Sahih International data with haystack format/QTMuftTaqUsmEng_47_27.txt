@@ -1,0 +1,1 @@
+{'text': 'So, how (miserable) will they be when the angels will exact their souls, smiting their faces and their backs?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 47, 'ayah_no': 27, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

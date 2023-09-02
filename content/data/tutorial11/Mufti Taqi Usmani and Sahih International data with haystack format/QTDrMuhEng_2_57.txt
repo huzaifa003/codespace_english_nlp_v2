@@ -1,0 +1,1 @@
+{'text': 'And We shaded you with clouds and sent down on you Al-Manna and the quails, (saying): "Eat of the good lawful things We have provided for you," (but they rebelled). And they did not wrong Us but they wronged themselves.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 57, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

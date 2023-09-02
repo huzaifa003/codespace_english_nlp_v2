@@ -1,0 +1,1 @@
+{'text': '(Remember) when the hypocrites and those having malady in their hearts were saying, “Allah and His messenger did not promise us but deceitfully;', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 12, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

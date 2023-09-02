@@ -1,0 +1,1 @@
+{'text': 'They said: "We have missed the (golden) bowl of the king and for him who produces it is (the reward of) a camel load; I will be bound by it."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 72, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

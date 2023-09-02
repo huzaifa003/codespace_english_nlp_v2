@@ -1,0 +1,1 @@
+{'text': '(Then they will be asked, “What is wrong with you that you do not help each other?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 25, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

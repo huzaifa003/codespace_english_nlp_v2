@@ -1,0 +1,1 @@
+{'text': 'And (remember) the day when the Horn will be blown; so all those in the heavens and the earth will be in panic, except those whom Allah wills. And All (of them) will come to Him in humility.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 87, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

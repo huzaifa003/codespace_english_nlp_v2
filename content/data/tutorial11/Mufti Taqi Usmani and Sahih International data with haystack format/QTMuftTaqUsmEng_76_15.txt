@@ -1,0 +1,1 @@
+{'text': 'Circulated among them will be vessels of silver, and cups that will be (as transparent as) crystals,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 15, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

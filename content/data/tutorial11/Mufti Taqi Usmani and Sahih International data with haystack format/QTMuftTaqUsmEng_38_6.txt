@@ -1,0 +1,1 @@
+{'text': 'And the leaders among them walked out saying (to their followers), “Walk away (from the Prophet,) and stay firm on (adhering to) your gods. This (call of the Prophet) is surely something designed (for his personal benefit).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 6, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

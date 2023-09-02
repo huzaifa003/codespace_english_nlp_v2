@@ -1,0 +1,1 @@
+{'text': 'But the wrongdoers have followed their desires without knowledge. So who can guide the one whom Allah leaves astray? For such people there are no helpers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 29, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

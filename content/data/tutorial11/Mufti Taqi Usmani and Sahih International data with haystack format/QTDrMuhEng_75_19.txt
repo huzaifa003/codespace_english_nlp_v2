@@ -1,0 +1,1 @@
+{'text': 'Then it is for Us (Allah) to make it clear to you,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 75, 'ayah_no': 19, 'surah_name_en': 'Al-Qiyama (The rising of the dead)', 'surah_name_ar': 'القیٰمۃ'}}

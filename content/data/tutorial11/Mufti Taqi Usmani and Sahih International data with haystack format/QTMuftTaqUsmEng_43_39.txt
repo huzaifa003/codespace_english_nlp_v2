@@ -1,0 +1,1 @@
+{'text': 'And (it will be said to such people,) “Since you were wrongdoers, it will never benefit you today that you are sharing the punishment with each other.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 39, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

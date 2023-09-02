@@ -1,0 +1,1 @@
+{'text': 'And what will make you know what Sijjeen is?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 83, 'ayah_no': 8, 'surah_name_en': 'Al-Mutaffifin (Defrauding)', 'surah_name_ar': 'المُطَفِّفِین'}}

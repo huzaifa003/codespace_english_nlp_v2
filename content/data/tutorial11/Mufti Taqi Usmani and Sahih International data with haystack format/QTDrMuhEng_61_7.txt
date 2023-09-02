@@ -1,0 +1,1 @@
+{'text': 'And who does more wrong than the one who invents a lie against Allah, while he is being invited to Islam? And Allah guides not the people who are Zalimoon (polytheists, wrong-doers and disbelievers) folk.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 61, 'ayah_no': 7, 'surah_name_en': 'As-Saff (The Ranks)', 'surah_name_ar': 'الصّف'}}

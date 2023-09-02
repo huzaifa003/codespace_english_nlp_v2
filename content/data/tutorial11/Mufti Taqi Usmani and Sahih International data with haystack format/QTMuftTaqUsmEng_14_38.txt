@@ -1,0 +1,1 @@
+{'text': 'Our Lord, surely You know what we conceal and what we reveal.-Hidden from Allah is nothing whatsoever, neither in the earth nor in the heavens.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 38, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

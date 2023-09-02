@@ -1,0 +1,1 @@
+{'text': 'Verily, We have sent to you (O men) a Messenger (Muhammad SAW) to be a witness over you, as We did send a Messenger (Moosa (Moses)) to Firaun (Pharaoh) .', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 73, 'ayah_no': 15, 'surah_name_en': 'Al-Muzzammil (The enshrouded one)', 'surah_name_ar': 'المزّمّل'}}

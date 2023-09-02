@@ -1,0 +1,1 @@
+{'text': 'Do not walk on the earth in haughty style. You can neither tear the earth apart, nor can you match the mountains in height.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 37, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

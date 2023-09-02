@@ -1,0 +1,1 @@
+{'text': 'Certainly, those who bought disbelief in exchange for Belief cannot harm Allah at all. For them there is a painful punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 177, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

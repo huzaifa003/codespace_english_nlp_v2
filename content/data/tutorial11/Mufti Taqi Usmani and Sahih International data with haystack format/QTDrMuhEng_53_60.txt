@@ -1,0 +1,1 @@
+{'text': 'And you laugh at it and weep not,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 60, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

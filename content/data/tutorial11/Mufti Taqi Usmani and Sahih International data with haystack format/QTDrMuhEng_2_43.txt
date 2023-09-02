@@ -1,0 +1,1 @@
+{'text': 'And perform As-Salat (Iqamat-as-Salat), and give Zakat, and Irka (i.e. bow down or submit yourselves with obedience to Allah) along with ArRakioon.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 43, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'So when he came to it, he was called, “O Mūsā,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 11, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

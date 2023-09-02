@@ -1,0 +1,1 @@
+{'text': 'They said, “Then, bring him before the eyes of the people, so that they may see”.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 61, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

@@ -1,0 +1,1 @@
+{'text': 'Nor would he order you to take angels and Prophets for lords (gods). Would he order you to disbelieve after you have submitted to Allahs Will? (Tafsir At-Tabaree).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 80, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

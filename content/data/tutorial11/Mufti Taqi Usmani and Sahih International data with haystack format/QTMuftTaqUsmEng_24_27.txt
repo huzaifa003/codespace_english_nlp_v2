@@ -1,0 +1,1 @@
+{'text': 'O you who believe, do not enter any houses, other than your own houses unless you seek permission and greet their inmates with Salām . That is good for you, so that you may be heedful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 27, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

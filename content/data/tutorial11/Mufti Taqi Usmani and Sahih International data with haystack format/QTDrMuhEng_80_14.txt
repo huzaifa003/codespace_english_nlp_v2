@@ -1,0 +1,1 @@
+{'text': 'Exalted (in dignity), purified,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 80, 'ayah_no': 14, 'surah_name_en': 'Abasa (He Frowned)', 'surah_name_ar': 'عَبَسَ'}}

@@ -1,0 +1,1 @@
+{'text': 'The haughty people said, “As for us, we disbelieve in what you believe.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 76, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

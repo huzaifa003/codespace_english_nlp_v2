@@ -1,0 +1,1 @@
+{'text': 'And it was sailing with them amidst the waves like mountains. And NūH called out to his son, who was at an isolated place, “O my child, come on board with us, and do not be in the company of the disbelievers.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 42, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

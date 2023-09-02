@@ -1,0 +1,1 @@
+{'text': 'He is the One who created you from clay, then destined a term. The fixed term lies with Him, yet you are in doubt.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 2, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

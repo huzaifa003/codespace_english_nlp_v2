@@ -1,0 +1,1 @@
+{'text': 'And come not near to the orphans property except to improve it, until he attains the age of full strength. And fulfil (every) covenant. Verily! the covenant, will be questioned about.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 34, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

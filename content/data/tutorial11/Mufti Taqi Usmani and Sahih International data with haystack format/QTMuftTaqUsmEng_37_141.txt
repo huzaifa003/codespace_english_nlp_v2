@@ -1,0 +1,1 @@
+{'text': 'Then he participated in drawing lots (to offload one of the passengers) and was the one who was defeated.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 141, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

@@ -1,0 +1,1 @@
+{'text': 'And the shade thereof is close upon them, and the bunches of fruit thereof will hang low within their reach.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 76, 'ayah_no': 14, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

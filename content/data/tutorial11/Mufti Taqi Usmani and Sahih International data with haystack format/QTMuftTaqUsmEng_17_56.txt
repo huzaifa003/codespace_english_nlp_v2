@@ -1,0 +1,1 @@
+{'text': 'Say, “Call those whom you assume (to be gods), besides Him, while they have no power to remove distress from you, nor to change it.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 56, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

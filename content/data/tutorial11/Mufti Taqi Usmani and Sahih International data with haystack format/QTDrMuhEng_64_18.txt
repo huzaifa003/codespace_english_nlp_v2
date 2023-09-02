@@ -1,0 +1,1 @@
+{'text': 'All-Knower of the unseen and seen, the All-Mighty, the All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 64, 'ayah_no': 18, 'surah_name_en': 'At-Taghabun (Mutual Disillusion)', 'surah_name_ar': 'التّغابن'}}

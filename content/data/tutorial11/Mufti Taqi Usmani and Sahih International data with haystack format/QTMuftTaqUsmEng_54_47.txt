@@ -1,0 +1,1 @@
+{'text': 'Surely the guilty ones are in error and madness.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 54, 'ayah_no': 47, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

@@ -1,0 +1,1 @@
+{'text': 'They are looking for nothing (to accept the truth) but that Allah (Himself) comes upon them in canopies of cloud with angels, and the matter is closed. To Allah shall all matters be returned.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 210, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

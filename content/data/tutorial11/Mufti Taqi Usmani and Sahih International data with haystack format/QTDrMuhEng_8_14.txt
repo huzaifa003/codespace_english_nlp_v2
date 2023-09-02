@@ -1,0 +1,1 @@
+{'text': 'This is the torment, so taste it, and surely for the disbelievers is the torment of the Fire.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 8, 'ayah_no': 14, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

@@ -1,0 +1,1 @@
+{'text': 'And whenever there comes down a Soorah (chapter from the Quran), some of them (hypocrites) say: "Which of you has had his Faith increased by it?" As for those who believe, it has increased their Faith, and they rejoice.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 124, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

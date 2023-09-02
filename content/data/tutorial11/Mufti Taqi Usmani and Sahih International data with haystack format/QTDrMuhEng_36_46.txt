@@ -1,0 +1,1 @@
+{'text': 'And never came an Ayah from among the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of their Lord to them, but they did turn away from it.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 46, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

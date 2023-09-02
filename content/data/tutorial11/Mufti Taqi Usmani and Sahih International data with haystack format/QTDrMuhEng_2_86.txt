@@ -1,0 +1,1 @@
+{'text': 'Those are they who have bought the life of this world at the price of the Hereafter. Their torment shall not be lightened nor shall they be helped.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 86, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

@@ -1,0 +1,1 @@
+{'text': '(O Prophet,) Surely, they were about to lure you away from what We have revealed to you, so that you forge something else against Us, and in that case they would have certainly made you a bosom friend.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 73, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

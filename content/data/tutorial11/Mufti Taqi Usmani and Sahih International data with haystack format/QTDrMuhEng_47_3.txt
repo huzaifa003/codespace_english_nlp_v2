@@ -1,0 +1,1 @@
+{'text': 'That is because those who disbelieve follow falsehood, while those who believe follow the truth from their Lord. Thus does Allah set forth their parables for mankind.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 47, 'ayah_no': 3, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

@@ -1,0 +1,1 @@
+{'text': 'And He destroyed the overthrown cities (of Sodom to which Prophet Lout (Lot) was sent).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 53, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

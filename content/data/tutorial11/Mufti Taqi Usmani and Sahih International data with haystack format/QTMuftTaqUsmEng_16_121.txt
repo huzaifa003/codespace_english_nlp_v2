@@ -1,0 +1,1 @@
+{'text': 'He was grateful to His bounties. He (Allah) chose him and led him to the straight path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 121, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

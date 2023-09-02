@@ -1,0 +1,1 @@
+{'text': 'Had Allah willed, He would have made all of them a single group; but He admits whomsoever He wills into His mercy. As for the wrongdoers, they have neither a patron nor a helper.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 42, 'ayah_no': 8, 'surah_name_en': 'Ash-Shura (Council, Consultation)', 'surah_name_ar': 'الشُّورٰی'}}

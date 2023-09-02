@@ -1,0 +1,1 @@
+{'text': 'Further they said, “(The Qur’ān is) a mixture of jumble dreams. Rather, he (the prophet) has fabricated it. Rather, he is a poet. So, let him bring a sign to us, as the earlier ones were sent with.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 5, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

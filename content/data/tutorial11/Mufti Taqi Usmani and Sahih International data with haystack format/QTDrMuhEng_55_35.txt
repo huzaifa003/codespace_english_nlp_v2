@@ -1,0 +1,1 @@
+{'text': 'There will be sent against you both, smokeless flames of fire and (molten) brass, and you will not be able to defend yourselves.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 55, 'ayah_no': 35, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

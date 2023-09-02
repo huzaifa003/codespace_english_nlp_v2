@@ -1,0 +1,1 @@
+{'text': 'Had We sent down this Qur’ān to a mountain, you would have seen it humbled, burst apart out of awe for Allah. We cite such examples for people, so that they may ponder.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 59, 'ayah_no': 21, 'surah_name_en': 'Al-Hashr (Exile)', 'surah_name_ar': 'الحشر'}}

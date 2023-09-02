@@ -1,0 +1,1 @@
+{'text': 'The like of which were not created in the land?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 89, 'ayah_no': 8, 'surah_name_en': 'Al-Fajr (The Dawn)', 'surah_name_ar': 'الفجر'}}

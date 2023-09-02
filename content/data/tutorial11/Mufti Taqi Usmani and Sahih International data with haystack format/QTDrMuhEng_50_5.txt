@@ -1,0 +1,1 @@
+{'text': 'Nay, but they have denied the truth (this Quran) when it has come to them, so they are in a confused state (can not differentiate between right and wrong).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 50, 'ayah_no': 5, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

@@ -1,0 +1,1 @@
+{'text': 'He is High in stations, the Lord of the Throne. He sends the spirit down, under His command, on whomever He wills from among His servants, so that he warns of the Day of Encounter -', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 15, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

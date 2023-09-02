@@ -1,0 +1,1 @@
+{'text': 'Glorious is He Who made his servant travel by night from Al-Masjid-ul-Harām to Al-Masjid-ul-AqSā whose environs We have blessed, so that We let him see some of Our signs. Surely, He is the All-Hearing, the All- Seeing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 1, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

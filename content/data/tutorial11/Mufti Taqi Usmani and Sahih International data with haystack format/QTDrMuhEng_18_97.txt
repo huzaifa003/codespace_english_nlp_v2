@@ -1,0 +1,1 @@
+{'text': 'So they (Yajooj and Majooj (Gog and Magog)) were made powerless to scale it or dig through it.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 97, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

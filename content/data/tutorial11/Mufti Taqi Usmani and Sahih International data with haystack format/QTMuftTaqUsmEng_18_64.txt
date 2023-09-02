@@ -1,0 +1,1 @@
+{'text': 'He said, “That was what we were looking for.” So they returned, retracing their footsteps.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 64, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

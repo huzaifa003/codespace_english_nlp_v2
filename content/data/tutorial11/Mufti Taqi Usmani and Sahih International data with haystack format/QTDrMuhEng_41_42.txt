@@ -1,0 +1,1 @@
+{'text': 'Falsehood cannot come to it from before it or behind it (it is) sent down by the All-Wise, Worthy of all praise (Allah ÚÒ æ Ìá).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 41, 'ayah_no': 42, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

@@ -1,0 +1,1 @@
+{'text': 'Surely, those who have made divisions in their religion and turned into factions, you have nothing to do with them. Their case rests with Allah alone; then He will tell them what they have been doing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 159, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

@@ -1,0 +1,1 @@
+{'text': 'Had We so willed, We would have sent a (separate) warner for every town, (but, according to Our wisdom, We have sent Muhammad as a prophet for all these towns)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 51, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

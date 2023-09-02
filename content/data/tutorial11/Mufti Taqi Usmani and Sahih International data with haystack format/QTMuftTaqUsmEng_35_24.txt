@@ -1,0 +1,1 @@
+{'text': 'Surely We have sent you with truth as a bearer of good news and as a warner, and there was no community without a warner having passed among them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 35, 'ayah_no': 24, 'surah_name_en': 'Fatir (Originator)', 'surah_name_ar': 'فاطر'}}

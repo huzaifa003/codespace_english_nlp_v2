@@ -1,0 +1,1 @@
+{'text': 'We made his kingdom strong and gave him Al-Hikmah (Prophethood, etc.) and sound judgement in speech and decision.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 20, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

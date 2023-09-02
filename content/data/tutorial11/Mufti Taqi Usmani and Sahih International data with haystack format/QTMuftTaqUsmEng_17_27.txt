@@ -1,0 +1,1 @@
+{'text': 'Surely, squanderers are brothers of satans, and the Satan is very ungrateful to his Lord.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 27, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

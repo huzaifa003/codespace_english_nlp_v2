@@ -1,0 +1,1 @@
+{'text': 'Then, as for those who believed (in the Oneness of Allah Islamic Monotheism) and did righteous good deeds, their Lord will admit them to His Mercy. That will be the evident success.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 45, 'ayah_no': 30, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

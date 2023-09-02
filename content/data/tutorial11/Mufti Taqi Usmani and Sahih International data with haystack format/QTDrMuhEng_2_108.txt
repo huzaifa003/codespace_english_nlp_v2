@@ -1,0 +1,1 @@
+{'text': 'Or do you want to ask your Messenger (Muhammad Peace be upon him ) as Moosa (Moses) was asked before (i.e. show us openly our Lord?) And he who changes Faith for disbelief, verily, he has gone astray from the right way.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 108, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'Pure is the Lord of the heavens and the earth, the Lord of the Throne, from what they attribute (to Him).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 82, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

@@ -1,0 +1,1 @@
+{'text': 'You can (usefully) warn only the one who follows the advice and fears the RaHmān (the All-Merciful Allah) without seeing (Him). So give him the good news of forgiveness and of a noble reward.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 11, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

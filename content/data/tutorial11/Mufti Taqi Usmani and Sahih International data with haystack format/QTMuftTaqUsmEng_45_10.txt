@@ -1,0 +1,1 @@
+{'text': 'In front of them, there is Jahannam (Hell). And whatever they have earned will not be of any use to them, nor the patrons they have adopted instead of Allah. And for them, there is a horrible punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 10, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

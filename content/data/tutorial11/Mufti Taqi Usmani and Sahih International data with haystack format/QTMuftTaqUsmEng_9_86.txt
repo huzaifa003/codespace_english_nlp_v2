@@ -1,0 +1,1 @@
+{'text': 'When a Sūrah is revealed (saying), “Believe in Allah and carry out Jihād in the company of His Messenger” the capable ones from them seek your permission and say, “Let us remain with those sitting back.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 86, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

@@ -1,0 +1,1 @@
+{'text': '"And invoke not besides Allah, any that will neither profit you, nor hurt you, but if (in case) you did so, you shall certainly be one of the Zalimoon (polytheists and wrong-doers)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 10, 'ayah_no': 106, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

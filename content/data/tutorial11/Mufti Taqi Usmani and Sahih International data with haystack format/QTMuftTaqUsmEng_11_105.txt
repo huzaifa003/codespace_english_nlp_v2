@@ -1,0 +1,1 @@
+{'text': 'The day it comes no one shall speak except by His leave. So, some of them will be wretched and (some) blessed.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 105, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

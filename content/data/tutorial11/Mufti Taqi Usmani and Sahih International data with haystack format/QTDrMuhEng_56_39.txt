@@ -1,0 +1,1 @@
+{'text': 'A multitude of those (on the Right Hand) will be from the first generation (who embraced Islam).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 56, 'ayah_no': 39, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

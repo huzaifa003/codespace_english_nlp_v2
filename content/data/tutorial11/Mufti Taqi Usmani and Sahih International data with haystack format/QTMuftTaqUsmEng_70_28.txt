@@ -1,0 +1,1 @@
+{'text': '-Indeed the torment of their Lord is not something to be fearless from.-', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 70, 'ayah_no': 28, 'surah_name_en': 'Al-Maarij (The Ascending stairways)', 'surah_name_ar': 'المعارج'}}

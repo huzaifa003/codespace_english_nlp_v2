@@ -1,0 +1,1 @@
+{'text': 'And if they break their oaths after they have made a covenant, and speak evil of your Faith, then fight the leaders of infidelity,-since their oaths are nothing,-so that they may desist,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 12, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

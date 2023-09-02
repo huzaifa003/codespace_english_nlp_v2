@@ -1,0 +1,1 @@
+{'text': 'So, when they returned to their father, they said: "O our father! No more measure of grain shall we get (unless we take our brother). So send our brother with us, and we shall get our measure and truly we will guard him."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 63, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

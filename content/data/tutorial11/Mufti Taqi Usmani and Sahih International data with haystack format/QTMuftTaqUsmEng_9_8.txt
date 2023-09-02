@@ -1,0 +1,1 @@
+{'text': 'How (can they have a treaty) while if they overcome you, they will not observe any bond or treaty with you. They want to please you with (words of) their mouths, but their hearts refuse. Most of them are sinners.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 8, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

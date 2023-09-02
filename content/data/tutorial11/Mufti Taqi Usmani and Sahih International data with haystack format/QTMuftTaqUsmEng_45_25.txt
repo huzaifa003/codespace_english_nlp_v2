@@ -1,0 +1,1 @@
+{'text': 'When Our verses are recited to them in all their clarity, their argument is none but that they say, “Bring our fathers, if you are truthful.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 25, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

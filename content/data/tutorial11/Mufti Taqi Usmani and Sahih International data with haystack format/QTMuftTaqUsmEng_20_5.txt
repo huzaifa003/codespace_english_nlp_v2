@@ -1,0 +1,1 @@
+{'text': 'The RaHmān (Allah, the All-Merciful) has positioned Himself on the Throne.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 5, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

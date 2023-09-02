@@ -1,0 +1,1 @@
+{'text': 'as to who will be visited by a punishment that will disgrace him, and upon whom a lasting punishment will rest.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 40, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

@@ -1,0 +1,1 @@
+{'text': 'It is not for the Mushriks to build up the mosques of Allah while they are witnesses of their own infidelity. Those are the ones whose deeds have gone to waste; and in the Fire they shall remain forever.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 17, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

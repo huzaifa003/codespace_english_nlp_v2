@@ -1,0 +1,1 @@
+{'text': 'We said: "Get down all of you from this place (the Paradise), then whenever there comes to you Guidance from Me, and whoever follows My Guidance, there shall be no fear on them, nor shall they grieve.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 38, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

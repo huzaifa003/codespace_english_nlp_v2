@@ -1,0 +1,1 @@
+{'text': 'They said: "Mixed up false dreams and we are not skilled in the interpretation of dreams."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 44, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

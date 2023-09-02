@@ -1,0 +1,1 @@
+{'text': 'a day when you will turn back on your heels, having no one to save you from Allah - but, whomever Allah lets go astray, for him there is no one to guide.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 33, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

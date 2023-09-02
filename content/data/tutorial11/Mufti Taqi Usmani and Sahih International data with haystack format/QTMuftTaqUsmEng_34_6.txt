@@ -1,0 +1,1 @@
+{'text': 'Those who are blessed with knowledge see that what is sent to you from your Lord is the truth, and it guides (people) to the path of the All-Mighty, the Ever-Praised.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 34, 'ayah_no': 6, 'surah_name_en': 'Saba (Saba)', 'surah_name_ar': 'سبا'}}

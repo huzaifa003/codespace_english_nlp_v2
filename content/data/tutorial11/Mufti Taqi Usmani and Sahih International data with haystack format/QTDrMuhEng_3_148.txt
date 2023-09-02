@@ -1,0 +1,1 @@
+{'text': 'So Allah gave them the reward of this world, and the excellent reward of the Hereafter. And Allah loves Al-Muhsinoon (the gooddoers - see the footnote of V.3:134).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 148, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

@@ -1,0 +1,1 @@
+{'text': 'And indeed We have adorned the nearest heaven with lamps, and We have made such lamps (as) missiles to drive away the Shayatin (devils), and have prepared for them the torment of the blazing Fire.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 67, 'ayah_no': 5, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

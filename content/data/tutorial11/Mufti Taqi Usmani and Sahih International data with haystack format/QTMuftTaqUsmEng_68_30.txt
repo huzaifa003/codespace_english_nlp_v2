@@ -1,0 +1,1 @@
+{'text': 'Then, (at the beginning,) they started reproaching one another;', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 68, 'ayah_no': 30, 'surah_name_en': 'Al-Qalam (The Pen)', 'surah_name_ar': 'القلم'}}

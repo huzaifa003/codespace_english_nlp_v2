@@ -1,0 +1,1 @@
+{'text': 'And He is the One who has sent the winds conveying good news before His mercy, and We have sent down purifying water from the heavens,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 48, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

@@ -1,0 +1,1 @@
+{'text': 'how my Lord has forgiven me and placed me among the honoured ones!”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 27, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

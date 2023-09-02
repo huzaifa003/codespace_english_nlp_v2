@@ -1,0 +1,1 @@
+{'text': '(this Qur’ān being) a revelation from the All- Mighty, the Very-Merciful,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 5, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

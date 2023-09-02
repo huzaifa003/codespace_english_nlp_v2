@@ -1,0 +1,1 @@
+{'text': 'And Haroon (Aaron) indeed had said to them beforehand: "O my people! You are being tried in this, and verily, your Lord is (Allah) the Most Beneficent, so follow me and obey my order."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 90, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

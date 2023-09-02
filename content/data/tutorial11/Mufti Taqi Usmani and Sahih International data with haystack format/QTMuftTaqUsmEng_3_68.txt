@@ -1,0 +1,1 @@
+{'text': 'The closest of people to Ibrāhīm are those who followed him, and this prophet, and those who believe; and Allah is the Guardian of all believers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 68, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

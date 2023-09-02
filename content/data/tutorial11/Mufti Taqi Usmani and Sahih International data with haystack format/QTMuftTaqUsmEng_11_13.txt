@@ -1,0 +1,1 @@
+{'text': 'Do they say that he has fabricated it? Say (to them), “Then bring ten Sūrahs like this, fabricated. And call whomsoever you can, other than Allah, if you are true.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 13, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

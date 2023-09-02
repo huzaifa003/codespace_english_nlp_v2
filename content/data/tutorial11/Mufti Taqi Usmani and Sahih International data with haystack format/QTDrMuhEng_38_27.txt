@@ -1,0 +1,1 @@
+{'text': 'And We created not the heaven and the earth and all that is between them without purpose! That is the consideration of those who disbelieve! Then woe to those who disbelieve (in Islamic Monotheism) from the Fire!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 27, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

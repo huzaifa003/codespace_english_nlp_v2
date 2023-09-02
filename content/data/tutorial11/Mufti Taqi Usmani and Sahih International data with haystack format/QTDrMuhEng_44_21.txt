@@ -1,0 +1,1 @@
+{'text': '"But if you believe me not, then keep away from me and leave me alone."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 44, 'ayah_no': 21, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

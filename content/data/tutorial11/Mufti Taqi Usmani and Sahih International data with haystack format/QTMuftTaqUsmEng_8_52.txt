@@ -1,0 +1,1 @@
+{'text': '(Their way is) like the way of the people of Pharaoh and of those before them. They rejected the signs of Allah; so Allah seized them for their sins. Surely, Allah is strong, severe in punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 52, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

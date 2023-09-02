@@ -1,0 +1,1 @@
+{'text': 'And in the alternation of the day and the night, and in the provision He has sent down from the sky, then has revived the earth after its death, and in changing of the winds, there are signs for a people who understand.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 5, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

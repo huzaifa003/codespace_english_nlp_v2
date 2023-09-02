@@ -1,0 +1,1 @@
+{'text': 'wherein they will live forever, finding no one to protect or to help.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 65, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

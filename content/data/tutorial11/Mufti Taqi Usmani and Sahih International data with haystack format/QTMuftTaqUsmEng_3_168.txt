@@ -1,0 +1,1 @@
+{'text': 'Those who said about their brethren, while themselves sitting, “Had they obeyed us, they would have not been killed.” Say, “Then avert death from yourselves if you are true.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 168, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

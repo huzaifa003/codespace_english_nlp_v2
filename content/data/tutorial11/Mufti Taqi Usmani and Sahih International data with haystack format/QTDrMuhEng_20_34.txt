@@ -1,0 +1,1 @@
+{'text': '"And remember You much,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 34, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

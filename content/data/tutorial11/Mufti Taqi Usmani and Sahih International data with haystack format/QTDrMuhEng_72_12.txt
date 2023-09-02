@@ -1,0 +1,1 @@
+{'text': 'And we think that we cannot escape (from the punishment of) Allah in the earth, nor can we escape (from the punishment) by flight.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 72, 'ayah_no': 12, 'surah_name_en': 'Al-Jinn (The Jinn)', 'surah_name_ar': 'الجن'}}

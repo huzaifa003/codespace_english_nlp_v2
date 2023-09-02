@@ -1,0 +1,1 @@
+{'text': '"So I fled from you when I feared you. But my Lord has granted me Hukman (i.e. religious knowledge, right judgement of the affairs and Prophethood), and appointed me as one of the Messengers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 21, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

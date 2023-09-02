@@ -1,0 +1,1 @@
+{'text': 'Then, as for those who believed and did righteous deeds, their Lord will admit them to His mercy. That is indeed the achievement, visible to all.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 30, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

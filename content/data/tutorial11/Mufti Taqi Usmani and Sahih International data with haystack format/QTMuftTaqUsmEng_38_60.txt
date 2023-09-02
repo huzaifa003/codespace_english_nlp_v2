@@ -1,0 +1,1 @@
+{'text': 'They (the followers) will say (to their leaders) “No, it is you who are not welcome; you are the ones who brought this upon us.” So, how evil is the place to stay (for ever)!”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 60, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

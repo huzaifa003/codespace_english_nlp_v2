@@ -1,0 +1,1 @@
+{'text': 'They fear their Lord above them, and they do what they are commanded.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 50, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

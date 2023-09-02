@@ -1,0 +1,1 @@
+{'text': 'And if your Lord had so willed, He could surely have made mankind one Ummah (nation or community (following one religion only i.e. Islam)), but they will not cease to disagree,-', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 118, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

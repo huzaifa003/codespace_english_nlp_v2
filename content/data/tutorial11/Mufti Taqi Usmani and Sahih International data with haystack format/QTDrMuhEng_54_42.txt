@@ -1,0 +1,1 @@
+{'text': '(They) belied all Our Signs, so We seized them with a Seizure of the All-Mighty, All-Capable to carry out what he Will (Omnipotent).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 42, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

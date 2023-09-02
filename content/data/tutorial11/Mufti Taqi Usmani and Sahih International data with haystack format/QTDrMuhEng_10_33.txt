@@ -1,0 +1,1 @@
+{'text': 'Thus is the Word of your Lord justified against those who rebel (disobey Allah) that they will not believe (in the Oneness of Allah and in Muhammad SAW as the Messenger of Allah).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 10, 'ayah_no': 33, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

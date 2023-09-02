@@ -1,0 +1,1 @@
+{'text': 'And Zakariya (Zachariya), and Yahya (John) and Iesa (Jesus) and Iliyas (Elias), each one of them was of the righteous.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 85, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

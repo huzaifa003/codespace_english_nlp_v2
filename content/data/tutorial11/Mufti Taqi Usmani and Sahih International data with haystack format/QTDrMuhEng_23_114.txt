@@ -1,0 +1,1 @@
+{'text': 'He (Allah) will say: "You stayed not but a little, if you had only known!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 23, 'ayah_no': 114, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

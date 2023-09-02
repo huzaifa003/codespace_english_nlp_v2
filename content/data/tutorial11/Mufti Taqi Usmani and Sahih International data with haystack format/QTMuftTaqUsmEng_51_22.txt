@@ -1,0 +1,1 @@
+{'text': 'And in the heavens, there is your sustenance and all that you have been promised.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 51, 'ayah_no': 22, 'surah_name_en': 'Adh-Dhariyat (The winnowing winds)', 'surah_name_ar': 'الذّٰریٰت'}}

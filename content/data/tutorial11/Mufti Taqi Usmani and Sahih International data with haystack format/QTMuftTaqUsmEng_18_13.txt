@@ -1,0 +1,1 @@
+{'text': 'We narrate to you their story with truth. They were young men who believed in their Lord and We gave them more guidance.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 13, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

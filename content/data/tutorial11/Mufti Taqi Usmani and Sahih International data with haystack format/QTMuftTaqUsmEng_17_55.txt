@@ -1,0 +1,1 @@
+{'text': 'Your Lord knows best about all those in the heavens and the earth, and We have certainly granted excellence to some prophets over some others, and We gave Dawūd the Zabūr (the Psalms).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 55, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

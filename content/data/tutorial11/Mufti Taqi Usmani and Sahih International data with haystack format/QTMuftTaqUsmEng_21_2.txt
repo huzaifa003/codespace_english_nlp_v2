@@ -1,0 +1,1 @@
+{'text': 'No fresh message of advice comes to them from their Lord, but they listen to it as if they were playing,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 2, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

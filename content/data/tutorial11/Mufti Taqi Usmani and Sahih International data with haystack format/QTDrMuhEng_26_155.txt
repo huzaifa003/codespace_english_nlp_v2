@@ -1,0 +1,1 @@
+{'text': 'He said: "Here is a she-camel; it has a right to drink (water), and you have a right to drink (water) (each) on a day, known.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 155, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

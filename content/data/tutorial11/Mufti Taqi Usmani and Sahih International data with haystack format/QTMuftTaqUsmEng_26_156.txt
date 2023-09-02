@@ -1,0 +1,1 @@
+{'text': 'So do not touch her with evil (intent), lest you should be seized by a painful punishment.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 156, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

@@ -1,0 +1,1 @@
+{'text': 'Messengers have been mocked at before you, so I let the disbelievers go on for a while. Then I seized them. So, how was My punishment?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 13, 'ayah_no': 32, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

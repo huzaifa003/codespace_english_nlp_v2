@@ -1,0 +1,1 @@
+{'text': '(This is) a book sent down to you. Therefore, your heart must not be straitened because of it. (It is revealed to you) so that you may warn through it, and it may be an advice for the believers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 2, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

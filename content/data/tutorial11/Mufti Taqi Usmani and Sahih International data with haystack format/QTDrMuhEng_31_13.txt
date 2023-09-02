@@ -1,0 +1,1 @@
+{'text': 'And (remember) when Luqman said to his son when he was advising him: "O my son! Join not in worship others with Allah. Verily! Joining others in worship with Allah is a great Zoolm (wrong) indeed.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 31, 'ayah_no': 13, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

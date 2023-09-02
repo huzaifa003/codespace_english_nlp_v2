@@ -1,0 +1,1 @@
+{'text': 'He is such that He and His angels send blessings to you, so that He brings you out from all sorts of darkness into Light; and He is Very-Merciful to the believers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 43, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

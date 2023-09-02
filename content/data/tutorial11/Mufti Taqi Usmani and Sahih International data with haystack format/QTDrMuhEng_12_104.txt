@@ -1,0 +1,1 @@
+{'text': 'And no reward you (O Muhammad SAW) ask of them (those who deny your Prophethood) for it, it(the Quran) is no less than a Reminder and an advice unto the Alameen (men and jinns).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 104, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

@@ -1,0 +1,1 @@
+{'text': 'Obey Allah, and obey the Messenger. But if you turn away, then Our Messenger has only to convey the message clearly.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 64, 'ayah_no': 12, 'surah_name_en': 'At-Taghabun (Mutual Disillusion)', 'surah_name_ar': 'التّغابن'}}

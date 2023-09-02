@@ -1,0 +1,1 @@
+{'text': 'Did We not destroy the ancients?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 77, 'ayah_no': 16, 'surah_name_en': 'Al-Mursalat (The emissaries)', 'surah_name_ar': 'المرسلٰت'}}

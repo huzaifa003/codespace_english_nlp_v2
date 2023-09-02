@@ -1,0 +1,1 @@
+{'text': 'What is there (in Makkah) is just a host of the (opposing) groups that has to be defeated.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 11, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

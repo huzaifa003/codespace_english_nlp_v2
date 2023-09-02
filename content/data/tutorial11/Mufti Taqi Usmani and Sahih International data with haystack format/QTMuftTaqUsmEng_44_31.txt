@@ -1,0 +1,1 @@
+{'text': 'from Fir‘aun. Indeed, he was haughty, one of the transgressors.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 44, 'ayah_no': 31, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

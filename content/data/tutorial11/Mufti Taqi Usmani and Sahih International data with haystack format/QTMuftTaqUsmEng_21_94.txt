@@ -1,0 +1,1 @@
+{'text': 'So, whoever does righteous deeds, while he is a believer, his effort will not be rejected, and We are to put it on record.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 94, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

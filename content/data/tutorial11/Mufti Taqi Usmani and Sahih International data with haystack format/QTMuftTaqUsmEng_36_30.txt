@@ -1,0 +1,1 @@
+{'text': 'Alas for the slaves (of Allah)! No messenger came to them, but they have been mocking at him.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 30, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

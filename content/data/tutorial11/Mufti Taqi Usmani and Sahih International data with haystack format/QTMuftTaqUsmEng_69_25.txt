@@ -1,0 +1,1 @@
+{'text': 'As for him who will be given his book in his left hand, he will say, “ Oh, would that I had not been given my book,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 69, 'ayah_no': 25, 'surah_name_en': 'Al-Haaqqa (The reality)', 'surah_name_ar': 'الحاقہ'}}

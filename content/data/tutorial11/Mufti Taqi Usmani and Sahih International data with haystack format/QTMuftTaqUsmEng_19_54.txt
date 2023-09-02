@@ -1,0 +1,1 @@
+{'text': 'And mention in the Book (the story of) Ismā‘īl. He was indeed true to his promise, and was a messenger, a prophet.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 54, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

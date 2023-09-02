@@ -1,0 +1,1 @@
+{'text': '"I put my trust in Allah, my Lord and your Lord! There is not a moving (living) creature but He has grasp of its forelock. Verily, my Lord is on the Straight Path (the truth).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 56, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

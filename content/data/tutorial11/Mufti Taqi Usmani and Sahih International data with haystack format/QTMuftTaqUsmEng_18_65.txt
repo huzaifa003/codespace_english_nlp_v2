@@ -1,0 +1,1 @@
+{'text': 'Then they found one of Our servants whom We blessed with mercy from Us and whom We gave knowledge, a knowledge from Our own.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 65, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

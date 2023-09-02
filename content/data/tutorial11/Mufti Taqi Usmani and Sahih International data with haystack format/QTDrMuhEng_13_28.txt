@@ -1,0 +1,1 @@
+{'text': 'Those who believe (in the Oneness of Allah - Islamic Monotheism), and whose hearts find rest in the remembrance of Allah, Verily, in the remembrance of Allah do hearts find rest.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 13, 'ayah_no': 28, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

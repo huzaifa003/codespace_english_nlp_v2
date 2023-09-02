@@ -1,0 +1,1 @@
+{'text': 'So, she pointed towards him (the baby). They said, “How shall we speak to someone who is still a child in the cradle?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 29, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

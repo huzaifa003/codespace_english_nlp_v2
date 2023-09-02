@@ -1,0 +1,1 @@
+{'text': 'So We have destroyed those who were stronger than these (people of Makkah) in power, and the example of the earlier people has already passed.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 8, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

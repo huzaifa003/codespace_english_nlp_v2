@@ -1,0 +1,1 @@
+{'text': 'And fear the Fitnah (affliction and trial, etc.) which affects not in particular (only) those of you who do wrong (but it may afflict all the good and the bad people), and know that Allah is Severe in punishment.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 8, 'ayah_no': 25, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

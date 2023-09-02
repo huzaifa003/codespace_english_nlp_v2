@@ -1,0 +1,1 @@
+{'text': 'Verily, it has been revealed to us that the punishment is for the one who denies and turns away.’”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 48, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

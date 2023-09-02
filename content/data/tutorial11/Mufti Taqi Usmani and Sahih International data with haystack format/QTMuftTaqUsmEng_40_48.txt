@@ -1,0 +1,1 @@
+{'text': 'Those who were arrogant will say, “We all are in it. Allah has already passed the judgment between (His) servants.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 48, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

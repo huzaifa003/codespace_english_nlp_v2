@@ -1,0 +1,1 @@
+{'text': 'Those who hasten towards disbelief should not make you grieve. They cannot harm Allah at all. Allah intends not to spare for them any share in the Hereafter. For them there is a mighty punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 176, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

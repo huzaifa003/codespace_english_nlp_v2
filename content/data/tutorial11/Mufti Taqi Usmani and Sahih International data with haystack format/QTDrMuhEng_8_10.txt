@@ -1,0 +1,1 @@
+{'text': 'Allah made it only as glad tidings, and that your hearts be at rest therewith. And there is no victory except from Allah. Verily, Allah is All-Mighty, All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 8, 'ayah_no': 10, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

@@ -1,0 +1,1 @@
+{'text': 'And I go away from you and what you invoke besides Allah. And I shall invoke my Lord. Hopefully I shall not be a looser by invoking my Lord.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 48, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

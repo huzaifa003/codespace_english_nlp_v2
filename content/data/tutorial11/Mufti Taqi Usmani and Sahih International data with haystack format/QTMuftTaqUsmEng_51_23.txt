@@ -1,0 +1,1 @@
+{'text': 'So, by the Lord of the heavens and the earth, it (the Day of Recompense) is a reality, as sure as the fact that you (can) speak.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 51, 'ayah_no': 23, 'surah_name_en': 'Adh-Dhariyat (The winnowing winds)', 'surah_name_ar': 'الذّٰریٰت'}}

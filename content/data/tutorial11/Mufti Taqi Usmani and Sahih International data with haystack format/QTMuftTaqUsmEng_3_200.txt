@@ -1,0 +1,1 @@
+{'text': 'O you who believe, be patient, compete with each other in patience, and guard your frontiers and fear Allah, so that you may be successful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 200, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

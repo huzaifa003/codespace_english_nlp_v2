@@ -1,0 +1,1 @@
+{'text': 'NūH called unto his Lord and said, “My Lord, my son is a part of my family, and surely Your promise is true, and You are the greatest of all judges.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 45, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

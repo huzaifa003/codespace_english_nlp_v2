@@ -1,0 +1,1 @@
+{'text': 'He has created cattle in which there is warmth and other benefits for you; and from them you have food;', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 5, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

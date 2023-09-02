@@ -1,0 +1,1 @@
+{'text': '"And, O my people! Verily! I fear for you the Day when there will be mutual calling (between the people of Hell and of Paradise)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 32, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

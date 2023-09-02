@@ -1,0 +1,1 @@
+{'text': 'And the earth! We have spread it out, and set thereon mountains standing firm, and have produced therein every kind of lovely growth (plants).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 50, 'ayah_no': 7, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

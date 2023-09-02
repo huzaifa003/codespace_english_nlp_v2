@@ -1,0 +1,1 @@
+{'text': 'They will come forth, with humbled eyes from (their) graves as if they were locusts spread abroad,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 7, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

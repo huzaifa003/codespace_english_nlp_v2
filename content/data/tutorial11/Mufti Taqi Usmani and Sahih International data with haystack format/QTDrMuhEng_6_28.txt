@@ -1,0 +1,1 @@
+{'text': 'Nay, it has become manifest to them what they had been concealing before. But if they were returned (to the world), they would certainly revert to that which they were forbidden. And indeed they are liars.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 28, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

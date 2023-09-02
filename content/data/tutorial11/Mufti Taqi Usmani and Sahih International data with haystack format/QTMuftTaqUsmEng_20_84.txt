@@ -1,0 +1,1 @@
+{'text': 'He said, “Here they are just behind me, and I hurried towards You, my Lord, so that You be pleased.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 84, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

@@ -1,0 +1,1 @@
+{'text': 'O my people, I ask you no reward for it. My reward is only on the One who created me. Do you, then, not understand?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 51, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

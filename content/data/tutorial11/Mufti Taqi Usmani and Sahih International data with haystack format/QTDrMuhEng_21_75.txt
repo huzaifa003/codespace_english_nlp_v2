@@ -1,0 +1,1 @@
+{'text': 'And We admitted him to Our Mercy, truly, he was of the righteous.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 75, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

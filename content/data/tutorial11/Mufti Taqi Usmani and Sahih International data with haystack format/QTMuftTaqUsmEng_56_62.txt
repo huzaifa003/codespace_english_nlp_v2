@@ -1,0 +1,1 @@
+{'text': 'And you certainly know the first creation; then why do you not take lesson?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 56, 'ayah_no': 62, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

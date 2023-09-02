@@ -1,0 +1,1 @@
+{'text': 'But when He gave them (wealth) out of His grace, they became stingy about it, and went back turning their faces away.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 76, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

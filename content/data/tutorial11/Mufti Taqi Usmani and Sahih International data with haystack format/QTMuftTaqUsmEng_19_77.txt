@@ -1,0 +1,1 @@
+{'text': 'Have you, then, seen him who rejected Our verses and said, “I shall certainly be given wealth and children”?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 77, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

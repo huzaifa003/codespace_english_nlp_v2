@@ -1,0 +1,1 @@
+{'text': 'And remember Our slave Ayoob (Job), when he invoked his Lord (saying): "Verily! Shaitan (Satan) has touched me with distress (by losing my health) and torment (by losing my wealth)!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 41, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

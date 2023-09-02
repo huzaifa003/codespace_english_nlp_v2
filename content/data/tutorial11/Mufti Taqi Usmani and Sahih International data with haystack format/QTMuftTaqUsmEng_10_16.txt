@@ -1,0 +1,1 @@
+{'text': 'Say, “Had Allah so willed, I would have not recited it to you, nor would He have let you know it. Then, I have lived among you for years before it. Have you, then, no sense?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 16, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

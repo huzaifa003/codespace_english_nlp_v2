@@ -1,0 +1,1 @@
+{'text': 'We narrate unto you (O Muhammad SAW) their story with truth: Truly! They were young men who believed in their Lord (Allah), and We increased them in guidance.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 13, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

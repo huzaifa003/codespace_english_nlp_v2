@@ -1,0 +1,1 @@
+{'text': 'And when harm touches you upon the sea, those that you call upon besides Him vanish from you except Him (Allah Alone). But when He brings you safely to land, you turn away (from Him). And man is ever ungrateful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 67, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

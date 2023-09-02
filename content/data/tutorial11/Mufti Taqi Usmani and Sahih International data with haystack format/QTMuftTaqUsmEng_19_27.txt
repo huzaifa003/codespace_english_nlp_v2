@@ -1,0 +1,1 @@
+{'text': 'Then she came to her people carrying him (the baby). They said, “O Maryam you have committed something grave indeed.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 27, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

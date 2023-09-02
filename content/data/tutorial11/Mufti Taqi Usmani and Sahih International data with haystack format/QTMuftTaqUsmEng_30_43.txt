@@ -1,0 +1,1 @@
+{'text': 'Then set your face to the straight Faith before the arrival of a day that will never be repulsed by Allah. On that Day the people will be split apart.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 43, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

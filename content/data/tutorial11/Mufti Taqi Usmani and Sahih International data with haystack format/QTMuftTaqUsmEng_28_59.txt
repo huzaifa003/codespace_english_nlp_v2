@@ -1,0 +1,1 @@
+{'text': 'And your Lord is not such as He would destroy the towns unless he had sent to their central place a messenger who recites to them Our verses, nor are We such as would destroy the towns unless their people are wrongdoers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 59, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

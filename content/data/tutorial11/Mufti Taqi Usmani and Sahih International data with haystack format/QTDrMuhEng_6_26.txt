@@ -1,0 +1,1 @@
+{'text': 'And they prevent others from him (from following Prophet Muhammad SAW) and they themselves keep away from him, and (by doing so) they destroy not but their ownselves, yet they perceive (it) not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 26, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

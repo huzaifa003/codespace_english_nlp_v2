@@ -1,0 +1,1 @@
+{'text': 'So, when the magicians came, Mūsā said to them, “Cast what you have to cast.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 80, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

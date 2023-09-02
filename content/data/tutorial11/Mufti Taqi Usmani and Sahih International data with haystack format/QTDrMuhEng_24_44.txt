@@ -1,0 +1,1 @@
+{'text': 'Allah causes the night and the day to succeed each other (i.e. if the day is gone, the night comes, and if the night is gone, the day comes, and so on). Truly, in these things is indeed a lesson for those who have insight.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 44, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

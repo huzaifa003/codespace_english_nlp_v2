@@ -1,0 +1,1 @@
+{'text': 'Say, “I possess no power to cause you any harm or bring you to a right way.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 72, 'ayah_no': 21, 'surah_name_en': 'Al-Jinn (The Jinn)', 'surah_name_ar': 'الجن'}}

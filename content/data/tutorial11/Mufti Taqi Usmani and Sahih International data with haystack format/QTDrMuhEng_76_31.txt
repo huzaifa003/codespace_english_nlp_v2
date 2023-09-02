@@ -1,0 +1,1 @@
+{'text': 'He will admit to His Mercy whom He will and as for the Zalimoon, (polytheists, wrong-doers, etc.) He has prepared a painful torment.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 76, 'ayah_no': 31, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

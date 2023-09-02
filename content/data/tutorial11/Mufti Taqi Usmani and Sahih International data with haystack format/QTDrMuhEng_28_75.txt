@@ -1,0 +1,1 @@
+{'text': 'And We shall take out from every nation a witness, and We shall say: "Bring your proof." Then they shall know that the truth is with Allah (Alone), and the lies (false gods) which they invented will disappear from them.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 75, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

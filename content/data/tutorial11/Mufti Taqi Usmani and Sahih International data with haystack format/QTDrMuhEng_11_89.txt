@@ -1,0 +1,1 @@
+{'text': '"And O my people! Let not my Shiqaq cause you to suffer the fate similar to that of the people of Nooh (Noah) or of Hood or of Salih (Saleh), and the people of Lout (Lot) are not far off from you!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 89, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

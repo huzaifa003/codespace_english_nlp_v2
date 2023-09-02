@@ -1,0 +1,1 @@
+{'text': 'Verily, the Hour (Day of Judgement) is surely coming, therein is no doubt, yet most men believe not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 59, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

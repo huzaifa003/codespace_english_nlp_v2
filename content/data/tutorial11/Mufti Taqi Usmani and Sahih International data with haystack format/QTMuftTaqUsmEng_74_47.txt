@@ -1,0 +1,1 @@
+{'text': 'until when we were overtaken by that which is certain.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 74, 'ayah_no': 47, 'surah_name_en': 'Al-Muddathir (The cloaked one)', 'surah_name_ar': 'المدّثّر'}}

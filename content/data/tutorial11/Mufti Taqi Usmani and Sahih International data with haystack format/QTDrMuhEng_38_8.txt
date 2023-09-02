@@ -1,0 +1,1 @@
+{'text': '"Has the Reminder been sent down to him (alone) from among us?" Nay! but they are in doubt about My Reminder (this Quran)! Nay, but they have not tasted (My) Torment!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 8, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

@@ -1,0 +1,1 @@
+{'text': 'If you lend to Allah a goodly loan (i.e. spend in Allahs Cause) He will double it for you, and will forgive you. And Allah is Most Ready to appreciate and to reward, Most Forbearing,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 64, 'ayah_no': 17, 'surah_name_en': 'At-Taghabun (Mutual Disillusion)', 'surah_name_ar': 'التّغابن'}}

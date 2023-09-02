@@ -1,0 +1,1 @@
+{'text': 'Then the groups among them fell in dispute. So, how evil is the fate of the disbelievers when they have to face the Great Day.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 37, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

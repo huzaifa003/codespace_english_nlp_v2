@@ -1,0 +1,1 @@
+{'text': 'and that to your Lord is the end (of every one),', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 53, 'ayah_no': 42, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

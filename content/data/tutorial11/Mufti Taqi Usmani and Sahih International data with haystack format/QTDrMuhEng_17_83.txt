@@ -1,0 +1,1 @@
+{'text': 'And when We bestow Our Grace on man (the disbeliever), he turns away and becomes arrogant, far away from the Right Path. And when evil touches him he is in great despair.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 83, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

@@ -1,0 +1,1 @@
+{'text': 'They cannot help them, rather they (the disbelievers themselves) are (like) an army brought forth for (protecting) them (the so-called co-gods)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 75, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

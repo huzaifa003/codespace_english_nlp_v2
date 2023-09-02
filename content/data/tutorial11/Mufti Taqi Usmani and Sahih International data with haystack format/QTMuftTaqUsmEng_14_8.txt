@@ -1,0 +1,1 @@
+{'text': 'And Mūsā said, “If you and all those on earth become ungrateful, then Allah is free of all needs, worthy of every praise.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 8, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

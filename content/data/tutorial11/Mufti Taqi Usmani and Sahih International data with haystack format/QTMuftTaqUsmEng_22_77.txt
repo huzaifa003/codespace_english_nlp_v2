@@ -1,0 +1,1 @@
+{'text': 'O you who believe, bow down in Rukū‘ and bow down in Sajdah, and worship your Lord and do good deeds, so that you achieve success.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 77, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

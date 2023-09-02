@@ -1,0 +1,1 @@
+{'text': 'So, let them indulge (in their fallacy) and play, until they face their Day that they are promised.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 83, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

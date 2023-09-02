@@ -1,0 +1,1 @@
+{'text': 'Pharaoh held his people astray, and did not show them the right path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 79, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

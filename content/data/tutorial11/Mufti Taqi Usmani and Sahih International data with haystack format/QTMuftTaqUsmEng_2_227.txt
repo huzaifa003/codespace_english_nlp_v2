@@ -1,0 +1,1 @@
+{'text': 'and if they resolve to divorce, Allah is All-Hearing, All-Knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 227, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

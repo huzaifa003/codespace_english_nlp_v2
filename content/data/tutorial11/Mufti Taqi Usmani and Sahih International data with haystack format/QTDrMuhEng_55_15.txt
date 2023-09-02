@@ -1,0 +1,1 @@
+{'text': 'And the jinns did He create from a smokeless flame of fire.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 55, 'ayah_no': 15, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

@@ -1,0 +1,1 @@
+{'text': 'So High above all is Allah, the True King! And do not hasten with (reciting) the Qur’ān before its revelation to you is concluded, and say, “My Lord, improve me in knowledge.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 114, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

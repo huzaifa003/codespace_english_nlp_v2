@@ -1,0 +1,1 @@
+{'text': 'So, when Our punishment came upon them, they could say nothing but cry, “We were wrongdoers indeed.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 5, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

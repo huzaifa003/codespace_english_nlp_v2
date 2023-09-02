@@ -1,0 +1,1 @@
+{'text': 'Our Lord, whomsoever You admit into the Fire, he is disgraced by You indeed, and for the unjust there are no supporters.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 192, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

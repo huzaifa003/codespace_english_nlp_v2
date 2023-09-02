@@ -1,0 +1,1 @@
+{'text': 'And others await Allahs Decree, whether He will punish them or will forgive them. And Allah is All-Knowing, All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 106, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

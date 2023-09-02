@@ -1,0 +1,1 @@
+{'text': 'Then, if they turn away, your duty (O Muhammad SAW) is only to convey (the Message) in a clear way.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 82, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

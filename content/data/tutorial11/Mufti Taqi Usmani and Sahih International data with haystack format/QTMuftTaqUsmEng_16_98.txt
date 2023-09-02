@@ -1,0 +1,1 @@
+{'text': 'So, when you recite the Qur’ān, seek refuge with Allah against Satan, the accursed.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 98, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

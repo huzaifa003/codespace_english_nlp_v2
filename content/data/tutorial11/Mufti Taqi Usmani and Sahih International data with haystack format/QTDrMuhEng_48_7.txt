@@ -1,0 +1,1 @@
+{'text': 'And to Allah belong the hosts of the heavens and the earth. And Allah is Ever All-Knower, All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 48, 'ayah_no': 7, 'surah_name_en': 'Al-Fath (The victory)', 'surah_name_ar': 'الفتح'}}

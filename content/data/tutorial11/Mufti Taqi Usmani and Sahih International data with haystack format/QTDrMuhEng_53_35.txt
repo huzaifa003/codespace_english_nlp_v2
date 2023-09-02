@@ -1,0 +1,1 @@
+{'text': 'Is with him the knowledge of the unseen so that he sees?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 35, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

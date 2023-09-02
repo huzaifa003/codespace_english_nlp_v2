@@ -1,0 +1,1 @@
+{'text': 'On the Day when their faces will be turned over in the Fire, they will say: "Oh, would that we had obeyed Allah and obeyed the Messenger (Muhammad SAW)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 33, 'ayah_no': 66, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

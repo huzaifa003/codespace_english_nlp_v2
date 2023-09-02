@@ -1,0 +1,1 @@
+{'text': 'And shades of gardens will be hanging low on them, and their fruits will be placed totally under their command.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 14, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

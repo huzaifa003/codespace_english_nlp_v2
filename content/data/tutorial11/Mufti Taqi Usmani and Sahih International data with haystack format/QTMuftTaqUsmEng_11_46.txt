@@ -1,0 +1,1 @@
+{'text': 'He said, “O NūH, in fact, he is not a part of your family. Indeed, he is (a man of) bad deeds. So do not ask Me something of which you have no knowledge. I exhort you not to be among the ignorant.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 46, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

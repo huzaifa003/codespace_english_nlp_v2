@@ -1,0 +1,1 @@
+{'text': 'When the hypocrites come to you, they say, “We bear witness that you are indeed the messenger of Allah.”-Allah knows that you are really His messenger-But Allah testifies that the hypocrites are actually liars.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 63, 'ayah_no': 1, 'surah_name_en': 'Al-Munafiqoon (The Hypocrites)', 'surah_name_ar': 'المُنٰفِقُون'}}

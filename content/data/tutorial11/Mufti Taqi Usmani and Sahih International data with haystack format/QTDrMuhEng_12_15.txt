@@ -1,0 +1,1 @@
+{'text': 'So, when they took him away, they all agreed to throw him down to the bottom of the well, and We inspired in him:"Indeed, you shall (one day) inform them of this their affair, when they know (you) not."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 15, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

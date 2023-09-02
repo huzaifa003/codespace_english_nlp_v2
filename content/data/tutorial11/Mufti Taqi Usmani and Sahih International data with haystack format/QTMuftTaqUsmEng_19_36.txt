@@ -1,0 +1,1 @@
+{'text': 'And (O Prophet, say to the people,) “Allah is surely my Lord and your Lord. So, worship Him. This is the straight path.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 36, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

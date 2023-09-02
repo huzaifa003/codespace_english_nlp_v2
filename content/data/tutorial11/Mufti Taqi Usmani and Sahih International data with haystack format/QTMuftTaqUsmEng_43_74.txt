@@ -1,0 +1,1 @@
+{'text': 'The sinners (on the other hand) will be in the punishment of Jahannam (Hell), living there forever.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 74, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

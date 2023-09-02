@@ -1,0 +1,1 @@
+{'text': 'the Day Allah will raise all of them, and they will swear before Him as they swear before you, and will think that they have something to stand upon. Be assured that they are sheer liars.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 58, 'ayah_no': 18, 'surah_name_en': 'Al-Mujadila (She that disputes)', 'surah_name_ar': 'المجادلۃ'}}

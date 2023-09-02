@@ -1,0 +1,1 @@
+{'text': 'Whom no man or jinn yatmithhunna (has opened their hymens with sexual intercourse) before them.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 55, 'ayah_no': 74, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

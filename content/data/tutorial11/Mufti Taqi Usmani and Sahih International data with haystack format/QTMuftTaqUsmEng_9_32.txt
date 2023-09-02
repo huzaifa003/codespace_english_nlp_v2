@@ -1,0 +1,1 @@
+{'text': 'They wish to blow out the Light of Allah with their mouths, and Allah rejects everything short of making His light perfect, no matter how the disbelievers may hate it.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 32, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

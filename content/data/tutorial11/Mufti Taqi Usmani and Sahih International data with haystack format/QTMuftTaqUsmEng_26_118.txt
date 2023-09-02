@@ -1,0 +1,1 @@
+{'text': 'So judge between me and them with an open verdict, and save me and all the believers who are with me.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 118, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

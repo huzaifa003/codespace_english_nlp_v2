@@ -1,0 +1,1 @@
+{'text': 'And they say: "We shall not believe in you (O Muhammad SAW), until you cause a spring to gush forth from the earth for us;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 90, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

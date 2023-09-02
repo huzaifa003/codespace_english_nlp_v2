@@ -1,0 +1,1 @@
+{'text': 'Surely, We have explained things in various ways in this Qur’ān, so that they may pay heed to the advice; but it increases nothing in them except aversion.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 41, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

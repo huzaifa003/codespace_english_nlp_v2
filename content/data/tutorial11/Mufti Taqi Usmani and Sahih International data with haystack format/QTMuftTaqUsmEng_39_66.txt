@@ -1,0 +1,1 @@
+{'text': 'On the contrary, it is Allah whom you should worship; and be among the grateful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 66, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

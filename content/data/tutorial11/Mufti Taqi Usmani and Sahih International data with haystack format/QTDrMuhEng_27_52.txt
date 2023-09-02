@@ -1,0 +1,1 @@
+{'text': 'These are their houses in utter ruin, for they did wrong. Verily, in this is indeed an Ayah (a lesson or a sign) for people who know.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 52, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

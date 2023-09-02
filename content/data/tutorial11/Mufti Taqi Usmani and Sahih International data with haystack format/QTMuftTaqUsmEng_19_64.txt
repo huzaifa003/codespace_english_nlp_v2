@@ -1,0 +1,1 @@
+{'text': '(Jibra’īl X said to the Holy Prophet) “We do not descend but with the command of your Lord. To Him belongs what is in front of us and what is behind us and what is in between; and your Lord is not the One who forgets.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 64, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

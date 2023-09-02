@@ -1,0 +1,1 @@
+{'text': 'To Allah belongs the Kingdom of the heavens and the earth, and towards Allah is the final return.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 42, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

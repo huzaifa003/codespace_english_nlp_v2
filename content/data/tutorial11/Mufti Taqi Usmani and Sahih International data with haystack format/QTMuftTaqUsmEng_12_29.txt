@@ -1,0 +1,1 @@
+{'text': 'O Yūsuf, ignore this matter, and you (O woman,) seek forgiveness for your sin, for you were guilty infact.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 29, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

@@ -1,0 +1,1 @@
+{'text': 'And why did you not, when you heard it, say? "It is not right for us to speak of this. Glory be to You (O Allah) this is a great lie."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 16, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

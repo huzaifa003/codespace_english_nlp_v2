@@ -1,0 +1,1 @@
+{'text': 'They said, “Do not be scared. We give you good news of a boy who will be knowledgeable.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 53, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

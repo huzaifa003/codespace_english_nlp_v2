@@ -1,0 +1,1 @@
+{'text': 'And We sent forth winds carrying the clouds, then sent down water from the sky and gave it to you to drink, and you are not able to store it.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 22, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

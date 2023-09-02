@@ -1,0 +1,1 @@
+{'text': 'And if Allah touches you with harm, none can remove it but He, and if He touches you with good, then He is Able to do all things.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 17, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

@@ -1,0 +1,1 @@
+{'text': 'The Day when the Horn (Sūr) will be blown, and We shall gather them together while they will have turned blue on that day,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 102, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

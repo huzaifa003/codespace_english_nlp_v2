@@ -1,0 +1,1 @@
+{'text': 'then she used a barrier to hide herself from them. Then, We sent to her Our Spirit, (Jibra’īl) and he took before her the form of a perfect human being.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 17, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

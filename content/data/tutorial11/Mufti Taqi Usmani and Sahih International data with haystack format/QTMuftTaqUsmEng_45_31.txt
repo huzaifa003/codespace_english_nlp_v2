@@ -1,0 +1,1 @@
+{'text': 'And as to those who disbelieved, (it will be said to them,) “Had My verses not been recited to you? But you showed arrogance, and you were a guilty people;', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 31, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

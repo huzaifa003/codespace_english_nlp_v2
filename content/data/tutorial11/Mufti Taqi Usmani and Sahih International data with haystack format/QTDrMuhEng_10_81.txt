@@ -1,0 +1,1 @@
+{'text': 'Then when they had cast down, Moosa (Moses) said: "What you have brought is sorcery, Allah will surely make it of no effect. Verily, Allah does not set right the work of Al-Mufsidoon (the evil-doers, corrupts, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 10, 'ayah_no': 81, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

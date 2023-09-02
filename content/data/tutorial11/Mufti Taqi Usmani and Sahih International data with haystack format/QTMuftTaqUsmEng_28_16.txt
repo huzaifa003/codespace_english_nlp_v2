@@ -1,0 +1,1 @@
+{'text': 'He said, “O my Lord, I have wronged myself, so forgive me.” So He forgave him. Indeed He is the most Forgiving, Very-Merciful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 16, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

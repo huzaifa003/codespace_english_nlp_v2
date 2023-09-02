@@ -1,0 +1,1 @@
+{'text': 'Our Lord, forgive me and my parents and all believers on the day when reckoning shall take place.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 41, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

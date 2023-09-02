@@ -1,0 +1,1 @@
+{'text': 'Tell the believing men that they must lower their gazes and guard their private parts; it is more decent for them. Surely Allah is All-Aware of what they do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 30, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

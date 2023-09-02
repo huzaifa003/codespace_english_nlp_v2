@@ -1,0 +1,1 @@
+{'text': 'Their sides forsake their beds, to invoke their Lord in fear and hope, and they spend (charity in Allahs Cause) out of what We have bestowed on them.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 32, 'ayah_no': 16, 'surah_name_en': 'As-Sajda (The Prostration)', 'surah_name_ar': 'السجدۃ'}}

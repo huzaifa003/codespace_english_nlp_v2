@@ -1,0 +1,1 @@
+{'text': 'As for those who reject Our verses, they are the People of the Left Hand. (i.e. their books of deeds will be given in their left hands.)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 90, 'ayah_no': 19, 'surah_name_en': 'Al-Balad (The City)', 'surah_name_ar': 'البلد'}}

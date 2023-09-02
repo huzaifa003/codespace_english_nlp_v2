@@ -1,0 +1,1 @@
+{'text': 'So, they intended to bring harm to him, but We made them the lowest (by frustrating their plan).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 98, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

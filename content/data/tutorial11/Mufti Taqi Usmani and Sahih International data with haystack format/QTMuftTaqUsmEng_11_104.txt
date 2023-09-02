@@ -1,0 +1,1 @@
+{'text': 'We do not defer it but for a limited term.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 104, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

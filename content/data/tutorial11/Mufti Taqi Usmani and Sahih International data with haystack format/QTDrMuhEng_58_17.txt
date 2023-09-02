@@ -1,0 +1,1 @@
+{'text': 'Their children and their wealth will avail them nothing against Allah. They will be (the) dwellers of the Fire, to dwell therein forever.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 58, 'ayah_no': 17, 'surah_name_en': 'Al-Mujadila (She that disputes)', 'surah_name_ar': 'المجادلۃ'}}

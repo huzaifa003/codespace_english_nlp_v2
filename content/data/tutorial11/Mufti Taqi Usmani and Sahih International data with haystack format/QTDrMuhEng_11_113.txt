@@ -1,0 +1,1 @@
+{'text': 'And incline not toward those who do wrong, lest the Fire should touch you, and you have no protectors other than Allah, nor you would then be helped.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 113, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

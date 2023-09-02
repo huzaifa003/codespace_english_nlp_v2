@@ -1,0 +1,1 @@
+{'text': 'Thus We expelled them (i.e. the people of Pharaoh) from gardens and springs,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 57, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

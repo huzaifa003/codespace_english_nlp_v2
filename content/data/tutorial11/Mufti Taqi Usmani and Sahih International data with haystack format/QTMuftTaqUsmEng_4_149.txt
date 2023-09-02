@@ -1,0 +1,1 @@
+{'text': 'If you do a good act openly or do it in secret, or forgive an evil deed, then, Allah is All-Forgiving, All-Powerful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 4, 'ayah_no': 149, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

@@ -1,0 +1,1 @@
+{'text': 'Today We will set a seal on their mouths, and their hands will speak to Us, and their legs will bear witness about what they used to do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 65, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

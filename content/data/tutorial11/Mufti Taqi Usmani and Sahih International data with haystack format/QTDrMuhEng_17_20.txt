@@ -1,0 +1,1 @@
+{'text': 'To each these as well as those We bestow from the Bounties of your Lord. And the Bounties of your Lord can never be forbidden.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 20, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

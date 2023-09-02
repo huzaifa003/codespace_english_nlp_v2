@@ -1,0 +1,1 @@
+{'text': '(And with all those Allahs Grace and Protections for their taming, We cause) the (Quraish) caravans to set forth safe in winter (to the south), and in summer (to the north without any fear),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 106, 'ayah_no': 2, 'surah_name_en': 'Quraish (Quraish)', 'surah_name_ar': 'قُرَیش'}}

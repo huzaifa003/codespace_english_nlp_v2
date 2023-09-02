@@ -1,0 +1,1 @@
+{'text': 'And if you ask them, they will say, “We were just chatting and having fun.” Say, “Is it of Allah and His verses and His Messenger that you were making fun?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 65, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'and guard yourselves against a day when no one shall stand for anyone in anything, nor shall intercession be accepted on anyone’s behalf, nor shall ransom be taken from him, and neither shall any be given support.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 48, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

@@ -1,0 +1,1 @@
+{'text': '(They say): "Our Lord! Let not our hearts deviate (from the truth) after You have guided us, and grant us mercy from You. Truly, You are the Bestower."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 8, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

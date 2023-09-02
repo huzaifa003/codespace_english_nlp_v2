@@ -1,0 +1,1 @@
+{'text': 'and that masājid (mosques) belong to Allah; so, do not invoke anyone along with Allah,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 72, 'ayah_no': 18, 'surah_name_en': 'Al-Jinn (The Jinn)', 'surah_name_ar': 'الجن'}}

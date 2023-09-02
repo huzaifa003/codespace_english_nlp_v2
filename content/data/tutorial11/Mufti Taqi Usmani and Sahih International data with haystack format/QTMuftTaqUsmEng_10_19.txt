@@ -1,0 +1,1 @@
+{'text': 'All the people were no more than a single community; later, they differed. But for a word from your Lord that had already come to pass, a decisive judgment would have been made about their mutual differences.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 19, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

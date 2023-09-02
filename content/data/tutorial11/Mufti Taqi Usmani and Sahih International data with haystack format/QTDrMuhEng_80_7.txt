@@ -1,0 +1,1 @@
+{'text': 'What does it matter to you if he will not become pure (from disbelief, you are only a Messenger, your duty is to convey the Message of Allah).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 80, 'ayah_no': 7, 'surah_name_en': 'Abasa (He Frowned)', 'surah_name_ar': 'عَبَسَ'}}

@@ -1,0 +1,1 @@
+{'text': 'And Allah has made it (the promise) merely to give you a good news, and so that your hearts might be at rest thereby. And the help is from none but Allah. Surely, Allah is Mighty, Wise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 10, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

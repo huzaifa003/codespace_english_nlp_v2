@@ -1,0 +1,1 @@
+{'text': 'Adorned is the present life for those who disbelieve, and they laugh at those who believe, while those who fear Allah shall be above them on the Day of Resurrection. Allah gives provision to whom He wills without measure.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 212, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

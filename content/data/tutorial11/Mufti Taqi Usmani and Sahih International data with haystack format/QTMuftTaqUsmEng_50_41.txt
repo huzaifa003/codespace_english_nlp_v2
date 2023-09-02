@@ -1,0 +1,1 @@
+{'text': 'And listen: The Day when the caller will call out from a near place,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 41, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

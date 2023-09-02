@@ -1,0 +1,1 @@
+{'text': 'They intend to put out the Light of Allah (i.e. the religion of Islam, this Quran, and Prophet Muhammad SAW) with their mouths. But Allah will complete His Light even though the disbelievers hate (it).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 61, 'ayah_no': 8, 'surah_name_en': 'As-Saff (The Ranks)', 'surah_name_ar': 'الصّف'}}

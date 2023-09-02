@@ -1,0 +1,1 @@
+{'text': 'But when he saw their hands went not towards it (the meal), he felt some mistrust of them, and conceived a fear of them. They said: "Fear not, we have been sent against the people of Lout (Lot)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 70, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

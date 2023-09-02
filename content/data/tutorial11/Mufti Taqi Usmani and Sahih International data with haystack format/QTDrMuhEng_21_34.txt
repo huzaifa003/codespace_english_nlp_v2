@@ -1,0 +1,1 @@
+{'text': 'And We granted not to any human being immortality before you (O Muhammad SAW), then if you die, would they live forever?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 34, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

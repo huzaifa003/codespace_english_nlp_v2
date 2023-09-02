@@ -1,0 +1,1 @@
+{'text': 'Or He combines for them couples, both males and females, and makes whom He wills barren. Surely, He is All-Knowing, Very-Powerful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 42, 'ayah_no': 50, 'surah_name_en': 'Ash-Shura (Council, Consultation)', 'surah_name_ar': 'الشُّورٰی'}}

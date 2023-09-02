@@ -1,0 +1,1 @@
+{'text': 'So, when came the man with good news, he put it (the shirt) on his face, and he turned into a sighted man. He (Ya‘qūb) said, “Did I not tell you that I know from Allah what you do not know?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 96, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

@@ -1,0 +1,1 @@
+{'text': 'Owner of power, and high rank with (Allah) the Lord of the Throne,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 81, 'ayah_no': 20, 'surah_name_en': 'At-Takwir (The Overthrowing)', 'surah_name_ar': 'التَّکوِیر'}}

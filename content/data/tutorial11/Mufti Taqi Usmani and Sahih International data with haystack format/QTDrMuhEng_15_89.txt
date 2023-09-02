@@ -1,0 +1,1 @@
+{'text': 'And say: "I am indeed a plain warner."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 15, 'ayah_no': 89, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

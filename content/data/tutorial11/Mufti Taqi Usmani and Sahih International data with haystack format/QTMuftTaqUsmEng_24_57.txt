@@ -1,0 +1,1 @@
+{'text': 'Never think that the disbelievers are (able) to frustrate (Allah’s plan) on the earth. Their abode is the Fire. Indeed it is an evil terminus.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 57, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

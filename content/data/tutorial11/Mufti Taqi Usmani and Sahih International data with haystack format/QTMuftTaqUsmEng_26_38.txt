@@ -1,0 +1,1 @@
+{'text': 'So the sorcerers were assembled for the appointed time of a known day,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 38, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

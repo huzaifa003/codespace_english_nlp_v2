@@ -1,0 +1,1 @@
+{'text': 'And instead (of thanking Allah) for the provision He gives you, on the contrary, you deny Him (by disbelief)!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 56, 'ayah_no': 82, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

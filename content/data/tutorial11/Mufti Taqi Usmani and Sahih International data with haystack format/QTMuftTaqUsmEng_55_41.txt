@@ -1,0 +1,1 @@
+{'text': 'The guilty ones will be recognized (by angels) through their marks and will be seized by foreheads and feet.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 55, 'ayah_no': 41, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

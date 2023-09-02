@@ -1,0 +1,1 @@
+{'text': 'Nay, but they (the so-called gods) will deny their worship of them, and become opponents to them (on the Day of Resurrection).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 82, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

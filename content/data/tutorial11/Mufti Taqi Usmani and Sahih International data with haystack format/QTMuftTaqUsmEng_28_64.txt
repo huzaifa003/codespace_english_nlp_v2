@@ -1,0 +1,1 @@
+{'text': 'And it will be said, “Call those whom you held as co-gods.” So they will call them, but they will not respond to them, and they will see the punishment. Would that they had taken the right path!', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 64, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

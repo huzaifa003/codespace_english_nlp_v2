@@ -1,0 +1,1 @@
+{'text': 'Then he became one of those who believed, and recommended one another to perseverance and patience, and (also) recommended one another to pity and compassion.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 90, 'ayah_no': 17, 'surah_name_en': 'Al-Balad (The City)', 'surah_name_ar': 'البلد'}}

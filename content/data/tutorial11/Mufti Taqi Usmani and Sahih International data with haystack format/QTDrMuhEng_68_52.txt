@@ -1,0 +1,1 @@
+{'text': 'But it is nothing else than a Reminder to all the Alameen (mankind, jinns and all that exists).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 68, 'ayah_no': 52, 'surah_name_en': 'Al-Qalam (The Pen)', 'surah_name_ar': 'القلم'}}

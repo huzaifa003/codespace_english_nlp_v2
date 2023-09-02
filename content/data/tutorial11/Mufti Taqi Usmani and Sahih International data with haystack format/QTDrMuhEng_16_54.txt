@@ -1,0 +1,1 @@
+{'text': 'Then, when He has removed the harm from you, behold! Some of you associate others in worship with their Lord (Allah).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 54, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

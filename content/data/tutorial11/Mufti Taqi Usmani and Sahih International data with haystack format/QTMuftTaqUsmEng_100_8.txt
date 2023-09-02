@@ -1,0 +1,1 @@
+{'text': 'and in his love for wealth, he is very intense.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 100, 'ayah_no': 8, 'surah_name_en': 'Al-Adiyat (The Chargers)', 'surah_name_ar': 'العٰدیٰت'}}

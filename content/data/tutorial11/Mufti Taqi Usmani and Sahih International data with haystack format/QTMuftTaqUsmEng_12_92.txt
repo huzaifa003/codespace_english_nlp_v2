@@ -1,0 +1,1 @@
+{'text': 'He said, “No reproach upon you today! May Allah forgive you, and He is the Most- Merciful of all the merciful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 92, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

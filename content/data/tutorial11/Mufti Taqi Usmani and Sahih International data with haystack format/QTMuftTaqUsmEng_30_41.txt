@@ -1,0 +1,1 @@
+{'text': 'Calamities have appeared on land and sea because of what the hands of the people have earned, so that He (Allah) makes them taste some of what they did, in order that they may return (to the right way).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 41, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

@@ -1,0 +1,1 @@
+{'text': 'He will definitely admit them to an entrance they will be pleased with, and Allah is surely All-Knowing, Forbearing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 59, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

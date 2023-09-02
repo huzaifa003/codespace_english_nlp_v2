@@ -1,0 +1,1 @@
+{'text': 'Then, when he brought them the Truth from Us, they said: "Kill the sons of those who believe with him and let their women live", but the plots of disbelievers are nothing but errors!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 25, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

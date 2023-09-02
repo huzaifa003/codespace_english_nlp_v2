@@ -1,0 +1,1 @@
+{'text': 'and He let you inherit their land and their homes and their wealth, and a land you have not trodden (so far) . And Allah is Powerful to do any thing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 27, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

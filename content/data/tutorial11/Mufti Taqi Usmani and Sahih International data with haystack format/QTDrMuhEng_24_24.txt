@@ -1,0 +1,1 @@
+{'text': 'On the Day when their tongues, their hands, and their legs or feet will bear witness against them as to what they used to do.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 24, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

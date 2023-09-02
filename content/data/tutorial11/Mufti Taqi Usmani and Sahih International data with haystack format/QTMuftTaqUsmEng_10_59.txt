@@ -1,0 +1,1 @@
+{'text': 'Say, “Have you ever considered, whatever provision Allah has sent down for your benefit, you have made up lawful and unlawful from it?” Say, “Has Allah permitted you or are you fabricating a lie against Allah?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 59, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

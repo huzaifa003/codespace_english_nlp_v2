@@ -1,0 +1,1 @@
+{'text': 'Had not a favour from His Lord come to his help, he would have been cast in the wilderness in a reproachable state.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 68, 'ayah_no': 49, 'surah_name_en': 'Al-Qalam (The Pen)', 'surah_name_ar': 'القلم'}}

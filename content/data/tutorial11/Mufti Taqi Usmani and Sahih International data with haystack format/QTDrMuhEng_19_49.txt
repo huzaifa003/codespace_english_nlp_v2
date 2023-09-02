@@ -1,0 +1,1 @@
+{'text': 'So when he had turned away from them and from those whom they worshipped besides Allah, We gave him Ishaque (Isaac) and Yaqoob (Jacob), and each one of them We made a Prophet.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 49, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

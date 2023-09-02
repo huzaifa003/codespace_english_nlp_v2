@@ -1,0 +1,1 @@
+{'text': 'And why, when you heard of it, did you not say, “It is not for us to speak about this. Pure are You (O Allah). This is a terrible calumny.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 16, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

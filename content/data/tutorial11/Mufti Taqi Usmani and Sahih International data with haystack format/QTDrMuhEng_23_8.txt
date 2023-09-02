@@ -1,0 +1,1 @@
+{'text': 'Those who are faithfully true to their Amanat (all the duties which Allah has ordained, honesty, moral responsibility and trusts etc.) and to their covenants;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 23, 'ayah_no': 8, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

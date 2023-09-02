@@ -1,0 +1,1 @@
+{'text': 'Or is he not informed with what is in the Pages (Scripture) of Moosa (Moses),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 36, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

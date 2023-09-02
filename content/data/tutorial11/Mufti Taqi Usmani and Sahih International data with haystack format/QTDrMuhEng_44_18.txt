@@ -1,0 +1,1 @@
+{'text': 'Saying: "Restore to me the slaves of Allah (i.e. the Children of Israel). Verily! I am to you a Messenger worthy of all trust,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 44, 'ayah_no': 18, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

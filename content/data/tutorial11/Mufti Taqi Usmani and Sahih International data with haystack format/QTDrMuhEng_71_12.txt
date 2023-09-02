@@ -1,0 +1,1 @@
+{'text': 'And give you increase in wealth and children, and bestow on you gardens and bestow on you rivers. "', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 71, 'ayah_no': 12, 'surah_name_en': 'Nooh (Nooh)', 'surah_name_ar': 'نُوح'}}

@@ -1,0 +1,1 @@
+{'text': 'In whatever form He willed, He put you together.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 82, 'ayah_no': 8, 'surah_name_en': 'AL-Infitar (The Cleaving)', 'surah_name_ar': 'الاِنفِطَار'}}

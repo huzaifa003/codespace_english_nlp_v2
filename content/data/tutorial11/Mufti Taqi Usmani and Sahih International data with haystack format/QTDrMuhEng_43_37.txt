@@ -1,0 +1,1 @@
+{'text': 'And verily, they (Satans _ devils) hinder them from the Path (of Allah), but they think that they are guided aright!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 37, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

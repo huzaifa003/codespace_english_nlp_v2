@@ -1,0 +1,1 @@
+{'text': 'Blessed be He Who sent down the criterion (of right and wrong, i.e. this Quran) to His slave (Muhammad SAW) that he may be a warner to the Alameen (mankind and jinns).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 1, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

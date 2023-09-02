@@ -1,0 +1,1 @@
+{'text': 'They said, “Its punishment? The one in whose saddlebag it is found shall himself be the punishment. This is how we punish the wrongdoers.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 75, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

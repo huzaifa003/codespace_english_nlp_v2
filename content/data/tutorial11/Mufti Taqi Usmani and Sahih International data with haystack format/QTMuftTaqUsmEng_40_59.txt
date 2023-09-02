@@ -1,0 +1,1 @@
+{'text': 'Certainly, the Hour is bound to come. There is no doubt in it, but most of the people do not believe.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 59, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

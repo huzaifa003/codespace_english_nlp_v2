@@ -1,0 +1,1 @@
+{'text': 'Say, “Tell me, if Allah were to impose the day over you, continuing for ever up to the Day of Judgment, which god, other than Allah, would bring to you night in which you may have rest? Then, do you not see?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 72, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

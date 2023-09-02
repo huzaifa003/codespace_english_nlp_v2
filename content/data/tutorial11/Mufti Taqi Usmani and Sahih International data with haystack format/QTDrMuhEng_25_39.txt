@@ -1,0 +1,1 @@
+{'text': 'And for each of them We put forward examples (as proofs and lessons, etc.), and each (of them) We brought to utter ruin (because of their disbelief and evil deeds).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 39, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

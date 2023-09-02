@@ -1,0 +1,1 @@
+{'text': 'And Moosa (Moses) said: "If you disbelieve, you and all on earth together, then verily! Allah is Rich (Free of all wants), Owner of all Praise."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 14, 'ayah_no': 8, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

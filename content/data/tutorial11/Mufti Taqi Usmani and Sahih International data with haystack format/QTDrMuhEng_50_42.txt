@@ -1,0 +1,1 @@
+{'text': 'The Day when they will hear As-Saihah (shout, etc.) in truth, that will be the Day of coming out (from the graves i.e. the Day of Resurrection).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 50, 'ayah_no': 42, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

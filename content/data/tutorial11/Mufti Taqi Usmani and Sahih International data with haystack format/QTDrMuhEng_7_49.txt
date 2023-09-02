@@ -1,0 +1,1 @@
+{'text': 'Are they those, of whom you swore that Allah would never show them mercy. (Behold! It has been said to them): "Enter Paradise, no fear shall be on you, nor shall you grieve."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 49, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

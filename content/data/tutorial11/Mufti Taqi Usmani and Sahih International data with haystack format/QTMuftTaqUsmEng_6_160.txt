@@ -1,0 +1,1 @@
+{'text': 'Whoever comes with a good deed will receive ten times as much, and whoever comes with an evil deed will be requited with no more than the like of it, and they shall not be wronged.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 160, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

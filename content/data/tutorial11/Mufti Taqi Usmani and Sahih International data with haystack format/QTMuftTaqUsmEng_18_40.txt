@@ -1,0 +1,1 @@
+{'text': 'then, it is likely that my Lord will give me (what is) better than your garden, and will send to it a punishment from the heavens, and it will become a barren land.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 40, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

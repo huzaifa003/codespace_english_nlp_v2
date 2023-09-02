@@ -1,0 +1,1 @@
+{'text': 'Recite to them the story of the one whom We gave Our verses, then he wriggled out from them, so Satan pursued him and he became one of the perverted.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 175, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

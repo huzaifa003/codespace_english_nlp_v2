@@ -1,0 +1,1 @@
+{'text': 'So, the Messenger of Allah said to them, “Be careful of Allah’s she-camel and her right to drink.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 91, 'ayah_no': 13, 'surah_name_en': '91 Ash-Shams (The Sun)', 'surah_name_ar': 'الشَّمس'}}

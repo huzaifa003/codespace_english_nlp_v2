@@ -1,0 +1,1 @@
+{'text': 'He raised its height, and He has equally ordered it,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 79, 'ayah_no': 28, 'surah_name_en': 'An-Naziat (Those who drag forth)', 'surah_name_ar': 'النّٰزِعٰتِ'}}

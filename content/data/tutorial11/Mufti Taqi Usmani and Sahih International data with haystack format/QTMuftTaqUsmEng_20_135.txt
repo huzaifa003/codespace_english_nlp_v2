@@ -1,0 +1,1 @@
+{'text': 'Say, “Everyone is waiting. So wait, then you will know who the people of the straight path are and who has followed the right guidance.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 135, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

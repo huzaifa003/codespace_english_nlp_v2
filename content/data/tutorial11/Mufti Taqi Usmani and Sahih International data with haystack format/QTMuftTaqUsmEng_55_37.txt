@@ -1,0 +1,1 @@
+{'text': 'So, (it will be a terrible event) when the sky will be split apart and will become rosy, like (red) hides.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 55, 'ayah_no': 37, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

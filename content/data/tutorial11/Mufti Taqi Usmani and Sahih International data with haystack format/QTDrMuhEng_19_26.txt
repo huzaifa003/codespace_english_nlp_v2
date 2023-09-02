@@ -1,0 +1,1 @@
+{'text': '"So eat and drink and be glad, and if you see any human being, say: Verily! I have vowed a fast unto the Most Beneficent (Allah) so I shall not speak to any human being this day."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 26, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

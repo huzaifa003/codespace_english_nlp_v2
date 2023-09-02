@@ -1,0 +1,1 @@
+{'text': 'Have you not seen that We have sent the devils onto the disbelievers inciting them with all their incitements.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 83, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

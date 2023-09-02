@@ -1,0 +1,1 @@
+{'text': 'That he or it (Muhammad SAW or the Quran) may give warning to him who is living (a healthy minded the believer), and that Word (charge) may be justified against the disbelievers (dead, as they reject the warnings).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 70, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

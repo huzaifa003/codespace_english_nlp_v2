@@ -1,0 +1,1 @@
+{'text': 'A slanderer, going about with calumnies,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 68, 'ayah_no': 11, 'surah_name_en': 'Al-Qalam (The Pen)', 'surah_name_ar': 'القلم'}}

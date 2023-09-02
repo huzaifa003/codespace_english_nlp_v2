@@ -1,0 +1,1 @@
+{'text': 'Surely, your Lord will gather all of them together. Indeed He is All-Wise, All-Knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 25, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

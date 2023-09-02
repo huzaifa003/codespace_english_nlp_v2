@@ -1,0 +1,1 @@
+{'text': 'Now, do you see any remnant of them?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 69, 'ayah_no': 8, 'surah_name_en': 'Al-Haaqqa (The reality)', 'surah_name_ar': 'الحاقہ'}}

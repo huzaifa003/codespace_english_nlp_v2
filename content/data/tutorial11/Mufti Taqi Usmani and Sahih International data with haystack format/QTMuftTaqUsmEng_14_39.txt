@@ -1,0 +1,1 @@
+{'text': 'Praise be to Allah who, despite my old age, blessed me with Ismā‘īl (Ishmael) and IsHāq (Isaac). Surely, my Lord is the One who listens to the prayer.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 39, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

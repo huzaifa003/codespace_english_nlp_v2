@@ -1,0 +1,1 @@
+{'text': 'and that we sought (to reach) the sky, but we found it filled with stern guards and flames,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 72, 'ayah_no': 8, 'surah_name_en': 'Al-Jinn (The Jinn)', 'surah_name_ar': 'الجن'}}

@@ -1,0 +1,1 @@
+{'text': 'And We sent not against his people after him a host from heaven, nor do We send (such a thing).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 28, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

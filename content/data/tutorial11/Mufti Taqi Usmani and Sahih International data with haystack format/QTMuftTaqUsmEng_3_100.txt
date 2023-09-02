@@ -1,0 +1,1 @@
+{'text': 'O you who believe, if you obey a group from those who have been given the Book (i.e. the Christians and the Jews), they will turn you into infidels after you have embraced the faith.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 100, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

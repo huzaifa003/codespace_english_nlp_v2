@@ -1,0 +1,1 @@
+{'text': 'O my sons, go and search for Yūsuf and his brother, and do not lose hope in the mercy of Allah. In fact, only the infidels lose hope in Allah’s mercy.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 87, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

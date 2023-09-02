@@ -1,0 +1,1 @@
+{'text': 'And in some parts of night prostrate yourself before Him, and pronounce His purity for long times at night.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 26, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

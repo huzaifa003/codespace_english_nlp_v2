@@ -1,0 +1,1 @@
+{'text': 'And the king said: "Bring him to me." But when the messenger came to him, (Yoosuf (Joseph)) said: "Return to your lord and ask him, What happened to the women who cut their hands? Surely, my Lord (Allah) is Well-Aware of their plot."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 50, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

@@ -1,0 +1,1 @@
+{'text': 'Is it that they say, “He has fabricated it.”? No, it is the truth from your Lord, so that you (O prophet,) may warn a people to whom no warner has come before you; may be they take the right path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 32, 'ayah_no': 3, 'surah_name_en': 'As-Sajda (The Prostration)', 'surah_name_ar': 'السجدۃ'}}

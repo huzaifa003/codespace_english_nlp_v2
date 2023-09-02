@@ -1,0 +1,1 @@
+{'text': 'Not a single town from those whom We destroyed came to believe before them. So, will they believe?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 6, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

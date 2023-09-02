@@ -1,0 +1,1 @@
+{'text': 'And that upon Him (Allah) is another bringing forth (Resurrection);', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 47, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

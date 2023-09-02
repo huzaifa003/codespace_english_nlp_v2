@@ -1,0 +1,1 @@
+{'text': 'That Allah may reward them according to the best of their deeds, and add even more for them out of His Grace. And Allah provides without measure to whom He wills.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 38, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

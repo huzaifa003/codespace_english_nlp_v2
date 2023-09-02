@@ -1,0 +1,1 @@
+{'text': 'Perhaps, you, would kill yourself (O Muhammad SAW) in grief, over their footsteps (for their turning away from you), because they believe not in this narration (the Quran).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 6, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

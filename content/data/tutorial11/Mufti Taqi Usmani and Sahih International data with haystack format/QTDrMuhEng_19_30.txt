@@ -1,0 +1,1 @@
+{'text': '"He (Iesa (Jesus)) said: Verily! I am a slave of Allah, He has given me the Scripture and made me a Prophet;"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 30, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

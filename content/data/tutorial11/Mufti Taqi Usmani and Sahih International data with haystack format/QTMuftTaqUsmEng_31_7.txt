@@ -1,0 +1,1 @@
+{'text': 'And when Our verses are recited to him, he turns away in arrogance, as if he did not hear them, as if there is heaviness in his ears. So give him the ‘good’ news of a painful punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 31, 'ayah_no': 7, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

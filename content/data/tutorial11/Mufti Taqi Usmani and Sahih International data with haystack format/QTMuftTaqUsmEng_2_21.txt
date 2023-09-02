@@ -1,0 +1,1 @@
+{'text': 'O people, worship your Lord who created you and those before you, so that you may become God-fearing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 21, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

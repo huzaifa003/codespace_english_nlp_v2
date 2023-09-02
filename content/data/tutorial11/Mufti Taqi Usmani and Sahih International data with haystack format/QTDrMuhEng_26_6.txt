@@ -1,0 +1,1 @@
+{'text': 'So they have indeed denied (the truth this Quran), then the news of what they mocked at, will come to them.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 6, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

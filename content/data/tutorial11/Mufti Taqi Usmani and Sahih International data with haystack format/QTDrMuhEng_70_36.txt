@@ -1,0 +1,1 @@
+{'text': 'So what is the matter with those who disbelieve that they hasten to listen from you (O Muhammad SAW), in order to belie you and to mock at you, and at Allahs Book (this Quran).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 70, 'ayah_no': 36, 'surah_name_en': 'Al-Maarij (The Ascending stairways)', 'surah_name_ar': 'المعارج'}}

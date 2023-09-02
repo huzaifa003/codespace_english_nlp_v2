@@ -1,0 +1,1 @@
+{'text': 'And to Allah prostate all that is in the heavens and all that is in the earth, of the live moving creatures and the angels, and they are not proud (i.e. they worship their Lord (Allah) with humility).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 49, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

@@ -1,0 +1,1 @@
+{'text': 'Surely We will test you with a bit of fear and hunger, and loss in wealth and lives and fruits, and give good tidings to the patient.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 155, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

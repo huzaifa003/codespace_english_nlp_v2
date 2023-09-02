@@ -1,0 +1,1 @@
+{'text': 'And to all of them, your Lord shall pay for their deeds in full. Surely, He is aware of all that they do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 111, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

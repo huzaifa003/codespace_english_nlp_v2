@@ -1,0 +1,1 @@
+{'text': 'And have faith in what I have revealed, confirming what is already with you, and do not be the first to deny it, nor take a paltry price for My verses. Fear Me alone.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 41, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

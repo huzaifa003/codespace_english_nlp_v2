@@ -1,0 +1,1 @@
+{'text': 'then it is Our job to call them to account.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 88, 'ayah_no': 26, 'surah_name_en': 'Al-Ghashiya (The Overwhelming)', 'surah_name_ar': 'الغَاشِیَۃ'}}

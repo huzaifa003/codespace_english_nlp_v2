@@ -1,0 +1,1 @@
+{'text': 'and saying, “Throw down your staff.” So when he saw it moving as if it were a snake, he turned back in retreat, and did not look back. (Allah said to him), “O Mūsā come forward and do not fear; you are one of those in peace.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 31, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

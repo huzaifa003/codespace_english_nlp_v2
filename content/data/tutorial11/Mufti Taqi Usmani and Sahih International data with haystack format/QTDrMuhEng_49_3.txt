@@ -1,0 +1,1 @@
+{'text': 'Verily! Those who lower their voices in the presence of Allahs Messenger (SAW), they are the ones whose hearts Allah has tested for piety. For them is forgiveness and a great reward.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 49, 'ayah_no': 3, 'surah_name_en': 'Al-Hujraat (The private apartments)', 'surah_name_ar': 'الحجرات'}}

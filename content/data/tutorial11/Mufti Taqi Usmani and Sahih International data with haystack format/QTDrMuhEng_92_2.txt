@@ -1,0 +1,1 @@
+{'text': 'And by the day as it appears in brightness;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 92, 'ayah_no': 2, 'surah_name_en': 'Al-Lail (The night)', 'surah_name_ar': 'الَّیل'}}

@@ -1,0 +1,1 @@
+{'text': '"And do you get for yourselves palaces (fine buildings) as if you will live therein for ever.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 129, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

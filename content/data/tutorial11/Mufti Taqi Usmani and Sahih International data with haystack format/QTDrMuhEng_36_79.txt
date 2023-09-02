@@ -1,0 +1,1 @@
+{'text': 'Say: (O Muhammad SAW) "He will give life to them Who created them for the first time! And He is the All-Knower of every creation!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 79, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

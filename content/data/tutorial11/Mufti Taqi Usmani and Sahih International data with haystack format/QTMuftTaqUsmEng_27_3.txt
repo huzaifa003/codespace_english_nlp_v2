@@ -1,0 +1,1 @@
+{'text': 'who establish Salāh and pay Zakāh and who have faith in the Hereafter.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 3, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

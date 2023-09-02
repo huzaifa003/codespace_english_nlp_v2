@@ -1,0 +1,1 @@
+{'text': 'They are those from whom We shall accept the best of their deeds and overlook their evil deeds. (They shall be) among the dwellers of Paradise, a promise of truth, which they have been promised.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 46, 'ayah_no': 16, 'surah_name_en': 'Al-Ahqaf (The wind-curved sandhills)', 'surah_name_ar': 'الاحقاف'}}

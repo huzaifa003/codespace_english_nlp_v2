@@ -1,0 +1,1 @@
+{'text': 'As for the boat, it belonged to some poor people who worked at sea. So I wanted to make it defective, as there was a king across them who used to usurp every boat by force.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 79, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

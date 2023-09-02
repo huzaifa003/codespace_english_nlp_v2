@@ -1,0 +1,1 @@
+{'text': 'Verily! They were two of Our believing slaves.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 122, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

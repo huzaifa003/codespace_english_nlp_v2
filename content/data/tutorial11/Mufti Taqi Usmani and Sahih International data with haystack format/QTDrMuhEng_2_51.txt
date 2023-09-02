@@ -1,0 +1,1 @@
+{'text': 'And (remember) when We appointed for Moosa (Moses) forty nights, and (in his absence) you took the calf (for worship), and you were Zalimoon (polytheists and wrong-doers, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 51, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

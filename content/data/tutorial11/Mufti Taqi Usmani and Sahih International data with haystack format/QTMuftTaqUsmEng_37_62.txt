@@ -1,0 +1,1 @@
+{'text': 'Is that (blissful Paradise) better for hospitality or the tree of zaqqūm ?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 62, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

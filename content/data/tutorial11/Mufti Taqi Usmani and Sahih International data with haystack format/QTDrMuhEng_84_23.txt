@@ -1,0 +1,1 @@
+{'text': 'And Allah knows best what they gather (of good and bad deeds),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 84, 'ayah_no': 23, 'surah_name_en': 'Al-Inshiqaq (The Sundering, Splitting Open)', 'surah_name_ar': 'الاِنشِقَاق'}}

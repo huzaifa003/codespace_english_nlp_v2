@@ -1,0 +1,1 @@
+{'text': 'He said, “My son, do not relate your dream to your brothers, lest they should devise a plan against you. Surely, Satan is an open enemy for mankind.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 5, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

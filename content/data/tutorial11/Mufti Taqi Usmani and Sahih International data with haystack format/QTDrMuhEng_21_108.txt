@@ -1,0 +1,1 @@
+{'text': 'Say (O Muhammad SAW): "It is revealed to me that your Ilah (God) is only one Ilah (God - Allah). Will you then submit to His Will (become Muslims and stop worshipping others besides Allah)?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 108, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

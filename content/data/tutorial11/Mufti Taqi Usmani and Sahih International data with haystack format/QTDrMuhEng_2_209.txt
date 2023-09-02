@@ -1,0 +1,1 @@
+{'text': 'Then if you slide back after the clear signs (Prophet Muhammad SAW and this Quran, and Islam) have come to you, then know that Allah is All-Mighty, All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 209, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

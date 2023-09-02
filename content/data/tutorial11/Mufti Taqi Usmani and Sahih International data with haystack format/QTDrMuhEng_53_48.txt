@@ -1,0 +1,1 @@
+{'text': 'And that it is He (Allah) Who gives much or a little (or gives wealth and contentment),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 48, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

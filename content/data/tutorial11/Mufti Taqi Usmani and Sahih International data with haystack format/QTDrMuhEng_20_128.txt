@@ -1,0 +1,1 @@
+{'text': 'Is it not a guidance for them (to know) how many generations We have destroyed before them, in whose dwellings they walk? Verily, in this are signs indeed for men of understanding.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 128, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

@@ -1,0 +1,1 @@
+{'text': 'And We send not the Messengers but as givers of glad tidings and as warners. So whosoever believes and does righteous good deeds, upon such shall come no fear, nor shall they grieve.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 48, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

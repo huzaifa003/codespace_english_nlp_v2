@@ -1,0 +1,1 @@
+{'text': '"Our Lord! Verily, whom You admit to the Fire, indeed, You have disgraced him, and never will the Zalimoon (polytheists and wrong-doers) find any helpers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 192, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

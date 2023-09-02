@@ -1,0 +1,1 @@
+{'text': 'But the hoopoe stayed not long, he (came up and) said: "I have grasped (the knowledge of a thing) which you have not grasped and I have come to you from Saba (Sheba) with true news.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 22, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

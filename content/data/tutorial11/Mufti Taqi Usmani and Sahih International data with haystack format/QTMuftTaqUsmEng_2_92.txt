@@ -1,0 +1,1 @@
+{'text': 'And certainly Mūsā came to you with clear signs, then you adopted the calf (as god) after his departure (to the mount of Tūr) - and you were transgressors.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 92, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

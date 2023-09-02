@@ -1,0 +1,1 @@
+{'text': '(Moosa (Moses) added:) "Verily, these people will be destroyed for that which they are engaged in (idols-worship). And all that they are doing is in vain."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 139, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

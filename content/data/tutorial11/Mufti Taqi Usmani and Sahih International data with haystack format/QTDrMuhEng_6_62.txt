@@ -1,0 +1,1 @@
+{'text': 'Then they are returned to Allah, their Maula (True Master (God), the Just Lord (to reward them)). Surely, His is the judgement and He is the Swiftest in taking account.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 62, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

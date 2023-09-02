@@ -1,0 +1,1 @@
+{'text': 'But you made fun of them, so much so that they caused you to forget My remembrance, and you used to laugh at them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 23, 'ayah_no': 110, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

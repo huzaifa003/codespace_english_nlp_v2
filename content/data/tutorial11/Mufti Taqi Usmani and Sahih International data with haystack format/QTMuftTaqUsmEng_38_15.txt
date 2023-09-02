@@ -1,0 +1,1 @@
+{'text': 'And these people are waiting for nothing but for a single Cry (the sound of the Trumpet to be blown on Doomsday) that will have no pause.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 15, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

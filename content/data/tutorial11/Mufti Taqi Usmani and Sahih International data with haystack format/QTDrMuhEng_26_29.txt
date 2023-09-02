@@ -1,0 +1,1 @@
+{'text': 'Firaun (Pharaoh) said: "If you choose an ilah (god) other than me, I will certainly put you among the prisoners."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 29, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

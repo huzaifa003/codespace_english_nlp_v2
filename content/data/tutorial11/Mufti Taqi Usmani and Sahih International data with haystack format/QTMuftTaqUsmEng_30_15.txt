@@ -1,0 +1,1 @@
+{'text': 'Then, those who had believed and had done righteous deeds-they will be in a garden, extremely delighted.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 15, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

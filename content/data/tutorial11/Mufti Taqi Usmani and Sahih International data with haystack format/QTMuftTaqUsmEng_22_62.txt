@@ -1,0 +1,1 @@
+{'text': 'That is because Allah is the truth and that whatever they invoke beside Him is false and that Allah is the High, the Great.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 62, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

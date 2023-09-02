@@ -1,0 +1,1 @@
+{'text': '“Have a taste! You are the ‘man of might’, the ‘man of honour’.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 44, 'ayah_no': 49, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

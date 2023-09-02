@@ -1,0 +1,1 @@
+{'text': 'Verily, they were about to tempt you away from that which We have revealed (the Quran) unto you (O Muhammad SAW), to fabricate something other than it against Us, and then they would certainly have taken you a friend!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 73, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

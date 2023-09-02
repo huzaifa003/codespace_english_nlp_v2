@@ -1,0 +1,1 @@
+{'text': 'Allah knows what you conceal and what you reveal.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 19, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

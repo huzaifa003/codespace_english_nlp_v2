@@ -1,0 +1,1 @@
+{'text': 'except those who are patient and do good deeds. Such people will have Allah’s forgiveness and a great reward.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 11, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

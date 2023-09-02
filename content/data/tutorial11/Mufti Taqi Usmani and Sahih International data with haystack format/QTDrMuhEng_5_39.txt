@@ -1,0 +1,1 @@
+{'text': 'But whosoever repents after his crime and does righteous good deeds (by obeying Allah), then verily, Allah will pardon him (accept his repentance). Verily, Allah is OftForgiving, Most Merciful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 5, 'ayah_no': 39, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

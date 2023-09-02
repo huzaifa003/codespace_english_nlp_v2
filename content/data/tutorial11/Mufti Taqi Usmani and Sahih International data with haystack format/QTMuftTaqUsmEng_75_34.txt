@@ -1,0 +1,1 @@
+{'text': '(It will be said to such a man,) Woe to you, then woe to you!', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 75, 'ayah_no': 34, 'surah_name_en': 'Al-Qiyama (The rising of the dead)', 'surah_name_ar': 'القیٰمۃ'}}

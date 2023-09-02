@@ -1,0 +1,1 @@
+{'text': 'He has created the heavens and the earth with truth, and He shaped you and made good your shapes, and to Him is the final Return.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 64, 'ayah_no': 3, 'surah_name_en': 'At-Taghabun (Mutual Disillusion)', 'surah_name_ar': 'التّغابن'}}

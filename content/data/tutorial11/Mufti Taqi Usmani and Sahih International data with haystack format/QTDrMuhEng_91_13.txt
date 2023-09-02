@@ -1,0 +1,1 @@
+{'text': 'But the Messenger of Allah (Salih (Saleh) ) said to them: "Be cautious! Fear the evil end. That is the she-camel of Allah! (Do not harm it) and bar it not from having its drink!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 91, 'ayah_no': 13, 'surah_name_en': '91 Ash-Shams (The Sun)', 'surah_name_ar': 'الشَّمس'}}

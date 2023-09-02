@@ -1,0 +1,1 @@
+{'text': 'They are those for whom there is nothing in the Hereafter but Fire; and vain are the deeds they did therein. And of no effect is that which they used to do.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 16, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

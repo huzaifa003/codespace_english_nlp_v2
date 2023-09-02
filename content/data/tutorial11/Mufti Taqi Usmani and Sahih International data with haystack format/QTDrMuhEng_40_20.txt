@@ -1,0 +1,1 @@
+{'text': 'And Allah judges with truth, while those to whom they invoke besides Him, cannot judge anything. Certainly, Allah! He is the All-Hearer, the All-Seer.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 20, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

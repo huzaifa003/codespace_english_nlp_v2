@@ -1,0 +1,1 @@
+{'text': 'After them, We sent Mūsā with Our signs to Pharaoh and his chiefs. But they did injustice to them. So, consider the fate of the mischief-makers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 103, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

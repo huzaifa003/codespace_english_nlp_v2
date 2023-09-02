@@ -1,0 +1,1 @@
+{'text': 'So, We said “’Ādam, this is an enemy to you and to your wife. So let him not expel you from Paradise, lest you should get into trouble.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 117, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

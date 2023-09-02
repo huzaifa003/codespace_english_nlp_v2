@@ -1,0 +1,1 @@
+{'text': 'and those who take due care of their Salāh .', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 70, 'ayah_no': 34, 'surah_name_en': 'Al-Maarij (The Ascending stairways)', 'surah_name_ar': 'المعارج'}}

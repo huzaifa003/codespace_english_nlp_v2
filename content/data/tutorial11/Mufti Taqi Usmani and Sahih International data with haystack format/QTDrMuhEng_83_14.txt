@@ -1,0 +1,1 @@
+{'text': 'Nay! But on their hearts is the Ran (covering of sins and evil deeds) which they used to earn .', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 83, 'ayah_no': 14, 'surah_name_en': 'Al-Mutaffifin (Defrauding)', 'surah_name_ar': 'المُطَفِّفِین'}}

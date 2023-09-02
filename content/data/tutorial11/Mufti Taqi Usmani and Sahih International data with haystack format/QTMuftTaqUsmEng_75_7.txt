@@ -1,0 +1,1 @@
+{'text': 'So, when the eyes will be dazzled,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 75, 'ayah_no': 7, 'surah_name_en': 'Al-Qiyama (The rising of the dead)', 'surah_name_ar': 'القیٰمۃ'}}

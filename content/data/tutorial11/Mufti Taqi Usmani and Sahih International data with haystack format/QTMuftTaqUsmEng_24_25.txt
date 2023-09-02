@@ -1,0 +1,1 @@
+{'text': 'On that day Allah will give them their rightful recompense in full, and they will know that Allah is the Very Truth who makes all things manifest.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 25, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

@@ -1,0 +1,1 @@
+{'text': 'And a sign for them is the night. We strip (the cover of) the day from it, and they are suddenly in darkness.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 37, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

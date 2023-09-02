@@ -1,0 +1,1 @@
+{'text': 'Undoubtedly I have believed in your Lord; so listen to me.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 25, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

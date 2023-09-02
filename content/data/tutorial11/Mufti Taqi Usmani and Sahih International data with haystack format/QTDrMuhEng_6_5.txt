@@ -1,0 +1,1 @@
+{'text': 'Indeed, they rejected the truth (the Quran and Muhammad SAW) when it came to them, but there will come to them the news of that (the torment) which they used to mock at.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 5, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

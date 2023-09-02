@@ -1,0 +1,1 @@
+{'text': 'Or do they have the (knowledge of the) Unseen, and they write it down?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 68, 'ayah_no': 47, 'surah_name_en': 'Al-Qalam (The Pen)', 'surah_name_ar': 'القلم'}}

@@ -1,0 +1,1 @@
+{'text': 'Follow what is being revealed to you, and be patient until Allah gives His judgment, and He is the best of all judges.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 109, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

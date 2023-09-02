@@ -1,0 +1,1 @@
+{'text': 'So, (it was a great episode) when both of them submitted themselves (to Allah’s will), and he laid him on his forehead (to slaughter him),', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 103, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

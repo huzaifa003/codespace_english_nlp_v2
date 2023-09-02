@@ -1,0 +1,1 @@
+{'text': 'Who perform As-Salat (IqamatasSalat) and spend out of that We have provided them.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 8, 'ayah_no': 3, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

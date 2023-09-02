@@ -1,0 +1,1 @@
+{'text': 'Did they not see that We have created for them cattle, among things made (directly) by Our hands, and then they become their owners?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 71, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

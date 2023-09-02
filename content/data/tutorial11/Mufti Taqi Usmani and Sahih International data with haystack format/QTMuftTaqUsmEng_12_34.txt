@@ -1,0 +1,1 @@
+{'text': 'So, his Lord accepted his prayer and turned their guile away from him. Surely, He is the All-Hearing, the All-Knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 34, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

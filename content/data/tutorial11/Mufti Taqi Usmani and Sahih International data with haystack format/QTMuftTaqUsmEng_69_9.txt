@@ -1,0 +1,1 @@
+{'text': 'And Fir‘aun (Pharaoh) and those before him and the overthrown towns came up with evil,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 69, 'ayah_no': 9, 'surah_name_en': 'Al-Haaqqa (The reality)', 'surah_name_ar': 'الحاقہ'}}

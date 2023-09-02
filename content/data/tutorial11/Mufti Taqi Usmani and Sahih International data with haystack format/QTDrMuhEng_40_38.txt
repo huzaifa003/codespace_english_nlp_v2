@@ -1,0 +1,1 @@
+{'text': 'And the man who believed said: "O my people! Follow me, I will guide you to the way of right conduct (i.e. guide you to Allahs religion of Islamic Monotheism with which Moosa (Moses) has been sent).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 38, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

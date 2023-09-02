@@ -1,0 +1,1 @@
+{'text': 'Would they then wish for Our Torment to be hastened on?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 204, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

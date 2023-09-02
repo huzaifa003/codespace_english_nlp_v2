@@ -1,0 +1,1 @@
+{'text': 'Say to those who do not believe, “Do whatever you can. We are doing (what we can).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 121, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

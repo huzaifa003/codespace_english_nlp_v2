@@ -1,0 +1,1 @@
+{'text': 'So it (the ship) sailed with them amidst the waves like mountains, and Nooh (Noah) called out to his son, who had separated himself (apart), "O my son! Embark with us and be not with the disbelievers."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 42, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

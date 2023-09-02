@@ -1,0 +1,1 @@
+{'text': 'Then verily, for Us will be their reckoning.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 88, 'ayah_no': 26, 'surah_name_en': 'Al-Ghashiya (The Overwhelming)', 'surah_name_ar': 'الغَاشِیَۃ'}}

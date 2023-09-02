@@ -1,0 +1,1 @@
+{'text': 'And they ask you concerning the mountains, say; "My Lord will blast them and scatter them as particles of dust.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 105, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

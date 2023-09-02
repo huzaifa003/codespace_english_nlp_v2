@@ -1,0 +1,1 @@
+{'text': 'And We will draw out a witness from every community (to prove their disbelief) and will say, “Bring your proof”. Then they will know that truth is from Allah, and all that they used to forge shall vanish from them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 75, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

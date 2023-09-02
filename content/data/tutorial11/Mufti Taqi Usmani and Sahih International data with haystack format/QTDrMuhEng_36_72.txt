@@ -1,0 +1,1 @@
+{'text': 'And We have subdued them unto them so that some of them they have for riding and some they eat.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 72, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

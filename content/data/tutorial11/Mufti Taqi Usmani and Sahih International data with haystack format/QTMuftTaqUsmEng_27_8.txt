@@ -1,0 +1,1 @@
+{'text': 'So when he came to it, he was called: “Blessed is the one who is in the fire and the one who is around it. And pure is Allah, the Lord of the worlds.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 8, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

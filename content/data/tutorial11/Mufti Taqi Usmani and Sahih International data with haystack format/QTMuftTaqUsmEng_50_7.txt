@@ -1,0 +1,1 @@
+{'text': 'As for the earth, We have spread it out, and cast on it firm hills, and caused to grow therein every kind of delightful things,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 7, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

@@ -1,0 +1,1 @@
+{'text': 'In front of him (every obstinate, arrogant dictator) is Hell, and he will be made to drink boiling, festering water.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 14, 'ayah_no': 16, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

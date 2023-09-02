@@ -1,0 +1,1 @@
+{'text': 'And it is among His signs that the sky and the earth stand firm by His command. Then, when He will call you from the earth, by a single call, you will be coming out all at once.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 25, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

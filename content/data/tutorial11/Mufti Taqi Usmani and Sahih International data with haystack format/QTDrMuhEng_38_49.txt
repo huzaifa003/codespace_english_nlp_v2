@@ -1,0 +1,1 @@
+{'text': 'This is a Reminder, and verily, for the Muttaqoon (pious and righteous persons - see V.2:2) is a good final return (Paradise), -,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 49, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

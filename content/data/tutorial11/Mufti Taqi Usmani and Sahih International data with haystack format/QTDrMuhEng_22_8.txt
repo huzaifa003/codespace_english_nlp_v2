@@ -1,0 +1,1 @@
+{'text': 'And among men is he who disputes about Allah, without knowledge or guidance, or a Book giving light (from Allah),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 22, 'ayah_no': 8, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

@@ -1,0 +1,1 @@
+{'text': 'Did they not see how Allah originates the creation, then He will do it again. Surely this is easy for Allah.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 19, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

@@ -1,0 +1,1 @@
+{'text': 'Verily, We have created man in toil.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 90, 'ayah_no': 4, 'surah_name_en': 'Al-Balad (The City)', 'surah_name_ar': 'البلد'}}

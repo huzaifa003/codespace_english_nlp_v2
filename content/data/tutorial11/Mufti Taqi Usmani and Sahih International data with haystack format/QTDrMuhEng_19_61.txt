@@ -1,0 +1,1 @@
+{'text': '(They will enter) Adn (Eden) Paradise (everlasting Gardens), which the Most Beneficent (Allah) has promised to His slaves in the unseen: Verily! His Promise must come to pass.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 61, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

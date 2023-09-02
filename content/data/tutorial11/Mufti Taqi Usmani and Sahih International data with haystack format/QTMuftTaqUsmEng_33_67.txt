@@ -1,0 +1,1 @@
+{'text': 'And they will say, “Our Lord, we obeyed our chiefs and our elders, and they made us to go astray from the path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 67, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

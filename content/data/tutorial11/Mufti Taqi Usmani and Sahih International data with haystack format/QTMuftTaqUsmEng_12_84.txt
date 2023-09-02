@@ -1,0 +1,1 @@
+{'text': 'He turned away from them and said, “How sad I am about Yūsuf!” and his eyes turned white with sorrow and he was suppressing (his anger and grief).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 84, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

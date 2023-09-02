@@ -1,0 +1,1 @@
+{'text': 'He is ever doer of what He intends.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 85, 'ayah_no': 16, 'surah_name_en': 'Al-Burooj (The Mansions of the stars)', 'surah_name_ar': 'البُرُوج'}}

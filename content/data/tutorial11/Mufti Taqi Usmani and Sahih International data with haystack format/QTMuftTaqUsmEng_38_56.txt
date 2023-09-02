@@ -1,0 +1,1 @@
+{'text': 'the Jahannam , in which they will enter. So, how evil is that place to rest?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 56, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

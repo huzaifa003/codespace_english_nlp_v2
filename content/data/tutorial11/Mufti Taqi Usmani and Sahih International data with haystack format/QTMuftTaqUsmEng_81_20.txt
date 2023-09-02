@@ -1,0 +1,1 @@
+{'text': 'the one possessing power and a high status with the Lord of the Throne,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 81, 'ayah_no': 20, 'surah_name_en': 'At-Takwir (The Overthrowing)', 'surah_name_ar': 'التَّکوِیر'}}

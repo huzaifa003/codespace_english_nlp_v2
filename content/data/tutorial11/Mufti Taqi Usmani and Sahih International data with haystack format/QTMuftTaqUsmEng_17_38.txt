@@ -1,0 +1,1 @@
+{'text': 'That which is evil, of all these, is detestable in the sight of your Lord.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 38, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

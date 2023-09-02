@@ -1,0 +1,1 @@
+{'text': 'and to drink like camels suffering from the disease of over-thirst.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 56, 'ayah_no': 55, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'In fact these people love that which is immediate, and neglect a Heavy Day ahead of them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 27, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

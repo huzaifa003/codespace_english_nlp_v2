@@ -1,0 +1,1 @@
+{'text': 'And every nation has its appointed term; when their term is reached, neither can they delay it nor can they advance it an hour (or a moment).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 34, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

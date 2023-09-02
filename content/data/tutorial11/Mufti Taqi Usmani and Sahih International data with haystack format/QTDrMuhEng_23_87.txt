@@ -1,0 +1,1 @@
+{'text': 'They will say: "Allah." Say: "Will you not then fear Allah (believe in His Oneness, obey Him, believe in the Resurrection and Recompense for each and every good or bad deed)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 23, 'ayah_no': 87, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

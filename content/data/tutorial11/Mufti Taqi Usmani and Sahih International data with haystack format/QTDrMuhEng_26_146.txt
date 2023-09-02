@@ -1,0 +1,1 @@
+{'text': '"Will you be left secure in that which you have here?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 146, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

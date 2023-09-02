@@ -1,0 +1,1 @@
+{'text': 'O you who believe, fight those disbelievers who are near you, and let them find severity in you. Know well that Allah is with the God-fearing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 123, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

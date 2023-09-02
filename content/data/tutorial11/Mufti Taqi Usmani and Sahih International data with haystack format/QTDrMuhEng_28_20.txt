@@ -1,0 +1,1 @@
+{'text': 'And there came a man running, from the farthest end of the city. He said: "O Moosa (Moses)! Verily, the chiefs are taking counsel together about you, to kill you, so escape.Truly, I am to you of those who give sincere advice."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 20, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

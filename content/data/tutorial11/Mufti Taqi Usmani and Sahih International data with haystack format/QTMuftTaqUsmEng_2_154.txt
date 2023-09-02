@@ -1,0 +1,1 @@
+{'text': 'Do not say of those who are slain in the way of Allah that they are dead. Instead, they are alive, but you do not perceive.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 154, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

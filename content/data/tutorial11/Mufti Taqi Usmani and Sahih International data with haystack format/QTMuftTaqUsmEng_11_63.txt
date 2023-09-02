@@ -1,0 +1,1 @@
+{'text': 'He said, “O my people, tell me: If I have a clear proof from my Lord, and He has bestowed mercy upon me from Himself, who will come to my help against Allah, if I still disobey Him? So, you extend nothing to me but loss.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 63, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

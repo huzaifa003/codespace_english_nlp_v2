@@ -1,0 +1,1 @@
+{'text': 'No! When the earth will be crushed thoroughly to be turned into bits,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 89, 'ayah_no': 21, 'surah_name_en': 'Al-Fajr (The Dawn)', 'surah_name_ar': 'الفجر'}}

@@ -1,0 +1,1 @@
+{'text': 'I would rather let you bear my sin and your sin, and then become one of the people of the Fire. That is the punishment of the unjust.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 29, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

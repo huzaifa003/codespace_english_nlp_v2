@@ -1,0 +1,1 @@
+{'text': 'This is a revelation from the All-Merciful, the Very-Merciful-', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 41, 'ayah_no': 2, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

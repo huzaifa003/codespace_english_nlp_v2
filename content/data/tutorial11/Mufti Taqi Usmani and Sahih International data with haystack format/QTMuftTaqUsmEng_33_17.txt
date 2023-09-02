@@ -1,0 +1,1 @@
+{'text': 'Say, “Who is there to protect you from Allah, if He intends evil to you, or (who is there to prevent Him) if He intends mercy for you?” Beside Allah, they will not find for themselves either a friend or a helper.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 17, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

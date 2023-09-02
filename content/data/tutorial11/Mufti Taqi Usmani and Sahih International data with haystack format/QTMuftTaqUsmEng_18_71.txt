@@ -1,0 +1,1 @@
+{'text': 'So, they both moved ahead, until when they boarded a boat, he sliced it (by removing one of its planks). He (Mūsā) said, “Did you slice it to drown its people? In fact, you have done a terrible act.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 71, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

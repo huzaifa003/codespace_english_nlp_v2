@@ -1,0 +1,1 @@
+{'text': 'Surely those who oppose Allah and His Messenger shall be disgraced, just as those before them were disgraced. We have sent down clear verses, and for the disbelievers there is a humiliating punishment', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 58, 'ayah_no': 5, 'surah_name_en': 'Al-Mujadila (She that disputes)', 'surah_name_ar': 'المجادلۃ'}}

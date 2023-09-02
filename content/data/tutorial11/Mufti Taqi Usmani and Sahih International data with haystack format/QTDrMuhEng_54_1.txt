@@ -1,0 +1,1 @@
+{'text': 'The Hour has drawn near, and the moon has been cleft asunder (the people of Makkah requested Prophet Muhammad SAW to show them a miracle, so he showed them the splitting of the moon).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 1, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

@@ -1,0 +1,1 @@
+{'text': 'Say, “ Surely, my Lord extends provision for whomsoever He wills, and straitens (it) for him. And whatever thing you spend, He replaces it, and He is the best of the sustainers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 34, 'ayah_no': 39, 'surah_name_en': 'Saba (Saba)', 'surah_name_ar': 'سبا'}}

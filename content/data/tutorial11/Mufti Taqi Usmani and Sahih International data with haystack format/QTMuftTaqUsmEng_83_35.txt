@@ -1,0 +1,1 @@
+{'text': 'While (sitting) on thrones, they will be seeing', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 83, 'ayah_no': 35, 'surah_name_en': 'Al-Mutaffifin (Defrauding)', 'surah_name_ar': 'المُطَفِّفِین'}}

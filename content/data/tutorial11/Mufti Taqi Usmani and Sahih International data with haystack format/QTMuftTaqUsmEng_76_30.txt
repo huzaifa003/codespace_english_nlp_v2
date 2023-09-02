@@ -1,0 +1,1 @@
+{'text': 'And you will not so wish unless Allah so wills. Indeed Allah is All-Knowing, All-Wise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 30, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

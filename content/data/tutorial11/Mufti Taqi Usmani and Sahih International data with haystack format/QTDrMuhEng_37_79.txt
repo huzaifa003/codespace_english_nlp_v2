@@ -1,0 +1,1 @@
+{'text': 'Salamun (peace) be upon Nooh (Noah) (from Us) among the Alameen (mankind, jinns and all that exists)!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 79, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

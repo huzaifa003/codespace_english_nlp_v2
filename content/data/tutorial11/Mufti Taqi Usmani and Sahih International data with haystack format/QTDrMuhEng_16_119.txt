@@ -1,0 +1,1 @@
+{'text': 'Then, verily! Your Lord for those who do evil (commit sins and are disobedient to Allah) in ignorance and afterward repent and do righteous deeds, verily, your Lord thereafter, (to such) is Oft-Forgiving, Most Merciful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 119, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

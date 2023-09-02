@@ -1,0 +1,1 @@
+{'text': 'And they make the angels who themselves are slaves to the Most Beneficent (Allah) females. Did they witness their creation? Their evidence will be recorded, and they will be questioned!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 19, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

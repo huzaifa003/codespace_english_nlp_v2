@@ -1,0 +1,1 @@
+{'text': 'Our Lord, get us out from here; if we do this again, then of course, we will be transgressors.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 23, 'ayah_no': 107, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

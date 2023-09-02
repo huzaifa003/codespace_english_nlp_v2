@@ -1,0 +1,1 @@
+{'text': 'They fall down on their faces weeping, and it increases humbleness in their hearts.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 109, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

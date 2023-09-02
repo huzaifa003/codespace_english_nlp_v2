@@ -1,0 +1,1 @@
+{'text': 'Leave Me Alone (to deal) with whom I created Alone (without any means, i.e. Al-Waleed bin Al-Mugheerah Al-Makhzoomee)!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 74, 'ayah_no': 11, 'surah_name_en': 'Al-Muddathir (The cloaked one)', 'surah_name_ar': 'المدّثّر'}}

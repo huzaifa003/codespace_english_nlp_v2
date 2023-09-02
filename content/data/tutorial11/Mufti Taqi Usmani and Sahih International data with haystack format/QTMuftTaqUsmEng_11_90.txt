@@ -1,0 +1,1 @@
+{'text': 'Seek forgiveness from your Lord, then turn towards Him in repentance. Surely, my Lord is very merciful, most loving.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 90, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

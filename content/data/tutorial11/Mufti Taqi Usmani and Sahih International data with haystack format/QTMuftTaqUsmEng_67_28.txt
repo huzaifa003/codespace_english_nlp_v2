@@ -1,0 +1,1 @@
+{'text': 'Say, “Tell me, if Allah destroys me and those who are with me (as you wish), or has mercy on us (as we wish), who can (in either case) save the disbelievers from a painful punishment?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 67, 'ayah_no': 28, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

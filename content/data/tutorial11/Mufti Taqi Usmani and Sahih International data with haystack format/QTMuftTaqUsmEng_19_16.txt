@@ -1,0 +1,1 @@
+{'text': 'And mention in the Book (the story of) Maryam, when she secluded herself from her people to a place towards East,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 16, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

@@ -1,0 +1,1 @@
+{'text': 'And for the moon We have appointed measured phases, until it turned (pale, curved and fine) like an old branch of date palm.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 39, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

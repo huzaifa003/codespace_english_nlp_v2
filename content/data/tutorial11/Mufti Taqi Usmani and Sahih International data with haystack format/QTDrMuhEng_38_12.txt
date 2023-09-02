@@ -1,0 +1,1 @@
+{'text': 'Before them (were many who) belied Messengers, the people of Nooh (Noah); and Ad; and Firaun (Pharaoh) the man of stakes (with which he used to punish the people),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 12, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

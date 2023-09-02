@@ -1,0 +1,1 @@
+{'text': 'And (there are) others who have acknowledged their sins, they have mixed a deed that was righteous with another that was evil. Perhaps Allah will turn unto them in forgiveness. Surely, Allah is Oft-Forgiving, Most Merciful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 102, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

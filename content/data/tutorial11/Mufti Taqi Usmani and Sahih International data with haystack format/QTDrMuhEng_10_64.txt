@@ -1,0 +1,1 @@
+{'text': 'For them are glad tidings, in the life of the present world (i.e. righteous dream seen by the person himself or shown to others), and in the Hereafter. No change can there be in the Words of Allah, this is indeed the supreme success.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 10, 'ayah_no': 64, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

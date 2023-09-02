@@ -1,0 +1,1 @@
+{'text': 'We did offer the Trust to the heavens and the earth and the mountains, but they refused to bear its burden and were afraid of it, and man picked it up. Indeed he is unjust (to himself), unaware (of the end).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 72, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

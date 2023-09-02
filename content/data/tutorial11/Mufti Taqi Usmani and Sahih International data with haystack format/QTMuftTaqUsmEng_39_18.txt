@@ -1,0 +1,1 @@
+{'text': 'who listen to what is said, then, follow the best of it. Those are the ones whom Allah has guided, and those are the ones who possess understanding.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 18, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

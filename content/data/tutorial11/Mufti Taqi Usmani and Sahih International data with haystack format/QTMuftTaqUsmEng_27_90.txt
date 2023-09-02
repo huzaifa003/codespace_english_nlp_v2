@@ -1,0 +1,1 @@
+{'text': 'And whoever will come with evil deed, the faces of such people will be thrown down into the Fire. You will not be recompensed but for what you used to do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 90, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

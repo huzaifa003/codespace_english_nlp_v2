@@ -1,0 +1,1 @@
+{'text': 'He causes the crops therewith to grow for you, and olives, and date palms, and grape vines, and all the fruits. Surely, in that, there is a sign for a people who ponder.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 11, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

@@ -1,0 +1,1 @@
+{'text': 'Now, if you have a trick, use the trick against Me.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 77, 'ayah_no': 39, 'surah_name_en': 'Al-Mursalat (The emissaries)', 'surah_name_ar': 'المرسلٰت'}}

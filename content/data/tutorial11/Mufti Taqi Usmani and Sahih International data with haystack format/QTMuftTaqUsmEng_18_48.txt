@@ -1,0 +1,1 @@
+{'text': 'And they shall be presented lined-up before your Lord. (It will be said to them,) “Lo! You have come to Us just as We had created you for the first time, while you claimed that We would not make any appointed time for you.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 48, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

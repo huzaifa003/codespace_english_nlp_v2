@@ -1,0 +1,1 @@
+{'text': 'Your Lord is not such that He would destroy the towns unjustly while their people are good in their ways.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 117, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

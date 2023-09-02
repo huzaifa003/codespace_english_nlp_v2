@@ -1,0 +1,1 @@
+{'text': 'The Day when the Trumpet will be blown, and you shall come forth in crowds (groups);', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 78, 'ayah_no': 18, 'surah_name_en': 'An-Naba (The tidings)', 'surah_name_ar': 'النَّبَاِ'}}

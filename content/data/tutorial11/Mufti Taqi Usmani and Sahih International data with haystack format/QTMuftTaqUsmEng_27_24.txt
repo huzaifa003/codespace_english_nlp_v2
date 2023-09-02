@@ -1,0 +1,1 @@
+{'text': 'I have found her and her people prostrating themselves to the sun, instead of Allah, and the Satan has beautified their deeds for them, and has prevented them from the way, so they do not take the right path,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 24, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

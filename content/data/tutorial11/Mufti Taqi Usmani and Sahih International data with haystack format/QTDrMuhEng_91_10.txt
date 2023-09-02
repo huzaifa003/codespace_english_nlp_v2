@@ -1,0 +1,1 @@
+{'text': 'And indeed he fails who corrupts his ownself (i.e. disobeys what Allah has ordered by rejecting the true Faith of Islamic Monotheism or by following polytheism, etc. or by doing every kind of evil wicked deeds).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 91, 'ayah_no': 10, 'surah_name_en': '91 Ash-Shams (The Sun)', 'surah_name_ar': 'الشَّمس'}}

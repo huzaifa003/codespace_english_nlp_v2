@@ -1,0 +1,1 @@
+{'text': 'We will show them Our Signs in the universe, and in their ownselves, until it becomes manifest to them that this (the Quran) is the truth. Is it not sufficient in regard to your Lord that He is a Witness over all things?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 41, 'ayah_no': 53, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

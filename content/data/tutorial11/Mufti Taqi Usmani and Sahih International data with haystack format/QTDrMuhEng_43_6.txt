@@ -1,0 +1,1 @@
+{'text': 'And how many a Prophet have We sent amongst the men of old.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 6, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

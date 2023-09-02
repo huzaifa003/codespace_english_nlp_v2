@@ -1,0 +1,1 @@
+{'text': 'They are of various ranks with Allah. Allah is watchful of what they do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 163, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

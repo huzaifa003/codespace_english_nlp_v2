@@ -1,0 +1,1 @@
+{'text': 'near which there is Jannat-ul-Ma’wā (the Paradise of Abode),', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 53, 'ayah_no': 15, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

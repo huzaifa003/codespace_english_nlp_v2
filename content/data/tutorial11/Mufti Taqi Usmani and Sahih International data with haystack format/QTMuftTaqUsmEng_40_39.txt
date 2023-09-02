@@ -1,0 +1,1 @@
+{'text': 'O my people, this life of the world is only a (momentary) benefit, while the Hereafter is, indeed, the place of permanent living.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 39, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

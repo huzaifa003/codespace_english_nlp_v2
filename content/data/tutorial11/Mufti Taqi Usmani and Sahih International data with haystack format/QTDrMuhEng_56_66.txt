@@ -1,0 +1,1 @@
+{'text': '(Saying): "We are indeed Mughramoon (i.e. ruined or lost the money without any profit, or punished by the loss of all that we spend for cultivation, etc.)! (See Tafsir Al-Qurtubee, Vol. 17, Page 219)', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 56, 'ayah_no': 66, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

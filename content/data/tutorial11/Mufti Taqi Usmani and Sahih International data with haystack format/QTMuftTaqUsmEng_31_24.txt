@@ -1,0 +1,1 @@
+{'text': 'We let them enjoy a little, then We will drag them to a heavy punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 31, 'ayah_no': 24, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

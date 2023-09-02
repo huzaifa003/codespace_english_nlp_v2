@@ -1,0 +1,1 @@
+{'text': 'And they say, “When will this promise (of the Day of Judgment) be fulfilled, if you are true?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 67, 'ayah_no': 25, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

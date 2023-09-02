@@ -1,0 +1,1 @@
+{'text': 'But if they separate (by divorce), Allah will provide abundance for everyone of them from His Bounty. And Allah is Ever AllSufficient for His creatures need, AllWise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 4, 'ayah_no': 130, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

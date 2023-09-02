@@ -1,0 +1,1 @@
+{'text': 'And those foremost ((in Islamic Faith of Monotheism and in performing righteous deeds) in the life of this world on the very first call for to embrace Islam,) will be foremost (in Paradise).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 56, 'ayah_no': 10, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

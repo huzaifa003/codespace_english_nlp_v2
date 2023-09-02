@@ -1,0 +1,1 @@
+{'text': 'He is the One who has created the night and the day, and the sun and the moon, each floating in an orbit.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 33, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

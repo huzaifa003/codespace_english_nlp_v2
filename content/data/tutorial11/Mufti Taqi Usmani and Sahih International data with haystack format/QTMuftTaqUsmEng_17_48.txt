@@ -1,0 +1,1 @@
+{'text': 'See how they have made (silly) statements about you; so they have gone astray and cannot find a way.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 48, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

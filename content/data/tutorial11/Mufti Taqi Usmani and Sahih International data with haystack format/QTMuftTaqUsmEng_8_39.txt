@@ -1,0 +1,1 @@
+{'text': 'And fight them until there is no Fitnah (mischief), and total obedience becomes for Allah. So, if they desist, then, Allah is indeed watchful over what they do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 39, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

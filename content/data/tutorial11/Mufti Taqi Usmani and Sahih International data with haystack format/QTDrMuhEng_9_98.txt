@@ -1,0 +1,1 @@
+{'text': 'And of the bedouins there are some who look upon what they spend (in Allahs Cause) as a fine and watch for calamities for you, on them be the calamity of evil. And Allah is All-Hearer, All-Knower.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 98, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'and for you there are (other) benefits in them- and so that, (by riding) on them, you meet any need you have in your hearts; and on them and on boats you are carried.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 80, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

@@ -1,0 +1,1 @@
+{'text': 'And who is more unjust than the one who forges a lie against Allah, while he is invited to Islām? And Allah does not guide the unjust people.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 61, 'ayah_no': 7, 'surah_name_en': 'As-Saff (The Ranks)', 'surah_name_ar': 'الصّف'}}

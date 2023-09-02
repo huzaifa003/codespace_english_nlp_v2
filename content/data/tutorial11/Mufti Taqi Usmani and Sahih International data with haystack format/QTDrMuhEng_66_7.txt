@@ -1,0 +1,1 @@
+{'text': '(It will be said in the Hereafter) O you who disbelieve (in the Oneness of Allah - Islamic Monotheism)! Make no excuses this Day! You are being requited only for what you used to do .', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 66, 'ayah_no': 7, 'surah_name_en': 'At-Tahrim (Banning)', 'surah_name_ar': 'التحریم'}}

@@ -1,0 +1,1 @@
+{'text': 'He (Allah) said, “Get out of here, condemned, rejected. Indeed, whosoever will follow you from among them, I will fill Hell with all of you together.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 18, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

@@ -1,0 +1,1 @@
+{'text': '(This was Our) Sunnah (rule or way) with the Messengers We sent before you (O Muhammad SAW), and you will not find any alteration in Our Sunnah (rule or way, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 77, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

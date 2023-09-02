@@ -1,0 +1,1 @@
+{'text': 'And We have sent you (O Muhammad SAW ) only as a bearer of glad tidings and a warner.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 56, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

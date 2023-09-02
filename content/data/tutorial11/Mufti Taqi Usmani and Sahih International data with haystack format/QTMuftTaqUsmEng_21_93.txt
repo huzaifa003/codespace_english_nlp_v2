@@ -1,0 +1,1 @@
+{'text': 'But they have separated their ways from one another. All of them have to return to Us.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 93, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

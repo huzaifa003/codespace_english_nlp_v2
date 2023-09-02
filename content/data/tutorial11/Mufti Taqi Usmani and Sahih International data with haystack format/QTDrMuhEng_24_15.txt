@@ -1,0 +1,1 @@
+{'text': 'When you were propagating it with your tongues, and uttering with your mouths that whereof you had no knowledge, you counted it a little thing, while with Allah it was very great.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 15, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

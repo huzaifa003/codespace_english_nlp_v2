@@ -1,0 +1,1 @@
+{'text': 'And let not your hand be tied (like a miser) to your neck, nor stretch it forth to its utmost reach (like a spendthrift), so that you become blameworthy and in severe poverty.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 29, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

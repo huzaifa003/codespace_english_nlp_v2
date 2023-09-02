@@ -1,0 +1,1 @@
+{'text': 'a straightforward Book to warn of a severe punishment from Him, and to give the good news to the believers, who do righteous deeds, that they will have an excellent reward (Paradise)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 2, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

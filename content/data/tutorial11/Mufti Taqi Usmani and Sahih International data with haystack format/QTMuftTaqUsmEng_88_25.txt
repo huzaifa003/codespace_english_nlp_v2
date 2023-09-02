@@ -1,0 +1,1 @@
+{'text': 'Surely towards Us they have to return,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 88, 'ayah_no': 25, 'surah_name_en': 'Al-Ghashiya (The Overwhelming)', 'surah_name_ar': 'الغَاشِیَۃ'}}

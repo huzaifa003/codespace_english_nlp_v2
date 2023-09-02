@@ -1,0 +1,1 @@
+{'text': 'Fighting is enjoined upon you, while it is hard on you. It could be that you dislike something, when it is good for you; and it could be that you like something when it is bad for you. Allah knows, and you do not know.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 216, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

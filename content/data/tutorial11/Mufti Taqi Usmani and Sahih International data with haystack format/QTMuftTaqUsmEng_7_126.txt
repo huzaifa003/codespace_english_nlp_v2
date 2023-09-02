@@ -1,0 +1,1 @@
+{'text': 'For what fault would you punish us except that we have believed in the signs of our Lord when they appeared to us? O our Lord, pour out patience upon us, and cause us to die as Muslims (those who submit to you.)”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 126, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

@@ -1,0 +1,1 @@
+{'text': 'Those who belied Shuaib, became as if they had never dwelt there (in their homes). Those who belied Shuaib, they were the losers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 92, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

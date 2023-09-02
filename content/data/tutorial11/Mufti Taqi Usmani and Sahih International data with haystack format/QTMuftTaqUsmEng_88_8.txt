@@ -1,0 +1,1 @@
+{'text': 'Many faces that day will be full of glamour,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 88, 'ayah_no': 8, 'surah_name_en': 'Al-Ghashiya (The Overwhelming)', 'surah_name_ar': 'الغَاشِیَۃ'}}

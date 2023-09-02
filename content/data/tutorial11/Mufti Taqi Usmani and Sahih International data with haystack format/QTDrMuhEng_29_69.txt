@@ -1,0 +1,1 @@
+{'text': 'As for those who strive hard in Us (Our Cause), We will surely guide them to Our Paths (i.e. Allahs Religion - Islamic Monotheism). And verily, Allah is with the Muhsinoon (good doers)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 29, 'ayah_no': 69, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

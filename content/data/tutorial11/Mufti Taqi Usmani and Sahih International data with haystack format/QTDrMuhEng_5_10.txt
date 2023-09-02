@@ -1,0 +1,1 @@
+{'text': 'They who disbelieve and deny our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) are those who will be the dwellers of the Hellfire.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 5, 'ayah_no': 10, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'And among His signs is the creation of the heavens and the earth and the difference of your tongues and colors. Surely in this there are signs for the persons having knowledge.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 22, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

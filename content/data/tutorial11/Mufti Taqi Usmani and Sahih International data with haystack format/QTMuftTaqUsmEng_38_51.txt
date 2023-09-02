@@ -1,0 +1,1 @@
+{'text': 'They will be relaxing in it, calling there for plenteous fruits and drinks;', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 51, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

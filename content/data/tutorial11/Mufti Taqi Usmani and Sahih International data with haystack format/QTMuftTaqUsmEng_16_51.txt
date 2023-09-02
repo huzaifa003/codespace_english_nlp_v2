@@ -1,0 +1,1 @@
+{'text': 'Allah has said, “Do not take two gods. He is but One God. So, Me alone you fear.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 51, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

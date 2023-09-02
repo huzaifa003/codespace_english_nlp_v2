@@ -1,0 +1,1 @@
+{'text': '"Verily! I am Allah! La ilaha illa Ana (none has the right to be worshipped but I), so worship Me, and perform AsSalat (Iqamat-as-Salat) for My Remembrance.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 14, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

@@ -1,0 +1,1 @@
+{'text': 'And they have taken besides Allah aliha (gods), hoping that they might be helped (by those so called gods).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 74, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

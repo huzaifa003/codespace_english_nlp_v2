@@ -1,0 +1,1 @@
+{'text': 'And they have taken (for worship) aliha (gods) besides Allah, that they might give them honour, power and glory (and also protect them from Allahs Punishment etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 81, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

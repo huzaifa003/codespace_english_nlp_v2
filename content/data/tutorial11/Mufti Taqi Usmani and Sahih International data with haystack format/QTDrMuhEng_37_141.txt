@@ -1,0 +1,1 @@
+{'text': 'He (agreed to) cast lots, and he was among the losers,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 141, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

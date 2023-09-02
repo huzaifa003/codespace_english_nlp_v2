@@ -1,0 +1,1 @@
+{'text': 'You shall certainly travel from stage to stage (in this life and in the Hereafter).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 84, 'ayah_no': 19, 'surah_name_en': 'Al-Inshiqaq (The Sundering, Splitting Open)', 'surah_name_ar': 'الاِنشِقَاق'}}

@@ -1,0 +1,1 @@
+{'text': 'And thus We gave Yūsuf power in the land. He could settle in it wherever he wished. We extend Our mercy to whomsoever We will, and We do not let the reward of the righteous people to go to waste.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 56, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

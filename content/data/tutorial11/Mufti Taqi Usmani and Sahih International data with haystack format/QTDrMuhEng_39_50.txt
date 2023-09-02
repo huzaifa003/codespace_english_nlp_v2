@@ -1,0 +1,1 @@
+{'text': 'Verily, those before them said it, yet (all) that they had earned availed them not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 50, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

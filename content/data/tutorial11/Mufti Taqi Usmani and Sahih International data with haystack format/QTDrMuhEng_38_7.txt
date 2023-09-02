@@ -1,0 +1,1 @@
+{'text': '"We have not heard (the like) of this among the people of these later days. This is nothing but an invention!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 7, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

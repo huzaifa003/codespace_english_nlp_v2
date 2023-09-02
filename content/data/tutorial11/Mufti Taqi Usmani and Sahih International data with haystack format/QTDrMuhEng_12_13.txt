@@ -1,0 +1,1 @@
+{'text': 'He (Yaqoob (Jacob)) said: "Truly, it saddens me that you should take him away. I fear lest a wolf should devour him, while you are careless of him."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 13, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

@@ -1,0 +1,1 @@
+{'text': 'You (O Prophet,) have never been reciting any book before this, nor have you been writing it with your right hand; had it been so, the adherents of falsehood would have raised doubts.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 48, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

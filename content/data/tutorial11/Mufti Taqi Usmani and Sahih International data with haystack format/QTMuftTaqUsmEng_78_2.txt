@@ -1,0 +1,1 @@
+{'text': 'About the Great Event', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 78, 'ayah_no': 2, 'surah_name_en': 'An-Naba (The tidings)', 'surah_name_ar': 'النَّبَاِ'}}

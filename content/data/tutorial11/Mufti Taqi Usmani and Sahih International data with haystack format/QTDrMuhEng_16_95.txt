@@ -1,0 +1,1 @@
+{'text': 'And purchase not a small gain at the cost of Allahs Covenant. Verily! What is with Allah is better for you if you did but know.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 95, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

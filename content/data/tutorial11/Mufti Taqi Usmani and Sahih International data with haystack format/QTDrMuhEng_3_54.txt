@@ -1,0 +1,1 @@
+{'text': 'And they (disbelievers) plotted (to kill Iesa (Jesus) ), and Allah planned too. And Allah is the Best of the planners.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 54, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

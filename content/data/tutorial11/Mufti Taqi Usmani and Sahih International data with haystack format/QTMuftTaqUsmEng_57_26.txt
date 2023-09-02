@@ -1,0 +1,1 @@
+{'text': 'Indeed We sent NūH and Ibrāhīm, and kept the Book and prophet-hood (continuing) in their progeny. So, some of those (to whom they were sent) were on the right path, and many of them were sinners.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 57, 'ayah_no': 26, 'surah_name_en': 'Al-Hadid (The Iron)', 'surah_name_ar': 'الحدید'}}

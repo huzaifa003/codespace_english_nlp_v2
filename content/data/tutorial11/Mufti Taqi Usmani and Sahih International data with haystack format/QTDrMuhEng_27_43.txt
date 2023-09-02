@@ -1,0 +1,1 @@
+{'text': 'And that which she used to worship besides Allah has prevented her (from Islam), for she was of a disbelieving people.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 43, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

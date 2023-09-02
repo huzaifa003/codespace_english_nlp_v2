@@ -1,0 +1,1 @@
+{'text': 'That I will fill Hell with you (Iblees (Satan)) and those of them (mankind) that follow you, together."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 85, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

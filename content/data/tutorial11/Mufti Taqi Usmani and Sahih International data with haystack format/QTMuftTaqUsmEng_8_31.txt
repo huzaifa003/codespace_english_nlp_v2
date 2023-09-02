@@ -1,0 +1,1 @@
+{'text': 'When Our verses are recited to them, they say, “We have heard; if we wish, we can compose a discourse like this. It is nothing but the tales of the ancient people.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 31, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

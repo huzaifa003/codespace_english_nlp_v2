@@ -1,0 +1,1 @@
+{'text': 'Verily, those who believe (in Islamic Monotheism) and do righteous good deeds, for them are Gardens of delight (Paradise).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 31, 'ayah_no': 8, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

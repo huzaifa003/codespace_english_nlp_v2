@@ -1,0 +1,1 @@
+{'text': 'Saying: "My Lord! Indeed my bones have grown feeble, and grey hair has spread on my head, And I have never been unblest in my invocation to You, O my Lord!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 4, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

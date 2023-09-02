@@ -1,0 +1,1 @@
+{'text': 'And if We defer the punishment for them for a certain time, they will say, “What is holding it back?” Beware, the day it will visit them, it shall not be turned back from them, and they shall be besieged by what they used to ridicule.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 8, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

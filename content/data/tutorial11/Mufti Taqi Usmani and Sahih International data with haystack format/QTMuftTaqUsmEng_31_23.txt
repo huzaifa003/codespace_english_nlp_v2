@@ -1,0 +1,1 @@
+{'text': 'And whoever disbelieves, let not his disbelief grieve you. To Us is their return. Then We will tell them what they did. Surely, Allah is All Aware of what lies in the hearts.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 31, 'ayah_no': 23, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

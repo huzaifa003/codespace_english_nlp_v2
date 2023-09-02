@@ -1,0 +1,1 @@
+{'text': 'And they will be served with goblet of a drink blended with ginger,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 17, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

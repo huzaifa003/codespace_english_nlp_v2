@@ -1,0 +1,1 @@
+{'text': 'Verily, We will indeed make victorious Our Messengers and those who believe (in the Oneness of Allah Islamic Monotheism) in this worlds life and on the Day when the witnesses will stand forth, (i.e. Day of Resurrection),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 51, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

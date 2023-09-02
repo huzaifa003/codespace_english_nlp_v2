@@ -1,0 +1,1 @@
+{'text': 'He (Allah) said, “This (land) is prohibited to them for forty years. They shall be wandering around the earth. So, do not grieve for the sinning people.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 26, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

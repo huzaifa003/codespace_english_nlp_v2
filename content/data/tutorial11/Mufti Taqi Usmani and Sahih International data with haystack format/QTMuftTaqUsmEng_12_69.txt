@@ -1,0 +1,1 @@
+{'text': 'And when they came to Yūsuf, he lodged his brother (Binyamin) with himself. He said, “Look, I am your brother! So do not grieve for what they have been doing.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 69, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

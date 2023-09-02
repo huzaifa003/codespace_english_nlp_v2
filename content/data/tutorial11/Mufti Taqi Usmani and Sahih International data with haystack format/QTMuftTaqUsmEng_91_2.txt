@@ -1,0 +1,1 @@
+{'text': 'and by the moon when she follows him,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 91, 'ayah_no': 2, 'surah_name_en': '91 Ash-Shams (The Sun)', 'surah_name_ar': 'الشَّمس'}}

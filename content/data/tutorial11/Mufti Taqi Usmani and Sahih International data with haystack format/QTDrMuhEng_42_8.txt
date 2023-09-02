@@ -1,0 +1,1 @@
+{'text': 'And if Allah had willed, He could have made them one nation, but He admits whom He wills to His Mercy. And the Zalimoon (polytheists and wrong-doers, etc.) will have neither a Walee (protector) nor a helper.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 42, 'ayah_no': 8, 'surah_name_en': 'Ash-Shura (Council, Consultation)', 'surah_name_ar': 'الشُّورٰی'}}

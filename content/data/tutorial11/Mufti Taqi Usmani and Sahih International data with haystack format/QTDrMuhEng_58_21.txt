@@ -1,0 +1,1 @@
+{'text': 'Allah has decreed: "Verily! It is I and My Messengers who shall be the victorious." Verily, Allah is All-Powerful, All-Mighty.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 58, 'ayah_no': 21, 'surah_name_en': 'Al-Mujadila (She that disputes)', 'surah_name_ar': 'المجادلۃ'}}

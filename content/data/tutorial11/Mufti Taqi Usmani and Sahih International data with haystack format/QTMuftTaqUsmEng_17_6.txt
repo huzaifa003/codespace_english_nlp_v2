@@ -1,0 +1,1 @@
+{'text': 'Then We gave you your turn to overpower them, and increased your strength with wealth and sons, and made you greater in number,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 6, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

@@ -1,0 +1,1 @@
+{'text': 'They said: "O Hood! No evidence have you brought us, and we shall not leave our gods for your (mere) saying! And we are not believers in you.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 53, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

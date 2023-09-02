@@ -1,0 +1,1 @@
+{'text': 'We know indeed the grief which their words cause you (O Muhammad SAW): it is not you that they deny, but it is the Verses (the Quran) of Allah that the Zalimoon (polytheists and wrongdoers) deny.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 33, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

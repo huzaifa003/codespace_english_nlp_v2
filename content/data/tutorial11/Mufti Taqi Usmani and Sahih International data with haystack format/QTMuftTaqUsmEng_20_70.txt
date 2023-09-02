@@ -1,0 +1,1 @@
+{'text': 'So, the magicians were led (by the truth) to fall in prostration. They said, “We have (now) believed in the Lord of Hārūn and Mūsā.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 70, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

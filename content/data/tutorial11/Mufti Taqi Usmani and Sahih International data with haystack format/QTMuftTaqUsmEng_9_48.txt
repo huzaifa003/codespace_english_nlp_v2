@@ -1,0 +1,1 @@
+{'text': 'They sought mischief even earlier and tried to upset matters for you, until the Truth arrived and the will of Allah prevailed, though they disliked it.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 48, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'And those who accuse chaste women, and produce not four witnesses, flog them with eighty stripes, and reject their testimony forever, they indeed are the Fasiqoon (liars, rebellious, disobedient to Allah).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 4, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

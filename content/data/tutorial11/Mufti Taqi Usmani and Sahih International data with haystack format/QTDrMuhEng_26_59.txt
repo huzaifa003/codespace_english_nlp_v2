@@ -1,0 +1,1 @@
+{'text': 'Thus (We turned them (Pharaohs people) out) and We caused the Children of Israel to inherit them.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 59, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

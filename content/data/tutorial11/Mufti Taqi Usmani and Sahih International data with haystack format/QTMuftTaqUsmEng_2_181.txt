@@ -1,0 +1,1 @@
+{'text': 'Then, whoever changes it after he has heard it, its sin will only be on those who change it. Surely, Allah is All-hearing, All-knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 181, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

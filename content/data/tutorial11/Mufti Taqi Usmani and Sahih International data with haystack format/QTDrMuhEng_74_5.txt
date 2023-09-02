@@ -1,0 +1,1 @@
+{'text': 'And keep away from Ar-Rujz (the idols)!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 74, 'ayah_no': 5, 'surah_name_en': 'Al-Muddathir (The cloaked one)', 'surah_name_ar': 'المدّثّر'}}

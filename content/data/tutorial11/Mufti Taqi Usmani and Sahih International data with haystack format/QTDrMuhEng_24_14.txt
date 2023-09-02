@@ -1,0 +1,1 @@
+{'text': 'Had it not been for the Grace of Allah and His Mercy unto you in this world and in the Hereafter, a great torment would have touched you for that whereof you had spoken.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 14, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

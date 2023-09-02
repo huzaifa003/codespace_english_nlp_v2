@@ -1,0 +1,1 @@
+{'text': '(Saying) worship none but Allah. Verily, I (Muhammad SAW) am unto you from Him a warner and a bringer of glad tidings.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 2, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

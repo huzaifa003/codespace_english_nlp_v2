@@ -1,0 +1,1 @@
+{'text': '"So sufficient is Allah for a witness between us and you, that We indeed knew nothing of your worship of us."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 10, 'ayah_no': 29, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

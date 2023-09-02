@@ -1,0 +1,1 @@
+{'text': 'In the boiling water, then they will be burned in the Fire.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 72, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

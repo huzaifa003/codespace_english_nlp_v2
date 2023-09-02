@@ -1,0 +1,1 @@
+{'text': 'And the pains of childbirth drove her to the trunk of a date-palm. She said: "Would that I had died before this, and had been forgotten and out of sight!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 23, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

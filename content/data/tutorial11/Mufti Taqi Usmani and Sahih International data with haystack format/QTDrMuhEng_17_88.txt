@@ -1,0 +1,1 @@
+{'text': 'Say: "If the mankind and the jinns were together to produce the like of this Quran, they could not produce the like thereof, even if they helped one another."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 88, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

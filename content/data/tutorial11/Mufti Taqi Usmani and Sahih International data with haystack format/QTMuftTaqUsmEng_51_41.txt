@@ -1,0 +1,1 @@
+{'text': 'And (a similar sign was left) in (the story of) ‘Ād, when We sent upon them the wind that was barren (from any benefit);', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 51, 'ayah_no': 41, 'surah_name_en': 'Adh-Dhariyat (The winnowing winds)', 'surah_name_ar': 'الذّٰریٰت'}}

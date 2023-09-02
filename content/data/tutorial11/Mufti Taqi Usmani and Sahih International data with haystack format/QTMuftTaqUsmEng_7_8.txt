@@ -1,0 +1,1 @@
+{'text': 'The Weighing (of deeds) on that day is definite. As for those whose scales are heavy, they will be the successful ones.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 8, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

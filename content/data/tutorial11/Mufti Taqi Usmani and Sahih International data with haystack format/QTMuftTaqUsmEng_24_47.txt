@@ -1,0 +1,1 @@
+{'text': 'They say, “We have believed in Allah and in the messenger, and have adopted obedience”, then a group from them goes back after all this. Those are no believers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 47, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

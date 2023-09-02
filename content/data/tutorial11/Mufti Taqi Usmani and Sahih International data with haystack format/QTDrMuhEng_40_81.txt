@@ -1,0 +1,1 @@
+{'text': 'And He shows you His Signs and Proofs (of His Oneness in all the above mentioned things). Which, then of the Signs and Proofs of Allah do you deny?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 81, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

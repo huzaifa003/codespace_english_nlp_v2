@@ -1,0 +1,1 @@
+{'text': '(Firaun (Pharaoh)) said: "What about the generations of old?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 51, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

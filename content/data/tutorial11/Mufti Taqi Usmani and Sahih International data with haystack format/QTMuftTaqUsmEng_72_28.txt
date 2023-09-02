@@ -1,0 +1,1 @@
+{'text': 'so that He knows that they (angels) have conveyed the messages of their Lord. And He has encompassed all that is with them, and has comprehensive knowledge of every thing by numbers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 72, 'ayah_no': 28, 'surah_name_en': 'Al-Jinn (The Jinn)', 'surah_name_ar': 'الجن'}}

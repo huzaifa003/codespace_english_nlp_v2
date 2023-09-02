@@ -1,0 +1,1 @@
+{'text': 'And He caused you to inherit their lands, and their houses, and their riches, and a land which you had not trodden (before). And Allah is Able to do all things.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 33, 'ayah_no': 27, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

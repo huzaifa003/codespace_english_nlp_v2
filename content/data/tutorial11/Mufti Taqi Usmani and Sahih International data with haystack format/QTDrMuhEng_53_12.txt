@@ -1,0 +1,1 @@
+{'text': 'Will you then dispute with him (Muhammad SAW) about what he saw (during the Miraj: (Ascent of the Prophet SAW over the seven heavens)) .', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 12, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

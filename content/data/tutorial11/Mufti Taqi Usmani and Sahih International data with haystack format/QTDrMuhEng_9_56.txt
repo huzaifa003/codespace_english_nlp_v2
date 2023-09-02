@@ -1,0 +1,1 @@
+{'text': 'They swear by Allah that they are truly of you while they are not of you, but they are a people (hypocrites) who are afraid (that you may kill them).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 56, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

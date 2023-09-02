@@ -1,0 +1,1 @@
+{'text': 'they all are an enemy to me, except the Lord of the worlds,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 77, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

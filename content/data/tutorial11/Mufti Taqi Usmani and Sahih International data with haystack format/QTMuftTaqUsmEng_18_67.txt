@@ -1,0 +1,1 @@
+{'text': 'He said, “You can never bear with me patiently.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 67, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

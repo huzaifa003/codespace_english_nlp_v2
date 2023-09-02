@@ -1,0 +1,1 @@
+{'text': 'and be kind with humbleness to the believers who followed you.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 215, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

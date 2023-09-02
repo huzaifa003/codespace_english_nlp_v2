@@ -1,0 +1,1 @@
+{'text': 'But the one who is miser and deems himself self-sufficient,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 92, 'ayah_no': 8, 'surah_name_en': 'Al-Lail (The night)', 'surah_name_ar': 'الَّیل'}}

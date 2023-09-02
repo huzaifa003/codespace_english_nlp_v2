@@ -1,0 +1,1 @@
+{'text': 'So, when they forgot the advice they were given, We saved those who used to forbid evil and seized those who transgressed with a bitter punishment, because they had been disobeying.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 165, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

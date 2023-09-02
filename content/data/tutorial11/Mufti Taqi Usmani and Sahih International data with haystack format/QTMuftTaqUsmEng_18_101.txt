@@ -1,0 +1,1 @@
+{'text': 'whose eyes were under a cover against My reminders, and they were not able to listen.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 101, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

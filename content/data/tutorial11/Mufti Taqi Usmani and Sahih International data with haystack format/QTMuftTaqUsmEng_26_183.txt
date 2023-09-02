@@ -1,0 +1,1 @@
+{'text': 'and do not make people short of their things, and do not spread disorder in the land as mischief-makers,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 183, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

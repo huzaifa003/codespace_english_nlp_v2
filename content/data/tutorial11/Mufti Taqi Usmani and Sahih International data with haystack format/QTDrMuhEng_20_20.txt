@@ -1,0 +1,1 @@
+{'text': 'He cast it down, and behold! It was a snake, moving quickly.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 20, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

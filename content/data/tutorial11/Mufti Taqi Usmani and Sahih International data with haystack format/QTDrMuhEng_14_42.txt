@@ -1,0 +1,1 @@
+{'text': 'Consider not that Allah is unaware of that which the Zalimoon (polytheists, wrong-doers, etc.) do, but He gives them respite up to a Day when the eyes will stare in horror.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 14, 'ayah_no': 42, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

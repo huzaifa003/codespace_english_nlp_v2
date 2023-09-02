@@ -1,0 +1,1 @@
+{'text': 'He said, “O chieftains, which one of you will bring her throne to me before they come to me submissively?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 38, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

@@ -1,0 +1,1 @@
+{'text': 'Verily, Allah has cursed the disbelievers, and has prepared for them a flaming Fire (Hell).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 33, 'ayah_no': 64, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

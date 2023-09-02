@@ -1,0 +1,1 @@
+{'text': 'They said, “O Mūsā, there is a nation of tyrants over there, and we shall never enter it until they get out of it. If they do get out of it, we are ready to go in.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 22, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

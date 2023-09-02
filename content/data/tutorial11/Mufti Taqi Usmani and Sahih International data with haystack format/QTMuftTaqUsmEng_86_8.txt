@@ -1,0 +1,1 @@
+{'text': 'Surely He is Powerful to bring him back', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 86, 'ayah_no': 8, 'surah_name_en': 'At-Tariq (The morning star)', 'surah_name_ar': 'الطَّارق'}}

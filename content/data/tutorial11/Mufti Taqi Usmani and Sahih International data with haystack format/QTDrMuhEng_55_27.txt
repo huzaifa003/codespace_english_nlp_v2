@@ -1,0 +1,1 @@
+{'text': 'And the Face of your Lord full of Majesty and Honour will abide forever.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 55, 'ayah_no': 27, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

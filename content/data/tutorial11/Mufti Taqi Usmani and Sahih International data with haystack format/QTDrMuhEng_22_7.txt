@@ -1,0 +1,1 @@
+{'text': 'And surely, the Hour is coming, there is no doubt about it, and certainly, Allah will resurrect those who are in the graves.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 22, 'ayah_no': 7, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

@@ -1,0 +1,1 @@
+{'text': 'Then We saved him and those with him in the ship, and made it (the ship) as an Ayah (a lesson, a warning, etc.) for the Alameen (mankind, jinns and all that exists).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 29, 'ayah_no': 15, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

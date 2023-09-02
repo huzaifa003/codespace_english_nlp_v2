@@ -1,0 +1,1 @@
+{'text': 'So they (Ya’jūj and Ma’jūj) were not able to climb it, nor were they able to make a hole in it.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 97, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

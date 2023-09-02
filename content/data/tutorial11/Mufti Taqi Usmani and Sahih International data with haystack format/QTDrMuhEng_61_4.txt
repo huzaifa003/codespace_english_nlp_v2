@@ -1,0 +1,1 @@
+{'text': 'Verily, Allah loves those who fight in His Cause in rows (ranks) as if they were a solid structure .', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 61, 'ayah_no': 4, 'surah_name_en': 'As-Saff (The Ranks)', 'surah_name_ar': 'الصّف'}}

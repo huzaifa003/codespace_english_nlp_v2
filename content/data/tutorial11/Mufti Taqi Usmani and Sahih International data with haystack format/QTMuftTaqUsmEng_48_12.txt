@@ -1,0 +1,1 @@
+{'text': 'But you thought that the Messenger and the believers would never ever return to their families, and it seemed good to your hearts, and you thought an evil thought and became a people who are ruined (by their selfishness).”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 48, 'ayah_no': 12, 'surah_name_en': 'Al-Fath (The victory)', 'surah_name_ar': 'الفتح'}}

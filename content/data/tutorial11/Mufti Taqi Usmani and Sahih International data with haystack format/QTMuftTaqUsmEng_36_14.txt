@@ -1,0 +1,1 @@
+{'text': 'when We sent to them two (apostles), and they rejected both of them, so We confirmed them with a third one. So they said, “We are sent to you.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 14, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

@@ -1,0 +1,1 @@
+{'text': 'Then next morning he was fearful in the city, waiting (for what comes next) when the man who sought his help the day before, shouted to him for help (again). Mūsā said to him, “You are surely a clear trouble-maker.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 18, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

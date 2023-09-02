@@ -1,0 +1,1 @@
+{'text': 'When one of them is given the good news of a female child, his face becomes gloomy and he is choked with grief.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 58, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

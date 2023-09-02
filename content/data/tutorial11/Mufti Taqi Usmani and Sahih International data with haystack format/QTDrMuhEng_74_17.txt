@@ -1,0 +1,1 @@
+{'text': 'I shall oblige him to (climb a slippery mountain in the Hell-fire called AsSaood, or to) face a severe torment!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 74, 'ayah_no': 17, 'surah_name_en': 'Al-Muddathir (The cloaked one)', 'surah_name_ar': 'المدّثّر'}}

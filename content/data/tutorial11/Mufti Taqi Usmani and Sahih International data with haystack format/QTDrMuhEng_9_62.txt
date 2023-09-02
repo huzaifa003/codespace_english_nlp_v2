@@ -1,0 +1,1 @@
+{'text': 'They swear by Allah to you (Muslims) in order to please you, but it is more fitting that they should please Allah and His Messenger (Muhammad SAW), if they are believers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 62, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

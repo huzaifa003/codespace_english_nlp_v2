@@ -1,0 +1,1 @@
+{'text': 'The Day they will see the angels, there will be no good news for the sinners that day, and they will say, “(We need) a shelter, fully protected!”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 22, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

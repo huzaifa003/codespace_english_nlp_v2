@@ -1,0 +1,1 @@
+{'text': 'So he (Mūsā) watered (their animals) for them, then he turned to a shade and said, “My Lord, I am in need of whatever good you send down to me.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 24, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

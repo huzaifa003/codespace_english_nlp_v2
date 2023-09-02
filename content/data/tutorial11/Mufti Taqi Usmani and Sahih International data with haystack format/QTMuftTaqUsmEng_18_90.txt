@@ -1,0 +1,1 @@
+{'text': 'until when he reached the point of sunrise, he found it rising over a people for whom We did not make any shelter against it.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 90, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

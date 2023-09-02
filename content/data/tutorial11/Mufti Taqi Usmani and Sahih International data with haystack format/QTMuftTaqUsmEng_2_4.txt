@@ -1,0 +1,1 @@
+{'text': 'and who believe in what has been revealed to you and what has been revealed before you; and they have faith in the Hereafter.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 4, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'O Children of Israel! We delivered you from your enemy, and We made a covenant with you on the right side of the Mount, and We sent down to you Al-Manna and quails,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 80, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

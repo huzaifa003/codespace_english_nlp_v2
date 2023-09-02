@@ -1,0 +1,1 @@
+{'text': 'And by the planets that move swiftly and hide themselves,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 81, 'ayah_no': 16, 'surah_name_en': 'At-Takwir (The Overthrowing)', 'surah_name_ar': 'التَّکوِیر'}}

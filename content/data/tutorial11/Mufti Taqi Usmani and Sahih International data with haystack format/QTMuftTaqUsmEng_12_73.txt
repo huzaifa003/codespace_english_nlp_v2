@@ -1,0 +1,1 @@
+{'text': 'They said, “We swear by Allah, you know, we did not come to make mischief in the land, nor have we ever been thieves.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 73, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

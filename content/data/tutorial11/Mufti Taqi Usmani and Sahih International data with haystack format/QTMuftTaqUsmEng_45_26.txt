@@ -1,0 +1,1 @@
+{'text': 'Say, “Allah gives you life, then makes you die, then He will assemble you on the Day of Judgement in which there is no doubt, but most of the people do not know.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 26, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

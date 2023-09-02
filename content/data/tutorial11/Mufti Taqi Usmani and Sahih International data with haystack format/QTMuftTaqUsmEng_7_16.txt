@@ -1,0 +1,1 @@
+{'text': 'He said, “Now that You have led me astray, I will certainly sit for them (in ambush) on Your straight path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 16, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

@@ -1,0 +1,1 @@
+{'text': 'So He punished them by putting hypocrisy into their hearts till the Day whereon they shall meet Him, because they broke that (covenant with Allah) which they had promised Him and because they used to tell lies.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 77, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

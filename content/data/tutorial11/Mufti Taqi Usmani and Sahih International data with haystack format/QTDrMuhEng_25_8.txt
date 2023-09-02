@@ -1,0 +1,1 @@
+{'text': '"Or (why) has not a treasure been granted to him, or why has he not a garden whereof he may eat?" And the Zalimoon (polytheists and wrong-doers, etc.) say: "You follow none but a man bewitched."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 8, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

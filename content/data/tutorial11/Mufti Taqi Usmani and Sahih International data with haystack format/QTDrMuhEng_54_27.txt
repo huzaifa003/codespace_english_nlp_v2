@@ -1,0 +1,1 @@
+{'text': 'Verily, We are sending the she-camel as a test for them. So watch them (O Salih (Saleh) ), and be patient!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 27, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

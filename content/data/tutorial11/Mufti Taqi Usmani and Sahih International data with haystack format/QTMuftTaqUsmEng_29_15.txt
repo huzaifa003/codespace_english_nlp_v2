@@ -1,0 +1,1 @@
+{'text': 'So We saved him and the people of the Ark, and made it a sign for all the worlds.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 15, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

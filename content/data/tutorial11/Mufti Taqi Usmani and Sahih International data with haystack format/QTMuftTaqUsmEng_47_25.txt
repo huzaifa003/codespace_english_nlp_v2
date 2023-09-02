@@ -1,0 +1,1 @@
+{'text': 'Surely those who turn back after the guidance has appeared to them clearly, it is Satan who has tempted them and involved them in far-fetched fancies.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 47, 'ayah_no': 25, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

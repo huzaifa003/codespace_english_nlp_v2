@@ -1,0 +1,1 @@
+{'text': 'And a party of the people of the Scripture say: "Believe in the morning in that which is revealed to the believers (Muslims), and reject it at the end of the day, so that they may turn back.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 72, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

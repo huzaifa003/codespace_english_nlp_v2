@@ -1,0 +1,1 @@
+{'text': 'And they said, “(These are) the tales of the ancients he (the messenger) has caused to be written, and they are read out to him at morn and eve.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 5, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

@@ -1,0 +1,1 @@
+{'text': 'He said: "I only complain of my grief and sorrow to Allah, and I know from Allah that which you know not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 86, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

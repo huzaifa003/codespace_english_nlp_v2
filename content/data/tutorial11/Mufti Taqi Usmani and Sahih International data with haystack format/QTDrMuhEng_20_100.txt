@@ -1,0 +1,1 @@
+{'text': 'Whoever turns away from it (this Quran i.e. does not believe in it, nor acts on its orders), verily, they will bear a heavy burden (of sins) on the Day of Resurrection,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 100, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

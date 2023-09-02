@@ -1,0 +1,1 @@
+{'text': 'They said, “O Hūd, you did not bring to us any proof, and we are not to leave our gods on your statement, and we are not to believe in you.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 53, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

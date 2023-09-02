@@ -1,0 +1,1 @@
+{'text': 'They (the People of the Town) said, “We take you as a bad omen for us. If you do not desist, we will certainly stone you and you will be afflicted by a painful punishment from us.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 18, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

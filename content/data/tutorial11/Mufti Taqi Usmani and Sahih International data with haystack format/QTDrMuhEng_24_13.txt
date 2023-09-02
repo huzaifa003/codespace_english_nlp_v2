@@ -1,0 +1,1 @@
+{'text': 'Why did they not produce four witnesses? Since they (the slanderers) have not produced witnesses! Then with Allah they are the liars.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 13, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

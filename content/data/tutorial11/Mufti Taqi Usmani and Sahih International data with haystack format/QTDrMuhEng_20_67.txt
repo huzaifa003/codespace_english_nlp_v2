@@ -1,0 +1,1 @@
+{'text': 'So Moosa (Moses) conceived a fear in himself.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 67, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

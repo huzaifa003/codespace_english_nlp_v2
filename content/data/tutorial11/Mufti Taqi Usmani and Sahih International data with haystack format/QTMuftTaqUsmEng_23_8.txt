@@ -1,0 +1,1 @@
+{'text': '- and (success is attained) by those who honestly look after their trusts and covenant,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 23, 'ayah_no': 8, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

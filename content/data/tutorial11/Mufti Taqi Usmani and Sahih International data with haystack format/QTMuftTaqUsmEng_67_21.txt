@@ -1,0 +1,1 @@
+{'text': 'Or, who is there to give you sustenance, if He withholds His sustenance? Still, they persist in rebellion and aversion.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 67, 'ayah_no': 21, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

@@ -1,0 +1,1 @@
+{'text': 'They are aware of Allah’s favor, yet they deny it, and most of them are ungrateful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 83, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

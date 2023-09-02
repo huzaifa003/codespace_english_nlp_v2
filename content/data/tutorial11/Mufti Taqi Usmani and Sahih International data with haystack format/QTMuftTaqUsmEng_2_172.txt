@@ -1,0 +1,1 @@
+{'text': 'O you who believe, eat of the good things We have provided to you and be grateful to Allah, if it is He whom you worship (in real terms).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 172, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

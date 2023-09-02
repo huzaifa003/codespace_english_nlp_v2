@@ -1,0 +1,1 @@
+{'text': 'He is the One who makes you see the lightening in fear and hope, and who forms the heavy clouds.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 13, 'ayah_no': 12, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

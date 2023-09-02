@@ -1,0 +1,1 @@
+{'text': 'Indeed lost are they who have killed their children, from folly, without knowledge, and have forbidden that which Allah has provided for them, inventing a lie against Allah. They have indeed gone astray and were not guided.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 140, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

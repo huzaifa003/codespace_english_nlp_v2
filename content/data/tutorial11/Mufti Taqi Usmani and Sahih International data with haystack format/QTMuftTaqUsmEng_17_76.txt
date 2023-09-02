@@ -1,0 +1,1 @@
+{'text': 'And they were likely to harass you in the land, so that they could expel you from there, and in that case, they will have not lived (there) after you, but a little.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 76, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

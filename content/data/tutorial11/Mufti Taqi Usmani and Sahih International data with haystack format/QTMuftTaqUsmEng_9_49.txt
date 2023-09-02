@@ -1,0 +1,1 @@
+{'text': 'And among them there is one who says, “Allow me (to stay behind) and do not expose me to an ordeal.”Look! They have already fallen into an ordeal, and certainly Jahannam (the Hell) has the disbelievers encircled.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 49, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

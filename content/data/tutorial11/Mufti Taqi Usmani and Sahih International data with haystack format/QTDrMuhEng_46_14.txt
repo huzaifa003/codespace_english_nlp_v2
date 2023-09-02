@@ -1,0 +1,1 @@
+{'text': 'Such shall be the dwellers of Paradise, abiding therein (forever), a reward for what they used to do.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 46, 'ayah_no': 14, 'surah_name_en': 'Al-Ahqaf (The wind-curved sandhills)', 'surah_name_ar': 'الاحقاف'}}

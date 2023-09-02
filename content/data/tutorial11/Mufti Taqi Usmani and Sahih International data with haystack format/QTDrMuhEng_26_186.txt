@@ -1,0 +1,1 @@
+{'text': '"You are but a human being like us and verily, we think that you are one of the liars!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 186, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

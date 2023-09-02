@@ -1,0 +1,1 @@
+{'text': 'And when We show favour to man, he withdraws and turns away, but when evil touches him, then he has recourse to long supplications.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 41, 'ayah_no': 51, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

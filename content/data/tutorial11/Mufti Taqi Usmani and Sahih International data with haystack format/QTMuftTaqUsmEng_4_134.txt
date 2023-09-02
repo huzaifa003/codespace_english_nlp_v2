@@ -1,0 +1,1 @@
+{'text': 'Whoever seeks the reward of this world, then, with Allah is the reward of this world and of the Hereafter. Allah is All-Hearing, All-Seeing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 4, 'ayah_no': 134, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

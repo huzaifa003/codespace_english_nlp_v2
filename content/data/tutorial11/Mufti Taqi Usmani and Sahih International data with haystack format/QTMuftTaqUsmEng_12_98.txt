@@ -1,0 +1,1 @@
+{'text': 'He said, “I shall pray to my Lord to forgive you. Surely, He is the Most-Forgiving, Very-Merciful.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 98, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

@@ -1,0 +1,1 @@
+{'text': 'Your wealth and your children are only a trial, whereas Allah! With Him is a great reward (Paradise).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 64, 'ayah_no': 15, 'surah_name_en': 'At-Taghabun (Mutual Disillusion)', 'surah_name_ar': 'التّغابن'}}

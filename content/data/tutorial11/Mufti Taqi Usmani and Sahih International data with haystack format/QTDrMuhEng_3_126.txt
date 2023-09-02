@@ -1,0 +1,1 @@
+{'text': 'Allah made it not but as a message of good news for you and as an assurance to your hearts. And there is no victory except from Allah, the All-Mighty, the All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 126, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

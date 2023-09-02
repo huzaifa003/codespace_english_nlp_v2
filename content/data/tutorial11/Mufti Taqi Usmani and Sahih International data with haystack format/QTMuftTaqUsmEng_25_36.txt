@@ -1,0 +1,1 @@
+{'text': 'So we said, “Go, both of you, to the people who have rejected Our signs” Then We annihilated them totally.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 36, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

@@ -1,0 +1,1 @@
+{'text': 'They bring to you no hypothesis, but We bring to you the correct position and (an answer) better explained.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 33, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

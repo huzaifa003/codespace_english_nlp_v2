@@ -1,0 +1,1 @@
+{'text': 'and the one whose scales turn out to be light, then such people are the ones who harmed their own selves; in Jahannam (Hell) they are to remain for ever.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 23, 'ayah_no': 103, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

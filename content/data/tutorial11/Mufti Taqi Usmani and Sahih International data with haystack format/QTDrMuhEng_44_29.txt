@@ -1,0 +1,1 @@
+{'text': 'And the heavens and the earth wept not for them , nor were they given a respite.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 44, 'ayah_no': 29, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

@@ -1,0 +1,1 @@
+{'text': 'Say, “O people, I am no more than a plain warner for you.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 49, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

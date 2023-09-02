@@ -1,0 +1,1 @@
+{'text': 'He (Khidr) said: "Did I not tell you, that you would not be able to have patience with me?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 72, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

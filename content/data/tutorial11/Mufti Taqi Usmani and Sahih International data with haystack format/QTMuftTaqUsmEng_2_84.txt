@@ -1,0 +1,1 @@
+{'text': 'When We took a pledge from you: “You shall not shed the blood of one another, and you shall not drive one another out of your homes.” Then you agreed, being yourselves the witnesses.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 84, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

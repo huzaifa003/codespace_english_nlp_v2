@@ -1,0 +1,1 @@
+{'text': 'With truth We have sent it (the Qur’ān) down and with truth it descended, and We did not send you but as a bearer of good tidings and as a warner.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 105, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

@@ -1,0 +1,1 @@
+{'text': 'And whoever disbelieved, let not his disbelief grieve you (O Muhammad SAW),. to Us is their return, and We shall inform them what they have done. Verily, Allah is the AllKnower of what is in the breasts (of men).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 31, 'ayah_no': 23, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

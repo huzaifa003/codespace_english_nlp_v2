@@ -1,0 +1,1 @@
+{'text': 'He said, “No, your Lord is the Lord of the heavens and the earth, who has created them, and I am one of those who bear witness to it.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 56, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

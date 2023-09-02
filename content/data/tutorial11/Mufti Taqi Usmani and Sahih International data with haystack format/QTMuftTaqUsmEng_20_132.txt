@@ -1,0 +1,1 @@
+{'text': 'Bid your family to perform Salāh, and adhere to it yourself. We ask no provision from you. We give provision to you. And the ultimate end is in favour of Taqwā (God-fearing, and piety).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 132, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

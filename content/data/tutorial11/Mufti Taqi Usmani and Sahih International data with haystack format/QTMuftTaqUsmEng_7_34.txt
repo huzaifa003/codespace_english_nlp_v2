@@ -1,0 +1,1 @@
+{'text': 'For every people there is an appointed time. So, when their appointed time will come, they cannot be late for a moment, nor will they get ahead.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 34, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

@@ -1,0 +1,1 @@
+{'text': 'For those whom Allah lets go astray, there is no one to guide, and He leaves them wandering blindly in their rebellion.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 186, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

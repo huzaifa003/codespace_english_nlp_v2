@@ -1,0 +1,1 @@
+{'text': 'As for the People of the Right, how (lucky) are the People of the Right!', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 56, 'ayah_no': 8, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

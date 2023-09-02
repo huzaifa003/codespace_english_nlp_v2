@@ -1,0 +1,1 @@
+{'text': 'Then when the Trumpet will be blown with one blowing (the first one),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 69, 'ayah_no': 13, 'surah_name_en': 'Al-Haaqqa (The reality)', 'surah_name_ar': 'الحاقہ'}}

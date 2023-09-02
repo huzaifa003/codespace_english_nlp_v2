@@ -1,0 +1,1 @@
+{'text': 'And they indeed sought to shame his guest (by asking to commit sodomy with them). So We blinded their eyes, "Then taste you My Torment and My Warnings."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 37, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

@@ -1,0 +1,1 @@
+{'text': 'Then the hoopoe did not take long and said (to Sulaimān), “I have discovered what you did not, and have brought to you a sure information from Saba’ (Sheba).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 22, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

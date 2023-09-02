@@ -1,0 +1,1 @@
+{'text': 'And this is how We have sent it (the Qur’ān) down as clear signs, and the fact is that Allah leads whom He wills to the right path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 16, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

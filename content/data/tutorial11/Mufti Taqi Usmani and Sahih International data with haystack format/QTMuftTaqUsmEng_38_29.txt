@@ -1,0 +1,1 @@
+{'text': 'This is a blessed Book We have revealed to you, so that they deliberate in its verses, and so that the men of understanding may heed to advice.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 29, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

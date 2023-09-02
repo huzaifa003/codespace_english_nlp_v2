@@ -1,0 +1,1 @@
+{'text': 'He (Ya‘qūb) said, “Rather, your inner desires have seduced you to something. So, patience is best. Hopefully, Allah may bring them all together. Surely, He is the All-Knowing, All-Wise.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 83, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

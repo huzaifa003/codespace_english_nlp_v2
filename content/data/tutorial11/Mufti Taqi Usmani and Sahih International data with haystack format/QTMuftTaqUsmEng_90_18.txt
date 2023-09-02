@@ -1,0 +1,1 @@
+{'text': 'Those are the People of the Right Hand. (i.e. their books of deeds will be given in their right hands)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 90, 'ayah_no': 18, 'surah_name_en': 'Al-Balad (The City)', 'surah_name_ar': 'البلد'}}

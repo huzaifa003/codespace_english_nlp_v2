@@ -1,0 +1,1 @@
+{'text': 'So, We punished them in retribution, and both of them are (situated) by a highway, clearly visible.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 79, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

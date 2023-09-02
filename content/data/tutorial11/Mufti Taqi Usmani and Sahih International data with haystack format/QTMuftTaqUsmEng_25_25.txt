@@ -1,0 +1,1 @@
+{'text': 'The Day the sky will break open with a cloud, and the angels will be sent down in a majestic descent,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 25, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

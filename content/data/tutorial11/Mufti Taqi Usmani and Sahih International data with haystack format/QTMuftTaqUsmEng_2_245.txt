@@ -1,0 +1,1 @@
+{'text': 'Who is the one who would give Allah a good loan so that Allah multiplies it for him many times? Allah withholds and extends, and to Him you are to be returned.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 245, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'Near Sidrat-ul-Muntaha (lote-tree of the utmost boundary (beyond which none can pass)),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 14, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

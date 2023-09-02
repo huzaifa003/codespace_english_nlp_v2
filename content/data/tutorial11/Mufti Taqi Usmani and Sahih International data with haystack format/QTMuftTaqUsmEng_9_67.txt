@@ -1,0 +1,1 @@
+{'text': 'The hypocrites, males and females, are all alike. They bid vice and forbid virtue and withhold their hands (from spending in Allah’s way). They forgot Allah, so He forgot them. Surely, the hypocrites are the sinners.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 67, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

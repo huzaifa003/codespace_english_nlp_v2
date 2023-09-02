@@ -1,0 +1,1 @@
+{'text': 'So We responded to him and rescued him from the distress. And this is how We rescue the believers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 88, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

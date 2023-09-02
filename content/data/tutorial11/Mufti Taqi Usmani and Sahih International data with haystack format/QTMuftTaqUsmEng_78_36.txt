@@ -1,0 +1,1 @@
+{'text': 'this being a reward from their Lord, a well calculated grant,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 78, 'ayah_no': 36, 'surah_name_en': 'An-Naba (The tidings)', 'surah_name_ar': 'النَّبَاِ'}}

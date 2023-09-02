@@ -1,0 +1,1 @@
+{'text': 'And do not follow a thing about which you have no knowledge. Surely, the ear, the eye and the heart - each one of them shall be interrogated about.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 36, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

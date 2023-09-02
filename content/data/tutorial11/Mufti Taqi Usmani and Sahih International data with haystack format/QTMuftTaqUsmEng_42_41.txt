@@ -1,0 +1,1 @@
+{'text': 'The one who defends himself after having been wronged, there is no blame on such people.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 42, 'ayah_no': 41, 'surah_name_en': 'Ash-Shura (Council, Consultation)', 'surah_name_ar': 'الشُّورٰی'}}

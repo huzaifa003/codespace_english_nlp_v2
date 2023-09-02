@@ -1,0 +1,1 @@
+{'text': 'And We bestowed upon him Ishaque (Isaac), and (a grandson) Yaqoob (Jacob). Each one We made righteous.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 72, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

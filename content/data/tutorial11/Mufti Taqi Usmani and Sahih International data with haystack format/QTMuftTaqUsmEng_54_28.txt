@@ -1,0 +1,1 @@
+{'text': 'and tell them that water (of the well) is to be shared between them (and the she-camel), so as the right of having water shall be attended by each (alternatively).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 54, 'ayah_no': 28, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

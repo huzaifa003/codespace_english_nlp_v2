@@ -1,0 +1,1 @@
+{'text': 'We narrate to you all such stories from the events of the messengers as We strengthen your heart therewith. And in these (stories) there has come to you the truth, a good counsel and a reminder to those who believe.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 120, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

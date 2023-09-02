@@ -1,0 +1,1 @@
+{'text': 'And in this way We have sent it down to you as an Arabic Qur’ān, and have detailed in it some warnings in various ways, so that they may fear, or it may produce a lesson for them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 113, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

@@ -1,0 +1,1 @@
+{'text': '(Allah) said: "In a little while, they are sure to be regretful."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 23, 'ayah_no': 40, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

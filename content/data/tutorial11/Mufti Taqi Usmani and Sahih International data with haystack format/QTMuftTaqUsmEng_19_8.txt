@@ -1,0 +1,1 @@
+{'text': 'He Said, “My Lord, how shall there be a boy for me while my wife is barren, and I have reached the extreme of old age?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 8, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

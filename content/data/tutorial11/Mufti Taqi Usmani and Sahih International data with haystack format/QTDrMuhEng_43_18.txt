@@ -1,0 +1,1 @@
+{'text': '(Do they then like for Allah) a creature who is brought up in adornments (wearing silk and gold ornaments, i.e. women), and in dispute cannot make herself clear?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 18, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

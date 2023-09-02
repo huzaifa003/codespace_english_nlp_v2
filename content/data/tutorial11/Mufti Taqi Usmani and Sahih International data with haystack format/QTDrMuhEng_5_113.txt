@@ -1,0 +1,1 @@
+{'text': 'They said: "We wish to eat thereof and to be stronger in Faith, and to know that you have indeed told us the truth and that we ourselves be its witnesses."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 5, 'ayah_no': 113, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

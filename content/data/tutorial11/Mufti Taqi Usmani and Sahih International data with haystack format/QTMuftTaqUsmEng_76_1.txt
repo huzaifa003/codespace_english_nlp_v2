@@ -1,0 +1,1 @@
+{'text': 'There has come upon man a period of time in which he was nothing worth mentioning.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 1, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

@@ -1,0 +1,1 @@
+{'text': 'They said, “O Mūsā, either you throw (first), or shall we be first to throw?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 65, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

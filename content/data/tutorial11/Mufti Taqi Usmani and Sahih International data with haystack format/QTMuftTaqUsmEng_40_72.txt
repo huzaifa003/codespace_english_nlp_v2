@@ -1,0 +1,1 @@
+{'text': 'into the hot water after which they will be thrown into the Fire as a fuel.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 72, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

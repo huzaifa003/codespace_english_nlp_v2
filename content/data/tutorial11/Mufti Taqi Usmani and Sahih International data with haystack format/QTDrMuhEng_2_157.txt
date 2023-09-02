@@ -1,0 +1,1 @@
+{'text': 'They are those on whom are the Salawat (i.e. blessings, etc.) (i.e. who are blessed and will be forgiven) from their Lord, and (they are those who) receive His Mercy, and it is they who are the guided-ones.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 157, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

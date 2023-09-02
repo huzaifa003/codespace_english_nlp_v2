@@ -1,0 +1,1 @@
+{'text': 'And when the caravan set out (from Egypt), their father (Ya‘qūb) said (in Canaan), “I sense the fragrance of Yūsuf, if you do not take me to be senile.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 94, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

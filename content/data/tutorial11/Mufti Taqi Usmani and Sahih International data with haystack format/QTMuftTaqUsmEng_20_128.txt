@@ -1,0 +1,1 @@
+{'text': 'Did it give them no guidance (to realize) how many generations We have destroyed prior to them in whose dwellings they (often) walk around? Surely, in this there are signs for the men of reason.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 128, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

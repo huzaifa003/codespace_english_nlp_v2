@@ -1,0 +1,1 @@
+{'text': 'There is none among you who does not have to arrive at it. This is undertaken by your Lord as an absolute decree, bound to be enforced.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 71, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

@@ -1,0 +1,1 @@
+{'text': 'And they went in the morning with strong intention, thinking that they have power (to prevent the poor taking anything of the fruits therefrom).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 68, 'ayah_no': 25, 'surah_name_en': 'Al-Qalam (The Pen)', 'surah_name_ar': 'القلم'}}

@@ -1,0 +1,1 @@
+{'text': '"And why should I not worship Him (Allah Alone) Who has created me and to Whom you shall be returned.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 22, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

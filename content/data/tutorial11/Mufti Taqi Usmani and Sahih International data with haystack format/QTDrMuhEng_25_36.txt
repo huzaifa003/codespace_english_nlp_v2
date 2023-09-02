@@ -1,0 +1,1 @@
+{'text': 'And We said: "Go you both to the people who have denied Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.)." Then We destroyed them with utter destruction.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 36, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

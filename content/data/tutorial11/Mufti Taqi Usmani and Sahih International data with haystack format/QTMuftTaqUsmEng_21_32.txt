@@ -1,0 +1,1 @@
+{'text': 'We made the sky a protected roof; and they are averse to its signs.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 32, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

@@ -1,0 +1,1 @@
+{'text': 'Darkness will cover them,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 80, 'ayah_no': 41, 'surah_name_en': 'Abasa (He Frowned)', 'surah_name_ar': 'عَبَسَ'}}

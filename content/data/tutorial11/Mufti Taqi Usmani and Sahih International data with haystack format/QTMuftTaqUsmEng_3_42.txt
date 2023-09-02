@@ -1,0 +1,1 @@
+{'text': 'And when the angels said: “O Maryam, Allah has chosen you and purified you and chosen you over the women of all the worlds.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 42, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

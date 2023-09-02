@@ -1,0 +1,1 @@
+{'text': 'Say to My believing servants that they should establish Salāh and spend, secretly and openly, out of what We have given to them before there comes a day in which there is neither a trade nor friendship.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 31, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

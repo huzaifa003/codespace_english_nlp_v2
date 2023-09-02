@@ -1,0 +1,1 @@
+{'text': 'And Our Commandment is but one, as the twinkling of an eye.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 50, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

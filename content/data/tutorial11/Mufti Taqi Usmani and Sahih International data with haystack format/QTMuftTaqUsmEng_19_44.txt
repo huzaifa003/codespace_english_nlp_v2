@@ -1,0 +1,1 @@
+{'text': 'My dear father, do not worship the Satan. The Satan is surely rebellious to the All-Merciful, (Allah).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 44, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

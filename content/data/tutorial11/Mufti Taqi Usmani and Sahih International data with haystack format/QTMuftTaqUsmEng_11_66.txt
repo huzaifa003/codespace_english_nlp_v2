@@ -1,0 +1,1 @@
+{'text': 'So, when came Our command, We saved SāliH and those who believed along with Him, out of mercy from Us, and (We saved them) from the disgrace of that day. Surely, your Lord is the Powerful, the All Mighty.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 66, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

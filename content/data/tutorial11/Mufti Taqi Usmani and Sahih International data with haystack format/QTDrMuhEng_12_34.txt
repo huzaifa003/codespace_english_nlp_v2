@@ -1,0 +1,1 @@
+{'text': 'So his Lord answered his invocation and turned away from him their plot. Verily, He is the All-Hearer, the All-Knower.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 34, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

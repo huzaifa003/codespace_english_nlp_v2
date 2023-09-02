@@ -1,0 +1,1 @@
+{'text': 'Never! He is inimical towards Our verses.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 74, 'ayah_no': 16, 'surah_name_en': 'Al-Muddathir (The cloaked one)', 'surah_name_ar': 'المدّثّر'}}

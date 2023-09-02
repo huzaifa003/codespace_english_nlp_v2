@@ -1,0 +1,1 @@
+{'text': 'Have they (the people of the past) transmitted this saying to these (Quraish pagans)? Nay, they are themselves a people transgressing beyond bounds (in disbelief)!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 51, 'ayah_no': 53, 'surah_name_en': 'Adh-Dhariyat (The winnowing winds)', 'surah_name_ar': 'الذّٰریٰت'}}

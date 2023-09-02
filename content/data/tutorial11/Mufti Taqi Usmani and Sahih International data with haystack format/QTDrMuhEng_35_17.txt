@@ -1,0 +1,1 @@
+{'text': 'And that is not hard for Allah.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 35, 'ayah_no': 17, 'surah_name_en': 'Fatir (Originator)', 'surah_name_ar': 'فاطر'}}

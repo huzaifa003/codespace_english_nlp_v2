@@ -1,0 +1,1 @@
+{'text': 'Then all of them will be returned to Allah, their real Master. Behold, His is the judgement, and He is the swiftest of those who take account.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 62, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

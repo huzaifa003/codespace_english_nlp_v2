@@ -1,0 +1,1 @@
+{'text': 'Why - when you (O believers) heard of it - did the believing men and the believing women not think well about their own selves, and (why did they not) say, “This is a manifest lie”.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 12, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

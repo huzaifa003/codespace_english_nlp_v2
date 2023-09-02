@@ -1,0 +1,1 @@
+{'text': 'and the mountains will be crumbled a thorough crumbling,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 56, 'ayah_no': 5, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

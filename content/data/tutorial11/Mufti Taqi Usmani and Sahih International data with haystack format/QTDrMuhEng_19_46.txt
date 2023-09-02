@@ -1,0 +1,1 @@
+{'text': 'He (the father) said: "Do you reject my gods, O Ibrahim (Abraham)? If you stop not (this), I will indeed stone you. So get away from me safely before I punish you."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 46, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

@@ -1,0 +1,1 @@
+{'text': 'despite that they had already made a covenant with Allah that they would not turn their backs; and a covenant with Allah has to be answered for.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 15, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

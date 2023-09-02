@@ -1,0 +1,1 @@
+{'text': 'No community can go ahead of its appointed time, nor can they become late.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 23, 'ayah_no': 43, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

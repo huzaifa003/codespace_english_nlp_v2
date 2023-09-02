@@ -1,0 +1,1 @@
+{'text': 'Should they gain the upper hand over you, they would behave to you as enemies, and stretch forth their hands and their tongues against you with evil, and they desire that you should disbelieve.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 60, 'ayah_no': 2, 'surah_name_en': 'Al-Mumtahina (She that is to be examined)', 'surah_name_ar': 'الممتحنۃ'}}

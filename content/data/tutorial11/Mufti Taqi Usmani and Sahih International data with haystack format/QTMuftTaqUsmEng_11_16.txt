@@ -1,0 +1,1 @@
+{'text': 'Those are the people for whom there is nothing in the Hereafter except fire. Nullified will be whatever they worked herein, and void will be what they have been doing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 16, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

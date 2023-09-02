@@ -1,0 +1,1 @@
+{'text': 'But the sects from among themselves differed. So woe to those who do wrong (by ascribing things to Iesa (Jesus) that are not true) from the torment of a painful Day (i.e. the Day of Resurrection)!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 65, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

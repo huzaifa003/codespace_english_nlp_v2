@@ -1,0 +1,1 @@
+{'text': 'Turning towards them, they said, “What are you missing?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 71, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

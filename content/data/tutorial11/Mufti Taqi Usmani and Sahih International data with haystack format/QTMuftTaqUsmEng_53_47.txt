@@ -1,0 +1,1 @@
+{'text': 'and that the second creation is undertaken by Him,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 53, 'ayah_no': 47, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

@@ -1,0 +1,1 @@
+{'text': 'They (the pagans) wonder that a warner has come to them from among themselves. And the disbelievers say, “This is a magician, a sheer liar.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 4, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

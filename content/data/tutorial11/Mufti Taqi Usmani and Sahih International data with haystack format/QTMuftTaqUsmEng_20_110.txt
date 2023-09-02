@@ -1,0 +1,1 @@
+{'text': 'He knows what is in front of them and what is behind them, and they do not encompass Him in (their) knowledge.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 110, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

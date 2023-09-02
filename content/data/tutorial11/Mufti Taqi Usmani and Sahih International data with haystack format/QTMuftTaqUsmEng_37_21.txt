@@ -1,0 +1,1 @@
+{'text': '(It will be said to them,) “This is the Day of Judgment that you used to deny.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 21, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

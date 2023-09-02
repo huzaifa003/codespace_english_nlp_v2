@@ -1,0 +1,1 @@
+{'text': 'Verily, We have created all things with Qadar (Divine Preordainments of all things before their creation, as written in the Book of Decrees Al-Lauh Al-Mahfooz).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 49, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

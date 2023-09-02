@@ -1,0 +1,1 @@
+{'text': '(Remember) when Luqmān said to his son, while he was advising him, “My dear son, do not ascribe partners to Allah. Indeed, ascribing partners to Allah (shirk) is grave transgression.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 31, 'ayah_no': 13, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

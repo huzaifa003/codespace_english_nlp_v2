@@ -1,0 +1,1 @@
+{'text': 'And of course, it is (mentioned) in the Scriptures of the former people.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 196, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

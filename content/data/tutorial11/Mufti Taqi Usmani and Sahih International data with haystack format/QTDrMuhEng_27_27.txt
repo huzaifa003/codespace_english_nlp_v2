@@ -1,0 +1,1 @@
+{'text': '(Sulaiman (Solomon)) said: "We shall see whether you speak the truth or you are (one) of the liars.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 27, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

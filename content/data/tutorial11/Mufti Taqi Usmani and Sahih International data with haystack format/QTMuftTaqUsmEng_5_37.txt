@@ -1,0 +1,1 @@
+{'text': 'They will wish to come out of the Fire, but they will not be able to come out from there. For them there will be a lasting punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 37, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

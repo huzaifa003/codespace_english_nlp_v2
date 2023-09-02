@@ -1,0 +1,1 @@
+{'text': 'When disbelievers see you, they do nothing but take you in jest (saying to one another,) “Is this the one who talks of your gods?” - while they themselves reject even talking of the RaHmān (All-Merciful).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 36, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

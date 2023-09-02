@@ -1,0 +1,1 @@
+{'text': 'And among them there are those who find fault with you in (the distribution of) Sadaqāt (alms). So, if they are given something out of it, they are quite happy, and if they are given nothing from it, they at once get annoyed.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 58, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

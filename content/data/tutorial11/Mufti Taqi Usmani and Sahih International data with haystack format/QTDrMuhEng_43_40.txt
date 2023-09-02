@@ -1,0 +1,1 @@
+{'text': 'Can you (O Muhammad SAW) make the deaf to hear, or can you guide the blind or him who is in manifest error?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 40, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

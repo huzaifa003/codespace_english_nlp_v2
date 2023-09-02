@@ -1,0 +1,1 @@
+{'text': 'And all that are in the earth, so that it might save him .', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 70, 'ayah_no': 14, 'surah_name_en': 'Al-Maarij (The Ascending stairways)', 'surah_name_ar': 'المعارج'}}

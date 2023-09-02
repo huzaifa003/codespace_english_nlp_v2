@@ -1,0 +1,1 @@
+{'text': '"So, when I have fashioned him completely and breathed into him (Adam) the soul which I created for him, then fall (you) down prostrating yourselves unto him."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 15, 'ayah_no': 29, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

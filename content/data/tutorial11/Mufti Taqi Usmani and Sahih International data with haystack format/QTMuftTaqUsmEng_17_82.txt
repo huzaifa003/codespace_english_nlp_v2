@@ -1,0 +1,1 @@
+{'text': 'We reveal the Qur’ān, which is cure and mercy for the believers; and it adds nothing to the unjust but loss.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 82, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

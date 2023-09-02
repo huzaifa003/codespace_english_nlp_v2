@@ -1,0 +1,1 @@
+{'text': '(Moosa (Moses)) said: "O Haroon (Aaron)! What stopped you when you saw them going astray;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 92, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

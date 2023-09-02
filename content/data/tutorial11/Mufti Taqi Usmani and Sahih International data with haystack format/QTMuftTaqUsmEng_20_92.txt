@@ -1,0 +1,1 @@
+{'text': 'He (Mūsā) said, “O Hārūn, what did prevent you from following me when you saw them going astray?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 92, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

@@ -1,0 +1,1 @@
+{'text': '(Ibrahim (Abraham) again) said: "What then is the business on which you have come, O Messengers?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 15, 'ayah_no': 57, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

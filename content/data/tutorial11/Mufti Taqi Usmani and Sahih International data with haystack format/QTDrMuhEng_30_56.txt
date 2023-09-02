@@ -1,0 +1,1 @@
+{'text': 'And those who have been bestowed with knowledge and faith will say: "Indeed you have stayed according to the Decree of Allah, until the Day of Resurrection, so this is the Day of Resurrection, but you knew not."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 30, 'ayah_no': 56, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

@@ -1,0 +1,1 @@
+{'text': 'And they will say, “Had we been listening or understanding, we would not have been among the people of the Hell.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 67, 'ayah_no': 10, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

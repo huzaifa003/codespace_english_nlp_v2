@@ -1,0 +1,1 @@
+{'text': 'And Sulaimān inherited (the traits of) Dāwūd and said, “O people we have been taught the speech of birds, and all sorts of things are given to us. Indeed, this is the evident grace (of Allah).”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 16, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

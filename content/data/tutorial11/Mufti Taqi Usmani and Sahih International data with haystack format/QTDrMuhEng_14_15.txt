@@ -1,0 +1,1 @@
+{'text': 'But they (the Messengers) sought victory and help (from their Lord (Allah)), and every obstinate, arrogant dictator (who refuses to believe in the Oneness of Allah) was brought to a complete loss and destruction.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 14, 'ayah_no': 15, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

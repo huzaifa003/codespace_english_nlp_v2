@@ -1,0 +1,1 @@
+{'text': '(Remember) when he came to his Lord with a pure heart,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 84, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

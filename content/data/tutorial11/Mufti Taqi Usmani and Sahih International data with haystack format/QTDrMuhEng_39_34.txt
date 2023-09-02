@@ -1,0 +1,1 @@
+{'text': 'They shall have all that they will desire with their Lord. That is the reward of Muhsinoon (good-doers - see V.2:112).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 34, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

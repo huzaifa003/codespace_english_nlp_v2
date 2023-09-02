@@ -1,0 +1,1 @@
+{'text': 'And Hell-fire shall be made apparent in full view for (every) one who sees,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 79, 'ayah_no': 36, 'surah_name_en': 'An-Naziat (Those who drag forth)', 'surah_name_ar': 'النّٰزِعٰتِ'}}

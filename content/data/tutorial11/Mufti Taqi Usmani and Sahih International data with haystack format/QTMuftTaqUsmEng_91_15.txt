@@ -1,0 +1,1 @@
+{'text': 'And He has no fear of its consequence.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 91, 'ayah_no': 15, 'surah_name_en': '91 Ash-Shams (The Sun)', 'surah_name_ar': 'الشَّمس'}}

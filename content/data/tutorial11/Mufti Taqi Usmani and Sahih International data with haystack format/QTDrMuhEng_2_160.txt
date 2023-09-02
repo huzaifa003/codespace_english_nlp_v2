@@ -1,0 +1,1 @@
+{'text': 'Except those who repent and do righteous deeds, and openly declare (the truth which they concealed). These, I will accept their repentance. And I am the One Who accepts repentance, the Most Merciful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 160, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

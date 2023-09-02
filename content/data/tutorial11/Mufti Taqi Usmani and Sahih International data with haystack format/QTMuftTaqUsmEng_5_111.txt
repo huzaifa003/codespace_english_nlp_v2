@@ -1,0 +1,1 @@
+{'text': 'When I enjoined upon the disciples (of ‘Īsā ), “Believe in Me and in My Messenger,” they said, “We believed. Bear witness that we are the submitting ones.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 111, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'To each (of them) We cited examples, and each of them We brought to utter ruin.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 39, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

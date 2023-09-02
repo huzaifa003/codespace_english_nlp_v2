@@ -1,0 +1,1 @@
+{'text': 'Follow those who do not claim any reward from you, and who are on the right path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 21, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

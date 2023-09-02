@@ -1,0 +1,1 @@
+{'text': 'Even if you do not find anyone in them, do not enter therein until permission is given to you. And if it is said to you, ‘Go back’, just go back; it is more decent for you. Allah is All-Aware of what you do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 28, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

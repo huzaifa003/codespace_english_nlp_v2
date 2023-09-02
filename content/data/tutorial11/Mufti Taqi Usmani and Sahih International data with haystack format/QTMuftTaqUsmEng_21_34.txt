@@ -1,0 +1,1 @@
+{'text': 'We did not assign immortality to any human (even) before you. So, if you die, will they live for ever?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 34, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

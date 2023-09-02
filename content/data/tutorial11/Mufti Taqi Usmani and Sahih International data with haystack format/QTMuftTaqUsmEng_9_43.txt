@@ -1,0 +1,1 @@
+{'text': '(O Prophet,) Allah has forgiven you; why did you permit them (to stay in Madīnah) before the truthful ones could become distinct to you, and you could be sure of the liars.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 43, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

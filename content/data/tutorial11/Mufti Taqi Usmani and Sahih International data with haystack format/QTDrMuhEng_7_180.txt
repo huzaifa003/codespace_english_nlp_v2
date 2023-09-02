@@ -1,0 +1,1 @@
+{'text': 'And (all) the Most Beautiful Names belong to Allah, so call on Him by them, and leave the company of those who belie or deny (or utter impious speech against) His Names. They will be requited for what they used to do.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 180, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

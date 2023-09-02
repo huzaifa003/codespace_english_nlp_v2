@@ -1,0 +1,1 @@
+{'text': 'And (remember) Zakariya (Zachariah), when he cried to his Lord: "O My Lord! Leave me not single (childless), though You are the Best of the inheritors."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 89, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

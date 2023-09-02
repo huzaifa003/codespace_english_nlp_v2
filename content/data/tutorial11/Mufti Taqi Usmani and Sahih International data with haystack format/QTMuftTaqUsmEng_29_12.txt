@@ -1,0 +1,1 @@
+{'text': 'Those who disbelieve say to those who believe, “Follow our way, and we will bear the burden of your sins.” And they are not (able) to bear the burden of their sins in the least. Indeed they are pure liars.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 12, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

@@ -1,0 +1,1 @@
+{'text': 'The chiefs of his people said, “Indeed we see you in an obvious error.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 60, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

@@ -1,0 +1,1 @@
+{'text': 'who make mischief on the land and who do not set things right”.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 152, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

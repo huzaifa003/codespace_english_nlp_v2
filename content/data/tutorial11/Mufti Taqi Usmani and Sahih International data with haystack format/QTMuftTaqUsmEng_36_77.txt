@@ -1,0 +1,1 @@
+{'text': 'Did man not see that We have created him from a drop of semen? Then suddenly he stood as an open adversary (to Us).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 77, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

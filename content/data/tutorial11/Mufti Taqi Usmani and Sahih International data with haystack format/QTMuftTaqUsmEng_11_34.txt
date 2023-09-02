@@ -1,0 +1,1 @@
+{'text': 'My good counsel will not profit you, even though I wish you the best, if Allah wills to let you go astray. He is your Lord, and to Him you shall be made to return.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 34, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

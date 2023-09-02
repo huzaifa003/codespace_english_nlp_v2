@@ -1,0 +1,1 @@
+{'text': 'As for the Jānn (the first Jinn), We had created him earlier from the fire of the scorching wind.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 27, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

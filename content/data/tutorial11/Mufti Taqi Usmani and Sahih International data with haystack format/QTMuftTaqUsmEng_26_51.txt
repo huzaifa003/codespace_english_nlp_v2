@@ -1,0 +1,1 @@
+{'text': 'We really hope that our Lord will forgive us our faults, as we are the first of the believers.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 51, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

@@ -1,0 +1,1 @@
+{'text': 'And fulfill the Covenant of Allah (Baia: pledge for Islam) when you have covenanted, and break not the oaths after you have confirmed them, and indeed you have appointed Allah your surety. Verily! Allah knows what you do.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 91, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

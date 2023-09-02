@@ -1,0 +1,1 @@
+{'text': 'Is it that We have sent down to them any authority that speaks to them about their associating partners with Him?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 35, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

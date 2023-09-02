@@ -1,0 +1,1 @@
+{'text': 'And if you could see when the angels take away the souls of those who disbelieve (at death), they smite their faces and their backs, (saying): "Taste the punishment of the blazing Fire."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 8, 'ayah_no': 50, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

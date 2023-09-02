@@ -1,0 +1,1 @@
+{'text': 'Go with this letter of mine, and deliver it down to them, then turn back from them, and see how they react.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 28, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

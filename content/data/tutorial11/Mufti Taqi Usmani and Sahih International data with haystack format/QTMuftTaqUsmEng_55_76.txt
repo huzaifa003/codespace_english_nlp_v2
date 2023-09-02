@@ -1,0 +1,1 @@
+{'text': '(The people of these gardens will be) reclining on green cushions and marvelously beautiful mattresses.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 55, 'ayah_no': 76, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

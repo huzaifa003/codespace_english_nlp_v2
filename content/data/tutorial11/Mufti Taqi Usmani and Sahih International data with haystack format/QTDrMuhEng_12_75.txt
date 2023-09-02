@@ -1,0 +1,1 @@
+{'text': 'They (Yoosufs (Joseph) brothers) said: "The penalty should be that he, in whose bag it is found, should be held for the punishment (of the crime). Thus we punish the Zalimoon (wrong-doers, etc.)!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 75, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

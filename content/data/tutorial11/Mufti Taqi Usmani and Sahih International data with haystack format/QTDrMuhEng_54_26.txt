@@ -1,0 +1,1 @@
+{'text': 'Tomorrow they will come to know, who is the liar, the insolent one!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 26, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

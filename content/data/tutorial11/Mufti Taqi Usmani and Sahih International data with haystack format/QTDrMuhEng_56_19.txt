@@ -1,0 +1,1 @@
+{'text': 'Wherefrom they will get neither any aching of the head, nor any intoxication.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 56, 'ayah_no': 19, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

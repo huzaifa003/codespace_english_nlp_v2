@@ -1,0 +1,1 @@
+{'text': '"And let him share my task (of conveying Allahs Message and Prophethood),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 32, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

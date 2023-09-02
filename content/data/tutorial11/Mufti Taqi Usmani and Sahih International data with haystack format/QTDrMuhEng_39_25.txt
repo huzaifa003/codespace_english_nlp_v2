@@ -1,0 +1,1 @@
+{'text': 'Those before them belied, and so the torment came on them from directions they perceived not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 25, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

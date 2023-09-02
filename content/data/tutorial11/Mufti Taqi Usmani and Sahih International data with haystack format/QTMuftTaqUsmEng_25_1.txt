@@ -1,0 +1,1 @@
+{'text': 'Glorious is the One who has revealed the Criterion to His servant, so that he may be a warner to all the worlds,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 1, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

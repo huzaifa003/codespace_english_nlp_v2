@@ -1,0 +1,1 @@
+{'text': 'And it was revealed to NūH: None of your people would come to believe any more, except those who have already believed. So, be not distressed by what they have been doing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 36, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

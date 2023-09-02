@@ -1,0 +1,1 @@
+{'text': 'He (Mūsā) said, “What then is your case, O Sāmiriyy?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 95, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

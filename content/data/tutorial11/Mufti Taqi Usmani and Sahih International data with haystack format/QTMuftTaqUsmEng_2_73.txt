@@ -1,0 +1,1 @@
+{'text': 'So, We said, “Strike him with a part of it.” This is how Allah revives the dead; and He shows you His signs, so that you may understand.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 73, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

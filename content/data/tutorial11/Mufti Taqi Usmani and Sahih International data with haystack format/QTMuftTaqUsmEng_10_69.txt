@@ -1,0 +1,1 @@
+{'text': 'Say: Those who fabricate lies against Allah shall not prosper.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 69, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

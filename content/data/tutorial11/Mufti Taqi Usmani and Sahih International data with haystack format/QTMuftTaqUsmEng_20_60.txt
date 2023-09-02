@@ -1,0 +1,1 @@
+{'text': 'So, Pharaoh turned back, and put his plot together, then came.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 60, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

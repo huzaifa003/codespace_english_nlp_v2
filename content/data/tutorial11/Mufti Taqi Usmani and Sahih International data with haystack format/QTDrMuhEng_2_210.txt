@@ -1,0 +1,1 @@
+{'text': 'Do they then wait for anything other than that Allah should come to them in the shadows of the clouds and the angels? (Then) the case would be already judged. And to Allah return all matters (for decision).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 210, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

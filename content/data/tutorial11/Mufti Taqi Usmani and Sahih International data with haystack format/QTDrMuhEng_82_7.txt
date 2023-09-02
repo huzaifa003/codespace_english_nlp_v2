@@ -1,0 +1,1 @@
+{'text': 'Who created you, fashioned you perfectly, and gave you due proportion;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 82, 'ayah_no': 7, 'surah_name_en': 'AL-Infitar (The Cleaving)', 'surah_name_ar': 'الاِنفِطَار'}}

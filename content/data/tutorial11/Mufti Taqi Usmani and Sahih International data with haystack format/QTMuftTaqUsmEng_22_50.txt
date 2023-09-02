@@ -1,0 +1,1 @@
+{'text': 'So those who come to believe and do good deeds, for them there is forgiveness and dignified provision.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 50, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

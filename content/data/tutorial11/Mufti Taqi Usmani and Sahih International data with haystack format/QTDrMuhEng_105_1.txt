@@ -1,0 +1,1 @@
+{'text': 'Have you (O Muhammad (Peace be upon him)) not seen how your Lord dealt with the Owners of the Elephant? (The elephant army which came from Yemen under the command of Abrahah Al-Ashram intending to destroy the Kabah at Makkah).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 105, 'ayah_no': 1, 'surah_name_en': 'Al-fil (The Elephant)', 'surah_name_ar': 'الفِیل'}}

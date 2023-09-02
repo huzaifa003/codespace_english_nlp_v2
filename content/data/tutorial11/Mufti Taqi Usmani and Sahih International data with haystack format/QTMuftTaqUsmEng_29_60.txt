@@ -1,0 +1,1 @@
+{'text': 'How many an animal there is that does not carry its provision. Allah gives provision to it as well as to you, and He is the All-Hearing, the All-knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 60, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

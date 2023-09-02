@@ -1,0 +1,1 @@
+{'text': 'Say (O Muhammad SAW): "No wage do I ask of you for this (the Quran), nor am I one of the Mutakallifoon (those who pretend and fabricate things which do not exist).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 86, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

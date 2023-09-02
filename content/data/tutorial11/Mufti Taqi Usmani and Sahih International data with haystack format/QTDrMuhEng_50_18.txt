@@ -1,0 +1,1 @@
+{'text': 'Not a word does he (or she) utter, but there is a watcher by him ready (to record it).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 50, 'ayah_no': 18, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

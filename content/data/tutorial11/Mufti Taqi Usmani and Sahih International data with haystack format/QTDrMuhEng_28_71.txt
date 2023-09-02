@@ -1,0 +1,1 @@
+{'text': 'Say (O Muhammad SAW): "Tell me! If Allah made night continuous for you till the Day of Resurrection, who is an ilah (a god) besides Allah who could bring you light? Will you not then hear?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 71, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

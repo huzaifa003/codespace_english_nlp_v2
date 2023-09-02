@@ -1,0 +1,1 @@
+{'text': 'Indeed we have revealed to you the Qur’ān through a gradual process.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 23, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

@@ -1,0 +1,1 @@
+{'text': 'Yet, those who repent and correct and declare (what they used to conceal), their repentance is accepted by Me. I am the Most-Relenting, the Most-Merciful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 160, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

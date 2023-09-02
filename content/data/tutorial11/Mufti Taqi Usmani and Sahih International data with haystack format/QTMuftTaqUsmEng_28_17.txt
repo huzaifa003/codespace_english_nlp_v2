@@ -1,0 +1,1 @@
+{'text': 'He (Mūsā) said, “O my Lord! As You have favored me, I will never be a supporter of the sinners.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 17, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

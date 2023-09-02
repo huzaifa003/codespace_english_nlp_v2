@@ -1,0 +1,1 @@
+{'text': 'Then whoever changes the bequest after hearing it, the sin shall be on those who make the change. Truly, Allah is All-Hearer, All-Knower.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 181, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

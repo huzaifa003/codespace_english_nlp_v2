@@ -1,0 +1,1 @@
+{'text': 'In them (cattle offered for sacrifice) are benefits for you for an appointed term, and afterwards they are brought for sacrifice unto the ancient House (the Haram - sacred territory of Makkah city).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 22, 'ayah_no': 33, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

@@ -1,0 +1,1 @@
+{'text': 'And verily, whosoever shows patience and forgives that would truly be from the things recommended by Allah.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 42, 'ayah_no': 43, 'surah_name_en': 'Ash-Shura (Council, Consultation)', 'surah_name_ar': 'الشُّورٰی'}}

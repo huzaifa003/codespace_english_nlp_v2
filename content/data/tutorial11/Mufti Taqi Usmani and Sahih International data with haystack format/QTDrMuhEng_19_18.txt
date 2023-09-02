@@ -1,0 +1,1 @@
+{'text': 'She said: "Verily! I seek refuge with the Most Beneficent (Allah) from you, if you do fear Allah."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 18, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

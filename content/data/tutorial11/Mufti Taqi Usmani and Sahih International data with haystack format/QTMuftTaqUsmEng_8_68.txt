@@ -1,0 +1,1 @@
+{'text': 'Had there not been a decree from Allah that came earlier, a great punishment would have overtaken you because of what you have taken.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 68, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

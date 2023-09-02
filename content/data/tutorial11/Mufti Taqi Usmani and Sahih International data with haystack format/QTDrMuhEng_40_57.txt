@@ -1,0 +1,1 @@
+{'text': 'The creation of the heavens and the earth is indeed greater than the creation of mankind, yet most of mankind know not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 57, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

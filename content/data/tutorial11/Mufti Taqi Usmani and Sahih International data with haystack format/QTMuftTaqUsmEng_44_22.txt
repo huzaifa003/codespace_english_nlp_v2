@@ -1,0 +1,1 @@
+{'text': 'Then he prayed to his Lord saying, “These are a guilty people.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 44, 'ayah_no': 22, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

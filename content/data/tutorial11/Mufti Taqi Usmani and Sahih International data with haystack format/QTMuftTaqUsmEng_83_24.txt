@@ -1,0 +1,1 @@
+{'text': 'You will recognize the glamour of bliss on their faces.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 83, 'ayah_no': 24, 'surah_name_en': 'Al-Mutaffifin (Defrauding)', 'surah_name_ar': 'المُطَفِّفِین'}}

@@ -1,0 +1,1 @@
+{'text': 'As for man, when his Lord tests him, and thus gives him honour and bounties, he says, “My Lord has honoured me.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 89, 'ayah_no': 15, 'surah_name_en': 'Al-Fajr (The Dawn)', 'surah_name_ar': 'الفجر'}}

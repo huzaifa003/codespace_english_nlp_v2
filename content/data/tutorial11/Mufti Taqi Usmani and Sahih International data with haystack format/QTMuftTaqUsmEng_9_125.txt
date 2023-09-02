@@ -1,0 +1,1 @@
+{'text': 'As for those who have malady in their hearts, it adds further impurity to their (initial) impurity, and they die infidels.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 125, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

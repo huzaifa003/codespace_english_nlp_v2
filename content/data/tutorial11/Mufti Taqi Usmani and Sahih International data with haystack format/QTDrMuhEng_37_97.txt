@@ -1,0 +1,1 @@
+{'text': 'They said: "Build for him a building (it is said that the building was like a furnace) and throw him into the blazing fire!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 97, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

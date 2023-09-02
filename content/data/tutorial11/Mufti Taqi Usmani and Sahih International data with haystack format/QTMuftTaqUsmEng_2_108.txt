@@ -1,0 +1,1 @@
+{'text': 'Or, do you rather want to question your Prophet as Mūsā was questioned earlier? And whoever takes infidelity in exchange for faith has certainly missed the straight path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 108, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'Their garments will be of fine green silk, and gold embroidery. They will be adorned with bracelets of silver, and their Lord will give them a pure drink.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 76, 'ayah_no': 21, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

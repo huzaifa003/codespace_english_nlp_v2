@@ -1,0 +1,1 @@
+{'text': 'As for those who were given knowledge and belief, they will say, “You remained, according to the destiny written by Allah, up to the Day of Resurrection. So this is the Day of Resurrection, but you had no belief.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 56, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

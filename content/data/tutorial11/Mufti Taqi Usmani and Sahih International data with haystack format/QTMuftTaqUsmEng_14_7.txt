@@ -1,0 +1,1 @@
+{'text': '(Recall the time) when your Lord declared, “If you express gratitude, I shall certainly give you more, and if you are ungrateful, then My punishment is severe.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 7, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

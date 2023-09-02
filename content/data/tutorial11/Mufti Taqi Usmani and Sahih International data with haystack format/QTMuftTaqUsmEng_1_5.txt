@@ -1,0 +1,1 @@
+{'text': 'You alone do we worship, and from You alone do we seek help.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 1, 'ayah_no': 5, 'surah_name_en': 'Al-Fatiha (The Opening)', 'surah_name_ar': 'الفاتحۃ'}}

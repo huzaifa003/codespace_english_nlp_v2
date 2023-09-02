@@ -1,0 +1,1 @@
+{'text': 'Indeed We have created man, and We know whatever thoughts his inner self develops, and We are closer to him than (his) jugular vein,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 16, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

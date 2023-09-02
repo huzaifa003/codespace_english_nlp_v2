@@ -1,0 +1,1 @@
+{'text': 'Should a stroke from the Satan strike you, seek refuge with Allah. Surely, He is All-Hearing, All-Knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 200, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

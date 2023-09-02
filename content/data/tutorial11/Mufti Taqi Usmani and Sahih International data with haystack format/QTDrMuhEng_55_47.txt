@@ -1,0 +1,1 @@
+{'text': 'Then which of the Blessings of your Lord will you both (jinns and men) deny?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 55, 'ayah_no': 47, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

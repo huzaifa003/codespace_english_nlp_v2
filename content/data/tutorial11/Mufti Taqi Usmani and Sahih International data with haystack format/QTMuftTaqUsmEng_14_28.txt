@@ -1,0 +1,1 @@
+{'text': 'Have you not seen those who adopted disbelief in exchange of Allah’s favor and caused their people to disembark at a land of total destruction,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 28, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

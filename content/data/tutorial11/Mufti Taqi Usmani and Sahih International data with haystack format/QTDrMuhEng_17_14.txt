@@ -1,0 +1,1 @@
+{'text': '(It will be said to him): "Read your book. You yourself are sufficient as a reckoner against you this Day."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 14, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

@@ -1,0 +1,1 @@
+{'text': 'So I have warned you of a blazing fire.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 92, 'ayah_no': 14, 'surah_name_en': 'Al-Lail (The night)', 'surah_name_ar': 'الَّیل'}}

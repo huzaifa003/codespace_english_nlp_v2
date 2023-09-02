@@ -1,0 +1,1 @@
+{'text': '(Remember) when ‘Imrān’s wife said: “O my Lord, I have vowed that what is in my womb will be devoted exclusively for You. So, accept (it) from me. You, certainly You, are the All-Hearing, the All-Knowing.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 35, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

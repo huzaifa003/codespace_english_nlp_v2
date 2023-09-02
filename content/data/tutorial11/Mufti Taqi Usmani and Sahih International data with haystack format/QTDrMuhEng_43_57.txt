@@ -1,0 +1,1 @@
+{'text': 'And when the son of Maryam (Mary) is quoted as an example (i.e. Iesa (Jesus) is worshipped like their idols), behold! Your people cry aloud (laugh out at the example).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 57, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

@@ -1,0 +1,1 @@
+{'text': 'Then a (big) fish swallowed him and he had done an act worthy of blame.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 142, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

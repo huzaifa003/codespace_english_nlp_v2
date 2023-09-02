@@ -1,0 +1,1 @@
+{'text': 'Taking joy in the things which their Lord has given them. Verily, they were before this Muhsinoon (good-doers - see V.2:112).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 51, 'ayah_no': 16, 'surah_name_en': 'Adh-Dhariyat (The winnowing winds)', 'surah_name_ar': 'الذّٰریٰت'}}

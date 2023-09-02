@@ -1,0 +1,1 @@
+{'text': 'And a sign for them is the dead land. We gave it life and brought forth grain from it; so from it they eat.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 33, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

@@ -1,0 +1,1 @@
+{'text': 'Say, “Call (Him by the name of) Allah or Ar-RaHmān, in whichever way you call, His are the Best Names.” Do not be (too) loud in your Salāh, nor be (too) low in it, and seek a way in between.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 110, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

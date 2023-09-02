@@ -1,0 +1,1 @@
+{'text': 'And leave Me Alone to deal with the beliers (those who deny My Verses, etc.), and those who are in possession of good things of life. And give them respite for a little while.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 73, 'ayah_no': 11, 'surah_name_en': 'Al-Muzzammil (The enshrouded one)', 'surah_name_ar': 'المزّمّل'}}

@@ -1,0 +1,1 @@
+{'text': 'And among them there are those who listen to you. Would you, then, make the deaf hear, even though they lack understanding?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 42, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

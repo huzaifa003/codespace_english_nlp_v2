@@ -1,0 +1,1 @@
+{'text': 'They said, “Who has done this to our gods? He is one of the wrongdoers indeed.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 59, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

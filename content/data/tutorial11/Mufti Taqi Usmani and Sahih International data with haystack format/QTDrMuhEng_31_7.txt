@@ -1,0 +1,1 @@
+{'text': 'And when Our Verses (of the Quran) are recited to such a one, he turns away in pride, as if he heard them not, as if there were deafness in his ear. So announce to him a painful torment.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 31, 'ayah_no': 7, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

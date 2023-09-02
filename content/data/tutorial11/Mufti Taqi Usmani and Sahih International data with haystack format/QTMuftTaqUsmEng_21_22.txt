@@ -1,0 +1,1 @@
+{'text': 'Had there been gods beside Allah, in the heavens and the earth, both of them would have fallen in disorder. So pure is Allah, the Lord of the Throne, from what they describe.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 22, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

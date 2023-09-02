@@ -1,0 +1,1 @@
+{'text': '(Firaun (Pharaoh)) said (to Moosa (Moses)): "Did we not bring you up among us as a child? And you did dwell many years of your life with us.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 18, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

@@ -1,0 +1,1 @@
+{'text': 'And of the Shayatin (devils) (from the jinns) were some who dived for him, and did other work besides that; and it was We Who guarded them.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 82, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

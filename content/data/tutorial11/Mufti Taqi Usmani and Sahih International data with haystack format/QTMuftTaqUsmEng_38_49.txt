@@ -1,0 +1,1 @@
+{'text': 'This is a reminder (of what has passed). And surely the God-fearing will have the best place to return:', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 49, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

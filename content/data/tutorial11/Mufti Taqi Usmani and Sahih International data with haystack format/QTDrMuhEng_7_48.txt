@@ -1,0 +1,1 @@
+{'text': 'And the men on AlAraf (the wall) will call unto the men whom they would recognise by their marks, saying: "Of what benefit to you were your great numbers (and hoards of wealth), and your arrogance against Faith?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 48, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

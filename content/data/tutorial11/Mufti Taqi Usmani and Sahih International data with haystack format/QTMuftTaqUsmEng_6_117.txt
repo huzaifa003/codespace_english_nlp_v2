@@ -1,0 +1,1 @@
+{'text': 'Surely, your Lord is best aware of those who go astray from His way, and He is best aware of those who are on the right path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 117, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

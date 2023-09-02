@@ -1,0 +1,1 @@
+{'text': 'Then, verily they will indeed enter and taste the burning flame of Hell', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 83, 'ayah_no': 16, 'surah_name_en': 'Al-Mutaffifin (Defrauding)', 'surah_name_ar': 'المُطَفِّفِین'}}

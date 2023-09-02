@@ -1,0 +1,1 @@
+{'text': 'Then, when they had both submitted themselves (to the Will of Allah), and he had laid him prostrate on his forehead (or on the side of his forehead for slaughtering);', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 103, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

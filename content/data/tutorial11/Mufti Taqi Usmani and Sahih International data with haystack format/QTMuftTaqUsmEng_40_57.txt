@@ -1,0 +1,1 @@
+{'text': 'Certainly, the creation of the heavens and the earth is greater than the creation of human beings, but most human beings do not know.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 57, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

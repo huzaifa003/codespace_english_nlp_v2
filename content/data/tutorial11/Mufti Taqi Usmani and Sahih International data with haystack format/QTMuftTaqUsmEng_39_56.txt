@@ -1,0 +1,1 @@
+{'text': 'lest someone should say, “Pity on me, because I fell short in respect of (observing the rights of) Allah and in fact, I was one of those who mocked”,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 56, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

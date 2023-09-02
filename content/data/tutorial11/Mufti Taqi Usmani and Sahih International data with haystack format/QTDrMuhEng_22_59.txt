@@ -1,0 +1,1 @@
+{'text': 'Truly, He will make them enter an entrance with which they shall be well-pleased, and verily, Allah indeed is All-Knowing, Most Forbearing.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 22, 'ayah_no': 59, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

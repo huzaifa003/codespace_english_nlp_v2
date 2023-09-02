@@ -1,0 +1,1 @@
+{'text': 'So We have made this (the Quran) easy in your own tongue (O Muhammad SAW), only that you may give glad tidings to the Muttaqoon (pious and righteous persons - See V.2:2), and warn with it the Ludda (most quarrelsome) people.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 97, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

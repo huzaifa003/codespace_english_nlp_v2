@@ -1,0 +1,1 @@
+{'text': 'And everyone will be paid in full for what he did - and He knows best what they do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 70, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

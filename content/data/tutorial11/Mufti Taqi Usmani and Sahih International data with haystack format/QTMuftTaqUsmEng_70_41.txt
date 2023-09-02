@@ -1,0 +1,1 @@
+{'text': 'to bring those better than them in their place, and We are not to be frustrated.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 70, 'ayah_no': 41, 'surah_name_en': 'Al-Maarij (The Ascending stairways)', 'surah_name_ar': 'المعارج'}}

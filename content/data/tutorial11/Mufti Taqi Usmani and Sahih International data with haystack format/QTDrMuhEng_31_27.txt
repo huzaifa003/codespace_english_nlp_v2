@@ -1,0 +1,1 @@
+{'text': 'And if all the trees on the earth were pens and the sea (were ink wherewith to write), with seven seas behind it to add to its (supply), yet the Words of Allah would not be exhausted. Verily, Allah is AllMighty, AllWise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 31, 'ayah_no': 27, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

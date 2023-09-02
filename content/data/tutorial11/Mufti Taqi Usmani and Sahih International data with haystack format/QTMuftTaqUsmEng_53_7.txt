@@ -1,0 +1,1 @@
+{'text': 'while he was on the upper horizon.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 53, 'ayah_no': 7, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

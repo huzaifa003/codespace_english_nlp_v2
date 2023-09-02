@@ -1,0 +1,1 @@
+{'text': 'And He found you unaware (of the Quran, its legal laws, and Prophethood, etc.) and guided you?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 93, 'ayah_no': 7, 'surah_name_en': 'Ad-Dhuha (The morning hours)', 'surah_name_ar': 'الضُّحٰی'}}

@@ -1,0 +1,1 @@
+{'text': 'Allah blots out what He wills and confirms (what He wills). And with Him is the Mother of the Book (Al-Lauh Al-Mahfooz)', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 13, 'ayah_no': 39, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

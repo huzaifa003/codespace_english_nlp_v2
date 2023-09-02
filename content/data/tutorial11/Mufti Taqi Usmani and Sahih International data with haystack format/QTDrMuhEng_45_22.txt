@@ -1,0 +1,1 @@
+{'text': 'And Allah has created the heavens and the earth with truth, in order that each person may be recompensed what he has earned, and they will not be wronged .', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 45, 'ayah_no': 22, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

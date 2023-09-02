@@ -1,0 +1,1 @@
+{'text': 'This Our Record speaks about you with truth. Verily, We were recording what you used to do (i.e. Our angels used to record your deeds).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 45, 'ayah_no': 29, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

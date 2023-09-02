@@ -1,0 +1,1 @@
+{'text': 'The hypocrites fear lest a Soorah (chapter of the Quran) should be revealed about them, showing them what is in their hearts. Say: "(Go ahead and) mock! But certainly Allah will bring to light all that you fear."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 64, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

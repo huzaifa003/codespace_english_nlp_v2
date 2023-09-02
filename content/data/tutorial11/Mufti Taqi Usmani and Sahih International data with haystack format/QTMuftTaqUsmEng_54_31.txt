@@ -1,0 +1,1 @@
+{'text': 'We sent upon them a single Cry, and they were like crushed leafs of a hedge-builder.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 54, 'ayah_no': 31, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

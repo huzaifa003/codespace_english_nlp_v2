@@ -1,0 +1,1 @@
+{'text': '(Allah) said: "(O Iblees) get down from this (Paradise), it is not for you to be arrogant here. Get out, for you are of those humiliated and disgraced."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 13, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

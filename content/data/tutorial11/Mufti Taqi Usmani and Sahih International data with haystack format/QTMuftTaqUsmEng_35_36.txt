@@ -1,0 +1,1 @@
+{'text': 'As for those who disbelieve, for them shall be the fire of Jahannam; neither they will be sentenced to death, so that they could die, nor will its torment be lightened for them. It is in this way that We punish every infidel.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 35, 'ayah_no': 36, 'surah_name_en': 'Fatir (Originator)', 'surah_name_ar': 'فاطر'}}

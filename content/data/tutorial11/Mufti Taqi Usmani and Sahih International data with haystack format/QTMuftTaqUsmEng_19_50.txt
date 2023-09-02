@@ -1,0 +1,1 @@
+{'text': 'and We bestowed on them (a great deal) of our mercy, and caused them to have a good name at a high level.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 50, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

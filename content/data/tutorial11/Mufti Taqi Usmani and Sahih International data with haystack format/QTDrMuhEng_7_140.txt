@@ -1,0 +1,1 @@
+{'text': 'He said: "Shall I seek for you an Ilahan (a God) other than Allah, while He has given you superiority over the Alameen (mankind and jinns of your time)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 140, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

@@ -1,0 +1,1 @@
+{'text': 'Verily, you cannot make the dead to hear (i.e. benefit them and similarly the disbelievers), nor can you make the deaf to hear the call, when they flee, turning their backs.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 80, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

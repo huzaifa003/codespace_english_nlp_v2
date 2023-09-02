@@ -1,0 +1,1 @@
+{'text': 'O you who believe, do not devour each other’s property by false means, unless it is trade conducted with your mutual consent. Do not kill one another. Indeed, Allah has been Very-Merciful to you.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 4, 'ayah_no': 29, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

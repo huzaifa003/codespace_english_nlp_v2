@@ -1,0 +1,1 @@
+{'text': 'Now, in which discourse, after this, will they believe?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 77, 'ayah_no': 50, 'surah_name_en': 'Al-Mursalat (The emissaries)', 'surah_name_ar': 'المرسلٰت'}}

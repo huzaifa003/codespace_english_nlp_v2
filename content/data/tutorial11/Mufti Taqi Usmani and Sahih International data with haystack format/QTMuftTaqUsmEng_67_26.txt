@@ -1,0 +1,1 @@
+{'text': 'Say, “The knowledge (of that Day) is only with Allah, and I am only a plain warner.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 67, 'ayah_no': 26, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

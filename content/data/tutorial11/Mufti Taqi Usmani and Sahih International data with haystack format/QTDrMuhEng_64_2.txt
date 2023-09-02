@@ -1,0 +1,1 @@
+{'text': 'He it is Who created you, then some of you are disbelievers and some of you are believers. And Allah is All-Seer of what you do.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 64, 'ayah_no': 2, 'surah_name_en': 'At-Taghabun (Mutual Disillusion)', 'surah_name_ar': 'التّغابن'}}

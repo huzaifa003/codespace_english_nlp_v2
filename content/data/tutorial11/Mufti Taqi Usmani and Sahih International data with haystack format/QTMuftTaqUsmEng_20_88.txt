@@ -1,0 +1,1 @@
+{'text': 'Then he brought forth for them a calf, which was (merely) a body with a lowing sound. Then they said, “This is your god and the god of Mūsā, and he (Mūsā) erred.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 88, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

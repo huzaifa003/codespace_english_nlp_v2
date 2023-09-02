@@ -1,0 +1,1 @@
+{'text': 'Allah destroys ribā and nourishes charities, and Allah does not like any sinful disbeliever.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 276, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

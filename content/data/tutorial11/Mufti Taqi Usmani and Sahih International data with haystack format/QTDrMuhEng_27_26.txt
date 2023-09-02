@@ -1,0 +1,1 @@
+{'text': 'Allah, La ilaha illa Huwa (none has the right to be worshipped but He), the Lord of the Supreme Throne!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 26, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

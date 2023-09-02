@@ -1,0 +1,1 @@
+{'text': 'the King of mankind,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 114, 'ayah_no': 2, 'surah_name_en': 'An-Nas (The mankind)', 'surah_name_ar': 'النَّاس'}}

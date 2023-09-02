@@ -1,0 +1,1 @@
+{'text': 'And O my people, this is the she-camel of Allah, a sign for you. So, leave her free to eat on the earth of Allah, and do not even touch her with evil (intention), lest an approaching punishment should seize you.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 64, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

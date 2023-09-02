@@ -1,0 +1,1 @@
+{'text': 'Or He may destroy them (by drowning) because of that which their (people) have earned. And He pardons much.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 42, 'ayah_no': 34, 'surah_name_en': 'Ash-Shura (Council, Consultation)', 'surah_name_ar': 'الشُّورٰی'}}

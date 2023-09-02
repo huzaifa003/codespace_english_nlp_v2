@@ -1,0 +1,1 @@
+{'text': 'through an Arabic Qur’ān that has no digression (from the truth), so that they may be God-fearing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 28, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

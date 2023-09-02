@@ -1,0 +1,1 @@
+{'text': 'And (remember) when We said to the angels: "Prostrate unto Adam." They prostrated except Iblees (Satan). He said: "Shall I prostrate to one whom You created from clay?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 61, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

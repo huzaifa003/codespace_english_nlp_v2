@@ -1,0 +1,1 @@
+{'text': 'Who is better in Faith than one who has surrendered his self to Allah and is good in deeds, and has followed the creed of Ibrāhīm, the upright. Allah has made Ibrāhīm a friend.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 4, 'ayah_no': 125, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

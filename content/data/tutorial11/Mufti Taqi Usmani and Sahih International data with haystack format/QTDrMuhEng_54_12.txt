@@ -1,0 +1,1 @@
+{'text': 'And We caused the earth to gush forth with springs. So the waters (of the heaven and the earth) met for a matter predestined.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 12, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

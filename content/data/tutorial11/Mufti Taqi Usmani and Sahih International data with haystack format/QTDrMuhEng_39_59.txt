@@ -1,0 +1,1 @@
+{'text': 'Yes! Verily, there came to you My Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) and you denied them, and were proud and were among the disbelievers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 59, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

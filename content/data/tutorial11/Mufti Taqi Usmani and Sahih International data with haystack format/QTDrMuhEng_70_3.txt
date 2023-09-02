@@ -1,0 +1,1 @@
+{'text': 'From Allah, the Lord of the ways of ascent.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 70, 'ayah_no': 3, 'surah_name_en': 'Al-Maarij (The Ascending stairways)', 'surah_name_ar': 'المعارج'}}

@@ -1,0 +1,1 @@
+{'text': '"Taste you your trial (burning)! This is what you used to ask to be hastened!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 51, 'ayah_no': 14, 'surah_name_en': 'Adh-Dhariyat (The winnowing winds)', 'surah_name_ar': 'الذّٰریٰت'}}

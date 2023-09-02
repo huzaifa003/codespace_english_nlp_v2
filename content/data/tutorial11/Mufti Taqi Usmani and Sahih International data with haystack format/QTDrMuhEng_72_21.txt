@@ -1,0 +1,1 @@
+{'text': 'Say: "It is not in my power to cause you harm, or to bring you to the Right Path."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 72, 'ayah_no': 21, 'surah_name_en': 'Al-Jinn (The Jinn)', 'surah_name_ar': 'الجن'}}

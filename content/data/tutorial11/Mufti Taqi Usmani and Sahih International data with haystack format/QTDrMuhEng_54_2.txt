@@ -1,0 +1,1 @@
+{'text': 'And if they see a sign, they turn away, and say: "This is continuous magic."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 2, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

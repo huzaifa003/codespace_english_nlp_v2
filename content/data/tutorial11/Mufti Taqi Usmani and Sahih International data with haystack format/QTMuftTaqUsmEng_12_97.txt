@@ -1,0 +1,1 @@
+{'text': 'They said, “Our father, pray to Allah to forgive us our sins. Surely, we have been guilty.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 97, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

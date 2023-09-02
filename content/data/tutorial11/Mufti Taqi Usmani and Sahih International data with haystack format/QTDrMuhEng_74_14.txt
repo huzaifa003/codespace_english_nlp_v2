@@ -1,0 +1,1 @@
+{'text': 'And made life smooth and comfortable for him!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 74, 'ayah_no': 14, 'surah_name_en': 'Al-Muddathir (The cloaked one)', 'surah_name_ar': 'المدّثّر'}}

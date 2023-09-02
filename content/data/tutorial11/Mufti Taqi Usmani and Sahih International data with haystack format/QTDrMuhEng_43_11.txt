@@ -1,0 +1,1 @@
+{'text': 'And Who sends down water (rain) from the sky in due measure. Then We revive a dead land therewith, and even so you will be brought forth (from the dead),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 11, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

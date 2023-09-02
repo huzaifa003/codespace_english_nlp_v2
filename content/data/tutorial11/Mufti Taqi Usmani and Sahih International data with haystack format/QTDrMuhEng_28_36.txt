@@ -1,0 +1,1 @@
+{'text': 'Then when Moosa (Moses) came to them with Our Clear Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.), they said: "This is nothing but invented magic. Never did we hear of this among our fathers of old."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 36, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

@@ -1,0 +1,1 @@
+{'text': 'With their eyes downcast, they will be enveloped by ignominy. They used to be called upon to prostrate when they were healthy (but they did not.)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 68, 'ayah_no': 43, 'surah_name_en': 'Al-Qalam (The Pen)', 'surah_name_ar': 'القلم'}}

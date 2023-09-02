@@ -1,0 +1,1 @@
+{'text': 'that is, Hārūn, my brother.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 30, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

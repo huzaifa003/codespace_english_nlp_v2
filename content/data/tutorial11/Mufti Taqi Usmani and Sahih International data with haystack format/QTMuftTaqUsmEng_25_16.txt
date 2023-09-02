@@ -1,0 +1,1 @@
+{'text': 'For them there will be whatever they wish, while they will be eternal. This is a promise undertaken by your Lord, (the fulfillment of) which is worth praying for.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 16, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

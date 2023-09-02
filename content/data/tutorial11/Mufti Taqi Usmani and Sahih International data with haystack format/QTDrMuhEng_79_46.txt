@@ -1,0 +1,1 @@
+{'text': 'The Day they see it, (it will be) as if they had not tarried (in this world) except an afternoon or a morning', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 79, 'ayah_no': 46, 'surah_name_en': 'An-Naziat (Those who drag forth)', 'surah_name_ar': 'النّٰزِعٰتِ'}}

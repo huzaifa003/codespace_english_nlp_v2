@@ -1,0 +1,1 @@
+{'text': 'Reclining therein on raised thrones, they will see there neither the excessive heat of the sun, nor the excessive bitter cold, (as in Paradise there is no sun and no moon).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 76, 'ayah_no': 13, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

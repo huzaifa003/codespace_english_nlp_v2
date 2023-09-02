@@ -1,0 +1,1 @@
+{'text': 'Indeed, there is a lesson in all this for him who has a heart and gives ear (to the truth) attentively.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 37, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

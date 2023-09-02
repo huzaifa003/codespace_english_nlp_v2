@@ -1,0 +1,1 @@
+{'text': '(Iblees (Satan)) said: "I am better than he, You created me from fire, and You created him from clay."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 76, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

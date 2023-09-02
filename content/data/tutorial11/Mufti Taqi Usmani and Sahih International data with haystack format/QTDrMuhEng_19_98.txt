@@ -1,0 +1,1 @@
+{'text': 'And how many a generation before them have We destroyed! Can you (O Muhammad SAW) find a single one of them or hear even a whisper of them?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 98, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

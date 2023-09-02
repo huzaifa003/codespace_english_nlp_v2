@@ -1,0 +1,1 @@
+{'text': 'Why (will they) not (be blamed)? Whoever fulfils his pledge and fears Allah, then, Allah loves the God-fearing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 76, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

@@ -1,0 +1,1 @@
+{'text': '"But as for him who believes (in Allahs Oneness) and works righteousness, he shall have the best reward, (Paradise), and we (Dhul-Qarnain) shall speak unto him mild words (as instructions)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 88, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

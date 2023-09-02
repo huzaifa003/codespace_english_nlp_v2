@@ -1,0 +1,1 @@
+{'text': 'Except him who brings to Allah a clean heart (clean from Shirk (polytheism) and Nifaq (hypocrisy)).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 89, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

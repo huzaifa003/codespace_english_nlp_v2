@@ -1,0 +1,1 @@
+{'text': 'A dwelling place for the Taghoon (those who transgress the boundry limits set by Allah like polytheists, disbelievers in the Oneness of Allah, hyprocrites, sinners, criminals, etc.),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 78, 'ayah_no': 22, 'surah_name_en': 'An-Naba (The tidings)', 'surah_name_ar': 'النَّبَاِ'}}

@@ -1,0 +1,1 @@
+{'text': '"And exalt not (yourselves) against Allah. Truly, I have come to you with a manifest authority.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 44, 'ayah_no': 19, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

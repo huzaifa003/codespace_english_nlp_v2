@@ -1,0 +1,1 @@
+{'text': 'And We rained down on them a rain (of stones). Then see what was the end of the Mujrimoon (criminals, polytheists, sinners, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 84, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

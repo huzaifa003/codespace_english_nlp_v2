@@ -1,0 +1,1 @@
+{'text': 'And We revealed to Mūsā saying, “Set out with my servants at night, then make for them a dry path across the sea (with the strike of your staff), neither fearing to be caught up, nor having any fear (of drowning).”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 77, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

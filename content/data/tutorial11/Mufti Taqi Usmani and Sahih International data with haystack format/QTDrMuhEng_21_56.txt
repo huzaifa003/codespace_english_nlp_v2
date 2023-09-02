@@ -1,0 +1,1 @@
+{'text': 'He said: "Nay, your Lord is the Lord of the heavens and the earth, Who created them and of that I am one of the witnesses.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 56, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

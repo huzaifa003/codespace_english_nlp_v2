@@ -1,0 +1,1 @@
+{'text': 'Say, “If I go astray, I shall go astray only to my own detriment. And if I follow the right path, it is because of what my Lord reveals to me. Surely He is All-Hearer, Ever-Near.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 34, 'ayah_no': 50, 'surah_name_en': 'Saba (Saba)', 'surah_name_ar': 'سبا'}}

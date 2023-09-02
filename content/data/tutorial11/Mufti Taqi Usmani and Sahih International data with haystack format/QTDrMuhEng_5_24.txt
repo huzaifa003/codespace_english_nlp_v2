@@ -1,0 +1,1 @@
+{'text': 'They said: "O Moosa (Moses)! We shall never enter it as long as they are there. So go you and your Lord and fight you two, we are sitting right here."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 5, 'ayah_no': 24, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'We have surely sent down enlightening verses, and Allah guides whom He wills to the straight path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 46, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

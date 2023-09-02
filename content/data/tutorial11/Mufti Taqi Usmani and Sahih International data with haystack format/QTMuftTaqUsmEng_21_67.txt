@@ -1,0 +1,1 @@
+{'text': 'Fie upon you and upon what you worship other than Allah. Do you then not understand?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 67, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

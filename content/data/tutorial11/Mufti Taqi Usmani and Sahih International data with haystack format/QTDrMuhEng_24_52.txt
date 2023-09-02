@@ -1,0 +1,1 @@
+{'text': 'And whosoever obeys Allah and His Messenger (SAW), fears Allah, and keeps his duty (to Him), such are the successful ones.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 52, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

@@ -1,0 +1,1 @@
+{'text': 'And We blessed him with IsHāq and Ya‘qūb as gift, and each one of them We made righteous.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 72, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

@@ -1,0 +1,1 @@
+{'text': 'They said: "O Moosa (Moses)! Either you throw (first), or shall we have the (first) throw?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 115, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

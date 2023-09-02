@@ -1,0 +1,1 @@
+{'text': 'This is the creation of Allah. Now, show me what is created by those others, besides Him. Rather, the transgressors are in open error.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 31, 'ayah_no': 11, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

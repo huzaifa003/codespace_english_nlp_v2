@@ -1,0 +1,1 @@
+{'text': 'This is the creation of Allah. So show Me that which those (whom you worship), besides Him have created. Nay, the Zalimoon (polytheists, wrongdoers and those who do not believe in the Oneness of Allah) are in plain error.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 31, 'ayah_no': 11, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

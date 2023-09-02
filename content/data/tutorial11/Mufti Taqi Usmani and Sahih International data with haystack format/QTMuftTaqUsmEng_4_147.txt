@@ -1,0 +1,1 @@
+{'text': 'What would Allah get by punishing you, if you are grateful and believe? Allah is Appreciating, All-Knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 4, 'ayah_no': 147, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

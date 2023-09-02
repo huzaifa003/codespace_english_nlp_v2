@@ -1,0 +1,1 @@
+{'text': 'Verily! This (Verses of the Quran) is an admonition, so whosoever wills, let him take a Path to his Lord (Allah).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 76, 'ayah_no': 29, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

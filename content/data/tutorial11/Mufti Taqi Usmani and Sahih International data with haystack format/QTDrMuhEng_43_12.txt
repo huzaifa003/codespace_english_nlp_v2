@@ -1,0 +1,1 @@
+{'text': 'And Who has created all the pairs and has appointed for you ships and cattle on which you ride,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 12, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

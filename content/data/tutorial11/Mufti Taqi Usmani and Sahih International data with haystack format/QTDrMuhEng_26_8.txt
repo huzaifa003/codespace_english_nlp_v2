@@ -1,0 +1,1 @@
+{'text': 'Verily, in this is an Ayah (proof or sign), yet most of them (polytheists, pagans, etc., who do not believe in Resurrection) are not believers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 8, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

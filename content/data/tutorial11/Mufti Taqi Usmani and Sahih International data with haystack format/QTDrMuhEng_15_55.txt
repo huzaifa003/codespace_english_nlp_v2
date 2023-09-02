@@ -1,0 +1,1 @@
+{'text': 'They (the angels) said: "We give you glad tidings in truth. So be not of the despairing ones."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 15, 'ayah_no': 55, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

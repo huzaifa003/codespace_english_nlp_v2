@@ -1,0 +1,1 @@
+{'text': 'And that I guide you to your Lord, so you should fear Him?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 79, 'ayah_no': 19, 'surah_name_en': 'An-Naziat (Those who drag forth)', 'surah_name_ar': 'النّٰزِعٰتِ'}}

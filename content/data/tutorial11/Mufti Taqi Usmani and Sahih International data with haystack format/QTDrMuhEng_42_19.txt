@@ -1,0 +1,1 @@
+{'text': 'Allah is very Gracious and Kind to His slaves. He gives provisions to whom He wills. And He is the All-Strong, the All-Mighty.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 42, 'ayah_no': 19, 'surah_name_en': 'Ash-Shura (Council, Consultation)', 'surah_name_ar': 'الشُّورٰی'}}

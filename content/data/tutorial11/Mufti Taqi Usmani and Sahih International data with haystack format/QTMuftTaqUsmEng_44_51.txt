@@ -1,0 +1,1 @@
+{'text': 'Indeed the God-fearing will be in a place free from fear,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 44, 'ayah_no': 51, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

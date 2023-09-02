@@ -1,0 +1,1 @@
+{'text': 'And those who disbelieved and belied Our Verses (of this Quran), for them will be a humiliating torment (in Hell).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 22, 'ayah_no': 57, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

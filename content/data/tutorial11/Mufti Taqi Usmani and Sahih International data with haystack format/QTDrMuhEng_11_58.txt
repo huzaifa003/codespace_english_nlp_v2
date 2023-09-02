@@ -1,0 +1,1 @@
+{'text': 'And when Our Commandment came, We saved Hood and those who believed with him by a Mercy from Us, and We saved them from a severe torment.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 58, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

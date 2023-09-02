@@ -1,0 +1,1 @@
+{'text': 'Then when the stars lose their lights;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 77, 'ayah_no': 8, 'surah_name_en': 'Al-Mursalat (The emissaries)', 'surah_name_ar': 'المرسلٰت'}}

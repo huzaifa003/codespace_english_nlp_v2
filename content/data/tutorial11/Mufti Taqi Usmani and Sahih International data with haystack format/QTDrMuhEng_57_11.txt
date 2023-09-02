@@ -1,0 +1,1 @@
+{'text': 'Who is he that will lend to Allah a goodly loan, then (Allah) will increase it manifold to his credit (in repaying), and he will have (besides) a good reward (i.e. Paradise).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 57, 'ayah_no': 11, 'surah_name_en': 'Al-Hadid (The Iron)', 'surah_name_ar': 'الحدید'}}

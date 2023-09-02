@@ -1,0 +1,1 @@
+{'text': 'See you not how Allah sets forth a parable? - A goodly word as a goodly tree, whose root is firmly fixed, and its branches (reach) to the sky (i.e. very high).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 14, 'ayah_no': 24, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

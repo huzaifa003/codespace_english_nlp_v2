@@ -1,0 +1,1 @@
+{'text': 'He will sip it unwillingly, and he will find a great difficulty to swallow it down his throat, and death will come to him from every side, yet he will not die and in front of him, will be a great torment.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 14, 'ayah_no': 17, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

@@ -1,0 +1,1 @@
+{'text': 'Verily, those who like that (the crime of) illegal sexual intercourse should be propagated among those who believe, they will have a painful torment in this world and in the Hereafter. And Allah knows and you know not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 19, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

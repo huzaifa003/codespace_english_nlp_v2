@@ -1,0 +1,1 @@
+{'text': 'So if they believe in the like of that which you believe, then they are rightly guided, but if they turn away, then they are only in opposition. So Allah will suffice you against them. And He is the All-Hearer, the All-Knower.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 137, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

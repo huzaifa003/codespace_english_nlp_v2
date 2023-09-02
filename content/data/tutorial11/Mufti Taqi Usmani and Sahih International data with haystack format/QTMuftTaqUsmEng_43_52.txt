@@ -1,0 +1,1 @@
+{'text': 'Or (do you not see that) I am much better than this one (Mūsā) who is worthless and can hardly express himself?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 52, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

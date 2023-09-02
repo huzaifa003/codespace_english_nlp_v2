@@ -1,0 +1,1 @@
+{'text': 'Has then your Lord (O pagans of Makkah) preferred for you sons, and taken for Himself from among the angels daughters. Verily! You utter an awful saying, indeed.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 40, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

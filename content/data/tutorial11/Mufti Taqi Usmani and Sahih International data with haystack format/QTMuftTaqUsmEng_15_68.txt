@@ -1,0 +1,1 @@
+{'text': 'He (LūT) said, “They are my guests; so do not put me to shame,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 68, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

@@ -1,0 +1,1 @@
+{'text': 'That is because you took Allah’s verses as a laughing stock, and the worldly life deceived you.” So today they will neither be brought out of it, nor will they be asked to repent.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 35, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

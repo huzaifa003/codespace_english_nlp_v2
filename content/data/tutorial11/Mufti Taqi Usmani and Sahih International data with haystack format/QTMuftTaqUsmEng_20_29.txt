@@ -1,0 +1,1 @@
+{'text': 'And make for me an assistant from my own family,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 29, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

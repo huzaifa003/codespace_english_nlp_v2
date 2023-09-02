@@ -1,0 +1,1 @@
+{'text': 'So, their wealth and their children should not attract you. In fact, Allah intends to punish them with these in this lowly life and that their souls should depart while they are disbelievers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 55, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

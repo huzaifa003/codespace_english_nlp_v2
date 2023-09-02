@@ -1,0 +1,1 @@
+{'text': 'O my people, enter the Holy Land which Allah has destined for you, and do not turn back, lest you should turn losers.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 21, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

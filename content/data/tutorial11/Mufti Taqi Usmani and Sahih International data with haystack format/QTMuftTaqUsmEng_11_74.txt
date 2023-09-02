@@ -1,0 +1,1 @@
+{'text': 'So, when fear left Ibrāhīm and the happy news came to him, he started disputing with Us for the people of LūT.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 74, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

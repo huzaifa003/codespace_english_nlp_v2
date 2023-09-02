@@ -1,0 +1,1 @@
+{'text': 'He knows what is in front of them and what is behind them, and they make recommendation for none but for whom He likes, and in awe of Him they are fearful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 28, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

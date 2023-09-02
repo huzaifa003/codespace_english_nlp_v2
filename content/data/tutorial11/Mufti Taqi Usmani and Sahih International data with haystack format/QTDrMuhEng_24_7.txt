@@ -1,0 +1,1 @@
+{'text': 'And the fifth (testimony) (should be) the invoking of the Curse of Allah on him if he be of those who tell a lie (against her).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 7, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

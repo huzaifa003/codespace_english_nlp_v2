@@ -1,0 +1,1 @@
+{'text': 'So turn aside from them (O Muhammad SAW) and await, verily they (too) are awaiting.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 32, 'ayah_no': 30, 'surah_name_en': 'As-Sajda (The Prostration)', 'surah_name_ar': 'السجدۃ'}}

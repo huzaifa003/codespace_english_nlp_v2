@@ -1,0 +1,1 @@
+{'text': '"O sister (i.e. the like) of Haroon (Aaron) (not the brother of Moosa (Moses), but he was another pious man at the time of Maryam (Mary))! Your father was not a man who used to commit adultery, nor your mother was an unchaste woman."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 28, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

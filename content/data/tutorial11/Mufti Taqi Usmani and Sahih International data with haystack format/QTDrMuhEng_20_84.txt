@@ -1,0 +1,1 @@
+{'text': 'He said: "They are close on my footsteps, and I hastened to You, O my Lord, that You might be pleased."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 84, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

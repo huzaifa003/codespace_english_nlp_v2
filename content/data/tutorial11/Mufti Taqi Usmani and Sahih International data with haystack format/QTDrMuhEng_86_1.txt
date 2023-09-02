@@ -1,0 +1,1 @@
+{'text': 'By the heaven, and At-Tariq (the night-comer, i.e. the bright star);', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 86, 'ayah_no': 1, 'surah_name_en': 'At-Tariq (The morning star)', 'surah_name_ar': 'الطَّارق'}}

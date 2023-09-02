@@ -1,0 +1,1 @@
+{'text': 'And they sold him for a paltry price, for a few silver-coins, and they had not much interest in him.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 20, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

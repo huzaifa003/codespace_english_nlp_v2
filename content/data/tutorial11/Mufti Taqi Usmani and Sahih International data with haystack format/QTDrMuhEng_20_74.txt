@@ -1,0 +1,1 @@
+{'text': 'Verily! Whoever comes to his Lord as a Mujrim (criminal, polytheist, disbeliever in the Oneness of Allah and His Messengers, sinner, etc.), then surely, for him is Hell, therein he will neither die nor live.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 74, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

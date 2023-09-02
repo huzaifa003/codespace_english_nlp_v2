@@ -1,0 +1,1 @@
+{'text': 'It will be no more than a single Cry, and in no time they will all be arraigned before Us.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 53, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

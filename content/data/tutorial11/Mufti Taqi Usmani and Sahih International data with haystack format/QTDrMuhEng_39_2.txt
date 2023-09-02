@@ -1,0 +1,1 @@
+{'text': 'Verily, We have sent down the Book to you (O Muhammad SAW) in truth: So worship Allah (Alone) by doing religious deeds sincerely for Allahs sake only, (and not to show-off, and not to set up rivals with Him in worship).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 2, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

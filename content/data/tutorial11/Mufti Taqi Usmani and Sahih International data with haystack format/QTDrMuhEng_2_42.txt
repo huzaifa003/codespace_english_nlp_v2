@@ -1,0 +1,1 @@
+{'text': 'And mix not truth with falsehood, nor conceal the truth (i.e. Muhammad Peace be upon him is Allahs Messenger and his qualities are written in your Scriptures, the Taurat (Torah) and the Injeel (Gospel)) while you know (the truth) .', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 42, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

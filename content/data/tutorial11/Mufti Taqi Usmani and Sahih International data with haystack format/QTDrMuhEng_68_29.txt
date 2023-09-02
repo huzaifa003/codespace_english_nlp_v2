@@ -1,0 +1,1 @@
+{'text': 'They said: "Glory to Our Lord! Verily, we have been Zalimoon (wrong-doers, etc.)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 68, 'ayah_no': 29, 'surah_name_en': 'Al-Qalam (The Pen)', 'surah_name_ar': 'القلم'}}

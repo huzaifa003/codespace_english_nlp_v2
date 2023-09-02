@@ -1,0 +1,1 @@
+{'text': 'Verily, to Us will be their return;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 88, 'ayah_no': 25, 'surah_name_en': 'Al-Ghashiya (The Overwhelming)', 'surah_name_ar': 'الغَاشِیَۃ'}}

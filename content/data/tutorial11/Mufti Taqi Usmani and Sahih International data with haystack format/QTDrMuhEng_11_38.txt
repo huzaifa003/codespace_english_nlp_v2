@@ -1,0 +1,1 @@
+{'text': 'And as he was constructing the ship, whenever the chiefs of his people passed by him, they made a mockery of him. He said: "If you mock at us, so do we mock at you likewise for your mocking.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 38, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

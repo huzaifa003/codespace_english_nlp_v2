@@ -1,0 +1,1 @@
+{'text': 'Nor are (alike) the shade and the suns heat.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 35, 'ayah_no': 21, 'surah_name_en': 'Fatir (Originator)', 'surah_name_ar': 'فاطر'}}

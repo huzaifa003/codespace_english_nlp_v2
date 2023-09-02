@@ -1,0 +1,1 @@
+{'text': 'And among His signs is that He sends winds giving good news (of rain), and so that He gives you a taste of His mercy, and that the ships may sail with His command, and that you may search for His grace, and you may be grateful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 46, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

@@ -1,0 +1,1 @@
+{'text': 'Among the community of Mūsā there are people who guide with truth and do justice thereby.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 159, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

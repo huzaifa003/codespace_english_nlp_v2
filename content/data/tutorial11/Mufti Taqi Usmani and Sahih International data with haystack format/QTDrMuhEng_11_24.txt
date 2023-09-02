@@ -1,0 +1,1 @@
+{'text': 'The likeness of the two parties is as the blind and the deaf and the seer and the hearer. Are they equal when compared? Will you not then take heed?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 24, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

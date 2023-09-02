@@ -1,0 +1,1 @@
+{'text': 'So they (the people of Pharaoh) pursued them (the people of Mūsā) at the time of sunrise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 60, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

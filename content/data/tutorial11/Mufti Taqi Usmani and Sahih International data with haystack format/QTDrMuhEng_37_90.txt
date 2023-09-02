@@ -1,0 +1,1 @@
+{'text': 'So they turned away from him, and departed (for fear of the disease).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 90, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

@@ -1,0 +1,1 @@
+{'text': 'He (Yaqoob (Jacob)) said: "Nay, but your ownselves have beguiled you into something. So patience is most fitting (for me). May be Allah will bring them (back) all to me. Truly He! only He is All-Knowing, All-Wise."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 83, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

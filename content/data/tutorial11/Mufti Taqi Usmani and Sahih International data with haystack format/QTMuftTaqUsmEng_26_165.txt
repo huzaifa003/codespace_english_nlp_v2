@@ -1,0 +1,1 @@
+{'text': 'Do you go to the males (for having sex) out of the whole universe,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 165, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

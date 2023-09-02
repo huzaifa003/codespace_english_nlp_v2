@@ -1,0 +1,1 @@
+{'text': 'Bring back the soul (to its body), if you are truthful?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 56, 'ayah_no': 87, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

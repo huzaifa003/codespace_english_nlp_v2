@@ -1,0 +1,1 @@
+{'text': 'Trays of gold and cups will be passed round them, (there will be) therein all that the ones inner-selves could desire, all that the eyes could delight in, and you will abide therein forever.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 71, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

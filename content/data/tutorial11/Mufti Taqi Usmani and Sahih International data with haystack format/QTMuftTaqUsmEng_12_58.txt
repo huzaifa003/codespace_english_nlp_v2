@@ -1,0 +1,1 @@
+{'text': 'And came the brothers of Yūsuf and appeared before him. He recognized them, while they did not recognize him.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 58, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

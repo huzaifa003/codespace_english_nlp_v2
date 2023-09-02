@@ -1,0 +1,1 @@
+{'text': 'They ask you to bring the punishment soon, while the Jahannam is surely going to engulf the disbelievers', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 54, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

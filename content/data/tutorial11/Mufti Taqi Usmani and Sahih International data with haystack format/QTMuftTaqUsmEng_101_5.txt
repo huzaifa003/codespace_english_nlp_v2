@@ -1,0 +1,1 @@
+{'text': 'and the mountains will be like carded wool.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 101, 'ayah_no': 5, 'surah_name_en': 'Al-Qaria (The Calamity)', 'surah_name_ar': 'القارعۃ'}}

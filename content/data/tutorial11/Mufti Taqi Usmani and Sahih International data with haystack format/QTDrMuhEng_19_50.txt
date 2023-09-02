@@ -1,0 +1,1 @@
+{'text': 'And We gave them of Our Mercy (a good provision in plenty), and We granted them honour on the tongues (of all the nations, i.e everybody remembers them with a good praise).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 50, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

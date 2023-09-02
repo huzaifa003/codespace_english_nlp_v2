@@ -1,0 +1,1 @@
+{'text': 'Who used to say: "Are you among those who believe (in resurrection after death).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 52, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

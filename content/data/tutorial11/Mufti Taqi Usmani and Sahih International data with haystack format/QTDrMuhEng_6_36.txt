@@ -1,0 +1,1 @@
+{'text': 'It is only those who listen (to the Message of Prophet Muhammad SAW), will respond (benefit from it), but as for the dead (disbelievers), Allah will raise them up, then to Him they will be returned (for their recompense).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 36, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

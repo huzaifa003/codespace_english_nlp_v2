@@ -1,0 +1,1 @@
+{'text': 'Shall I inform you (O people!) upon whom the Shayatin (devils) descend?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 221, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

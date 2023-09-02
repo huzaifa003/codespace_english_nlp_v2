@@ -1,0 +1,1 @@
+{'text': 'And We shall make easy for you (O Muhammad (Peace be upon him)) the easy way (i.e. the doing of righteous deeds).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 87, 'ayah_no': 8, 'surah_name_en': 'Al-Ala (The Most High)', 'surah_name_ar': 'الاَعلیٰ'}}

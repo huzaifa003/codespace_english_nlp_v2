@@ -1,0 +1,1 @@
+{'text': 'When he saw the moon rising up, he said: "This is my lord." But when it set, he said: "Unless my Lord guides me, I shall surely be among the erring people."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 77, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

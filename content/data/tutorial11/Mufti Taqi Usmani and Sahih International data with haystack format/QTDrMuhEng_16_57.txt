@@ -1,0 +1,1 @@
+{'text': 'And they assign daughters unto Allah! Glorified (and Exalted) be He above all that they associate with Him! . And unto themselves what they desire;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 57, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

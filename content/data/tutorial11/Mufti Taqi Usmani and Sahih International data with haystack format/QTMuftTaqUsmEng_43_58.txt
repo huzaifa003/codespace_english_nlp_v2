@@ -1,0 +1,1 @@
+{'text': 'and said, “Are Our gods better or is he?” They did not cite it (the example) but for the sake of disputation. Rather, they are a quarrelsome people.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 58, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

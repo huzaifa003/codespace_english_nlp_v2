@@ -1,0 +1,1 @@
+{'text': 'Man prays for evil like his prayer for good, and man is so hasty.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 11, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

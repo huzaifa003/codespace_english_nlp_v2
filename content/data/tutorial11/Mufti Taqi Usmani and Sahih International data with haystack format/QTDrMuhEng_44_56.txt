@@ -1,0 +1,1 @@
+{'text': 'They will never taste death therein except the first death (of this world), and He will save them from the torment of the blazing Fire,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 44, 'ayah_no': 56, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

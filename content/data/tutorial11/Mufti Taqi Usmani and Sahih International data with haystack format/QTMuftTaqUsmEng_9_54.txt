@@ -1,0 +1,1 @@
+{'text': 'Nothing has prevented their spending from being accepted from them but that they have disbelieved in Allah and in His Messenger, and they do not come to the Salāh but lazily, and do not spend but without volition.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 54, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

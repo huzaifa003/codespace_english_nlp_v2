@@ -1,0 +1,1 @@
+{'text': 'The Bedouins are often more strict in disbelief and hypocrisy, and are most likely to be ignorant of the limits of what Allah has sent down to His Messenger. Allah is All-Knowing, All-Wise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 97, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

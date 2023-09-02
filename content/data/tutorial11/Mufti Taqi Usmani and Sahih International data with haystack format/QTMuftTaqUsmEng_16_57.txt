@@ -1,0 +1,1 @@
+{'text': 'They ascribe daughters to Allah - Pure is He - and for themselves is what they desire!', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 57, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

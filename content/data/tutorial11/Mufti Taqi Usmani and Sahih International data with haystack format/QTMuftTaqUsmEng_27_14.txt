@@ -1,0 +1,1 @@
+{'text': 'And they denied them out of sheer injustice and arrogance, though their hearts believed them (to be true). See, then, how was the fate of the mischief-makers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 14, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

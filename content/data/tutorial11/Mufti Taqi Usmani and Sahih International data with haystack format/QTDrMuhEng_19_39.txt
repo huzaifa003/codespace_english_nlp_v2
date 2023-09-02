@@ -1,0 +1,1 @@
+{'text': 'And warn them (O Muhammad SAW) of the Day of grief and regrets, when the case has been decided, while (now) they are in a state of carelessness, and they believe not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 39, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

@@ -1,0 +1,1 @@
+{'text': 'Say, “As for me, my Lord has guided me to a straight path, the straight religion, the faith of Ibrāhīm who was upright and was not of those who associate partners with Allah.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 161, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

@@ -1,0 +1,1 @@
+{'text': 'See you not that We have sent the Shayatin (devils) against the disbelievers to push them to do evil.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 83, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

@@ -1,0 +1,1 @@
+{'text': 'Say: "Tell me, if it (the Quran) is from Allah, and you disbelieve in it, who is more astray than one who is in opposition far away (from Allahs Right Path and His obedience).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 41, 'ayah_no': 52, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

@@ -1,0 +1,1 @@
+{'text': '"And I have chosen you. So listen to that which is inspired to you.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 13, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

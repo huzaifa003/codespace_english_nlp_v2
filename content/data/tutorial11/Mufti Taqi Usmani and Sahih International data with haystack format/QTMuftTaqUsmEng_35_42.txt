@@ -1,0 +1,1 @@
+{'text': 'They had sworn forceful oaths that if a warner would come to them, they would be more receptive to guidance than any other community. But when a warner came to them, it added nothing to them but aversion,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 35, 'ayah_no': 42, 'surah_name_en': 'Fatir (Originator)', 'surah_name_ar': 'فاطر'}}

@@ -1,0 +1,1 @@
+{'text': 'Indeed there was for Saba (Sheba) a sign in their dwelling place, - two gardens on the right hand and on the left (and it was said to them) "Eat of the provision of your Lord, and be grateful to Him, a fair land and an OftForgiving Lord.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 34, 'ayah_no': 15, 'surah_name_en': 'Saba (Saba)', 'surah_name_ar': 'سبا'}}

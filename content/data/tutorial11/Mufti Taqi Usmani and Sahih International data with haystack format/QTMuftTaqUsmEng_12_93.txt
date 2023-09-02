@@ -1,0 +1,1 @@
+{'text': 'Go with this shirt of mine, and put it over the face of my father, and he will turn into a sighted man. And bring to me all your family.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 93, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

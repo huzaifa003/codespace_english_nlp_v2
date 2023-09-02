@@ -1,0 +1,1 @@
+{'text': 'Then We made you (their) successors in the land, so that We see how you would act.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 14, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

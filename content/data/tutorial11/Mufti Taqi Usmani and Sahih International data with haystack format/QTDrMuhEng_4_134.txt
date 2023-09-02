@@ -1,0 +1,1 @@
+{'text': 'Whoever desires a reward in this life of the world, then with Allah (Alone and none else) is the reward of this worldly life and of the Hereafter. And Allah is Ever AllHearer, AllSeer.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 4, 'ayah_no': 134, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

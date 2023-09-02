@@ -1,0 +1,1 @@
+{'text': 'And indeed (many) Messengers were mocked at before you (O Muhammad SAW), but I granted respite to those who disbelieved, and finally I punished them. Then how (terrible) was My Punishment!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 13, 'ayah_no': 32, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

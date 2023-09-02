@@ -1,0 +1,1 @@
+{'text': 'Nay, Allah is your Maula (Patron, Lord, Helper and Protector, etc.), and He is the Best of helpers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 150, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

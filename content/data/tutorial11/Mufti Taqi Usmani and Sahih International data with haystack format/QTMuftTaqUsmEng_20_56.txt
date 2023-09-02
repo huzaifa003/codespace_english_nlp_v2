@@ -1,0 +1,1 @@
+{'text': 'And We showed him (Pharaoh) all Our signs, yet he rejected and refused.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 56, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

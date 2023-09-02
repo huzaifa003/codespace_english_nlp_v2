@@ -1,0 +1,1 @@
+{'text': 'For them there are canopies of fire on top of them and canopies (of fire) underneath them. That is the thing against which Allah warns His servants. “So, O servants of Mine, fear Me.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 16, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

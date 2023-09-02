@@ -1,0 +1,1 @@
+{'text': 'They say, “Allah has got a son.” Pure is He. He is Self-Sufficient. To Him belongs what is in the heavens and what is in the earth. You have no proof for it. Do you allege about Allah what you do not know?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 68, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

@@ -1,0 +1,1 @@
+{'text': '“Our Lord, we have believed in what You have revealed, and we have followed the messenger. So, record us with those who bear witness (to the Truth).”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 53, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

@@ -1,0 +1,1 @@
+{'text': 'Those are a people who have passed away. For them is what they earned, and for you is what you earned. Nor shall you be questioned as to what they have been doing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 134, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

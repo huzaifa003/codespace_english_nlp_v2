@@ -1,0 +1,1 @@
+{'text': 'They cannot help them, but they will be brought forward as a troop against those who worshipped them (at the time of Reckoning).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 75, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

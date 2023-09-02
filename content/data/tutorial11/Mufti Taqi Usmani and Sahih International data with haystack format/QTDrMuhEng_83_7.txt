@@ -1,0 +1,1 @@
+{'text': 'Nay! Truly, the Record (writing of the deeds) of the Fujjar (disbelievers, sinners, evil-doers and wicked) is (preserved) in Sijjeen.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 83, 'ayah_no': 7, 'surah_name_en': 'Al-Mutaffifin (Defrauding)', 'surah_name_ar': 'المُطَفِّفِین'}}

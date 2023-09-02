@@ -1,0 +1,1 @@
+{'text': 'So LūT believed in him, and he (Ibrāhīm) said, “I am going to leave my homeland towards my Lord. Surely He is the Mighty, the Wise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 26, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

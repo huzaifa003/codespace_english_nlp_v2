@@ -1,0 +1,1 @@
+{'text': 'Nothing prevented people from believing, when guidance came to them, except that they said, “Has Allah sent a man as a messenger?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 94, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

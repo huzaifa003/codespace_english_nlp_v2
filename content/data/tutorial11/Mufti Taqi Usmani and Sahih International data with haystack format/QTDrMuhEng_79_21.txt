@@ -1,0 +1,1 @@
+{'text': 'But (Firaun (Pharaoh)) belied and disobeyed;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 79, 'ayah_no': 21, 'surah_name_en': 'An-Naziat (Those who drag forth)', 'surah_name_ar': 'النّٰزِعٰتِ'}}

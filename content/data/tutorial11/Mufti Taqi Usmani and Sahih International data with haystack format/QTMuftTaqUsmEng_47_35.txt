@@ -1,0 +1,1 @@
+{'text': 'So, do not lose heart, and do not appeal for peace; you will be the uppermost, and Allah is with you; and He will never deprive you of your deeds.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 47, 'ayah_no': 35, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

@@ -1,0 +1,1 @@
+{'text': '"All that we say is that some of our gods (false deities) have seized you with evil (madness)." He said: "I call Allah to witness and bear you witness that I am free from that which you ascribe as partners in worship, -', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 54, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

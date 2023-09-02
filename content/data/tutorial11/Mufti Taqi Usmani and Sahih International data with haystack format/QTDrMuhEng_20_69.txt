@@ -1,0 +1,1 @@
+{'text': '"And throw that which is in your right hand! It will swallow up that which they have made. That which they have made is only a magicians trick, and the magician will never be successful, no matter whatever amount (of skill) he may attain."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 69, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

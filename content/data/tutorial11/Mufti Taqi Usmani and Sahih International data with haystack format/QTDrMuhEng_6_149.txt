@@ -1,0 +1,1 @@
+{'text': 'Say: "With Allah is the perfect proof and argument, (i.e. the Oneness of Allah, the sending of His Messengers and His Holy Books, etc. to mankind), had He so willed, He would indeed have guided you all."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 149, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

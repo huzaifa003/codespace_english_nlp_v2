@@ -1,0 +1,1 @@
+{'text': 'And they carry your loads to a land that you could not reach except with great trouble to yourselves. Truly, your Lord is full of Kindness, Most Merciful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 7, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

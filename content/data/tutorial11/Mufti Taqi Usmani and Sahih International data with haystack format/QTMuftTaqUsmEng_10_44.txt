@@ -1,0 +1,1 @@
+{'text': 'Surely, Allah does not wrong people at all, but the people do wrong their own selves.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 44, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

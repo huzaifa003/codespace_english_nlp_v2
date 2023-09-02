@@ -1,0 +1,1 @@
+{'text': 'There is no human being but has a protector over him (or her) (i.e. angels incharge of each human being guarding him, writing his good and bad deeds, etc.)', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 86, 'ayah_no': 4, 'surah_name_en': 'At-Tariq (The morning star)', 'surah_name_ar': 'الطَّارق'}}

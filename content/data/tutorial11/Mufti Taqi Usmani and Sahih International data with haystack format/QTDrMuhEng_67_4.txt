@@ -1,0 +1,1 @@
+{'text': 'Then look again and yet again, your sight will return to you in a state of humiliation and worn out.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 67, 'ayah_no': 4, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

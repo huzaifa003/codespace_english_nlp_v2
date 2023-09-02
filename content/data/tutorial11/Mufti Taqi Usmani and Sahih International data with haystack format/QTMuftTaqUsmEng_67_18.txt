@@ -1,0 +1,1 @@
+{'text': 'And of course, those before them (also) rejected (the truth). So, how was My censure?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 67, 'ayah_no': 18, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

@@ -1,0 +1,1 @@
+{'text': 'and forgive my father. Indeed he was one of those who went astray,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 86, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

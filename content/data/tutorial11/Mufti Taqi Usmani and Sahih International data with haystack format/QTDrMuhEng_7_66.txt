@@ -1,0 +1,1 @@
+{'text': 'The leaders of those who disbelieved among his people said: "Verily, we see you in foolishness, and verily, we think you are one of the liars."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 66, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

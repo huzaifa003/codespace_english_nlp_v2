@@ -1,0 +1,1 @@
+{'text': 'And the people of Ibrahim (Abraham) and the people of Lout (Lot),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 22, 'ayah_no': 43, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

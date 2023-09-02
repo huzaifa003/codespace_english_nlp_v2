@@ -1,0 +1,1 @@
+{'text': 'Have you become fearless of Him who is in the sky if He makes you sink into the earth, and it starts trembling at once?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 67, 'ayah_no': 16, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

@@ -1,0 +1,1 @@
+{'text': 'Say (O Muhammad SAW to these hypocrites who ask your permission to run away from you): "Flight will not avail you if you flee from death or killing, and then you will enjoy no more than a little while!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 33, 'ayah_no': 16, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

@@ -1,0 +1,1 @@
+{'text': 'He (the speaker) will say (to his companion seen in Jahannam ), “By Allah, you were going almost to ruin me.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 56, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

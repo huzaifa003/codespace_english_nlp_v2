@@ -1,0 +1,1 @@
+{'text': '"And O Adam! Dwell you and your wife in Paradise, and eat thereof as you both wish, but approach not this tree otherwise you both will be of the Zalimoon (unjust and wrongdoers)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 19, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

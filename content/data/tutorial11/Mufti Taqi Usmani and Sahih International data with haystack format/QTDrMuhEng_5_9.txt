@@ -1,0 +1,1 @@
+{'text': 'Allah has promised those who believe (in the Oneness of Allah - Islamic Monotheism) and do deeds of righteousness, that for them there is forgiveness and a great reward (i.e. Paradise).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 5, 'ayah_no': 9, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'Still, he aspires that I should give him more.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 74, 'ayah_no': 15, 'surah_name_en': 'Al-Muddathir (The cloaked one)', 'surah_name_ar': 'المدّثّر'}}

@@ -1,0 +1,1 @@
+{'text': 'For them there is the good news in the worldly life and in the Hereafter: there is no change in the words of Allah.That is the great achievement.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 64, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

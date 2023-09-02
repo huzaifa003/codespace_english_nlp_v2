@@ -1,0 +1,1 @@
+{'text': 'They rejoice in a Grace and a Bounty from Allah, and that Allah will not waste the reward of the believers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 171, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

@@ -1,0 +1,1 @@
+{'text': 'while We intended to favor those who were held as weak in the land, and to make them leaders and make them inheritors,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 5, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

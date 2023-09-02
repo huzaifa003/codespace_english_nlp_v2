@@ -1,0 +1,1 @@
+{'text': 'Then, if they repent and establish Salāh and pay Zakāh, they are your brothers in faith. We elaborate the verses for a people who understand.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 11, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

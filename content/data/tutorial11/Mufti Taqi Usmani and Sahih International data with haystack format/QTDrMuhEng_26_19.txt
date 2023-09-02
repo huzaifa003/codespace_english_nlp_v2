@@ -1,0 +1,1 @@
+{'text': '"And you did your deed, which you did (i.e. the crime of killing a man). And you are one of the ingrates."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 19, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

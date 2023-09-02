@@ -1,0 +1,1 @@
+{'text': 'and I swear by the self-reproaching conscience, (that Resurrection is a reality.)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 75, 'ayah_no': 2, 'surah_name_en': 'Al-Qiyama (The rising of the dead)', 'surah_name_ar': 'القیٰمۃ'}}

@@ -1,0 +1,1 @@
+{'text': '"And follow the best of that which is sent down to you from your Lord (i.e. this Quran, do what it orders you to do and keep away from what it forbids), before the torment comes on you suddenly while you perceive not!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 55, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

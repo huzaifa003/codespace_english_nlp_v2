@@ -1,0 +1,1 @@
+{'text': '"And enter you My Paradise!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 89, 'ayah_no': 30, 'surah_name_en': 'Al-Fajr (The Dawn)', 'surah_name_ar': 'الفجر'}}

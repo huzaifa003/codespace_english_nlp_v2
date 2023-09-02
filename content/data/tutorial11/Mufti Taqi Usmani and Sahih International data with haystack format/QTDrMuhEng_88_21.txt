@@ -1,0 +1,1 @@
+{'text': 'So remind them (O Muhammad (Peace be upon him)), you are only a one who reminds.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 88, 'ayah_no': 21, 'surah_name_en': 'Al-Ghashiya (The Overwhelming)', 'surah_name_ar': 'الغَاشِیَۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'And so many a moving (living) creature there is, that carries not its own provision! Allah provides for it and for you. And He is the All-Hearer, the AllKnower.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 29, 'ayah_no': 60, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

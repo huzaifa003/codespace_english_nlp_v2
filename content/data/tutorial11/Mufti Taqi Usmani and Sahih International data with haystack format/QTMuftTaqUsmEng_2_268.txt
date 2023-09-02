@@ -1,0 +1,1 @@
+{'text': 'Satan frightens you with poverty, and bids you to commit indecency, and Allah promises you forgiveness from Him, and grace as well. And Allah is All-Embracing, All-Knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 268, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

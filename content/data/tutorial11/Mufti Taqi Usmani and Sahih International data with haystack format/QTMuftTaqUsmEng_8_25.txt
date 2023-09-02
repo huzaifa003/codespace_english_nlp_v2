@@ -1,0 +1,1 @@
+{'text': 'And beware of a scourge that shall not fall only on the wrongdoers from among you, and know well that Allah is severe at punishment', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 25, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

@@ -1,0 +1,1 @@
+{'text': 'These are insights for the people, and guidance and mercy for a people who believe.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 20, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

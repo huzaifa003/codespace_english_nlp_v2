@@ -1,0 +1,1 @@
+{'text': 'He hides himself from people because of the (self-presumed) bad news given to him (and wonders): Shall he keep it despite the disgrace (he will face in the society), or put it away into the dust? In fact, evil is what they decide.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 59, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

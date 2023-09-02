@@ -1,0 +1,1 @@
+{'text': 'He said, “Pick it up, and be not scared. We shall restore it to its former state.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 21, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

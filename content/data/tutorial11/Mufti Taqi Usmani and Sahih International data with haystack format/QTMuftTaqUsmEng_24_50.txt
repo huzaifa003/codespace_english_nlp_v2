@@ -1,0 +1,1 @@
+{'text': 'Is there a malady in their hearts or do they have doubt or do they fear that Allah and His messenger will do injustice to them? Rather they themselves are the unjust.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 50, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

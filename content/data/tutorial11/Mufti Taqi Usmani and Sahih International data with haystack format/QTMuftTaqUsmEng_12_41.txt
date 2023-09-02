@@ -1,0 +1,1 @@
+{'text': '“O my fellow prisoners, one of you will serve wine to his master, while the other will be crucified and birds will eat from his head. Destined is the matter you are asking about.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 41, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

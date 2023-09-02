@@ -1,0 +1,1 @@
+{'text': 'So make no hurry about them; We are but counting for them a count down.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 84, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

@@ -1,0 +1,1 @@
+{'text': 'He is the One who has made the earth subjugated for you, so walk on its shoulders, and eat out of His provision, and to Him is the Resurrection.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 67, 'ayah_no': 15, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

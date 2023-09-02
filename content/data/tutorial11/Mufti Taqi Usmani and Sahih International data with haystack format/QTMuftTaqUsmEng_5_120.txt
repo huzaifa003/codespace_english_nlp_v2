@@ -1,0 +1,1 @@
+{'text': 'To Allah belongs the kingdom of the heavens and the earth and of whatever lies therein, and He is powerful over everything.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 120, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

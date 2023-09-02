@@ -1,0 +1,1 @@
+{'text': 'Allah knows what every female bears, and by how much the wombs fall short (of their time or number) or exceed. Everything with Him is in (due) proportion.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 13, 'ayah_no': 8, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

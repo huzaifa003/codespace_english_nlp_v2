@@ -1,0 +1,1 @@
+{'text': 'Or do they have the treasures of your Lord, or have they acquired control (over them)?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 52, 'ayah_no': 37, 'surah_name_en': 'At-tur (Mount Sinai)', 'surah_name_ar': 'الطّور'}}

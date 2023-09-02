@@ -1,0 +1,1 @@
+{'text': 'In whispers will they speak to each other (saying): "You stayed not longer than ten (days)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 103, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

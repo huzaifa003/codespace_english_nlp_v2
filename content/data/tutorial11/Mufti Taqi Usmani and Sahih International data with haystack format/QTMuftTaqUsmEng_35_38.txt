@@ -1,0 +1,1 @@
+{'text': 'Surely Allah is the Knower of the unseen in the heavens and the earth. Indeed He fully knows what lies in the hearts.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 35, 'ayah_no': 38, 'surah_name_en': 'Fatir (Originator)', 'surah_name_ar': 'فاطر'}}

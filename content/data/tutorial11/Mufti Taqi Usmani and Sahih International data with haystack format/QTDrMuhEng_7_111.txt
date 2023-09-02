@@ -1,0 +1,1 @@
+{'text': 'They said: "Put him and his brother off (for a time), and send callers (men) to the cities to collect (and) -', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 111, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

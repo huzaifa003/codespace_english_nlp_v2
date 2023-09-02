@@ -1,0 +1,1 @@
+{'text': 'and they give food, out of their love for Him (Allah), to the needy, and the orphan, and the captive,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 8, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

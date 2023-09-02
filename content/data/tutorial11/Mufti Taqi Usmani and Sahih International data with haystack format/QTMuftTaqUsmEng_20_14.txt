@@ -1,0 +1,1 @@
+{'text': 'Surely, I AM ALLAH. There is no god but Myself, so worship Me, and establish Salāh for My remembrance.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 14, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

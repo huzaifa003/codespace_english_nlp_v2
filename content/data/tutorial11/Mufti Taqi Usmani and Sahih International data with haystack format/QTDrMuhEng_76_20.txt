@@ -1,0 +1,1 @@
+{'text': 'And when you look there (in Paradise), you will see a delight (that cannot be imagined), and a great dominion.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 76, 'ayah_no': 20, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

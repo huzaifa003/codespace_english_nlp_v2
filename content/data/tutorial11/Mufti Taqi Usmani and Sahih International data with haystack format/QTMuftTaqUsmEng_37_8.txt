@@ -1,0 +1,1 @@
+{'text': 'They cannot listen to the Upper Realm and are hit from every side', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 8, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

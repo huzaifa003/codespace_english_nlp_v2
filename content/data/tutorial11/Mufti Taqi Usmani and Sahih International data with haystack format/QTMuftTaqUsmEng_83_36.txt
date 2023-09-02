@@ -1,0 +1,1 @@
+{'text': 'whether the disbelievers have been paid back for what they used to do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 83, 'ayah_no': 36, 'surah_name_en': 'Al-Mutaffifin (Defrauding)', 'surah_name_ar': 'المُطَفِّفِین'}}

@@ -1,0 +1,1 @@
+{'text': 'They said, “O our people, we have heard a book sent down after Mūsā, confirming what was before it, which guides to the truth and to a straight path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 46, 'ayah_no': 30, 'surah_name_en': 'Al-Ahqaf (The wind-curved sandhills)', 'surah_name_ar': 'الاحقاف'}}

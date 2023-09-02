@@ -1,0 +1,1 @@
+{'text': 'Among men there is one who debates about Allah with no knowledge, no guidance and no enlightening book,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 8, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

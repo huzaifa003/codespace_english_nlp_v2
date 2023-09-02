@@ -1,0 +1,1 @@
+{'text': 'Moosa (Moses) said: "O my Lord! Forgive me and my brother, and make us enter into Your Mercy, for you are the Most Merciful of those who show mercy."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 151, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

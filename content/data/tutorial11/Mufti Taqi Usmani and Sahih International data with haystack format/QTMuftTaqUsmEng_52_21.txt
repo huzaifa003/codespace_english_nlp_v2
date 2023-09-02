@@ -1,0 +1,1 @@
+{'text': 'And those who believed and their children followed them in belief, We will join their children with them, and will not curtail (the reward of) any of their deeds at all. Every person will be pledged for what he earned.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 52, 'ayah_no': 21, 'surah_name_en': 'At-tur (Mount Sinai)', 'surah_name_ar': 'الطّور'}}

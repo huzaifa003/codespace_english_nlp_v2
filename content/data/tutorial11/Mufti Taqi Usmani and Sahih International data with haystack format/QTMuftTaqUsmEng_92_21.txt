@@ -1,0 +1,1 @@
+{'text': 'And surely he will soon be happy.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 92, 'ayah_no': 21, 'surah_name_en': 'Al-Lail (The night)', 'surah_name_ar': 'الَّیل'}}

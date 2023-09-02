@@ -1,0 +1,1 @@
+{'text': 'And when Our Clear Verses are recited to them, the disbelievers say of the truth (this Quran), when it reaches them: "This is plain magic!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 46, 'ayah_no': 7, 'surah_name_en': 'Al-Ahqaf (The wind-curved sandhills)', 'surah_name_ar': 'الاحقاف'}}

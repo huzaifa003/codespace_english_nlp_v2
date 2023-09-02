@@ -1,0 +1,1 @@
+{'text': 'Such has been Our way with the messengers We sent before you. And you will find no change in Our way.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 77, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

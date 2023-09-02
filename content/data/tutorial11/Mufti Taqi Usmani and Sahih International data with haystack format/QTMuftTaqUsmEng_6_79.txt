@@ -1,0 +1,1 @@
+{'text': 'I have, indeed, turned my face straight towards the One who created the heavens and the earth, and I am not one of those who associate partners with Allah.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 79, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

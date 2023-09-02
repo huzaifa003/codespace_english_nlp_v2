@@ -1,0 +1,1 @@
+{'text': 'So, the answer of his people was not else but that they said, “Expel the family of LūT from your town. They are a people who over-indulge in purity.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 56, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

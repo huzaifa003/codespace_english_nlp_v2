@@ -1,0 +1,1 @@
+{'text': 'Then they called their man (to kill the she-camel,) so he undertook (the task) and killed (the she-camel).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 54, 'ayah_no': 29, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

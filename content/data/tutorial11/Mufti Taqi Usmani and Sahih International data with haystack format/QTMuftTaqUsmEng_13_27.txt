@@ -1,0 +1,1 @@
+{'text': 'The disbelievers say, “Why is it that no sign (of their choice) has been sent down to him from his Lord?” Say, “Allah lets go astray whom He wills and gives guidance to those who turn to Him,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 13, 'ayah_no': 27, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

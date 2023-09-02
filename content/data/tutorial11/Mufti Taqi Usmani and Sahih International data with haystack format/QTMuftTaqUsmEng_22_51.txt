@@ -1,0 +1,1 @@
+{'text': 'As for those who strive against Our signs, trying to defeat (the prophet or the believers), they are the people of the Fire.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 51, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

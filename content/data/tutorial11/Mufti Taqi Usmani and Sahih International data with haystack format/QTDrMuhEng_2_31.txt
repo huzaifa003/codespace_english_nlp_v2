@@ -1,0 +1,1 @@
+{'text': 'And He taught Adam all the names (of everything) , then He showed them to the angels and said, "Tell Me the names of these if you are truthful."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 31, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

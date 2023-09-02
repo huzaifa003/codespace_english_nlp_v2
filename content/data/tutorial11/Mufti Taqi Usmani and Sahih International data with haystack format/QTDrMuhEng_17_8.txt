@@ -1,0 +1,1 @@
+{'text': '(And We said in the Taurat (Torah)): "It may be that your Lord may show mercy unto you, but if you return (to sins), We shall return (to Our Punishment). And We have made Hell a prison for the disbelievers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 8, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

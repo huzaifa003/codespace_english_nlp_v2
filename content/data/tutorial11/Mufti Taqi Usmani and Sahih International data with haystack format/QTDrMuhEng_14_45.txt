@@ -1,0 +1,1 @@
+{'text': '"And you dwelt in the dwellings of men who wronged themselves, and it was clear to you how We had dealt with them. And We put forth (many) parables for you."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 14, 'ayah_no': 45, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

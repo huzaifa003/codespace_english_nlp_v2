@@ -1,0 +1,1 @@
+{'text': 'He said, “Peace on you. I shall seek forgiveness for you from my Lord. He has always been gracious to me.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 47, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

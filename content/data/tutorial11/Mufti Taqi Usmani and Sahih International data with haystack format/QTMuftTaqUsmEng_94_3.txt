@@ -1,0 +1,1 @@
+{'text': 'that had (almost) broken your back,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 94, 'ayah_no': 3, 'surah_name_en': 'Al-Inshirah (Solace)', 'surah_name_ar': 'الم نشرح'}}

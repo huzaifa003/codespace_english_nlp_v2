@@ -1,0 +1,1 @@
+{'text': 'Comes not unto them an admonition (a chapter of the Quran) from their Lord as a recent revelation but they listen to it while they play,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 2, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

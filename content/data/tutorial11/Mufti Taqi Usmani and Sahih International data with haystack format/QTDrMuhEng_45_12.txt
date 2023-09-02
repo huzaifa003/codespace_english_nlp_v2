@@ -1,0 +1,1 @@
+{'text': 'Allah it is He Who has subjected to you the sea, that ships may sail through it by His Command, and that you may seek of His Bounty, and that you may be thankful,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 45, 'ayah_no': 12, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

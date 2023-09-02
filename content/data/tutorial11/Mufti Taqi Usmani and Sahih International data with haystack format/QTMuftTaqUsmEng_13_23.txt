@@ -1,0 +1,1 @@
+{'text': 'the eternal gardens they enter, and those as well who are righteous from their fathers, spouses, and progeny. The angels will enter onto them from every gate', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 13, 'ayah_no': 23, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

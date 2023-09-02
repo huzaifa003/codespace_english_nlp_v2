@@ -1,0 +1,1 @@
+{'text': 'And they say: "Glory be to our Lord! Truly, the Promise of our Lord must be fulfilled."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 108, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

@@ -1,0 +1,1 @@
+{'text': 'and that He is the One who is the Lord of Sirius (the star worshipped by pagans),', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 53, 'ayah_no': 49, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

@@ -1,0 +1,1 @@
+{'text': 'And of mankind, there are some (hypocrites) who say: "We believe in Allah and the Last Day" while in fact they believe not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 8, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

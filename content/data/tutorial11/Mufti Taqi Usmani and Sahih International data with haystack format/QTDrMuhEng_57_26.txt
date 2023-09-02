@@ -1,0 +1,1 @@
+{'text': 'And indeed, We sent Nooh (Noah) and Ibraheem (Abraham), and placed in their offspring Prophethood and Scripture, and among them there is he who is guided, but many of them are Fasiqoon (rebellious, disobedient to Allah).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 57, 'ayah_no': 26, 'surah_name_en': 'Al-Hadid (The Iron)', 'surah_name_ar': 'الحدید'}}

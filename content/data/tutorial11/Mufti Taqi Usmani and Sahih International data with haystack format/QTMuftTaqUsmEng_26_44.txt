@@ -1,0 +1,1 @@
+{'text': 'So they threw down their ropes and their staffs and said, “By the majesty of Pharaoh, we will be the triumphant for sure.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 44, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

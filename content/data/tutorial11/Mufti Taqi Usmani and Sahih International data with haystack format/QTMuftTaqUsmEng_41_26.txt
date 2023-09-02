@@ -1,0 +1,1 @@
+{'text': 'And said those who disbelieved, “Do not listen to this Qur’ān, and make noise during its recitation, so that you may overcome.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 41, 'ayah_no': 26, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

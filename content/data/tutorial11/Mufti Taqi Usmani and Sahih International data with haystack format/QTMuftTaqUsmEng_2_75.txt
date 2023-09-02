@@ -1,0 +1,1 @@
+{'text': '(O Muslims) do you still fancy that they will believe you, although a group of them used to hear the word of Allah, and then, having understood it, used to distort it knowingly?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 75, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

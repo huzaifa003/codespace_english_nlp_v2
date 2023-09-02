@@ -1,0 +1,1 @@
+{'text': 'And he whom We grant long life, We reverse him in creation (weakness after strength). Will they not then understand?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 68, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

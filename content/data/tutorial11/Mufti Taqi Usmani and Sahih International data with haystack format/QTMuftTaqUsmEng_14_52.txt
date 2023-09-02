@@ -1,0 +1,1 @@
+{'text': 'This is a message for mankind, so that they (take lesson and) be warned, and so that they may know that He is One God, and so that the people of understanding may observe the advice.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 52, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

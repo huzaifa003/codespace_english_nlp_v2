@@ -1,0 +1,1 @@
+{'text': 'Then We gave Mūsā the Book and the Criterion (of right and wrong), so that you may find the right path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 53, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

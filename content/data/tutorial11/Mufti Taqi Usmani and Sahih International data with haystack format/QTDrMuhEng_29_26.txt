@@ -1,0 +1,1 @@
+{'text': 'So Lout (Lot) believed in him (Ibrahims (Abraham) Message of Islamic Monotheism). He (Ibrahim (Abraham)) said: "I will emigrate for the sake of my Lord. Verily, He is the All-Mighty, the All-Wise."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 29, 'ayah_no': 26, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

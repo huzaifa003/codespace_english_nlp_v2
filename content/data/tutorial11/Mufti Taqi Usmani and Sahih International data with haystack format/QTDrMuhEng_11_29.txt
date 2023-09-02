@@ -1,0 +1,1 @@
+{'text': '"And O my people! I ask of you no wealth for it, my reward is from none but Allah. I am not going to drive away those who have believed. Surely, they are going to meet their Lord, but I see that you are a people that are ignorant.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 29, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

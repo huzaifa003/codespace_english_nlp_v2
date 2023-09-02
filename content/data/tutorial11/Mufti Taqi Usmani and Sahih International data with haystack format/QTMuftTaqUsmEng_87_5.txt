@@ -1,0 +1,1 @@
+{'text': 'then turned it into a blackening stubble.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 87, 'ayah_no': 5, 'surah_name_en': 'Al-Ala (The Most High)', 'surah_name_ar': 'الاَعلیٰ'}}

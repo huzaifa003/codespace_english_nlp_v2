@@ -1,0 +1,1 @@
+{'text': 'He said: "O my people! Is then my family of more weight with you than Allah? And you have cast Him away behind your backs. Verily, my Lord is surrounding all that you do.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 92, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

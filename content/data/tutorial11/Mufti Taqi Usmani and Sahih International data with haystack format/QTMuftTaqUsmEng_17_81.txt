@@ -1,0 +1,1 @@
+{'text': 'And say, “Truth has come and falsehood has vanished. Falsehood is surely bound to vanish.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 81, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

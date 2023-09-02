@@ -1,0 +1,1 @@
+{'text': 'He grants Hikmah to whom He pleases, and he, to whom Hikmah is granted, is indeed granted abundant good. But none remember (will receive admonition) except men of understanding.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 269, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

@@ -1,0 +1,1 @@
+{'text': '"And construct the ship under Our Eyes and with Our Inspiration, and address Me not on behalf of those who did wrong; they are surely to be drowned."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 37, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

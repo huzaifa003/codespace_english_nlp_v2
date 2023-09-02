@@ -1,0 +1,1 @@
+{'text': 'who rejected (the truth) and turned away (from it).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 92, 'ayah_no': 16, 'surah_name_en': 'Al-Lail (The night)', 'surah_name_ar': 'الَّیل'}}

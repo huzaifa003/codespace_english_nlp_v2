@@ -1,0 +1,1 @@
+{'text': 'We are going to send the she-camel as a trial for them; so watch them (O SāliH,) and keep patience,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 54, 'ayah_no': 27, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

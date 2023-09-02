@@ -1,0 +1,1 @@
+{'text': 'Then they denied him and they killed it. So their Lord destroyed them because of their sin, and made them equal in destruction (i.e. all grades of people, rich and poor, strong and weak, etc.)!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 91, 'ayah_no': 14, 'surah_name_en': '91 Ash-Shams (The Sun)', 'surah_name_ar': 'الشَّمس'}}

@@ -1,0 +1,1 @@
+{'text': 'Satan wishes only to plant enmity and malice between you through wine and gambling, and to prevent you from the remembrance of Allah and from Salāh. Would you, then, abstain?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 91, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

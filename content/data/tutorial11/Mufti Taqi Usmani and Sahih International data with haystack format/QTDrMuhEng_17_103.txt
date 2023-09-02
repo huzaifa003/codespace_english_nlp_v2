@@ -1,0 +1,1 @@
+{'text': 'So he resolved to turn them out of the land (of Egypt). But We drowned him and all who were with him.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 103, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

@@ -1,0 +1,1 @@
+{'text': 'Truly! This, your Ummah (Sharia or religion (Islamic Monotheism)) is one religion, and I am your Lord, therefore worship Me (Alone). (Tafseer Ibn Katheer)', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 92, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

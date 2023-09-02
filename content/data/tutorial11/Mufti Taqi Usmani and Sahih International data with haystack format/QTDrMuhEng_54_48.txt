@@ -1,0 +1,1 @@
+{'text': 'The Day they will be dragged in the Fire on their faces (it will be said to them): "Taste you the touch of Hell!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 48, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

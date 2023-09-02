@@ -1,0 +1,1 @@
+{'text': 'A group He has guided, and a group deserved to be in error; (because) surely they took the Shayatin (devils) as Auliya (protectors and helpers) instead of Allah, and consider that they are guided.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 30, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

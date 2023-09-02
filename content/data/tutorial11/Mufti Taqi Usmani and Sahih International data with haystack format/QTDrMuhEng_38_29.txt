@@ -1,0 +1,1 @@
+{'text': '(This is) a Book (the Quran) which We have sent down to you, full of blessings that they may ponder over its Verses, and that men of understanding may remember.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 29, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

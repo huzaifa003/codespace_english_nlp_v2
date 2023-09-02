@@ -1,0 +1,1 @@
+{'text': 'while there is no blame on you, if he does not attain purity.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 80, 'ayah_no': 7, 'surah_name_en': 'Abasa (He Frowned)', 'surah_name_ar': 'عَبَسَ'}}

@@ -1,0 +1,1 @@
+{'text': 'And they had even tried to tempt him against his guests (so that they may snatch them away for bad purpose,) but We blinded their eyes: “Now taste My torment and My warnings!”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 54, 'ayah_no': 37, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

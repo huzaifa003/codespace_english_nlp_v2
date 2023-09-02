@@ -1,0 +1,1 @@
+{'text': 'They said, “Have you come to us to turn us away from the way on which we have found our fathers, and so that you both have supremacy on earth? We are not going to believe in you.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 78, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

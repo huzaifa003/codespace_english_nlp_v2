@@ -1,0 +1,1 @@
+{'text': 'And whoever invokes another god with Allah, while he has no proof for it, his reckoning is only with his Lord. Surely, the infidels will not achieve success.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 23, 'ayah_no': 117, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

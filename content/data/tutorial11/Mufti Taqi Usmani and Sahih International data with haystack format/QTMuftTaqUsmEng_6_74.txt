@@ -1,0 +1,1 @@
+{'text': '(Remember) when Ibrāhīm said to his father, ’Āzar: “Do you take idols for gods? I see you and your people in manifest error.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 74, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

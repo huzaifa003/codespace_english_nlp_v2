@@ -1,0 +1,1 @@
+{'text': 'Say, “Is that better or the eternal paradise the God-fearing are promised?” It will be a reward for them and a final abode.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 15, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

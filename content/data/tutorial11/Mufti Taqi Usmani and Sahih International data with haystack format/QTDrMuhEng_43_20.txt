@@ -1,0 +1,1 @@
+{'text': 'And they said: "If it had been the Will of the Most Beneficent (Allah), we should not have worshipped them (false deities)." They have no knowledge whatsoever of that. They do nothing but lie!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 20, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

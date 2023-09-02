@@ -1,0 +1,1 @@
+{'text': 'And many a township did I give respite while it was given to wrong-doing. Then (in the end) I seized it (with punishment). And to Me is the (final) return (of all).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 22, 'ayah_no': 48, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

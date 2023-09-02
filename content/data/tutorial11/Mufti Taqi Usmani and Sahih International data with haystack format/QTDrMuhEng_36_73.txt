@@ -1,0 +1,1 @@
+{'text': 'And they have (other) benefits from them (besides), and they get (milk) to drink, will they not then be grateful?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 73, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

@@ -1,0 +1,1 @@
+{'text': 'They said: "Have you brought us the truth, or are you one of those who play about?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 55, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

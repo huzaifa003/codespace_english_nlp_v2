@@ -1,0 +1,1 @@
+{'text': 'So flee to Allah (from His Torment to His Mercy Islamic Monotheism), verily, I (Muhammad SAW) am a plain warner to you from Him.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 51, 'ayah_no': 50, 'surah_name_en': 'Adh-Dhariyat (The winnowing winds)', 'surah_name_ar': 'الذّٰریٰت'}}

@@ -1,0 +1,1 @@
+{'text': 'He said, “It is my staff. I lean on it, and I beat down leaves with it for my sheep, and I have many other uses for it.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 18, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

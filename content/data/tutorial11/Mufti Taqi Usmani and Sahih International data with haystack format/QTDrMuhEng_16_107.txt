@@ -1,0 +1,1 @@
+{'text': 'That is because they loved and preferred the life of this world over that of the Hereafter. And Allah guides not the people who disbelieve.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 107, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

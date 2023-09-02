@@ -1,0 +1,1 @@
+{'text': 'The chiefs of those who disbelieved among his people said (to their people): "If you follow Shuaib, be sure then you will be the losers!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 90, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

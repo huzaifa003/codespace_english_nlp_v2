@@ -1,0 +1,1 @@
+{'text': 'Say, “These will be revived by the same One who had created them for the first time, and who is fully aware of every creation,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 79, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

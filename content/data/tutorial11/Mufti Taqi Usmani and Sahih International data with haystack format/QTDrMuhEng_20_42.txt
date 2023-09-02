@@ -1,0 +1,1 @@
+{'text': '"Go you and your brother with My Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.), and do not, you both, slacken and become weak in My Remembrance.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 42, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

@@ -1,0 +1,1 @@
+{'text': 'And remember Our servant, Ayyūb - when he called his Lord saying, “The ShaiTān (Satan) has inflicted weariness and pain upon me.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 41, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

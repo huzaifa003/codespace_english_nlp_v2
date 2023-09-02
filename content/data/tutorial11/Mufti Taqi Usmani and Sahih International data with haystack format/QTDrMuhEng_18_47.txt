@@ -1,0 +1,1 @@
+{'text': 'And (remember) the Day We shall cause the mountains to pass away (like clouds of dust), and you will see the earth as a levelled plain, and we shall gather them all together so as to leave not one of them behind.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 47, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

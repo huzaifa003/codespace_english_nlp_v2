@@ -1,0 +1,1 @@
+{'text': 'Verily, The worst of moving (living) creatures before Allah are those who disbelieve, - so they shall not believe.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 8, 'ayah_no': 55, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

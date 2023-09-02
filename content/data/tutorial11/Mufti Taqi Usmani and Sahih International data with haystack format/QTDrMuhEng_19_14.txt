@@ -1,0 +1,1 @@
+{'text': 'And dutiful towards his parents, and he was neither an arrogant nor disobedient (to Allah or to his parents).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 14, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

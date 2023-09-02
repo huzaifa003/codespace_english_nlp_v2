@@ -1,0 +1,1 @@
+{'text': '(Saying of Allah to Sulaiman (Solomon)): "This is Our gift, so spend you or withhold, no account will be asked."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 39, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

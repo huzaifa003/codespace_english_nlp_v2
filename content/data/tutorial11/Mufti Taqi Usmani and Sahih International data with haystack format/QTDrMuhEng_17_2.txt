@@ -1,0 +1,1 @@
+{'text': 'And We gave Moosa (Moses) the Scripture and made it a guidance for the Children of Israel (saying): "Take not other than Me as (your) Wakeel (Protector, Lord, or Disposer of your affairs, etc).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 2, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

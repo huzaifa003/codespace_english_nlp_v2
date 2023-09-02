@@ -1,0 +1,1 @@
+{'text': 'And for their houses, doors (of silver), and thrones (of silver) on which they could recline,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 34, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

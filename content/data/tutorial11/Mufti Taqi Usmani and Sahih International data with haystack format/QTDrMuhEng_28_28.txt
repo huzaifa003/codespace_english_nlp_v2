@@ -1,0 +1,1 @@
+{'text': 'He (Moosa (Moses)) said: "That (is settled) between me and you whichever of the two terms I fulfill, there will be no injustice to me, and Allah is Surety over what we say."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 28, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

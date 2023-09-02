@@ -1,0 +1,1 @@
+{'text': 'And We did not send before you messengers except men whom We inspired with revelation. So, ask the people (having the knowledge) of the Message, if you do not know.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 7, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

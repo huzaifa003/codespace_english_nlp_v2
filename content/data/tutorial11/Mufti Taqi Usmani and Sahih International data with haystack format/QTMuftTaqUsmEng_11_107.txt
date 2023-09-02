@@ -1,0 +1,1 @@
+{'text': 'They shall remain there forever, as long as the heavens and the earth remain intact, unless your Lord wills (otherwise). Surely, your Lord does what He intends.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 107, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

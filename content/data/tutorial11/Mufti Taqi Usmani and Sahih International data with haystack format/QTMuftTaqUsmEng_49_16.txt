@@ -1,0 +1,1 @@
+{'text': 'Say, “Would you apprise Allah of your religion, while Allah knows all that is in the heavens and all that is in the earth, and Allah is All-Knowing about every thing?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 49, 'ayah_no': 16, 'surah_name_en': 'Al-Hujraat (The private apartments)', 'surah_name_ar': 'الحجرات'}}

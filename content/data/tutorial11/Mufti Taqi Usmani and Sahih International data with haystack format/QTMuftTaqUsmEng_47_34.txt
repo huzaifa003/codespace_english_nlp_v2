@@ -1,0 +1,1 @@
+{'text': 'Those who disbelieved and prevented (others) from Allah’s way, then died as disbelievers, Allah will never forgive them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 47, 'ayah_no': 34, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

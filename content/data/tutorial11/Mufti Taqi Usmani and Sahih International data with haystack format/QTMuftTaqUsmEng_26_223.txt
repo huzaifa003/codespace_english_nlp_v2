@@ -1,0 +1,1 @@
+{'text': 'They give ear to hear (secretly,) and most of them tell lies.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 223, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

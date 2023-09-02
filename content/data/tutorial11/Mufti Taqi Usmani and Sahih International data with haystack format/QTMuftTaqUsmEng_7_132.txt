@@ -1,0 +1,1 @@
+{'text': 'They said, “Whatever sign you bring to us to enchant us with, we are not going to believe in you.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 132, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

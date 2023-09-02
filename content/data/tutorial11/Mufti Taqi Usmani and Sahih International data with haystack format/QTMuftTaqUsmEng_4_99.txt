@@ -1,0 +1,1 @@
+{'text': 'As for such, it is likely that Allah would pardon them. Allah is Most-Pardoning, Most-Forgiving.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 4, 'ayah_no': 99, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

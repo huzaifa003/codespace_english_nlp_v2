@@ -1,0 +1,1 @@
+{'text': 'So let them worship (Allah) the Lord of this House (the Kabah in Makkah).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 106, 'ayah_no': 3, 'surah_name_en': 'Quraish (Quraish)', 'surah_name_ar': 'قُرَیش'}}

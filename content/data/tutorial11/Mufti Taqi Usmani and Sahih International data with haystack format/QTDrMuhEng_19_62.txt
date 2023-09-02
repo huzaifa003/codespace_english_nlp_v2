@@ -1,0 +1,1 @@
+{'text': 'They shall not hear therein (in Paradise) any Laghw (dirty, false, evil vain talk), but only Salam (salutations of peace). And they will have therein their sustenance, morning and afternoon. (See (V.40:55)).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 62, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

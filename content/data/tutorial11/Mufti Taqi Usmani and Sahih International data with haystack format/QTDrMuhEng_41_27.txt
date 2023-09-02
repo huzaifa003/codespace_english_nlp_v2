@@ -1,0 +1,1 @@
+{'text': 'But surely, We shall cause those who disbelieve to taste a severe torment, and certainly, We shall requite them the worst of what they used to do.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 41, 'ayah_no': 27, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

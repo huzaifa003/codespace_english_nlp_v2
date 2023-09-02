@@ -1,0 +1,1 @@
+{'text': 'And verily, this Quran is a Reminder for the Muttaqoon (pious - see V.2:2).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 69, 'ayah_no': 48, 'surah_name_en': 'Al-Haaqqa (The reality)', 'surah_name_ar': 'الحاقہ'}}

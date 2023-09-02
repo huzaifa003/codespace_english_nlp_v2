@@ -1,0 +1,1 @@
+{'text': 'But We (i.e. Our angels who take the soul) are nearer to him than you, but you see not, (Tafsir At-Tabaree, Vol.27, Page 209)', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 56, 'ayah_no': 85, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

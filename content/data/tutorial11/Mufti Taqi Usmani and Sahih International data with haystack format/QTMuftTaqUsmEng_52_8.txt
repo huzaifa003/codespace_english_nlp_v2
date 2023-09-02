@@ -1,0 +1,1 @@
+{'text': 'There is nothing to push it back,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 52, 'ayah_no': 8, 'surah_name_en': 'At-tur (Mount Sinai)', 'surah_name_ar': 'الطّور'}}

@@ -1,0 +1,1 @@
+{'text': 'Whoever hopes to meet Allah (must be sure that) Allah’s appointed time has to come, and He is the All-Hearing, the All-Knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 5, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

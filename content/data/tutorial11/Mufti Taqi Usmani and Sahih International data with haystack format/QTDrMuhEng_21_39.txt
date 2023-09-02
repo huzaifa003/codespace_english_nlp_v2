@@ -1,0 +1,1 @@
+{'text': 'If only those who disbelieved knew (the time) when they will not be able to ward off the Fire from their faces, nor from their backs; and they will not be helped.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 39, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

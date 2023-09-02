@@ -1,0 +1,1 @@
+{'text': 'Say, “I have been ordered not to worship those whom you invoke beside Allah when clear signs from my Lord have (already) come to me, and I have been ordered that I should submit to the Lord of the worlds.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 66, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

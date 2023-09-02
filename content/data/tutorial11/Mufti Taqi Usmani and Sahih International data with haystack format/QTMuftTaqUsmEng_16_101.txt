@@ -1,0 +1,1 @@
+{'text': 'Whenever We replace a verse with another verse - and Allah knows well what He reveals - they say, “You are but a forger.” The fact rather is that most of them are ignorant.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 101, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

@@ -1,0 +1,1 @@
+{'text': 'Verily, those who have believed, and those who have emigrated (for Allahs Religion) and have striven hard in the Way of Allah, all these hope for Allahs Mercy. And Allah is Oft-Forgiving, Most-Merciful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 218, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

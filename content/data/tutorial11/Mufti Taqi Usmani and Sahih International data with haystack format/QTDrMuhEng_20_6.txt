@@ -1,0 +1,1 @@
+{'text': 'To Him belongs all that is in the heavens and all that is on the earth, and all that is between them, and all that is under the soil.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 6, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

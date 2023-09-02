@@ -1,0 +1,1 @@
+{'text': 'Allah increases the provision for whom He wills, and straitens (it for whom He wills), and they rejoice in the life of the world, whereas the life of this world as compared with the Hereafter is but a brief passing enjoyment.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 13, 'ayah_no': 26, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

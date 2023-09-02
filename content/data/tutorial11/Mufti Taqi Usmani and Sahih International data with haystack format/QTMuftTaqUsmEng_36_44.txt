@@ -1,0 +1,1 @@
+{'text': 'unless there be mercy from Us, and (unless) We let them enjoy for a while.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 44, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

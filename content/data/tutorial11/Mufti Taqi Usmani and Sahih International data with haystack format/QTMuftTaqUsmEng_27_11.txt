@@ -1,0 +1,1 @@
+{'text': 'except him who did wrong, then after (having done) evil, replaced (it) with good, then I am Most-Forgiving, Very-Merciful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 11, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

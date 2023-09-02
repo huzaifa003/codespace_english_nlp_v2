@@ -1,0 +1,1 @@
+{'text': 'and remove the knot from my tongue,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 27, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

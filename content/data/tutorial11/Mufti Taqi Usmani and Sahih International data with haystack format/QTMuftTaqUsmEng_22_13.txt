@@ -1,0 +1,1 @@
+{'text': 'He, rather, prays to someone whose harm is more likely than his benefit. Wretched is such a patron and wretched is such a companion.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 13, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

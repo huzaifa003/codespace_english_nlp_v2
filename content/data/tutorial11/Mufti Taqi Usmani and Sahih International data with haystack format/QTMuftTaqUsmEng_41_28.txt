@@ -1,0 +1,1 @@
+{'text': 'That is the recompense of the enemies of Allah- the Fire. For them there is the eternal home, as a recompense for their persistent denial of Our verses.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 41, 'ayah_no': 28, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

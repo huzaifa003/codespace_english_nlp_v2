@@ -1,0 +1,1 @@
+{'text': 'And We made a curse to pursue them in this world; and on the Day of Judgment they will be among those dejected.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 42, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

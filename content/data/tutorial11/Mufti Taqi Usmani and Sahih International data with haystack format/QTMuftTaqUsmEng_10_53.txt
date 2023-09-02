@@ -1,0 +1,1 @@
+{'text': 'They ask you to tell them whether it is true. Say, “Yes, by my Lord, it is true. And you cannot frustrate (Allah’s plan).”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 53, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

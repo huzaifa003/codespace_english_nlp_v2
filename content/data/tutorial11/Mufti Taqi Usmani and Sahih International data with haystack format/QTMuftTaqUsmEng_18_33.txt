@@ -1,0 +1,1 @@
+{'text': 'Both the gardens brought forth their fruit, and suppressed nothing from it, and We caused a stream to flow through them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 33, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

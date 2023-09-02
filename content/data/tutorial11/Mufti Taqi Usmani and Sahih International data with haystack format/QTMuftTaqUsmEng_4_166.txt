@@ -1,0 +1,1 @@
+{'text': 'But Allah bears witness that what He has revealed to you, has revealed it with His knowledge. The angels too, bear witness, (though) Allah is sufficient as witness.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 4, 'ayah_no': 166, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

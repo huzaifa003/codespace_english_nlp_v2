@@ -1,0 +1,1 @@
+{'text': '(Then it will be said to them,) “Do not call for one death today, but call for many a death.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 14, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

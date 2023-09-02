@@ -1,0 +1,1 @@
+{'text': 'and do not turn your cheek away from people, and do not walk on the earth haughtily. Surely, Allah does not like anyone who is arrogant, proud;', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 31, 'ayah_no': 18, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

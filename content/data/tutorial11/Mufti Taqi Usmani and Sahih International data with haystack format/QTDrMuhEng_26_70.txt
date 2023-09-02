@@ -1,0 +1,1 @@
+{'text': 'When he said to his father and his people: "What do you worship?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 70, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

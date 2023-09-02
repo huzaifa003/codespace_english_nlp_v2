@@ -1,0 +1,1 @@
+{'text': 'And We gave Mūsā and Hārūn the Criterion, and a light and an advice for the God-fearing,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 48, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

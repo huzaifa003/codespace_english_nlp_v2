@@ -1,0 +1,1 @@
+{'text': '"And shake the trunk of date-palm towards you, it will let fall fresh ripe-dates upon you."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 25, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

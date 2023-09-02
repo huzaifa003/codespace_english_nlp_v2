@@ -1,0 +1,1 @@
+{'text': 'We have sent messengers before you, and gave them wives and children. It is not for a messenger to bring a verse without the will of Allah. For every age there are some rules prescribed.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 13, 'ayah_no': 38, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

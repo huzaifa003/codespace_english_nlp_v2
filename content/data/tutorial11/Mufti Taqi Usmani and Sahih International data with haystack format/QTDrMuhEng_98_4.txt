@@ -1,0 +1,1 @@
+{'text': 'And the people of the Scripture (Jews and Christians) differed not until after there came to them clear evidence. (i.e. Prophet Muhammad (Peace be upon him) and whatever was revealed to him).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 98, 'ayah_no': 4, 'surah_name_en': 'Al-Bayyina (The Clear proof )', 'surah_name_ar': 'البیّنۃ'}}

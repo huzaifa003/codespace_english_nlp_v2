@@ -1,0 +1,1 @@
+{'text': 'O Prophet, carry out Jihād (struggle) against the disbelievers and hypocrites, and be strict with them. And their abode is Jahannam (Hell), and it is an evil terminus.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 73, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

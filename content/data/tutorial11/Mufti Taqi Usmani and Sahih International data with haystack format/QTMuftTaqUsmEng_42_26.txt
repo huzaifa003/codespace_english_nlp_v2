@@ -1,0 +1,1 @@
+{'text': 'And He responds to (the prayer of) those who believe and do righteous deeds, and gives them more out of His grace. As for the disbelievers, for them there is a severe punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 42, 'ayah_no': 26, 'surah_name_en': 'Ash-Shura (Council, Consultation)', 'surah_name_ar': 'الشُّورٰی'}}

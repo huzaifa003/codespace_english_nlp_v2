@@ -1,0 +1,1 @@
+{'text': 'while He has created you in different phases?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 71, 'ayah_no': 14, 'surah_name_en': 'Nooh (Nooh)', 'surah_name_ar': 'نُوح'}}

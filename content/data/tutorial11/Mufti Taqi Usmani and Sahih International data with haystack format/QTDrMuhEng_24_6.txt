@@ -1,0 +1,1 @@
+{'text': 'And for those who accuse their wives, but have no witnesses except themselves, let the testimony of one of them be four testimonies (i.e. testifies four times) by Allah that he is one of those who speak the truth.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 6, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

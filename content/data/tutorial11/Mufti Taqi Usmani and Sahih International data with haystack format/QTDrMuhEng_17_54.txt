@@ -1,0 +1,1 @@
+{'text': 'Your Lord knows you best, if He will, He will have mercy on you, or if He will, He will punish you. And We have not sent you (O Muhammad SAW) as a guardian over them.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 54, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

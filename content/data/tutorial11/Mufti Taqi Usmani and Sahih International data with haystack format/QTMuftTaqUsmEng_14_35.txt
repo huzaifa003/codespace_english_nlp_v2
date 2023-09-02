@@ -1,0 +1,1 @@
+{'text': '(Recall) when Ibrāhīm said, “My Lord, make this city peaceful, and keep me and my children away from worshiping idols.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 35, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

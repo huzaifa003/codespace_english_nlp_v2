@@ -1,0 +1,1 @@
+{'text': 'They thought that no harm would follow. Therefore, they became blind and deaf. Then, Allah accepted their repentance, but again they turned blind and deaf, many of them. Allah is watchful of what they do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 71, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

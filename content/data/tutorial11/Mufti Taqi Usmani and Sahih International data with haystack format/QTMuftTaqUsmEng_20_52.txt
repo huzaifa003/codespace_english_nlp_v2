@@ -1,0 +1,1 @@
+{'text': 'He replied, “The knowledge about those is with my Lord in a Book. My Lord does neither err nor forget.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 52, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

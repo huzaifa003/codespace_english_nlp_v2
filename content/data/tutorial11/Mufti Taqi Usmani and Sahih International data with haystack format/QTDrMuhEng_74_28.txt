@@ -1,0 +1,1 @@
+{'text': 'It spares not (any sinner), nor does it leave (anything unburnt)!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 74, 'ayah_no': 28, 'surah_name_en': 'Al-Muddathir (The cloaked one)', 'surah_name_ar': 'المدّثّر'}}

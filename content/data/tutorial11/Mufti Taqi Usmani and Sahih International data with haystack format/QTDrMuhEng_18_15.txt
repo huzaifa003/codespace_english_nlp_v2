@@ -1,0 +1,1 @@
+{'text': '"These our people have taken for worship aliha (gods) other than Him (Allah). Why do they not bring for them a clear authority? And who does more wrong than he who invents a lie against Allah.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 15, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

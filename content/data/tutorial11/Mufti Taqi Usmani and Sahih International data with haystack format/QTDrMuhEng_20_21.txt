@@ -1,0 +1,1 @@
+{'text': 'Allah said:"Grasp it, and fear not, We shall return it to its former state,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 21, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

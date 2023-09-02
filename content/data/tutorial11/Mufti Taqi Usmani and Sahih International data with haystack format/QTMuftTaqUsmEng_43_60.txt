@@ -1,0 +1,1 @@
+{'text': 'And if We will, We may create angels from you who succeed you on the earth.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 60, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

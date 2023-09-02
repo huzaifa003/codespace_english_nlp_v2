@@ -1,0 +1,1 @@
+{'text': 'And you see that the people enter Allahs religion (Islam) in crowds,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 110, 'ayah_no': 2, 'surah_name_en': 'An-Nasr (The Succour)', 'surah_name_ar': 'النَّصَر'}}

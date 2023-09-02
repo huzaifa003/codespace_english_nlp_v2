@@ -1,0 +1,1 @@
+{'text': 'Then We will save those who feared Allah, and will leave the wrongdoers in it, fallen on their knees.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 72, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

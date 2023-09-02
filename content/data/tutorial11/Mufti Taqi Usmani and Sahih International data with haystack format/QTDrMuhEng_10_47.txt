@@ -1,0 +1,1 @@
+{'text': 'And for every Ummah (a community or a nation), there is a Messenger; when their Messenger comes, the matter will be judged between them with justice, and they will not be wronged.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 10, 'ayah_no': 47, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

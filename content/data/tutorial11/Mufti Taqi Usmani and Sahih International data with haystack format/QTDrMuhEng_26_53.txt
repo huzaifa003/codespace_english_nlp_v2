@@ -1,0 +1,1 @@
+{'text': 'Then Firaun (Pharaoh) sent callers to (all) the cities.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 53, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

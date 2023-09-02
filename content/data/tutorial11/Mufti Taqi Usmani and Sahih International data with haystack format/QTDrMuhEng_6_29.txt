@@ -1,0 +1,1 @@
+{'text': 'And they said: "There is no (other life) but our (present) life of this world, and never shall we be resurrected (on the Day of Resurrection)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 29, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

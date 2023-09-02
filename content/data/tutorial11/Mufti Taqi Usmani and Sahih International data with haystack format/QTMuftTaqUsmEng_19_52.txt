@@ -1,0 +1,1 @@
+{'text': 'And We called him from the right side of the mount Tūr (Sinai), and We brought him close to communicate in secret.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 52, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

@@ -1,0 +1,1 @@
+{'text': 'They will have in it whatever they wish, and with Us there are things even more than that.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 35, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

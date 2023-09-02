@@ -1,0 +1,1 @@
+{'text': 'It will be said, “Enter the gates of Jahannam to live in it forever.” So, how evil is the dwelling-place of the arrogant!', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 72, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

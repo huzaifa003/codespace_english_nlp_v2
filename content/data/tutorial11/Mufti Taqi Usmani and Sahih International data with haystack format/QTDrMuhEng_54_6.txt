@@ -1,0 +1,1 @@
+{'text': 'So (O Muhammad SAW) withdraw from them. The Day that the caller will call (them) to a terrible thing.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 6, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

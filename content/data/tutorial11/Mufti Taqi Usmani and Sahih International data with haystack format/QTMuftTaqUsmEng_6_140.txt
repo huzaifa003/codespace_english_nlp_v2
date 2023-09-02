@@ -1,0 +1,1 @@
+{'text': 'Losers are those who kill their children foolishly, without knowledge, and hold as prohibited what Allah has provided them, falsely ascribing it to Allah. They have gone astray, and they are not on the right path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 140, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

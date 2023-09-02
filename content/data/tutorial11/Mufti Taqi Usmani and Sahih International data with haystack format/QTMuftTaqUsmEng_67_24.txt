@@ -1,0 +1,1 @@
+{'text': 'Say, “He is the One who has scattered you on the earth, and to Him you will be assembled.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 67, 'ayah_no': 24, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

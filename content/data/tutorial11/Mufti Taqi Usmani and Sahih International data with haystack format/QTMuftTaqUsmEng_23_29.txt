@@ -1,0 +1,1 @@
+{'text': 'And say, ‘My Lord, make me land a blessed landing, and You are the best of those who bring (someone) to land’”.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 23, 'ayah_no': 29, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

@@ -1,0 +1,1 @@
+{'text': 'Denied before them (i.e. these pagans of Makkah who denied you, O Muhammad SAW) the people of Nooh (Noah), and the dwellers of Rass, and the Thamood,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 50, 'ayah_no': 12, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

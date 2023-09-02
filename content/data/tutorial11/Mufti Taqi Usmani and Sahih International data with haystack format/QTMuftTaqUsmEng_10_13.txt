@@ -1,0 +1,1 @@
+{'text': 'Indeed We have destroyed generations before you when they transgressed, and their Messengers had come to them with clear signs, but they were not the ones who would believe. This is how We punish the guilty people.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 13, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

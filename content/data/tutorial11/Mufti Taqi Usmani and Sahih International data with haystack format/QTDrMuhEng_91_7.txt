@@ -1,0 +1,1 @@
+{'text': 'And by Nafs (Adam or a person or a soul, etc.), and Him Who perfected him in proportion;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 91, 'ayah_no': 7, 'surah_name_en': '91 Ash-Shams (The Sun)', 'surah_name_ar': 'الشَّمس'}}

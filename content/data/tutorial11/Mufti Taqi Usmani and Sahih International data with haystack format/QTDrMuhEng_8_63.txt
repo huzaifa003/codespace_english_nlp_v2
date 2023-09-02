@@ -1,0 +1,1 @@
+{'text': 'And He has united their (i.e. believers) hearts. If you had spent all that is in the earth, you could not have united their hearts, but Allah has united them. Certainly He is All-Mighty, All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 8, 'ayah_no': 63, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

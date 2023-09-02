@@ -1,0 +1,1 @@
+{'text': 'He swore an oath, “I am one of your well-wishers.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 21, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

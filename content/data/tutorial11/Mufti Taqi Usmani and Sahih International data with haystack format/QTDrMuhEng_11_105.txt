@@ -1,0 +1,1 @@
+{'text': 'On the Day when it comes, no person shall speak except by His (Allahs) Leave. Some among them will be wretched and (others) blessed.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 105, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

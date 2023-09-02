@@ -1,0 +1,1 @@
+{'text': 'They said, “We will never prefer you over the clear signs that have come to us, and over Him who has created us. So, decide whatever you have to decide. You will decide only for this worldly life.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 72, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

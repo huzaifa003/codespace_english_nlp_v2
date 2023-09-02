@@ -1,0 +1,1 @@
+{'text': 'We have sent down the Book to you, only because you may explain to them what they differed about, and (so that it may be) guidance and mercy for a people who believe.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 64, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

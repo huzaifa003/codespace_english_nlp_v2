@@ -1,0 +1,1 @@
+{'text': 'And Allah will never lead a people astray after He has guided them until He makes clear to them as to what they should avoid. Verily, Allah is the All-Knower of everything.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 115, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

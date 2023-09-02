@@ -1,0 +1,1 @@
+{'text': 'The Day that the sky will be like the boiling filth of oil, (or molten copper or silver or lead, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 70, 'ayah_no': 8, 'surah_name_en': 'Al-Maarij (The Ascending stairways)', 'surah_name_ar': 'المعارج'}}

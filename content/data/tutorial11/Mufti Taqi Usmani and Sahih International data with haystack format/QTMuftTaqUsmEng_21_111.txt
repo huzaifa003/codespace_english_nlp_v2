@@ -1,0 +1,1 @@
+{'text': 'And I do not know; perhaps it is a trial for you and an enjoyment for a while.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 111, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

@@ -1,0 +1,1 @@
+{'text': 'Permission (to fight) is given to those against whom fighting is launched, because they have been wronged, and Allah is powerful to give them victory.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 39, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

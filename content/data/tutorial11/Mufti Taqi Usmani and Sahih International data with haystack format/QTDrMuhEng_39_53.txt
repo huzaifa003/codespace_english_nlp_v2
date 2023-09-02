@@ -1,0 +1,1 @@
+{'text': 'Say: "O Ibadee (My slaves) who have transgressed against themselves (by committing evil deeds and sins)! Despair not of the Mercy of Allah, verily Allah forgives all sins. Truly, He is Oft-Forgiving, Most Merciful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 39, 'ayah_no': 53, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

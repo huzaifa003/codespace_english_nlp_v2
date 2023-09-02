@@ -1,0 +1,1 @@
+{'text': 'See how We made some of them excel some others (in this world) and, of course, the Hereafter is much higher in ranks and much greater in degrees of merit.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 21, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

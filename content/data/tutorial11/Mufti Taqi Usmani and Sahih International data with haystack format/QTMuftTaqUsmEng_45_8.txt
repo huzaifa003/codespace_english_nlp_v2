@@ -1,0 +1,1 @@
+{'text': 'who hears Allah’s verses being recited to him, then he remains adamant out of arrogance, as if he never heard them. So give him the ‘good news’ of a painful punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 8, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

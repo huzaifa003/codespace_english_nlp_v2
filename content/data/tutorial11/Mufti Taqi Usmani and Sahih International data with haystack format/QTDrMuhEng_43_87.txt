@@ -1,0 +1,1 @@
+{'text': 'And if you ask them who created them, they will surely say: "Allah". How then are they turned away (from the worship of Allah, Who created them)?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 87, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

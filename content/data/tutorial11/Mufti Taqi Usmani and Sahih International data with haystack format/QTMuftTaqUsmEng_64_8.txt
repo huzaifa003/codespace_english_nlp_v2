@@ -1,0 +1,1 @@
+{'text': 'So, believe in Allah and His Messenger, and in the light We have sent down. And Allah is fully aware of what you do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 64, 'ayah_no': 8, 'surah_name_en': 'At-Taghabun (Mutual Disillusion)', 'surah_name_ar': 'التّغابن'}}

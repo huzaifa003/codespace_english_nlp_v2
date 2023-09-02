@@ -1,0 +1,1 @@
+{'text': 'and his kindred that sheltered him,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 70, 'ayah_no': 13, 'surah_name_en': 'Al-Maarij (The Ascending stairways)', 'surah_name_ar': 'المعارج'}}

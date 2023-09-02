@@ -1,0 +1,1 @@
+{'text': 'and when they went back to their family, they went enjoying their mockery,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 83, 'ayah_no': 31, 'surah_name_en': 'Al-Mutaffifin (Defrauding)', 'surah_name_ar': 'المُطَفِّفِین'}}

@@ -1,0 +1,1 @@
+{'text': 'He said: "Indeed you and your fathers have been in manifest error."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 54, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

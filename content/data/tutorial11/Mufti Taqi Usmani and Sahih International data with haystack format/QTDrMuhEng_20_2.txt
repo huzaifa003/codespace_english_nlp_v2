@@ -1,0 +1,1 @@
+{'text': 'We have not sent down the Quran unto you (O Muhammad SAW) to cause you distress,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 2, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

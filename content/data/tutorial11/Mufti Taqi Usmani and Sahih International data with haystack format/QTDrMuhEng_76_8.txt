@@ -1,0 +1,1 @@
+{'text': 'And they give food, inspite of their love for it (or for the love of Him), to Miskin (poor), the orphan, and the captive,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 76, 'ayah_no': 8, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

@@ -1,0 +1,1 @@
+{'text': 'Then He made his progeny from a drop of semen, from despised water.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 32, 'ayah_no': 8, 'surah_name_en': 'As-Sajda (The Prostration)', 'surah_name_ar': 'السجدۃ'}}

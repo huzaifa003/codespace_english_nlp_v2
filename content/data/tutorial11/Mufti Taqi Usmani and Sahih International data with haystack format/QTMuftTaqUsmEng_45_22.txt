@@ -1,0 +1,1 @@
+{'text': 'Allah has created the heavens and the earth with just purpose, and so that everybody is recompensed for what he (or she) earned, and they will not be wronged.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 22, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

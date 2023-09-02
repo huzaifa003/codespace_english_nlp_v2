@@ -1,0 +1,1 @@
+{'text': 'And whosoever takes Allah, His Messenger, and those who have believed, as Protectors, then the party of Allah will be the victorious.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 5, 'ayah_no': 56, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

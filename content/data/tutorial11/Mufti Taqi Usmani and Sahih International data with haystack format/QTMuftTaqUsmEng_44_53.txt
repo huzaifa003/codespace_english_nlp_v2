@@ -1,0 +1,1 @@
+{'text': 'They will be dressed in fine silk and thick silk, facing each other.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 44, 'ayah_no': 53, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

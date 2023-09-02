@@ -1,0 +1,1 @@
+{'text': 'And you dwelt in the dwellings of those who wronged themselves, and it became clear to you how We dealt with them, and We put forth for you the examples.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 45, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

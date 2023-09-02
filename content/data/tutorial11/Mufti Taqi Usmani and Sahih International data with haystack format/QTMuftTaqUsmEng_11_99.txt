@@ -1,0 +1,1 @@
+{'text': 'The curse was made to pursue them here and on the Day of Judgement. It is the evil reward to be offered.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 99, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

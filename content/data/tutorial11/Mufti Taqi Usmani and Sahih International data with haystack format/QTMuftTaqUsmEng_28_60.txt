@@ -1,0 +1,1 @@
+{'text': 'Moreover, whatever of anything you are given is (no more than) an enjoyment of the worldly life and its decoration, and that which lies with Allah is much better and far more lasting. So do you not use reason?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 60, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

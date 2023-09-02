@@ -1,0 +1,1 @@
+{'text': 'and We caused the earth to gush forth as springs; so the water (of both kinds) met together for a destined event.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 54, 'ayah_no': 12, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

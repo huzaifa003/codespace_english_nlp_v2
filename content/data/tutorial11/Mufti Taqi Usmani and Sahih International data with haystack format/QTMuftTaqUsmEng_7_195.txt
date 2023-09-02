@@ -1,0 +1,1 @@
+{'text': 'Do they have legs to walk with? Or do they have hands to grasp with? Or do they have eyes to see with or do they have ears to hear with? Say, “Call to your associate-gods, then, plot against me and allow me no respite.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 195, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

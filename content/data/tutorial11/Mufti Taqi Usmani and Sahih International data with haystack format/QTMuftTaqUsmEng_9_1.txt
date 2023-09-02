@@ -1,0 +1,1 @@
+{'text': 'Here is a disavowal (proclaimed) by Allah and His Messenger against the Mushriks (polytheists) with whom you have a treaty.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 1, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

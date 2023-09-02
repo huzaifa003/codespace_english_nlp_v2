@@ -1,0 +1,1 @@
+{'text': 'And indeed We have put forth every kind of example in this Quran, for mankind. But, man is ever more quarrelsome than anything.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 54, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

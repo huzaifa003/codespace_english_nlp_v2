@@ -1,0 +1,1 @@
+{'text': 'To ‘Ād, We sent their brother Hūd. He said, “O my people, worship Allah; you have no god other than Him. So, will you not fear Allah?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 65, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

@@ -1,0 +1,1 @@
+{'text': 'Because of the familiarity of the Quraish,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 106, 'ayah_no': 1, 'surah_name_en': 'Quraish (Quraish)', 'surah_name_ar': 'قُرَیش'}}

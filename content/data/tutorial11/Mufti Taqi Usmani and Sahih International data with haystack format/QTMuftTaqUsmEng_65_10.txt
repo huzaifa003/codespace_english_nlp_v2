@@ -1,0 +1,1 @@
+{'text': 'Allah has prepared for them a severe punishment; so fear Allah O men of understanding who have believed! Allah has sent down to you a Reminder,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 65, 'ayah_no': 10, 'surah_name_en': 'At-Talaq (Divorce)', 'surah_name_ar': 'الطّلاق'}}

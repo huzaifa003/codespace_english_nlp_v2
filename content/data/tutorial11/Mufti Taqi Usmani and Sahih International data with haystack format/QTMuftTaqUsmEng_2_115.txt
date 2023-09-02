@@ -1,0 +1,1 @@
+{'text': 'To Allah belongs the East and the West. So, whichever way you turn, there is the Face of Allah. Indeed, Allah is All-Embracing, All-Knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 115, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

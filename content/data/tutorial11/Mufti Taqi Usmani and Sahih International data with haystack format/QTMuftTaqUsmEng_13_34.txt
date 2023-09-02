@@ -1,0 +1,1 @@
+{'text': 'For them there is punishment in the worldly life, and indeed the punishment of the Hereafter is even harder, and for them there is none to save them from Allah.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 13, 'ayah_no': 34, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

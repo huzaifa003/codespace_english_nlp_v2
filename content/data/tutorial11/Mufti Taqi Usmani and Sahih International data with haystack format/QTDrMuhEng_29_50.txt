@@ -1,0 +1,1 @@
+{'text': 'And they say: "Why are not signs sent down to him from his Lord? Say: "The signs are only with Allah, and I am only a plain warner."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 29, 'ayah_no': 50, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

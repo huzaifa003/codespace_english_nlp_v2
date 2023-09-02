@@ -1,0 +1,1 @@
+{'text': 'She certainly desired him, and he might have desired her, had he not seen the proof from his Lord. Thus We did, to turn evil and lewdness away from him. Surely, he was one of Our chosen servants.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 24, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

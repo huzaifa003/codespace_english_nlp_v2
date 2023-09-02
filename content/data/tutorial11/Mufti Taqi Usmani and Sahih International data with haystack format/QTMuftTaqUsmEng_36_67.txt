@@ -1,0 +1,1 @@
+{'text': 'And If We so will, We would disfigure them at their places, and they would not be able to move, nor would they return.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 67, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

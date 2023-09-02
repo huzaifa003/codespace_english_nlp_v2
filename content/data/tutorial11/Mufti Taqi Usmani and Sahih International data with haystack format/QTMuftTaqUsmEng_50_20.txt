@@ -1,0 +1,1 @@
+{'text': 'And the Horn will be blown. That will be the day of (which) threat (was given).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 20, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

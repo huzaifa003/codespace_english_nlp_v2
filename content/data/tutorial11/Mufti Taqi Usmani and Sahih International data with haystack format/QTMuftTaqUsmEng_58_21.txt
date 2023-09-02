@@ -1,0 +1,1 @@
+{'text': 'Allah has written (in His pre-destined decree), “I will certainly prevail, both I and My messengers.” Surely Allah is All-Strong, All-Mighty.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 58, 'ayah_no': 21, 'surah_name_en': 'Al-Mujadila (She that disputes)', 'surah_name_ar': 'المجادلۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'So, proclaim Allah’s purity (from shirk) when you see the evening and when you see the morning.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 17, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

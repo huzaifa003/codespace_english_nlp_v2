@@ -1,0 +1,1 @@
+{'text': 'who gives his wealth (in charity) to become purified,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 92, 'ayah_no': 18, 'surah_name_en': 'Al-Lail (The night)', 'surah_name_ar': 'الَّیل'}}

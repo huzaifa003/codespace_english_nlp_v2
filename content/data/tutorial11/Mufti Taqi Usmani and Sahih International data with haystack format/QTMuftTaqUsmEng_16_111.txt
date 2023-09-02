@@ -1,0 +1,1 @@
+{'text': '(All this will happen) on the day when everyone will come pleading for himself, and everyone will be given in full what he did, and they will not be wronged.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 111, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

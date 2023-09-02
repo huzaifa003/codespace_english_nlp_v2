@@ -1,0 +1,1 @@
+{'text': 'As regards the one who has come to you rushing eagerly,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 80, 'ayah_no': 8, 'surah_name_en': 'Abasa (He Frowned)', 'surah_name_ar': 'عَبَسَ'}}

@@ -1,0 +1,1 @@
+{'text': 'Then there is safety and peace (from the Punishment of Allah) for (you as you are from) those on the Right Hand.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 56, 'ayah_no': 91, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

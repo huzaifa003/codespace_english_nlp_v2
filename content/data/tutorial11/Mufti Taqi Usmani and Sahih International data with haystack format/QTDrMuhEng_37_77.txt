@@ -1,0 +1,1 @@
+{'text': 'And, his progeny, them We made the survivors (i.e. Shem, Ham and Japheth).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 77, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

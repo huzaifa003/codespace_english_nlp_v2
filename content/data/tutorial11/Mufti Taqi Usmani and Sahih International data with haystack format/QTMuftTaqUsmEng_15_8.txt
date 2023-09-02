@@ -1,0 +1,1 @@
+{'text': 'We do not send down the angels except with truth, and then they shall be given no respite.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 8, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

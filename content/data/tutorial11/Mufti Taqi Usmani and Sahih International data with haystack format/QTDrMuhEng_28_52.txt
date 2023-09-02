@@ -1,0 +1,1 @@
+{'text': 'Those to whom We gave the Scripture (i.e. the Taurat (Torah) and the Injeel (Gospel), etc.) before it, - they believe in it (the Quran).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 52, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

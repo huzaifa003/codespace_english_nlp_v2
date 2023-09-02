@@ -1,0 +1,1 @@
+{'text': 'As for those who strive in Our way, We will certainly take them onto Our paths, and indeed Allah is with those who are good in deeds.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 69, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

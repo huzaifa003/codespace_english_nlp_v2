@@ -1,0 +1,1 @@
+{'text': 'And We inspired Moosa (Moses) (saying): "Throw your stick," and behold! It swallowed up straight away all the falsehoods which they showed.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 117, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

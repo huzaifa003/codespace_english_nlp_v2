@@ -1,0 +1,1 @@
+{'text': 'Respond to your Lord before there comes a day for which there will be no reversal from Allah’s side. For you there will be neither a refuge that day, nor an opportunity to question (Allah about your fate).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 42, 'ayah_no': 47, 'surah_name_en': 'Ash-Shura (Council, Consultation)', 'surah_name_ar': 'الشُّورٰی'}}

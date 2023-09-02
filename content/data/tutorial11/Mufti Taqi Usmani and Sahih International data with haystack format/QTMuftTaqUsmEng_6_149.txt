@@ -1,0 +1,1 @@
+{'text': 'Say, “Then, Allah’s is the conclusive proof. So, had He willed, He would have brought all of you on the right path”.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 149, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

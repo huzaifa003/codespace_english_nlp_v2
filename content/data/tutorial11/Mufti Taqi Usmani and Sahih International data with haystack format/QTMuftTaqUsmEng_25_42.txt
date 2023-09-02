@@ -1,0 +1,1 @@
+{'text': 'He would have almost led us astray from our gods, had we not been so firm towards them.” They will know when they will see the punishment, who is farther astray in his way.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 42, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

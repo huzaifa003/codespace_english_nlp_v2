@@ -1,0 +1,1 @@
+{'text': 'Such are on guidance from their Lord, and such are the successful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 31, 'ayah_no': 5, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

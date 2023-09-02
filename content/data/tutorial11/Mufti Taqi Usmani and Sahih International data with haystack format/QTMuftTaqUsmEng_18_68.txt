@@ -1,0 +1,1 @@
+{'text': 'And how would you keep patient over something your comprehension cannot grasp?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 68, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

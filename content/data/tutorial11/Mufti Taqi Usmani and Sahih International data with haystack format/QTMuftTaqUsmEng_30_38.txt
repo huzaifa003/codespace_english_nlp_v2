@@ -1,0 +1,1 @@
+{'text': 'So give to the kinsman his right, and to the needy and the wayfarer. That is better for those who seek Allah’s pleasure, and it is they who will be successful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 38, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

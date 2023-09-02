@@ -1,0 +1,1 @@
+{'text': 'And those who keep their trusts and covenants;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 70, 'ayah_no': 32, 'surah_name_en': 'Al-Maarij (The Ascending stairways)', 'surah_name_ar': 'المعارج'}}

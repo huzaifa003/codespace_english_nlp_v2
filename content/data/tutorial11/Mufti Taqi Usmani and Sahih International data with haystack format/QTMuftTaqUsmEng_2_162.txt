@@ -1,0 +1,1 @@
+{'text': 'in a way that they will remain in it forever. Neither the punishment will be lightened for them, nor will they be given respite.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 162, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

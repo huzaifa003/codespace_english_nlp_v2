@@ -1,0 +1,1 @@
+{'text': 'His wife was standing (nearby), and she laughed. Thus We gave her the good news about IsHāq, and about Ya‘qūb after IsHāq.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 71, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

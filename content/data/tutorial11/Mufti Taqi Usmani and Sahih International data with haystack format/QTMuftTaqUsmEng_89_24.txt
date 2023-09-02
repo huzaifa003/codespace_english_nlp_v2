@@ -1,0 +1,1 @@
+{'text': 'He will say, “O Would that I had sent ahead (some good deeds) for (this) my life!”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 89, 'ayah_no': 24, 'surah_name_en': 'Al-Fajr (The Dawn)', 'surah_name_ar': 'الفجر'}}

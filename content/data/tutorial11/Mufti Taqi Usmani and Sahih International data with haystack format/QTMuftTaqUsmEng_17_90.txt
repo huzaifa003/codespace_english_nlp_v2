@@ -1,0 +1,1 @@
+{'text': 'They said, “We shall never believe in you unless you cause a spring to gush forth for us from the earth.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 90, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

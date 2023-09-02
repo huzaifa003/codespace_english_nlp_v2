@@ -1,0 +1,1 @@
+{'text': 'On the Day when the torment (Hell-fire) shall cover them from above them and from underneath their feet, and it will be said: "Taste what you used to do."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 29, 'ayah_no': 55, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

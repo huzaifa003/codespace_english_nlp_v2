@@ -1,0 +1,1 @@
+{'text': 'Verily, We shall send down to you a weighty Word (i.e. obligations, legal laws, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 73, 'ayah_no': 5, 'surah_name_en': 'Al-Muzzammil (The enshrouded one)', 'surah_name_ar': 'المزّمّل'}}

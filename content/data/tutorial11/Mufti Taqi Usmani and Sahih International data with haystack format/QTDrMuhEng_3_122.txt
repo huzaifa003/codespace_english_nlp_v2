@@ -1,0 +1,1 @@
+{'text': 'When two parties from among you were about to lose heart, but Allah was their Walee (Supporter and Protector). And in Allah should the believers put their trust.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 122, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

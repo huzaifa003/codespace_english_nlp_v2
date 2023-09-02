@@ -1,0 +1,1 @@
+{'text': 'Remember Allah’s favour upon you and His covenant that He has taken from you when you said, “We have listened and obeyed.” Fear Allah. Allah is all-Aware of what lies in the hearts.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 7, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

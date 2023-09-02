@@ -1,0 +1,1 @@
+{'text': 'And how many a township rebelled against the command of its Lord, and against His messengers, so We called them to a severe account, and punished them with a punishment that was unimagined by them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 65, 'ayah_no': 8, 'surah_name_en': 'At-Talaq (Divorce)', 'surah_name_ar': 'الطّلاق'}}

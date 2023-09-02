@@ -1,0 +1,1 @@
+{'text': 'in which you will see neither a curve nor an uneven place.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 107, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

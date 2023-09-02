@@ -1,0 +1,1 @@
+{'text': 'and when the messengers will be assembled at the appointed time, (then all matters will be decided.)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 77, 'ayah_no': 11, 'surah_name_en': 'Al-Mursalat (The emissaries)', 'surah_name_ar': 'المرسلٰت'}}

@@ -1,0 +1,1 @@
+{'text': 'Therein (that night) is decreed every matter of ordainments .', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 44, 'ayah_no': 4, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

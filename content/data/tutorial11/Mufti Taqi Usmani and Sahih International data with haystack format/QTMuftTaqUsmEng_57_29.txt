@@ -1,0 +1,1 @@
+{'text': '- so that the People of the Book may know that they have no control over any thing from Allah’s bounty, and that bounty is in Allah’s hand; He gives it to whom He wills, and Allah is the Lord of the great bounty.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 57, 'ayah_no': 29, 'surah_name_en': 'Al-Hadid (The Iron)', 'surah_name_ar': 'الحدید'}}

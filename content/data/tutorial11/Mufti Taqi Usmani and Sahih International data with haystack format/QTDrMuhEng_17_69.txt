@@ -1,0 +1,1 @@
+{'text': 'Or do you feel secure that He will not send you back a second time to sea and send against you a hurricane of wind and drown you because of your disbelief, then you will not find any avenger therein against Us?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 69, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

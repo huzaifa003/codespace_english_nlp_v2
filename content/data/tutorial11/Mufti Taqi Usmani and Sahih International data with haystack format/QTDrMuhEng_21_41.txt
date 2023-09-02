@@ -1,0 +1,1 @@
+{'text': 'Indeed (many) Messengers were mocked before you (O Muhammad SAW), but the scoffers were surrounded by that, whereat they used to mock.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 41, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

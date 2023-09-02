@@ -1,0 +1,1 @@
+{'text': 'Peace! (All that night, there is Peace and Goodness from Allah to His believing slaves) until the appearance of dawn.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 97, 'ayah_no': 5, 'surah_name_en': 'Al-Qadr (The Power)', 'surah_name_ar': 'القدر'}}

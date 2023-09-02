@@ -1,0 +1,1 @@
+{'text': '(Recall) when Ibrāhīm said to his father and to his people, “I disown that which you worship,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 26, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

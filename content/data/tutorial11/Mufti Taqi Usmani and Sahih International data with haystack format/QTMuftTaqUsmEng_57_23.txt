@@ -1,0 +1,1 @@
+{'text': '- so that you may neither grieve on what has escaped you, nor over-exult on what He has given to you. And Allah does not love any self-admirer, over-proud,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 57, 'ayah_no': 23, 'surah_name_en': 'Al-Hadid (The Iron)', 'surah_name_ar': 'الحدید'}}

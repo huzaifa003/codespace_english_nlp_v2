@@ -1,0 +1,1 @@
+{'text': 'Or you have a garden of date palms and grapes, then you bring forth rivers from their midst in abundance.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 91, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

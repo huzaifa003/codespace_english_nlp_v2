@@ -1,0 +1,1 @@
+{'text': 'And disgrace me not on the Day when (all the creatures) will be resurrected;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 87, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

@@ -1,0 +1,1 @@
+{'text': 'And you see many of them (Jews) hurrying for sin and transgression, and eating illegal things (as bribes and Riba (usury), etc.). Evil indeed is that which they have been doing.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 5, 'ayah_no': 62, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

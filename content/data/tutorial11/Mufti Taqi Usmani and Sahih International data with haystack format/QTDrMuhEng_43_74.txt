@@ -1,0 +1,1 @@
+{'text': 'Verily, the Mujrimoon (criminals, sinners, disbelievers, etc.) will be in the torment of Hell to abide therein forever.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 74, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

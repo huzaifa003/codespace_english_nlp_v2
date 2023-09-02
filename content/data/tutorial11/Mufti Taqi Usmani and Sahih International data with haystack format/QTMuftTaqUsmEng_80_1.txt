@@ -1,0 +1,1 @@
+{'text': 'He (the Prophet) frowned and turned his face,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 80, 'ayah_no': 1, 'surah_name_en': 'Abasa (He Frowned)', 'surah_name_ar': 'عَبَسَ'}}

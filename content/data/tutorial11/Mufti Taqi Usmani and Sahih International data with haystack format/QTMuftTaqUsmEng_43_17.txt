@@ -1,0 +1,1 @@
+{'text': 'When one of them is given the good news of (the birth of) that which he has attributed to RaHmān (i.e. the daughters), his face turns black, and he becomes choked with sorrow.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 17, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

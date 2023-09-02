@@ -1,0 +1,1 @@
+{'text': 'Then, after him, We sent messengers to their peoples, and they came to them with clear signs, but they were not to believe in what they had rejected earlier. This is how We seal the hearts of the transgressors.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 74, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

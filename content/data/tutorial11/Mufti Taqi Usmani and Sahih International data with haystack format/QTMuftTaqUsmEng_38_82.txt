@@ -1,0 +1,1 @@
+{'text': 'He said, “Then, I swear by Your Might, that I will definitely lead them astray, all of them -', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 82, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

@@ -1,0 +1,1 @@
+{'text': '(The disbelievers will continue denying the truth and mock at it) until when they will see what they are promised, they will know whose supporters are weaker, and whose numbers are less.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 72, 'ayah_no': 24, 'surah_name_en': 'Al-Jinn (The Jinn)', 'surah_name_ar': 'الجن'}}

@@ -1,0 +1,1 @@
+{'text': 'Those are the ones who brought loss to their own selves, and all that they used to fabricate vanished from them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 21, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

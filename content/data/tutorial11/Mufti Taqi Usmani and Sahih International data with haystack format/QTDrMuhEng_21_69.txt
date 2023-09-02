@@ -1,0 +1,1 @@
+{'text': 'We (Allah) said: "O fire! Be you coolness and safety for Ibrahim (Abraham)!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 69, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

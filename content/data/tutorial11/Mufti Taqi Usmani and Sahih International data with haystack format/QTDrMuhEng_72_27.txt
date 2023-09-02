@@ -1,0 +1,1 @@
+{'text': 'Except to a Messenger (from mankind) whom He has chosen (He informs him of unseen as much as He likes), and then He makes a band of watching guards (angels) to march before him and behind him.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 72, 'ayah_no': 27, 'surah_name_en': 'Al-Jinn (The Jinn)', 'surah_name_ar': 'الجن'}}

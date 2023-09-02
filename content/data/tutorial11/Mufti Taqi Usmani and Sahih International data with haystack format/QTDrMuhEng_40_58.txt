@@ -1,0 +1,1 @@
+{'text': 'And not equal are the blind and those who see, nor are (equal) those who believe (in the Oneness of Allah Islamic Monotheism), and do righteous good deeds, and those who do evil. Little do you remember!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 58, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

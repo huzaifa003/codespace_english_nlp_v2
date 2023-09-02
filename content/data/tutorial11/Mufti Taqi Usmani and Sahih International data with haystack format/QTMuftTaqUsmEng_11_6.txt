@@ -1,0 +1,1 @@
+{'text': 'There is no creature on earth whose sustenance is not undertaken by Allah. He knows its permanent and its temporary place. Everything is in a clear book.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 6, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

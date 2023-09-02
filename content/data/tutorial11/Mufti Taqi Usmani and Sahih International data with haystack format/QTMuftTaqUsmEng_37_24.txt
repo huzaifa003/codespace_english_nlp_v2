@@ -1,0 +1,1 @@
+{'text': 'and stop them (for a while,) for they are to be asked some questions.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 24, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

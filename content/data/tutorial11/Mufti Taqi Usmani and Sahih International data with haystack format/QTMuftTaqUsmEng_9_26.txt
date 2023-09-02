@@ -1,0 +1,1 @@
+{'text': 'Then Allah sent down His tranquility upon His Messenger and upon the believers, and sent down troops that you did not see, and punished those who disbelieved. That is the recompense of the disbelievers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 26, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

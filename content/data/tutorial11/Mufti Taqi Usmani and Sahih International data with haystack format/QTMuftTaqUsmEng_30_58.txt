@@ -1,0 +1,1 @@
+{'text': 'Indeed We have given in this Qur’ān all kinds of examples for the benefit of mankind. (Still) if you bring to them a sign, the disbelievers will certainly say, “You are nothing but men of falsehood.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 58, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

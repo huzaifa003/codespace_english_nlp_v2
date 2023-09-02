@@ -1,0 +1,1 @@
+{'text': 'And you will see each nation humbled to their knees (kneeling), each nation will be called to its Record (of deeds). This Day you shall be recompensed for what you used to do.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 45, 'ayah_no': 28, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

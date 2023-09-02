@@ -1,0 +1,1 @@
+{'text': 'Say, “Just tell me, if His punishment befalls you at night or by day, what (desirable thing) will it have that the sinners are asking it so hurriedly?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 50, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

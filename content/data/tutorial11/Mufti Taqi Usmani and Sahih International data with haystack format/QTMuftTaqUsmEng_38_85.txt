@@ -1,0 +1,1 @@
+{'text': 'that I will definitely fill the Jahannam with you and with those who will follow you from among them, all together.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 85, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

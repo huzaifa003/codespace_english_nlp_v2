@@ -1,0 +1,1 @@
+{'text': 'And when it is said to them: "What is it that your Lord has sent down (unto Muhammad SAW)?" They say: "Tales of the men of old!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 24, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

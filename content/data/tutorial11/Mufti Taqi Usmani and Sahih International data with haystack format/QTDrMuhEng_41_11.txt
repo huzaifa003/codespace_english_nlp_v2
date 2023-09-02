@@ -1,0 +1,1 @@
+{'text': 'Then He Istawa (rose over) towards the heaven when it was smoke, and said to it and to the earth: "Come both of you willingly or unwillingly." They both said: "We come, willingly."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 41, 'ayah_no': 11, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

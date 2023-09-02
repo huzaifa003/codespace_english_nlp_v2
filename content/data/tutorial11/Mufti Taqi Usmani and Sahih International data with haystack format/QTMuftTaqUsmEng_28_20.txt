@@ -1,0 +1,1 @@
+{'text': 'And there came a man running from the farthest part of the city. He said, “The chiefs are counseling each other about you, so that they kill you. So, leave (the city). I am one of your well-wishers.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 20, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

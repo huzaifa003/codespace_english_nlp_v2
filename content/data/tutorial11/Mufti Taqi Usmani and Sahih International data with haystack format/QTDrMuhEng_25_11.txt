@@ -1,0 +1,1 @@
+{'text': 'Nay, they deny the Hour (the Day of Resurrection), and for those who deny the Hour, We have prepared a flaming Fire (i.e. Hell).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 11, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

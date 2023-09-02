@@ -1,0 +1,1 @@
+{'text': 'So when (the messengers with the present) came to Sulaiman (Solomon), he said: "Will you help me in wealth? What Allah has given me is better than that which He has given you! Nay, you rejoice in your gift!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 36, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

@@ -1,0 +1,1 @@
+{'text': 'But (now that the Quran has come) they disbelieve therein (i.e. in the Quran and in Prophet Muhammad SAW , and all that which he brought, the Divine Revelation), so they will come to know!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 170, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

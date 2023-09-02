@@ -1,0 +1,1 @@
+{'text': 'about whom it is destined that if someone takes him for friend, he will misguide him and lead him to the torment of the Fire.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 4, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

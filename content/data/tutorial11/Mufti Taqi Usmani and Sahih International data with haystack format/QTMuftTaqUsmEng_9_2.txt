@@ -1,0 +1,1 @@
+{'text': 'So, move in the land freely for four months, and be aware that you can never frustrate Allah, and that Allah is going to disgrace the disbelievers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 2, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

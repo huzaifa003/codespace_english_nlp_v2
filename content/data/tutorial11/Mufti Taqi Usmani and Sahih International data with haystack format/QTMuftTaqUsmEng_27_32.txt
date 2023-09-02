@@ -1,0 +1,1 @@
+{'text': 'She said, “O chieftains, advise me in the matter I have (before me). I am not the one who decides a matter absolutely unless you are present with me.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 32, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

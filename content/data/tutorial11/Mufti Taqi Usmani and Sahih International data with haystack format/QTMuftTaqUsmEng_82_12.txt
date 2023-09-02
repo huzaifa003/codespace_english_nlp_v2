@@ -1,0 +1,1 @@
+{'text': 'who know whatever you do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 82, 'ayah_no': 12, 'surah_name_en': 'AL-Infitar (The Cleaving)', 'surah_name_ar': 'الاِنفِطَار'}}

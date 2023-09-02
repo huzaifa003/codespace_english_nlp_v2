@@ -1,0 +1,1 @@
+{'text': 'Mūsā said to them, “Pity on you, do not fabricate a lie against Allah, lest He should destroy you with a punishment. And loser is he who fabricates a lie.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 61, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

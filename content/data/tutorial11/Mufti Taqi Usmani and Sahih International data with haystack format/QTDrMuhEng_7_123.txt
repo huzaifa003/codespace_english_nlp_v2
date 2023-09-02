@@ -1,0 +1,1 @@
+{'text': 'Firaun (Pharaoh) said: "You have believed in him (Moosa (Moses)) before I give you permission. Surely, this is a plot which you have plotted in the city to drive out its people, but you shall come to know.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 123, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

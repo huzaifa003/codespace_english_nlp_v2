@@ -1,0 +1,1 @@
+{'text': 'So We sent upon them the storm and locusts and lice and frogs and blood, as signs distinct from each other. Yet they showed arrogance, and they were a guilty people.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 133, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

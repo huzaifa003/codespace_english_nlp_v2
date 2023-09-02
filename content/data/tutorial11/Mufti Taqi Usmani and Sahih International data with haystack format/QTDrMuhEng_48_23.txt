@@ -1,0 +1,1 @@
+{'text': 'That has been the Way of Allah already with those who passed away before. And you will not find any change in the Way of Allah.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 48, 'ayah_no': 23, 'surah_name_en': 'Al-Fath (The victory)', 'surah_name_ar': 'الفتح'}}

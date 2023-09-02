@@ -1,0 +1,1 @@
+{'text': '(When the leaders of the infidels will see their followers entering the Hell after them, they will say to each other,) “This is a multitude rushing into (the Hell) with you - they are not welcome - they are to burn in the Fire.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 59, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

@@ -1,0 +1,1 @@
+{'text': 'And all the praise and thanks be to Allah, Lord of the Alameen (mankind, jinns and all that exists).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 182, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

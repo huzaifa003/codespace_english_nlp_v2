@@ -1,0 +1,1 @@
+{'text': 'Then even after that, you turned away. So, had it not been for the grace of Allah upon you, and His mercy, you would have been among the losers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 64, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

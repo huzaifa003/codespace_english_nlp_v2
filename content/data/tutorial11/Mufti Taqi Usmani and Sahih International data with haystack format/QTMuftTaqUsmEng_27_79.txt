@@ -1,0 +1,1 @@
+{'text': 'So trust in Allah. Surely you are on the clear truth.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 79, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

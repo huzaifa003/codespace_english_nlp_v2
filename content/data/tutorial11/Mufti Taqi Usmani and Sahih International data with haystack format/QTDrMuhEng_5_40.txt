@@ -1,0 +1,1 @@
+{'text': 'Know you not that to Allah (Alone) belongs the dominion of the heavens and the earth! He punishes whom He wills and He forgives whom He wills. And Allah is Able to do all things.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 5, 'ayah_no': 40, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

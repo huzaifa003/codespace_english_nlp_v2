@@ -1,0 +1,1 @@
+{'text': 'And those whom they invoke besides Him have no power to intercede; but those who bear witness to the truth, while they have knowledge (may intercede for the believers with Allah’s permission).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 86, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

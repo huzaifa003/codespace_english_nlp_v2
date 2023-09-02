@@ -1,0 +1,1 @@
+{'text': 'Why, when you entered your garden, did you not say, ‘(Everything is) as Allah wills. There is no power except with Allah’? If you see me inferior to you in wealth and children,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 39, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

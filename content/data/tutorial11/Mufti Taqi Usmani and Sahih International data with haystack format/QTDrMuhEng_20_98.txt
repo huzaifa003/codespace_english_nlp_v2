@@ -1,0 +1,1 @@
+{'text': 'Your Ilah (God) is only Allah, the One (La ilaha illa Huwa) (none has the right to be worshipped but He). He has full knowledge of all things.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 98, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

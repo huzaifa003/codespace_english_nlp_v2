@@ -1,0 +1,1 @@
+{'text': 'With the help of Allah, He helps whom He wills, and He is the AllMighty, the Most Merciful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 30, 'ayah_no': 5, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

@@ -1,0 +1,1 @@
+{'text': 'and he was good to his parents; and he was not oppressive (or) disobedient.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 14, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

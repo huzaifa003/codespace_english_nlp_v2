@@ -1,0 +1,1 @@
+{'text': 'And had it not been for the Grace of Allah and His Mercy on you (He would have hastened the punishment upon you)! And that Allah is the One Who accepts repentance, the All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 10, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

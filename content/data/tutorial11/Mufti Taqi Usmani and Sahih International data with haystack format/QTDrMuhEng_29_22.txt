@@ -1,0 +1,1 @@
+{'text': 'And you cannot escape in the earth or in the heaven. And besides Allah you have neither any Walee (Protector or Guardian) nor any Helper.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 29, 'ayah_no': 22, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

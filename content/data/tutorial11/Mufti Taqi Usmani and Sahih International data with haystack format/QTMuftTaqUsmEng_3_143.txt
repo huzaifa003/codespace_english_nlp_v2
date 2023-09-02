@@ -1,0 +1,1 @@
+{'text': 'You had longed for death before you faced it. Now, you have seen it with your eyes wide open.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 143, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

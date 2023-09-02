@@ -1,0 +1,1 @@
+{'text': 'And saved from it will be the most God-fearing one,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 92, 'ayah_no': 17, 'surah_name_en': 'Al-Lail (The night)', 'surah_name_ar': 'الَّیل'}}

@@ -1,0 +1,1 @@
+{'text': 'And surely, We shall try you till We test those who strive hard (for the Cause of Allah) and the patient ones, and We shall test your facts (i.e. the one who is a liar, and the one who is truthful).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 47, 'ayah_no': 31, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

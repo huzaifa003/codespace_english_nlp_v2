@@ -1,0 +1,1 @@
+{'text': 'Indeed We have sent down to you enlightening verses, and an exemplary description of those who passed away before you, and a good counsel for the God-fearing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 34, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

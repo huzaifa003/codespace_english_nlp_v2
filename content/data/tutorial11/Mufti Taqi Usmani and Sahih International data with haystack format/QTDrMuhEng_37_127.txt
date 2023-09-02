@@ -1,0 +1,1 @@
+{'text': 'But they denied him (Iliyas (Elias)), so they will certainly be brought forth (to the punishment),', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 127, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

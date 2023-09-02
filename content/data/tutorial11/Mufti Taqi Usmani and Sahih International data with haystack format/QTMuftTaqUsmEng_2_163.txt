@@ -1,0 +1,1 @@
+{'text': 'Your god is one God: There is no god but He, the All-Merciful, the Very-Merciful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 163, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

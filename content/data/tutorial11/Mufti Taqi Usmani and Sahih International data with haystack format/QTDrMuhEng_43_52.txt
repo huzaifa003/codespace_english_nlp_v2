@@ -1,0 +1,1 @@
+{'text': '"Am I not better than this one (Moosa (Moses)), who is Maheen (has no honour nor any respect, and is weak and despicable) and can scarcely express himself clearly?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 52, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

@@ -1,0 +1,1 @@
+{'text': 'Say to (them): "If the home of the Hereafter with Allah is indeed for you specially and not for others, of mankind, then long for death if you are truthful."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 94, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

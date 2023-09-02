@@ -1,0 +1,1 @@
+{'text': 'and he did see him (Jibra’īl X) on the clear horizon.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 81, 'ayah_no': 23, 'surah_name_en': 'At-Takwir (The Overthrowing)', 'surah_name_ar': 'التَّکوِیر'}}

@@ -1,0 +1,1 @@
+{'text': 'The example (of Banū NaDīr) is like those who were before them in near past, who tasted the evil consequence of their conduct, and for them (in the Hereafter) there is a painful punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 59, 'ayah_no': 15, 'surah_name_en': 'Al-Hashr (Exile)', 'surah_name_ar': 'الحشر'}}

@@ -1,0 +1,1 @@
+{'text': 'Surely, the Hour (i.e. the Day of Judgment) has to come. I would keep it secret, so that everyone is given a return for the effort one makes.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 15, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

@@ -1,0 +1,1 @@
+{'text': 'Say: "Truly, my Lord enlarges the provision for whom He wills of His slaves, and (also) restricts (it) for him, and whatsoever you spend of anything (in Allahs Cause), He will replace it. And He is the Best of providers."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 34, 'ayah_no': 39, 'surah_name_en': 'Saba (Saba)', 'surah_name_ar': 'سبا'}}

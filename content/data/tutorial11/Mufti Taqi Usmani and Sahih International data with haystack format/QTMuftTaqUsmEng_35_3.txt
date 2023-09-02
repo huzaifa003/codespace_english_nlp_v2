@@ -1,0 +1,1 @@
+{'text': 'O mankind, remember Allah’s blessing upon you. Is there any creator other than Allah who gives you provision from the sky and the earth? There is no god but He. So, to where are you being turned around (by your desires)?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 35, 'ayah_no': 3, 'surah_name_en': 'Fatir (Originator)', 'surah_name_ar': 'فاطر'}}

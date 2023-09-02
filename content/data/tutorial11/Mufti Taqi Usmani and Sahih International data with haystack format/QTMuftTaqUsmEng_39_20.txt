@@ -1,0 +1,1 @@
+{'text': 'But, for those who fear their Lord, there are chambers with chambers built on top of them, with rivers running from underneath them. This is Allah’s promise. Allah does not go back on any promise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 20, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

@@ -1,0 +1,1 @@
+{'text': 'And (remember) Lout (Lot)! When he said to his people . Do you commit AlFahishah (evil, great sin, every kind of unlawful sexual intercourse, sodomy, etc.) while you see (one another doing evil without any screen, etc.)?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 54, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

@@ -1,0 +1,1 @@
+{'text': 'Then We subjected them to retribution, and drowned them in the sea, because they rejected Our signs, and were neglectful of them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 136, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

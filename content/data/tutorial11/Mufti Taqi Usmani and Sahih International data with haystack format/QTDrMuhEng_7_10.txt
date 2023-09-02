@@ -1,0 +1,1 @@
+{'text': 'And surely, We gave you authority on the earth and appointed for you therein provisions (for your life). Little thanks do you give.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 10, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

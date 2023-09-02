@@ -1,0 +1,1 @@
+{'text': 'And He has sent him (Prophet Muhammad SAW) also to others among them (Muslims) who have not yet joined them (but they will come). And He (Allah) is the All-Mighty, the All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 62, 'ayah_no': 3, 'surah_name_en': 'Al-Jumua (The congregation, Friday)', 'surah_name_ar': 'الجُمعۃ'}}

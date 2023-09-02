@@ -1,0 +1,1 @@
+{'text': 'The eye neither went wrong, nor did exceed the limit.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 53, 'ayah_no': 17, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

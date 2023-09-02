@@ -1,0 +1,1 @@
+{'text': 'When he saw a fire, he said to his family: "Wait! Verily, I have seen a fire, perhaps I can bring you some burning brand therefrom, or find some guidance at the fire."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 10, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

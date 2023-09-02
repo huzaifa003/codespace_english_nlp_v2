@@ -1,0 +1,1 @@
+{'text': 'We revealed to Mūsā, “Throw your staff.” Then of a sudden, it began to swallow all that they had concocted.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 117, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

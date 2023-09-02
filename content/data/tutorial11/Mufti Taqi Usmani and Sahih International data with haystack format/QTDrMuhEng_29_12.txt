@@ -1,0 +1,1 @@
+{'text': 'And those who disbelieve say to those who believe: "Follow our way and we will verily bear your sins," never will they bear anything of their sins. Surely, they are liars.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 29, 'ayah_no': 12, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

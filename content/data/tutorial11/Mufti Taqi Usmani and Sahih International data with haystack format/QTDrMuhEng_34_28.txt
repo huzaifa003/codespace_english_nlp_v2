@@ -1,0 +1,1 @@
+{'text': 'And We have not sent you (O Muhammad SAW) except as a giver of glad tidings and a warner to all mankind, but most of men know not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 34, 'ayah_no': 28, 'surah_name_en': 'Saba (Saba)', 'surah_name_ar': 'سبا'}}

@@ -1,0 +1,1 @@
+{'text': 'So, leave them involved in pastime and play until they encounter their Day, which they are promised,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 70, 'ayah_no': 42, 'surah_name_en': 'Al-Maarij (The Ascending stairways)', 'surah_name_ar': 'المعارج'}}

@@ -1,0 +1,1 @@
+{'text': 'the eternal gardens they enter, with rivers flowing beneath them. For them there is what they desire. That is how Allah rewards the God-fearing -', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 31, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

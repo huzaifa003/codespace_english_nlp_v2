@@ -1,0 +1,1 @@
+{'text': 'Surely, you and whatever you worship other than Allah are the fuel of Jahannam.. There you will have to arrive.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 98, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

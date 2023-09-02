@@ -1,0 +1,1 @@
+{'text': '"Is it that the Reminder is sent to him (Prophet Salih (Saleh) ) alone from among us? Nay, he is an insolent liar!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 25, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

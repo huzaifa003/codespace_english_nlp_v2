@@ -1,0 +1,1 @@
+{'text': 'then you will see it with full certitude.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 102, 'ayah_no': 7, 'surah_name_en': 'At-Takathur (Competition)', 'surah_name_ar': 'التّکاثُر'}}

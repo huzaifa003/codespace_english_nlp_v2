@@ -1,0 +1,1 @@
+{'text': '(Had We not sent this book,) you would (have an excuse to) say, “The Book was sent down only upon two groups before us, (i.e. the Jews and the Christians) and we were unaware of what they read.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 156, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

@@ -1,0 +1,1 @@
+{'text': 'Those who are miserly and enjoin miserliness on other men and hide what Allah has bestowed upon them of His Bounties. And We have prepared for the disbelievers a disgraceful torment.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 4, 'ayah_no': 37, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

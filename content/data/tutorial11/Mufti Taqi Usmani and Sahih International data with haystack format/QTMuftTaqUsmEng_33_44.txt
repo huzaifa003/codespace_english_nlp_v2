@@ -1,0 +1,1 @@
+{'text': 'Their greeting, on the Day when they will meet Him, will be, “Salām ” . And He has prepared for them a noble reward.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 44, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

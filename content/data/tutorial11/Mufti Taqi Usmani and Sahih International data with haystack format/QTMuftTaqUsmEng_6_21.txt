@@ -1,0 +1,1 @@
+{'text': 'Who is more unjust than one who invents a lie against Allah or rejects His signs? Beware, the unjust shall not prosper.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 21, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

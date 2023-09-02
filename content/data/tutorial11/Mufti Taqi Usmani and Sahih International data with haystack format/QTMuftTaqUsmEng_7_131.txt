@@ -1,0 +1,1 @@
+{'text': 'When good times came to them, they said, “This is our right.” And if an evil touched them, they took it as an ill omen of Mūsā and those with him. Listen, their ill omen lies with Allah only, but most of them do not know.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 131, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

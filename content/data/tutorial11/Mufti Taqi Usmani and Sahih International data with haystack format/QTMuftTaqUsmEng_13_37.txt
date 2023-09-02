@@ -1,0 +1,1 @@
+{'text': 'Thus We have sent it down, being a command in Arabic. And if you follow their desires, after the knowledge that has come to you, there shall be neither a friend for you against Allah, nor a savior.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 13, 'ayah_no': 37, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

@@ -1,0 +1,1 @@
+{'text': 'We (Allah) said: "Fear not! Surely, you will have the upper hand.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 68, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

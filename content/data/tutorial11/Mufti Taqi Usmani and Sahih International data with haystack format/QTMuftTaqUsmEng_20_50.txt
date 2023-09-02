@@ -1,0 +1,1 @@
+{'text': 'He (Mūsā) said, “Our Lord is the One who gave everything its due shape, then guided it.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 50, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

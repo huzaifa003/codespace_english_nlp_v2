@@ -1,0 +1,1 @@
+{'text': 'That He may admit the believing men and the believing women to Gardens under which rivers flow (i.e. Paradise), to abide therein forever, and to expiate from them their sins, and that is with Allah, a supreme success,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 48, 'ayah_no': 5, 'surah_name_en': 'Al-Fath (The victory)', 'surah_name_ar': 'الفتح'}}

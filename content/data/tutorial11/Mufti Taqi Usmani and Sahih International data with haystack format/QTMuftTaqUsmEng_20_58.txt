@@ -1,0 +1,1 @@
+{'text': 'We will, then, bring to you a similar sorcery. So, make an appointment between you and us for an even place, not to be backed out, neither by us nor by you.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 58, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

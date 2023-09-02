@@ -1,0 +1,1 @@
+{'text': 'Had We not made you firm, it was likely that you would have inclined towards them a little bit.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 74, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

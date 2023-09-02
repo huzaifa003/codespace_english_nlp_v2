@@ -1,0 +1,1 @@
+{'text': 'Neither they will have Ghoul (any kind of hurt, abdominal pain, headache, a sin, etc.) from that, nor will they suffer intoxication therefrom.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 47, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

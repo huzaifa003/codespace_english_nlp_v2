@@ -1,0 +1,1 @@
+{'text': '(Allah) said: "Verily! We have tried your people in your absence, and As-Samiri has led them astray."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 85, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

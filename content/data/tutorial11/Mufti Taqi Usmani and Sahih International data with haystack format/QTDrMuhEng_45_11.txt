@@ -1,0 +1,1 @@
+{'text': 'This (Quran) is a guidance. And those who disbelieve in the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of their Lord, for them there is a painful torment of Rijz (a severe kind of punishment).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 45, 'ayah_no': 11, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

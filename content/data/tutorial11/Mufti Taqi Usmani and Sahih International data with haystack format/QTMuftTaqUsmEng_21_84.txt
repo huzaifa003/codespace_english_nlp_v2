@@ -1,0 +1,1 @@
+{'text': 'So, We answered his prayer and removed whatever pain he had, and gave him (back) his family and the like thereof along with them, as a mercy from Our own Self and as a lesson for the worshippers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 84, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

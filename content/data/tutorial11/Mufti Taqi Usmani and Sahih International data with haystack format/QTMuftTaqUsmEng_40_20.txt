@@ -1,0 +1,1 @@
+{'text': 'He will give His judgment with truth. And those whom they invoke beside Him cannot judge anything. Surely, it is Allah who is Hearing, Seeing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 20, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

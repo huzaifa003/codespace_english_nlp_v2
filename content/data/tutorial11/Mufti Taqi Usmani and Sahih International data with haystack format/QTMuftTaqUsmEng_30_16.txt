@@ -1,0 +1,1 @@
+{'text': 'As for those who had disbelieved and rejected Our verses and the meeting of the Hereafter, they will be brought for punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 16, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

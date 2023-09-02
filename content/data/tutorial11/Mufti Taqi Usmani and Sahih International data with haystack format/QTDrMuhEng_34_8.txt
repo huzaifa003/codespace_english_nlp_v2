@@ -1,0 +1,1 @@
+{'text': 'Has he (Muhammad SAW) invented a lie against Allah, or is there a madness in him? Nay, but those who disbelieve in the Hereafter are (themselves) in a torment, and in far error.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 34, 'ayah_no': 8, 'surah_name_en': 'Saba (Saba)', 'surah_name_ar': 'سبا'}}

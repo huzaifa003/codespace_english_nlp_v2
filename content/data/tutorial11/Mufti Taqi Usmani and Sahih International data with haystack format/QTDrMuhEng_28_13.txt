@@ -1,0 +1,1 @@
+{'text': 'So did We restore him to his mother, that she might be delighted, and that she might not grieve, and that she might know that the Promise of Allah is true. But most of them know not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 13, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

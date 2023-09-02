@@ -1,0 +1,1 @@
+{'text': 'And they will not be permitted to put forth any excuse.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 77, 'ayah_no': 36, 'surah_name_en': 'Al-Mursalat (The emissaries)', 'surah_name_ar': 'المرسلٰت'}}

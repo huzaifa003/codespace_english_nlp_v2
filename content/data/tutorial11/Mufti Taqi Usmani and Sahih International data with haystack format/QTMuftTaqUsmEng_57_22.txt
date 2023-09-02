@@ -1,0 +1,1 @@
+{'text': 'No calamity befalls the earth or your own selves, but it is (pre-destined) in a Book before We bring it into being, -Indeed it is easy for Allah.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 57, 'ayah_no': 22, 'surah_name_en': 'Al-Hadid (The Iron)', 'surah_name_ar': 'الحدید'}}

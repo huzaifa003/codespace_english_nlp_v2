@@ -1,0 +1,1 @@
+{'text': 'Surely we gave Mūsā nine clear signs. So, ask the children of Isrā’īl, when he came to them, Pharaoh said to him, “I am afraid, O Mūsā, you are under the spell of magic.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 101, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

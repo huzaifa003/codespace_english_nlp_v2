@@ -1,0 +1,1 @@
+{'text': 'Had Allah seen in them some good, He would have made them listen (as due). But if He makes them listen (now), they will turn away paying no heed.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 23, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

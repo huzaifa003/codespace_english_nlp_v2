@@ -1,0 +1,1 @@
+{'text': 'And when Hell-fire shall be kindled to fierce ablaze.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 81, 'ayah_no': 12, 'surah_name_en': 'At-Takwir (The Overthrowing)', 'surah_name_ar': 'التَّکوِیر'}}

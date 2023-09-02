@@ -1,0 +1,1 @@
+{'text': 'Verily! You (O Muhammad SAW) guide not whom you like, but Allah guides whom He wills. And He knows best those who are the guided.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 56, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

@@ -1,0 +1,1 @@
+{'text': '(saying to them,) “We feed you only for the sake of Allah; we have no intention of (receiving) either a return from you or thanks.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 9, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

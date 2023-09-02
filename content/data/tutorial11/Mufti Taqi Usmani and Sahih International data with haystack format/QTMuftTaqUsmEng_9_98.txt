@@ -1,0 +1,1 @@
+{'text': 'And among the Bedouins there are those who take what they spend as a fine, and they look forward to the cycles of time to turn against you. Upon those is the evil cycle. And Allah is All-Hearing, All-Knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 98, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

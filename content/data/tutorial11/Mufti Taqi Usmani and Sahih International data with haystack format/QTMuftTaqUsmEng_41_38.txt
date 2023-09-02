@@ -1,0 +1,1 @@
+{'text': 'Still, if they show arrogance, then those who are with your Lord proclaim His purity night and day, and they do not get weary.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 41, 'ayah_no': 38, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

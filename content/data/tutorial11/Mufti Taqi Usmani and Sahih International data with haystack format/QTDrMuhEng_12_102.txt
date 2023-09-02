@@ -1,0 +1,1 @@
+{'text': 'This is of the news of the Ghaib (unseen) which We reveal by Inspiration to you (O Muhammad SAW ). You were not (present) with them when they arranged their plan together, and (also, while) they were plotting.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 102, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

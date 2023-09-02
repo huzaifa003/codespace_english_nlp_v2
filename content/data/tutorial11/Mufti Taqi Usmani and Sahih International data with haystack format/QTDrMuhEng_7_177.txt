@@ -1,0 +1,1 @@
+{'text': 'Evil is the likeness of the people who reject Our Ayat (proofs, evidences, verses and signs, etc.), and used to wrong their ownselves.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 177, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

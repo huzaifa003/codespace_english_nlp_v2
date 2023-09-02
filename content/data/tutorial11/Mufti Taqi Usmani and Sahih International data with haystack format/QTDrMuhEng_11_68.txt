@@ -1,0 +1,1 @@
+{'text': 'As if they had never lived there. No doubt! Verily, Thamood disbelieved in their Lord. So away with Thamood!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 68, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

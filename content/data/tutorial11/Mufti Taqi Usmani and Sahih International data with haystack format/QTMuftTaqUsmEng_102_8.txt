@@ -1,0 +1,1 @@
+{'text': 'Then you will be asked about all the pleasures (you enjoyed in the world).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 102, 'ayah_no': 8, 'surah_name_en': 'At-Takathur (Competition)', 'surah_name_ar': 'التّکاثُر'}}

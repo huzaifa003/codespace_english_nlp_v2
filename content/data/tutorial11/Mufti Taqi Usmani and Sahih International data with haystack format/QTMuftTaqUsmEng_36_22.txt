@@ -1,0 +1,1 @@
+{'text': 'What excuse do I have if I do not worship the One who has created me and to whom you will be returned?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 22, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

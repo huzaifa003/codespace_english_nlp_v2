@@ -1,0 +1,1 @@
+{'text': 'We will facilitate for him the way to extreme ease (i.e. the comforts of Paradise).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 92, 'ayah_no': 7, 'surah_name_en': 'Al-Lail (The night)', 'surah_name_ar': 'الَّیل'}}

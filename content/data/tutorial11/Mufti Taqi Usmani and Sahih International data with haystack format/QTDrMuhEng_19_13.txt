@@ -1,0 +1,1 @@
+{'text': 'And (made him) sympathetic to men as a mercy (or a grant) from Us, and pure from sins (i.e. Yahya (John)) and he was righteous,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 13, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

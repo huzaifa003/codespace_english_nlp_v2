@@ -1,0 +1,1 @@
+{'text': 'and from the evil of the dark night when it penetrates,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 113, 'ayah_no': 3, 'surah_name_en': 'Al-Falaq (The day break )', 'surah_name_ar': 'الفَلَق'}}

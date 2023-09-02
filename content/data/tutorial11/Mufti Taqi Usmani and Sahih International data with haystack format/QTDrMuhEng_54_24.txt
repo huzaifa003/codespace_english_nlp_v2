@@ -1,0 +1,1 @@
+{'text': 'For they said: "A man! Alone from among us, that we are to follow? Truly, then we should be in error and distress or madness!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 24, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

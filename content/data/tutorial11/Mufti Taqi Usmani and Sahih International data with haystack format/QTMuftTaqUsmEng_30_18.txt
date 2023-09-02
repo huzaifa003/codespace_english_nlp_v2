@@ -1,0 +1,1 @@
+{'text': 'And to Him be praise in the heavens and the earth, and in the afternoon and when you enter the time of àuhr (soon after the decline of the sun towards West).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 18, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

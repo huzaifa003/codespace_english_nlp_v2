@@ -1,0 +1,1 @@
+{'text': '"You will see therein nothing crooked or curved."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 107, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

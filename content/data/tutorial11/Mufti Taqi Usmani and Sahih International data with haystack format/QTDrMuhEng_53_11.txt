@@ -1,0 +1,1 @@
+{'text': 'The (Prophets) heart lied not (in seeing) what he (Muhammad SAW) saw.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 53, 'ayah_no': 11, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

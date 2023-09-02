@@ -1,0 +1,1 @@
+{'text': 'Even before them, the people of NūH and ‘Ād and Fir‘aun (Pharaoh), the man of stakes,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 12, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

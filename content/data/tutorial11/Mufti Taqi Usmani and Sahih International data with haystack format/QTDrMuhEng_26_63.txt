@@ -1,0 +1,1 @@
+{'text': 'Then We inspired Moosa (Moses) (saying): "Strike the sea with your stick." And it parted, and each separate part (of that sea water) became like the huge, firm mass of a mountain.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 63, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

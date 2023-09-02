@@ -1,0 +1,1 @@
+{'text': 'Surely, We sent NūH to his nation. So he said, “My people, worship Allah. You have no god whatsoever other than Him. So, do you not fear Allah?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 23, 'ayah_no': 23, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

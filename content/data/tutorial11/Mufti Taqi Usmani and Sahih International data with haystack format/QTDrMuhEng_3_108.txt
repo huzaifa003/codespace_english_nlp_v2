@@ -1,0 +1,1 @@
+{'text': 'These are the Verses of Allah: We recite them to you (O Muhammad SAW) in truth, and Allah wills no injustice to the Alameen (mankind and jinns).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 108, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

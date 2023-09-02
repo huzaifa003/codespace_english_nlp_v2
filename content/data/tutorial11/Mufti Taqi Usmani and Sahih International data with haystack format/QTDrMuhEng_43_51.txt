@@ -1,0 +1,1 @@
+{'text': 'And Firaun (Pharaoh) proclaimed among his people, saying: "O my people! Is not mine the dominion of Egypt, and these rivers flowing underneath me. See you not then?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 43, 'ayah_no': 51, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

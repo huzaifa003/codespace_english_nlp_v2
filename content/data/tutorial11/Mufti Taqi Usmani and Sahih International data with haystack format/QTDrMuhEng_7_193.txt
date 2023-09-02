@@ -1,0 +1,1 @@
+{'text': 'And if you call them to guidance, they follow you not. It is the same for you whether you call them or you keep silent.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 193, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

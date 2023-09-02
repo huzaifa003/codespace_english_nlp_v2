@@ -1,0 +1,1 @@
+{'text': 'O you who believe! Wine, gambling, altars and divining arrows are filth, made up by Satan. Therefore, refrain from it, so that you may be successful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 90, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

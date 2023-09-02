@@ -1,0 +1,1 @@
+{'text': 'This is the command of Allah that He has sent down to you. And whoever fears Allah, He will write off his evil deeds, and will give him a huge reward.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 65, 'ayah_no': 5, 'surah_name_en': 'At-Talaq (Divorce)', 'surah_name_ar': 'الطّلاق'}}

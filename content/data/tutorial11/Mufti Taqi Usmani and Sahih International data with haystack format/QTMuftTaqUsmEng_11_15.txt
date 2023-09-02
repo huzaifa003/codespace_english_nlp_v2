@@ -1,0 +1,1 @@
+{'text': 'Those who seek (merely) the worldly life and its beauty, We will fully recompense them herein for their acts, and their right will not be curtailed in this world.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 15, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

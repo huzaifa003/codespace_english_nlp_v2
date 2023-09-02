@@ -1,0 +1,1 @@
+{'text': 'Say: "Spend (in Allahs Cause) willingly or unwillingly, it will not be accepted from you. Verily, you are ever a people who are Fasiqoon (rebellious, disobedient to Allah)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 53, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

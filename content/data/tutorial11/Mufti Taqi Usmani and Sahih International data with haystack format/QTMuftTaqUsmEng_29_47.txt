@@ -1,0 +1,1 @@
+{'text': 'Thus We have sent down the Book to you. So those to whom We have given the Book believe in it. And from these (the people of Makkah) there are ones who believe in it, and no one rejects Our verses except the infidels.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 47, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

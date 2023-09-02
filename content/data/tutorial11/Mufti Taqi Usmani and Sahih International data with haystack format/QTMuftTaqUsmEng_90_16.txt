@@ -1,0 +1,1 @@
+{'text': 'or to a needy person lying in dust- -', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 90, 'ayah_no': 16, 'surah_name_en': 'Al-Balad (The City)', 'surah_name_ar': 'البلد'}}

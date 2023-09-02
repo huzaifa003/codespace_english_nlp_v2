@@ -1,0 +1,1 @@
+{'text': 'it befits me not to say anything about Allah except the truth. I have come to you with a clear sign from your Lord. So, let the children of Isrā’īl go with me.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 105, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

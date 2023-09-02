@@ -1,0 +1,1 @@
+{'text': 'That is because they have preferred the worldly life to the Hereafter, and that Allah does not lead the disbelieving people to the right path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 107, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

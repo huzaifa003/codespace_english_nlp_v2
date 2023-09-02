@@ -1,0 +1,1 @@
+{'text': 'And indeed the disbelievers seem to trip you up with their glances when they hear the Reminder, and say, “He is a madman indeed.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 68, 'ayah_no': 51, 'surah_name_en': 'Al-Qalam (The Pen)', 'surah_name_ar': 'القلم'}}

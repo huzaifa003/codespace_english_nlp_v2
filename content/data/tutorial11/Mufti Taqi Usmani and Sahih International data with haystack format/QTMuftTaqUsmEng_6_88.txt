@@ -1,0 +1,1 @@
+{'text': 'That is Allah’s guidance. He guides with it whomsoever He wills from among His servants. Had they associated partners with Him, all they did would have been nullified for them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 88, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

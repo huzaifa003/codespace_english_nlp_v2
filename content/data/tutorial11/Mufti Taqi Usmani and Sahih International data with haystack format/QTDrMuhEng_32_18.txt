@@ -1,0 +1,1 @@
+{'text': 'Is then he who is a believer like him who is Fasiq (disbeliever and disobedient to Allah)? Not equal are they.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 32, 'ayah_no': 18, 'surah_name_en': 'As-Sajda (The Prostration)', 'surah_name_ar': 'السجدۃ'}}

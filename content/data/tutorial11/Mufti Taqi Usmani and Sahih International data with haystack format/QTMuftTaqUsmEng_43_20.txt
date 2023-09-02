@@ -1,0 +1,1 @@
+{'text': 'They say, “Had the RaHmān so willed, we would not have worshipped them.” They have no knowledge of that. They do nothing but make conjectures.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 20, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

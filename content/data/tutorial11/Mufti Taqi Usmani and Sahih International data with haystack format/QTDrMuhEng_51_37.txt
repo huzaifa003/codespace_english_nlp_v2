@@ -1,0 +1,1 @@
+{'text': 'And We have left there a sign (i.e. the place of the Dead Sea , well-known in Palestine) for those who fear the painful torment.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 51, 'ayah_no': 37, 'surah_name_en': 'Adh-Dhariyat (The winnowing winds)', 'surah_name_ar': 'الذّٰریٰت'}}

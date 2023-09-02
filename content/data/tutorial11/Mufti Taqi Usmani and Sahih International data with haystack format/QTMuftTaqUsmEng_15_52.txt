@@ -1,0 +1,1 @@
+{'text': 'When they visited him, they greeted him with Salām (peace on you). He said, “We are scared of you.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 52, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

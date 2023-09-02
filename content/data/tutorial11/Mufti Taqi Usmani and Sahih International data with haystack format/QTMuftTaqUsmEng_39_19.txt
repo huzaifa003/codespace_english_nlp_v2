@@ -1,0 +1,1 @@
+{'text': 'So tell Me about the one for whom the word of punishment is destined, - is it you, then, who would save someone who is already in the Fire?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 19, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

@@ -1,0 +1,1 @@
+{'text': 'He said: "O my people! Why do you seek to hasten the evil (torment) before the good (Allahs Mercy)? Why seek you not the Forgiveness of Allah, that you may receive mercy?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 46, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

@@ -1,0 +1,1 @@
+{'text': 'And they said, “O magician, pray for us to your Lord by the covenant He has made with you; we will certainly come to guidance.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 49, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

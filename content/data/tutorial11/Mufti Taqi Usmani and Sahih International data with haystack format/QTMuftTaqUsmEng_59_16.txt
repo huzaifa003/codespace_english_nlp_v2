@@ -1,0 +1,1 @@
+{'text': 'The example (of the hypocrites) is like the ShaiTān when he says to a human being, “Become disbeliever” then once he disbelieves, he says, “I disown you; I fear Allah, the Lord of the worlds.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 59, 'ayah_no': 16, 'surah_name_en': 'Al-Hashr (Exile)', 'surah_name_ar': 'الحشر'}}

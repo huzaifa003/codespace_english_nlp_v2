@@ -1,0 +1,1 @@
+{'text': 'So those who believe (in the Oneness of Allah Islamic Monotheism) and do righteous good deeds, for them is forgiveness and Rizqoon Kareem (generous provision, i.e. Paradise).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 22, 'ayah_no': 50, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

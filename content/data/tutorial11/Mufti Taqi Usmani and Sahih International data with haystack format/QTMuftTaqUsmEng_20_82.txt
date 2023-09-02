@@ -1,0 +1,1 @@
+{'text': 'Surely I am the Most-Forgiving for him who repents and believes and acts righteously, then follows the right path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 82, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

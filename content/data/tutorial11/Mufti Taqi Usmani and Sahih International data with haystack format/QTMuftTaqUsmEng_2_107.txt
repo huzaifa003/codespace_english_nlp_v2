@@ -1,0 +1,1 @@
+{'text': 'Do you not know that to Allah alone belongs the kingdom of the heavens and the earth? Other than Allah, you have neither a patron, nor a helper.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 107, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

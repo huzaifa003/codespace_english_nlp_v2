@@ -1,0 +1,1 @@
+{'text': '(Some) hearts that Day will shake with fear and anxiety.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 79, 'ayah_no': 8, 'surah_name_en': 'An-Naziat (Those who drag forth)', 'surah_name_ar': 'النّٰزِعٰتِ'}}

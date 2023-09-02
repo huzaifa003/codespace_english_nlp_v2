@@ -1,0 +1,1 @@
+{'text': 'besides Him. So, try your plans against me, all of you together, then give me no respite.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 55, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

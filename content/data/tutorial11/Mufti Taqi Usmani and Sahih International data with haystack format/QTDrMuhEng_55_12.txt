@@ -1,0 +1,1 @@
+{'text': 'And also corn, with (its) leaves and stalk for fodder, and sweet-scented plants.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 55, 'ayah_no': 12, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

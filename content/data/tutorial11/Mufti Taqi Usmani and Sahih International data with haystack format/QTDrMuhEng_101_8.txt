@@ -1,0 +1,1 @@
+{'text': 'But as for him whose balance (of good deeds) will be light,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 101, 'ayah_no': 8, 'surah_name_en': 'Al-Qaria (The Calamity)', 'surah_name_ar': 'القارعۃ'}}

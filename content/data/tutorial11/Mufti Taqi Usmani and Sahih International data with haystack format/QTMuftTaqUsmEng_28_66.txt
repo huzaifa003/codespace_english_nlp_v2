@@ -1,0 +1,1 @@
+{'text': 'So all events will become too obscure for them (to give a correct reply), and they will not (be able to) consult each other.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 66, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

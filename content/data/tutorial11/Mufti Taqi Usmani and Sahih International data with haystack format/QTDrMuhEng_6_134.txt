@@ -1,0 +1,1 @@
+{'text': 'Surely, that which you are promised will verily come to pass, and you cannot escape (from the Punishment of Allah).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 134, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

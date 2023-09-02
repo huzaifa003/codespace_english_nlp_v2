@@ -1,0 +1,1 @@
+{'text': 'And why should not Allah punish them while they stop (men) from Al-Masjid-al-Haram, and they are not its guardians? None can be its guardian except Al-Muttaqoon (the pious - see V.2:2), but most of them know not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 8, 'ayah_no': 34, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

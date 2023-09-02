@@ -1,0 +1,1 @@
+{'text': 'So when he came to it, he was called by a voice coming from a side of the right valley in the blessed ground, from the tree, saying, “O Mūsā, I AM ALLAH, the Lord of the worlds,”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 30, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

@@ -1,0 +1,1 @@
+{'text': 'And among His Signs is this, that He created for you wives from among yourselves, that you may find repose in them, and He has put between you affection and mercy. Verily, in that are indeed signs for a people who reflect.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 30, 'ayah_no': 21, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

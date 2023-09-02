@@ -1,0 +1,1 @@
+{'text': 'We did not create the heavens and the earth and all that is in between them without a truthful purpose. The Hour is sure to come. Therefore, overlook (their evil behavior) in a gracious manner.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 85, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

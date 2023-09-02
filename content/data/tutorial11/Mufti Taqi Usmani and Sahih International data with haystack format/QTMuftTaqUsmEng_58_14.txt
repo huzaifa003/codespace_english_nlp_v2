@@ -1,0 +1,1 @@
+{'text': 'Have you not seen those who have friendship with a people with whom Allah is angry. They are neither of you nor of them. They swear false oaths while they know.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 58, 'ayah_no': 14, 'surah_name_en': 'Al-Mujadila (She that disputes)', 'surah_name_ar': 'المجادلۃ'}}

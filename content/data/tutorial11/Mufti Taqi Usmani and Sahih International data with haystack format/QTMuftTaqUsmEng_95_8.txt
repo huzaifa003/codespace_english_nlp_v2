@@ -1,0 +1,1 @@
+{'text': 'Is Allah not the Greatest Ruler of all the rulers?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 95, 'ayah_no': 8, 'surah_name_en': 'At-Tin (The Fig)', 'surah_name_ar': 'التّین'}}

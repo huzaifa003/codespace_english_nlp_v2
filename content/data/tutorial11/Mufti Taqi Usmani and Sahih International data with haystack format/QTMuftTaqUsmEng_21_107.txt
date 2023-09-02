@@ -1,0 +1,1 @@
+{'text': 'And We have not sent you but as mercy for all the worlds.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 107, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

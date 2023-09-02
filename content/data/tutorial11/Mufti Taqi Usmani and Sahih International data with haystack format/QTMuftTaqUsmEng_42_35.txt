@@ -1,0 +1,1 @@
+{'text': 'and (in such an event) those who raise disputes in Our verses will come to know that there is no way for them to escape.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 42, 'ayah_no': 35, 'surah_name_en': 'Ash-Shura (Council, Consultation)', 'surah_name_ar': 'الشُّورٰی'}}

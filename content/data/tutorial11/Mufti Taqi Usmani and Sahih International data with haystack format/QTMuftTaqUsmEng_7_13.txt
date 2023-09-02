@@ -1,0 +1,1 @@
+{'text': 'He said, “Then, get you down from here, it is not for you to show arrogance here. So, get out. You are one of the degraded.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 13, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

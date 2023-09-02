@@ -1,0 +1,1 @@
+{'text': 'Say, “The angel of death who has been assigned for you will take your soul in full, then you will be brought back to your Lord.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 32, 'ayah_no': 11, 'surah_name_en': 'As-Sajda (The Prostration)', 'surah_name_ar': 'السجدۃ'}}

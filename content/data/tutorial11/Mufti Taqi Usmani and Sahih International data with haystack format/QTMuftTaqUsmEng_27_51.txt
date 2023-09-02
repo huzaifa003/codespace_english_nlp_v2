@@ -1,0 +1,1 @@
+{'text': 'So, look how was the fate of their plan, that We annihilated them and their people altogether.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 51, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

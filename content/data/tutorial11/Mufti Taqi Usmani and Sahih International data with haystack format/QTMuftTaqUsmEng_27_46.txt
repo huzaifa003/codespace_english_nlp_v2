@@ -1,0 +1,1 @@
+{'text': 'He said, “My people, why do you seek evil to come sooner before good? Why do you not seek forgiveness from Allah, so that you are treated with mercy?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 46, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

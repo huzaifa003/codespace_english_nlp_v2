@@ -1,0 +1,1 @@
+{'text': 'The disbelievers claim that they will never be raised again (after death). Say, “Why not? By my Lord, you will be raised again, and then you will be told about what you did. That is so easy for Allah.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 64, 'ayah_no': 7, 'surah_name_en': 'At-Taghabun (Mutual Disillusion)', 'surah_name_ar': 'التّغابن'}}

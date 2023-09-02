@@ -1,0 +1,1 @@
+{'text': 'So, when it will descend in their courtyard, then, evil will be the morning of those warned.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 177, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

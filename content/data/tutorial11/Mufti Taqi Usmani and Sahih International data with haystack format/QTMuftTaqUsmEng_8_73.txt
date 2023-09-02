@@ -1,0 +1,1 @@
+{'text': 'And those who disbelieve are friends to each other. If you do not do so, there shall be disorder on the earth, and a great corruption.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 73, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

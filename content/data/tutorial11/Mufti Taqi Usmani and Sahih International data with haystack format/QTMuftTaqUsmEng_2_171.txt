@@ -1,0 +1,1 @@
+{'text': 'The example of (calling) those who disbelieve is such as someone is shouting at an animal that hears nothing but a call and cry. They are deaf, dumb and blind, so they do not understand', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 171, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'And in early hours they rushed quickly, while they were (assuming themselves) powerful (to pluck the fruits and prevent the poor.)', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 68, 'ayah_no': 25, 'surah_name_en': 'Al-Qalam (The Pen)', 'surah_name_ar': 'القلم'}}

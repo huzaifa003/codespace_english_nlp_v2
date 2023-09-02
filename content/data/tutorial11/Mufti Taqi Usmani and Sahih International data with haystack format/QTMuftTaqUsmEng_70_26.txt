@@ -1,0 +1,1 @@
+{'text': 'and those who believe in the Day of Judgment as true,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 70, 'ayah_no': 26, 'surah_name_en': 'Al-Maarij (The Ascending stairways)', 'surah_name_ar': 'المعارج'}}

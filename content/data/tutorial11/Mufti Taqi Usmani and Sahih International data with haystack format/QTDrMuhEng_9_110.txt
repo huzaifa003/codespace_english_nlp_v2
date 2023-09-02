@@ -1,0 +1,1 @@
+{'text': 'The building which they built will never cease to be a cause of hypocrisy and doubt in their hearts, unless their hearts are cut to pieces. (i.e. till they die). And Allah is All-Knowing, All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 110, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

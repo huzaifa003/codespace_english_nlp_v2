@@ -1,0 +1,1 @@
+{'text': '"To you be your religion, and to me my religion (Islamic Monotheism)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 109, 'ayah_no': 6, 'surah_name_en': 'Al-Kafiroon (The Disbelievers)', 'surah_name_ar': 'الکٰفرون'}}

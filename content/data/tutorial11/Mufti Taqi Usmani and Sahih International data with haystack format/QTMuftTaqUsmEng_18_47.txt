@@ -1,0 +1,1 @@
+{'text': 'And (visualize) the Day when We will make mountains move, and you will see the earth fully exposed, and We shall gather them together, so as not to leave a single one of them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 47, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

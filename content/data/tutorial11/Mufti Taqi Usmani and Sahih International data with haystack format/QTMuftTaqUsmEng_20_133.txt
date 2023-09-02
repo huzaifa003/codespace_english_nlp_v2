@@ -1,0 +1,1 @@
+{'text': 'They say, “Why does he not bring to us a sign from his Lord?” Has there not come to them the clear sign of what is contained in the earlier Scriptures?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 133, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

@@ -1,0 +1,1 @@
+{'text': 'except Iblīs (Satan). He refused to join those who prostrated.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 15, 'ayah_no': 31, 'surah_name_en': 'Al-Hijr (Stoneland, Rock city, Al-Hijr valley)', 'surah_name_ar': 'الحجر'}}

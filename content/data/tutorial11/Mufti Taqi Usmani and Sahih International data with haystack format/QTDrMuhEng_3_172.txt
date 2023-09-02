@@ -1,0 +1,1 @@
+{'text': 'Those who answered (the Call of) Allah and the Messenger (Muhammad SAW) after being wounded; for those of them who did good deeds and feared Allah, there is a great reward.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 172, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

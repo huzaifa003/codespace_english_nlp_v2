@@ -1,0 +1,1 @@
+{'text': 'So they killed the shecamel and insolently defied the Commandment of their Lord, and said: "O Salih (Saleh)! Bring about your threats if you are indeed one of the Messengers (of Allah)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 77, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

@@ -1,0 +1,1 @@
+{'text': 'O children of ’Ādam, take on your adornment at every mosque. Eat and drink and do not be extravagant. Surely, He does not like the extravagant.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 31, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

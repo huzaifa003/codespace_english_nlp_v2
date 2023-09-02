@@ -1,0 +1,1 @@
+{'text': 'Then he called her from beneath her: “Do not grieve; your Lord has placed a stream beneath you.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 24, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

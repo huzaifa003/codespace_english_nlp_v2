@@ -1,0 +1,1 @@
+{'text': 'She said: "O chiefs! Verily! Here is delivered to me a noble letter,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 29, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

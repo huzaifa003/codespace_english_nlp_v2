@@ -1,0 +1,1 @@
+{'text': '- and those who do not witness falsehood, and when they pass by the absurd things, Pass by them with dignity,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 72, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

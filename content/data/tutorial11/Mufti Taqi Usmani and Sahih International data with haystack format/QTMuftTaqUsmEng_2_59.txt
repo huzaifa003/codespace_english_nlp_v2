@@ -1,0 +1,1 @@
+{'text': 'But those who were unjust substituted another word for the one that was prescribed for them. So, We sent down a scourge from heaven upon those who were unjust, because they had acted sinfully.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 59, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

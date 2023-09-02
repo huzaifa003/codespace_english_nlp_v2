@@ -1,0 +1,1 @@
+{'text': 'Then if they reject you, then messengers have been rejected before you. They came with clear signs and the Scriptures and the enlightening Book.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 184, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

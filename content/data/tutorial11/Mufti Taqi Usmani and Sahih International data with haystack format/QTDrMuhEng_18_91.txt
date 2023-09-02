@@ -1,0 +1,1 @@
+{'text': 'So (it was)! And We knew all about him (Dhul-Qarnain).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 91, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

@@ -1,0 +1,1 @@
+{'text': 'Our Lord, give us what You have promised us through Your messengers, and do not put us to disgrace on the Day of Judgement. Surely you do not go back on Your promise.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 194, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

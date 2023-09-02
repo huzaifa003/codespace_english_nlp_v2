@@ -1,0 +1,1 @@
+{'text': 'And if you fear (an enemy), perfrom Salat (pray) on foot or riding. And when you are in safety, offer the Salat (prayer) in the manner He has taught you, which you knew not (before).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 239, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

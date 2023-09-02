@@ -1,0 +1,1 @@
+{'text': 'Among the people there is one who debates about Allah without knowledge, and follows every rebellious Satan,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 3, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

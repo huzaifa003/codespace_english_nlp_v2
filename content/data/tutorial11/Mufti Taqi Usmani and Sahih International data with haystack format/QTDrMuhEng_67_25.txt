@@ -1,0 +1,1 @@
+{'text': 'They say: "When will this promise (i.e. the Day of Resurrection) come to pass? if you are telling the truth."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 67, 'ayah_no': 25, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

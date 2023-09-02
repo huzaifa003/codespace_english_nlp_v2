@@ -1,0 +1,1 @@
+{'text': 'And We left for him (a word of praise) among the later people, (that is):', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 37, 'ayah_no': 78, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

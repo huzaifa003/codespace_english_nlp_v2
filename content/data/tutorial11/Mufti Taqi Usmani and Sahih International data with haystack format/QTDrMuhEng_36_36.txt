@@ -1,0 +1,1 @@
+{'text': 'Glory be to Him, Who has created all the pairs of that which the earth produces, as well as of their own (human) kind (male and female), and of that which they know not.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 36, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

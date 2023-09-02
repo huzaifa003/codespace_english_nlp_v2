@@ -1,0 +1,1 @@
+{'text': 'or that He seizes them while they are in apprehension? So, indeed your Lord is Very-Kind, Very-Merciful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 47, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

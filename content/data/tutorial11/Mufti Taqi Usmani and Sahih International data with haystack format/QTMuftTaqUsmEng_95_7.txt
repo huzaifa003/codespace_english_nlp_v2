@@ -1,0 +1,1 @@
+{'text': 'So, what can make you, after all this, to deny the Requital?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 95, 'ayah_no': 7, 'surah_name_en': 'At-Tin (The Fig)', 'surah_name_ar': 'التّین'}}

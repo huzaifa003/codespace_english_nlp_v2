@@ -1,0 +1,1 @@
+{'text': 'We let them enjoy for a little while, then in the end We shall oblige them to (enter) a great torment.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 31, 'ayah_no': 24, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

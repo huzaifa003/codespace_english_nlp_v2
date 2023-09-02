@@ -1,0 +1,1 @@
+{'text': 'They ask you to hasten on the torment. And verily! Hell, of a surety, will encompass the disbelievers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 29, 'ayah_no': 54, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

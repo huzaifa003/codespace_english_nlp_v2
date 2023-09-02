@@ -1,0 +1,1 @@
+{'text': 'Has it not been a source of guidance for them as to how many generations We have destroyed before them who used to walk in their dwellings? Surely in this there are signs. So, do they not listen?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 32, 'ayah_no': 26, 'surah_name_en': 'As-Sajda (The Prostration)', 'surah_name_ar': 'السجدۃ'}}

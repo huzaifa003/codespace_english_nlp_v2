@@ -1,0 +1,1 @@
+{'text': 'So, when Our command came to pass, We turned their habitations upside down, and rained on it stones of hard clay, one over another', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 82, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

@@ -1,0 +1,1 @@
+{'text': 'So Allah saved them from the evil of that Day, and gave them Nadratan (a light of beauty) and joy.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 76, 'ayah_no': 11, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

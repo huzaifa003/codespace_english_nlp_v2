@@ -1,0 +1,1 @@
+{'text': 'And (remember) Ayoob (Job), when he cried to his Lord: "Verily, distress has seized me, and You are the Most Merciful of all those who show mercy."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 83, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

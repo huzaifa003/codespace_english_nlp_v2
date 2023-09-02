@@ -1,0 +1,1 @@
+{'text': 'that comes out from between the loins and the chest-bones.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 86, 'ayah_no': 7, 'surah_name_en': 'At-Tariq (The morning star)', 'surah_name_ar': 'الطَّارق'}}

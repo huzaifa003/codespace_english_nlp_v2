@@ -1,0 +1,1 @@
+{'text': 'The bedouins are the worst in disbelief and hypocrisy, and more likely to be in ignorance of the limits (Allahs Commandments and His Legal Laws, etc.) which Allah has revealed to His Messenger. And Allah is All-Knower, All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 97, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

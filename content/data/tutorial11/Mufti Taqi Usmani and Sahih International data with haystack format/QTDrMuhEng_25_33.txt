@@ -1,0 +1,1 @@
+{'text': 'And no example or similitude do they bring (to oppose or to find fault in you or in this Quran), but We reveal to you the truth (against that similitude or example), and the better explanation thereof.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 33, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

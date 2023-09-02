@@ -1,0 +1,1 @@
+{'text': 'They descend on every lying (one who tells lies), sinful person.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 222, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

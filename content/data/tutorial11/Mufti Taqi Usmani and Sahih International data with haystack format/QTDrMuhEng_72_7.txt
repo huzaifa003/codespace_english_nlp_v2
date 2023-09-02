@@ -1,0 +1,1 @@
+{'text': 'And they thought as you thought, that Allah will not send any Messenger (to mankind or jinns).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 72, 'ayah_no': 7, 'surah_name_en': 'Al-Jinn (The Jinn)', 'surah_name_ar': 'الجن'}}

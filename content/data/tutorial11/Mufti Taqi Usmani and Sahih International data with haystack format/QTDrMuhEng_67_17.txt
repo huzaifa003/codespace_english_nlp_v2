@@ -1,0 +1,1 @@
+{'text': 'Or do you feel secure that He, Who is over the heaven (Allah), will not send against you a violent whirlwind? Then you shall know how (terrible) has been My Warning?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 67, 'ayah_no': 17, 'surah_name_en': 'Al-Mulk (The Sovereignty)', 'surah_name_ar': 'الملک'}}

@@ -1,0 +1,1 @@
+{'text': 'Go, you and your brother, with My signs, and do not be slack in My remembrance.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 42, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

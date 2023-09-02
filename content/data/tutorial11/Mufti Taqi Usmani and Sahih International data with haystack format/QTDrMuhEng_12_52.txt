@@ -1,0 +1,1 @@
+{'text': '(Then Yoosuf (Joseph) said: "I asked for this enquiry) in order that he (Al-Azeez) may know that I betrayed him not in secret. And, verily! Allah guides not the plot of the betrayers.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 52, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

@@ -1,0 +1,1 @@
+{'text': 'And marry not women whom your fathers married, except what has already passed; indeed it was shameful and most hateful, and an evil way.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 4, 'ayah_no': 22, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

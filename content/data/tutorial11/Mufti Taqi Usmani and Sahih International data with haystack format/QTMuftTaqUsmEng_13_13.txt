@@ -1,0 +1,1 @@
+{'text': 'The thunder proclaims His purity with His praise, and (so do) the angels, out of His awe. And He sends the thunderbolts and strikes with it whom He wills. They are quarrelling about Allah, and He is stern in His plan.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 13, 'ayah_no': 13, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

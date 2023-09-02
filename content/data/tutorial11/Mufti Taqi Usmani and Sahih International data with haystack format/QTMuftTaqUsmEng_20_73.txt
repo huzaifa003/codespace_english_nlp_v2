@@ -1,0 +1,1 @@
+{'text': 'We have put our faith in our Lord, so that He forgives us for our sins and for the magic you compelled us to perform. And Allah is the Best and Everlasting.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 73, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

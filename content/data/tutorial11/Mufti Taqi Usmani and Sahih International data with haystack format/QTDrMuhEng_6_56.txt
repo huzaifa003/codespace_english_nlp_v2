@@ -1,0 +1,1 @@
+{'text': 'Say (O Muhammad SAW): "I have been forbidden to worship those whom you invoke (worship) besides Allah." Say: "I will not follow your vain desires. If I did, I would go astray, and I would not be one of the rightly guided."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 56, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

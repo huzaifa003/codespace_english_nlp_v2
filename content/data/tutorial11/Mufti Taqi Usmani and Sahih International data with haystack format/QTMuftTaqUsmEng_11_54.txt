@@ -1,0 +1,1 @@
+{'text': 'We do not say except that some of our gods have subjected you to some evil.” He said, “I make Allah my witness, and you bear witness that I have nothing to do with what you take as gods', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 54, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

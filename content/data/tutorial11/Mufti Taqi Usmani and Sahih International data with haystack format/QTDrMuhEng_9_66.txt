@@ -1,0 +1,1 @@
+{'text': 'Make no excuse; you have disbelieved after you had believed. If We pardon some of you, We will punish others amongst you because they were Mujrimoon (disbelievers, polytheists, sinners, criminals, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 66, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

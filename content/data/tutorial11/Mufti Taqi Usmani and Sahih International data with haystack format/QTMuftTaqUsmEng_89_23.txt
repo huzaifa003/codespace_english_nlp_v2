@@ -1,0 +1,1 @@
+{'text': 'and Jahannam (Hell), on that day, will be brought forward, it will be the day when man will realize the truth, but from where will he take advantage of such realization?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 89, 'ayah_no': 23, 'surah_name_en': 'Al-Fajr (The Dawn)', 'surah_name_ar': 'الفجر'}}

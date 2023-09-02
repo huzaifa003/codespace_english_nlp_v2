@@ -1,0 +1,1 @@
+{'text': 'And most of them believe not in Allah except that they attribute partners unto Him (i.e. they are Mushrikoon -polytheists - see Verse 6: 121).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 106, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

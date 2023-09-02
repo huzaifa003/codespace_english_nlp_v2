@@ -1,0 +1,1 @@
+{'text': 'The disbelievers said to their prophets, “We shall certainly expel you from our land unless you come back to our faith.” So, their Lord revealed to them, “We shall destroy the transgressors,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 13, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

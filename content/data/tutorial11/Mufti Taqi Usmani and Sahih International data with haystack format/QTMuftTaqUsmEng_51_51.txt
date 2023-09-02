@@ -1,0 +1,1 @@
+{'text': 'And do not make up any other god along with Allah. Indeed I am a plain warner sent by Him for you.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 51, 'ayah_no': 51, 'surah_name_en': 'Adh-Dhariyat (The winnowing winds)', 'surah_name_ar': 'الذّٰریٰت'}}

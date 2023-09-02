@@ -1,0 +1,1 @@
+{'text': 'and thereafter We said to the children of Isrā’īl, “Live in the land. So, when the appointed time of the Hereafter will come, We shall bring you all joined together.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 104, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

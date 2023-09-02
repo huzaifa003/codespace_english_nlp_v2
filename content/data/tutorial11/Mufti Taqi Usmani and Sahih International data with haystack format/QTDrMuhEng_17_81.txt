@@ -1,0 +1,1 @@
+{'text': 'And say: "Truth (i.e. Islamic Monotheism or this Quran or Jihad against polytheists) has come and Batil (falsehood, i.e. Satan or polytheism, etc.) has vanished. Surely! Batil is ever bound to vanish."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 81, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

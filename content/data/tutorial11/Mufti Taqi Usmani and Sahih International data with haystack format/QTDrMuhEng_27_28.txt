@@ -1,0 +1,1 @@
+{'text': '"Go you with this letter of mine, and deliver it to them, then draw back from them, and see what (answer) they return."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 28, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

@@ -1,0 +1,1 @@
+{'text': 'Then I will come upon them from their front side and from their behind, and from their right and from their left. You will not find most of them grateful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 17, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

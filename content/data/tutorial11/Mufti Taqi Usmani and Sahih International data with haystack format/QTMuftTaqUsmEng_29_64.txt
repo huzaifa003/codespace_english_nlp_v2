@@ -1,0 +1,1 @@
+{'text': 'This worldly life is nothing but an amusement and play, and the Last Abode is the real life indeed. Only if they know!', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 64, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

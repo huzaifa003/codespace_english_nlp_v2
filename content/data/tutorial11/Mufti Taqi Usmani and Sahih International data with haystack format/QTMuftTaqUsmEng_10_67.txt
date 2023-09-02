@@ -1,0 +1,1 @@
+{'text': 'He is the One who made for you the night, so that you may have rest in it, and (made) the day to see. Indeed, there are signs therein for a people who listen.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 10, 'ayah_no': 67, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

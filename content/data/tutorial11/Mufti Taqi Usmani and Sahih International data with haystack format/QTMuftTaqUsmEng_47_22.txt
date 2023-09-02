@@ -1,0 +1,1 @@
+{'text': 'So, (O hypocrites,) do you not apprehend that, in case you turn away (from Jihād ), you will spread disorder in the land and will sever your ties of kinship?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 47, 'ayah_no': 22, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

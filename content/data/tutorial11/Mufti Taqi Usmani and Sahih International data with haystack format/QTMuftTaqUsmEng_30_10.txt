@@ -1,0 +1,1 @@
+{'text': 'Then the end of those who did evil was evil, because they rejected the verses of Allah and used to make mockery of them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 10, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

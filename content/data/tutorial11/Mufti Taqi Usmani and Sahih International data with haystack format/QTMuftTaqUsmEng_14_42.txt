@@ -1,0 +1,1 @@
+{'text': 'Never think that Allah is unaware of what the wrongdoers are doing. He is but giving them respite up to a day when the eyes shall remain upraised (in terror).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 42, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

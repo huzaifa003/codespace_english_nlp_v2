@@ -1,0 +1,1 @@
+{'text': 'She said, “Woe to me! Shall I give birth to a child while I am an old woman and this is my husband, an old man? This is something amazing indeed.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 72, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

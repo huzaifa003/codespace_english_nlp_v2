@@ -1,0 +1,1 @@
+{'text': 'No! My verses had reached you, but you called them untrue, and waxed proud, and became of those who disbelieved.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 59, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

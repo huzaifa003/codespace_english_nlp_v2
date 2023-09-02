@@ -1,0 +1,1 @@
+{'text': 'How many a town, stronger in might than your town that has expelled you, have We destroyed! Then, there was none to help them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 47, 'ayah_no': 13, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

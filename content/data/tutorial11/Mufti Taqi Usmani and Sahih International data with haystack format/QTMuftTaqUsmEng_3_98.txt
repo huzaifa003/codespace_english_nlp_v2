@@ -1,0 +1,1 @@
+{'text': 'Say, “O people of the Book, why do you reject the verses of Allah while Allah is witness to what you do?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 98, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

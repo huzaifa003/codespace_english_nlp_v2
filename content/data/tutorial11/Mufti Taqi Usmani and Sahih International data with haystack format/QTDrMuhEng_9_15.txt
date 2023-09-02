@@ -1,0 +1,1 @@
+{'text': 'And remove the anger of their (believers) hearts. Allah accepts the repentance of whom He wills. Allah is All-Knowing, All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 15, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

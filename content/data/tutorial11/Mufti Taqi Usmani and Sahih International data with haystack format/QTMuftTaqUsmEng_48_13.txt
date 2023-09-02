@@ -1,0 +1,1 @@
+{'text': 'If one does not believe in Allah and His Messenger, then We have prepared a blazing fire for the disbelievers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 48, 'ayah_no': 13, 'surah_name_en': 'Al-Fath (The victory)', 'surah_name_ar': 'الفتح'}}

@@ -1,0 +1,1 @@
+{'text': 'So, We responded to him and gave him YaHyā and made his wife good for him. They used to race towards the good deeds and call Us with hope and fear; and they were humble to Us.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 90, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

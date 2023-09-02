@@ -1,0 +1,1 @@
+{'text': 'O mankind! Eat of that which is lawful and good on the earth, and follow not the footsteps of Shaitan (Satan). Verily, he is to you an open enemy.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 168, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

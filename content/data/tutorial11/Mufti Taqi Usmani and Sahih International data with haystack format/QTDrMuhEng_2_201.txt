@@ -1,0 +1,1 @@
+{'text': 'And of them there are some who say: "Our Lord! Give us in this world that which is good and in the Hereafter that which is good, and save us from the torment of the Fire!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 201, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

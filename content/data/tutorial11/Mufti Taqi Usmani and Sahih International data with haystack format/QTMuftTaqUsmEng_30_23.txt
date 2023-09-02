@@ -1,0 +1,1 @@
+{'text': 'And among His signs is your sleep by night and day, and your search for His grace. Surely in this there are signs for a people who listen.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 30, 'ayah_no': 23, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

@@ -1,0 +1,1 @@
+{'text': 'The seven heavens and the earth and all that is therein, glorify Him and there is not a thing but glorifies His Praise. But you understand not their glorification. Truly, He is Ever Forbearing, Oft-Forgiving.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 44, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

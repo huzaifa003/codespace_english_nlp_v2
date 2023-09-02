@@ -1,0 +1,1 @@
+{'text': 'Have they not pondered over the Word (of Allah, i.e. what is sent down to the Prophet SAW), or has there come to them what had not come to their fathers of old?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 23, 'ayah_no': 68, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

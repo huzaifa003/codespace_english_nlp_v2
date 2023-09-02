@@ -1,0 +1,1 @@
+{'text': 'and it will throw up whatever it contains, and will become empty,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 84, 'ayah_no': 4, 'surah_name_en': 'Al-Inshiqaq (The Sundering, Splitting Open)', 'surah_name_ar': 'الاِنشِقَاق'}}

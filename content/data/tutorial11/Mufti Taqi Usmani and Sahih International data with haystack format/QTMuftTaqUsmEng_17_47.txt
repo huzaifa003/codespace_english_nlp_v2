@@ -1,0 +1,1 @@
+{'text': 'We are fully aware of the reason for which they listen, when they listen to you, and when they are in secret consultation: when the transgressors say, “You are following none but a bewitched man.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 47, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

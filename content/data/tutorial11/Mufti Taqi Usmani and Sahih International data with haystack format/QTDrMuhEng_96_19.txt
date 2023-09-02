@@ -1,0 +1,1 @@
+{'text': 'Nay! (O Muhammad (Peace be upon him))! Do not obey him (Aboo Jahl). Fall prostrate and draw near to Allah!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 96, 'ayah_no': 19, 'surah_name_en': 'Al-Alaq (The Clot)', 'surah_name_ar': 'العَلَق'}}

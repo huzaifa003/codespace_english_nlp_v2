@@ -1,0 +1,1 @@
+{'text': 'They are like their immediate predecessors (the Jews of Banee Qainooqa, who suffered), they tasted the evil result of their conduct, and (in the Hereafter, there is) for them a painful torment;-', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 59, 'ayah_no': 15, 'surah_name_en': 'Al-Hashr (Exile)', 'surah_name_ar': 'الحشر'}}

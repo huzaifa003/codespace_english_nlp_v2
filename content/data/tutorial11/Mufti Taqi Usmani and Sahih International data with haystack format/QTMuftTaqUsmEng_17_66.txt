@@ -1,0 +1,1 @@
+{'text': 'Your Lord is the One who causes ships to sail for you through the sea, so that you may go in quest of His bounty; surely, He is Ever-Merciful for you.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 66, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

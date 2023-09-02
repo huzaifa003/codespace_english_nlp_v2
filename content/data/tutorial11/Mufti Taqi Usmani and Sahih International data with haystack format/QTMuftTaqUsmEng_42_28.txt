@@ -1,0 +1,1 @@
+{'text': 'And He is the One who sends down rain after they have lost hope, and He extends His mercy. And He is the Guardian, Worthy of all praise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 42, 'ayah_no': 28, 'surah_name_en': 'Ash-Shura (Council, Consultation)', 'surah_name_ar': 'الشُّورٰی'}}

@@ -1,0 +1,1 @@
+{'text': 'Say, “O my people, do at your place (whatever you do.) I have to do (in my way). So, you will know for whom is the ultimate abode. Surely, the wrongdoers will not be successful.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 135, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

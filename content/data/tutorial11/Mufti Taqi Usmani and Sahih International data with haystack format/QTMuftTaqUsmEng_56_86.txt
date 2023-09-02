@@ -1,0 +1,1 @@
+{'text': 'So, if you are not going to be recompensed (in the Hereafter for your deeds), then why do you not', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 56, 'ayah_no': 86, 'surah_name_en': 'Al-Waqia (The Event, The Inevitable)', 'surah_name_ar': 'الواقعۃ'}}

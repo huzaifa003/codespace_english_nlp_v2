@@ -1,0 +1,1 @@
+{'text': 'They said, “Did you come to us with truth or are you one of the triflers?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 55, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

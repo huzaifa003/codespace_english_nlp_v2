@@ -1,0 +1,1 @@
+{'text': 'And indeed We created the heavens and the earth and all between them in six Days and nothing of fatigue touched Us.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 50, 'ayah_no': 38, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

@@ -1,0 +1,1 @@
+{'text': 'O my people, let not your hostility towards me cause you to suffer what was suffered by the people of NūH, or the people of Hūd, or the people of SāliH. And the people of LūT are not far from you.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 89, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

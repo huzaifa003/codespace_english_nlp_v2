@@ -1,0 +1,1 @@
+{'text': 'nor do you worship the One whom I worship.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 109, 'ayah_no': 3, 'surah_name_en': 'Al-Kafiroon (The Disbelievers)', 'surah_name_ar': 'الکٰفرون'}}

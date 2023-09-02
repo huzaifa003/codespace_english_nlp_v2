@@ -1,0 +1,1 @@
+{'text': 'So, the earthquake seized them, and they were (found dead) in their homes, fallen on their faces.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 78, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

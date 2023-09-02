@@ -1,0 +1,1 @@
+{'text': '(Khidr) said: "This is the parting between me and you, I will tell you the interpretation of (those) things over which you were unable to hold patience.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 78, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

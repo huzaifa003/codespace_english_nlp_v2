@@ -1,0 +1,1 @@
+{'text': 'and on you shall remain My curse till the Day of Judgment.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 78, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

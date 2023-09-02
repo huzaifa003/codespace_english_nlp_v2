@@ -1,0 +1,1 @@
+{'text': 'We have sent it (the Qur’ān) down in the Night of Qadr.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 97, 'ayah_no': 1, 'surah_name_en': 'Al-Qadr (The Power)', 'surah_name_ar': 'القدر'}}

@@ -1,0 +1,1 @@
+{'text': 'And he had wealth. So, he said to his companion while conversing with him, “I am greater than you in wealth and stronger in manpower.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 34, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

@@ -1,0 +1,1 @@
+{'text': 'So when Our Commandment came, We turned (the towns of Sodom in Palestine) upside down, and rained on them stones of baked clay, piled up;', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 82, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

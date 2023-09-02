@@ -1,0 +1,1 @@
+{'text': 'And they brought his shirt stained with false blood. He said: "Nay, but your ownselves have made up a tale. So (for me) patience is most fitting. And it is Allah (Alone) Whose help can be sought against that which you assert."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 18, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

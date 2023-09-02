@@ -1,0 +1,1 @@
+{'text': 'And when it is said to them: "Follow that which Allah has sent down", they say: "Nay, we shall follow that which we found our fathers (following)." (Would they do so) even if Shaitan (Satan) invites them to the torment of the Fire.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 31, 'ayah_no': 21, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

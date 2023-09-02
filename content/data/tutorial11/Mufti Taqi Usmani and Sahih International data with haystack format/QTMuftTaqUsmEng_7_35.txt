@@ -1,0 +1,1 @@
+{'text': 'O children of ’Ādam, if messengers from among you come to you conveying My verses to you, then, those who fear Allah and correct themselves will have no fear, nor shall they grieve.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 35, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

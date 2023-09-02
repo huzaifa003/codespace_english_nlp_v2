@@ -1,0 +1,1 @@
+{'text': 'Truly! Allah wrongs not mankind in aught; but mankind wrong themselves.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 10, 'ayah_no': 44, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

@@ -1,0 +1,1 @@
+{'text': 'Whether We show you (in your lifetime, O Muhammad SAW) some of what We promise them (the torment), - or We cause you to die, - still unto Us is their return, and moreover Allah is Witness over what they used to do.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 10, 'ayah_no': 46, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

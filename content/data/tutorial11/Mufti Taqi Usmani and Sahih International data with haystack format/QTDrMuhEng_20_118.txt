@@ -1,0 +1,1 @@
+{'text': 'Verily, you have (a promise from Us) that you will never be hungry therein nor naked.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 118, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

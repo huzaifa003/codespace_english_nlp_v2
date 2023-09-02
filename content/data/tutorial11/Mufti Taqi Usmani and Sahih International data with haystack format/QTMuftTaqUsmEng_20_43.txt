@@ -1,0 +1,1 @@
+{'text': 'Go, both of you, to Pharaoh; he has indeed transgressed all limits.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 43, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

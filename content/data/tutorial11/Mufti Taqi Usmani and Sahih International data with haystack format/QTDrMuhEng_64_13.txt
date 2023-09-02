@@ -1,0 +1,1 @@
+{'text': 'Allah! La ilaha illa Huwa (none has the right to be worshipped but He), and in Allah (Alone), therefore, let the believers put their trust.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 64, 'ayah_no': 13, 'surah_name_en': 'At-Taghabun (Mutual Disillusion)', 'surah_name_ar': 'التّغابن'}}

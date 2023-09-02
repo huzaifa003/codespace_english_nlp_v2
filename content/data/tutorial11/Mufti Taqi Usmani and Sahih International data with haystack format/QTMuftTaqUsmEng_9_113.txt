@@ -1,0 +1,1 @@
+{'text': 'It is not (permissible) for the Prophet and the believers to seek forgiveness for the Mushriks, even if they are kinsmen, after it became clear to them that they are the people of hell.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 113, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'And leave Me alone (to deal) with the deniers, the people of luxury, and give them respite for a while.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 73, 'ayah_no': 11, 'surah_name_en': 'Al-Muzzammil (The enshrouded one)', 'surah_name_ar': 'المزّمّل'}}

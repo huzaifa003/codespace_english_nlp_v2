@@ -1,0 +1,1 @@
+{'text': 'Their Salat (prayer) at the House (of Allah, i.e. the Kabah at Makkah) was nothing but whistling and clapping of hands. Therefore taste the punishment because you used to disbelieve.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 8, 'ayah_no': 35, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

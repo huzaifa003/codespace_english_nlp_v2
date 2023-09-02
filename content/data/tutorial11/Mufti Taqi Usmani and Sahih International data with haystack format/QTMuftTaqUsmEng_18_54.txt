@@ -1,0 +1,1 @@
+{'text': 'Indeed We have explained in this Qur’ān every subject in various ways for the benefit of the people, but out of all creation, man is most disputing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 54, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

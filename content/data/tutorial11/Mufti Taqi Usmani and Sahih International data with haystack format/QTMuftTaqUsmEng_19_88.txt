@@ -1,0 +1,1 @@
+{'text': 'They say, “The All-Merciful (Allah) has got a son.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 88, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

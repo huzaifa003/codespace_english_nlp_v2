@@ -1,0 +1,1 @@
+{'text': 'When he saw the sun rising up, he said: "This is my lord. This is greater." But when it set, he said: "O my people! I am indeed free from all that you join as partners in worship with Allah.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 78, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

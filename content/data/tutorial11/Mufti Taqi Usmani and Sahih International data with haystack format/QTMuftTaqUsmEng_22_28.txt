@@ -1,0 +1,1 @@
+{'text': 'so that they witness benefits for them, and recite Allah’s name in specified days, over the provision He gave them from the cattle. “So, eat thereof and feed the distressed, the poor.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 28, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

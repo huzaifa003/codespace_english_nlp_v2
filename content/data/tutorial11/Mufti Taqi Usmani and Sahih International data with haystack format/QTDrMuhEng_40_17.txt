@@ -1,0 +1,1 @@
+{'text': 'This Day shall every person be recompensed for what he earned. No injustice (shall be done to anybody). Truly, Allah is Swift in reckoning.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 17, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

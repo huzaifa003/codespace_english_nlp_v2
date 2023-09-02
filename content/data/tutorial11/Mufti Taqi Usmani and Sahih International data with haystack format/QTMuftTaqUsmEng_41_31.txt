@@ -1,0 +1,1 @@
+{'text': 'We have been your friends in the worldly life, and (will remain as such) in the Hereafter. And for you here is whatever your souls desire, and for you here is whatever you call for', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 41, 'ayah_no': 31, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

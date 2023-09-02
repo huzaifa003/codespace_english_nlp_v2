@@ -1,0 +1,1 @@
+{'text': 'Surely, you cannot make the dead to hear, nor can you make the deaf to hear your call when they turn their backs in retreat,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 80, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

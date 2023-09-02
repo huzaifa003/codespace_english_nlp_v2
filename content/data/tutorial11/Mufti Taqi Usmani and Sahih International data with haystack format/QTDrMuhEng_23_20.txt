@@ -1,0 +1,1 @@
+{'text': 'And a tree (olive) that springs forth from Mount Sinai, that grows oil, and (it is a) relish for the eaters.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 23, 'ayah_no': 20, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

@@ -1,0 +1,1 @@
+{'text': 'Therein are fruits, date-palms producing sheathed fruit-stalks (enclosing dates).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 55, 'ayah_no': 11, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

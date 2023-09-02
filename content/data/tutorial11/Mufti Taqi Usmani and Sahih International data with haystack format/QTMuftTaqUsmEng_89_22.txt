@@ -1,0 +1,1 @@
+{'text': 'and your Lord will come, and the angels as well, lined up in rows,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 89, 'ayah_no': 22, 'surah_name_en': 'Al-Fajr (The Dawn)', 'surah_name_ar': 'الفجر'}}

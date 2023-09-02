@@ -1,0 +1,1 @@
+{'text': 'and the earth that cracks open (for plants),', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 86, 'ayah_no': 12, 'surah_name_en': 'At-Tariq (The morning star)', 'surah_name_ar': 'الطَّارق'}}

@@ -1,0 +1,1 @@
+{'text': 'This is because your Lord would not destroy the (populations of) towns for their wrongdoing (i.e. associating others in worship along with Allah) while their people were unaware (so the Messengers were sent).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 131, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

@@ -1,0 +1,1 @@
+{'text': 'And verily, those before them did devise plots, but all planning is Allahs. He knows what every person earns, and the disbelievers will know who gets the good end (final destination).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 13, 'ayah_no': 42, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

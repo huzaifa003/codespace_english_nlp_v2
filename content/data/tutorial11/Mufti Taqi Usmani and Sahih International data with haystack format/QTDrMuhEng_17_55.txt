@@ -1,0 +1,1 @@
+{'text': 'And your Lord knows best all who are in the heavens and the earth. And indeed, We have preferred some of the Prophets above others, and to Dawood (David) We gave the Zaboor (Psalms).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 55, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

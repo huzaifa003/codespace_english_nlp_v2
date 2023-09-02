@@ -1,0 +1,1 @@
+{'text': 'O people of the Book, there has come to you Our Messenger disclosing to you much of what you have been concealing of the Book, while He overlooks much. There has come to you, from Allah, a Light and a clear Book;', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 15, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

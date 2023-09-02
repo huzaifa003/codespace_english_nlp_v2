@@ -1,0 +1,1 @@
+{'text': 'As for that Ultimate Abode (the Hereafter), We assign it to those who do not intend haughtiness on earth nor mischief. And the (best) end is for the God-fearing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 83, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

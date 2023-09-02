@@ -1,0 +1,1 @@
+{'text': 'And the Jannah (Paradise) will be brought close for the God-fearing, no longer distant.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 50, 'ayah_no': 31, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

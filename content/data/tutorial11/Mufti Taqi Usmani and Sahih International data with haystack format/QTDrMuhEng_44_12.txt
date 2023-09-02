@@ -1,0 +1,1 @@
+{'text': '(They will say): "Our Lord! Remove the torment from us, really we shall become believers!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 44, 'ayah_no': 12, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

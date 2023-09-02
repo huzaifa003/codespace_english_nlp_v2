@@ -1,0 +1,1 @@
+{'text': 'They said: "Are you the one who has done this to our gods, O Ibrahim (Abraham)?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 62, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

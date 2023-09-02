@@ -1,0 +1,1 @@
+{'text': 'And the dwellers of the Fire will call to the dwellers of Paradise: "Pour on us some water or anything that Allah has provided you with." They will say: "Both (water and provision) Allah has forbidden to the disbelievers."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 50, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

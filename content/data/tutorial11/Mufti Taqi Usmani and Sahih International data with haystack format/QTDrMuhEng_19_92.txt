@@ -1,0 +1,1 @@
+{'text': 'But it is not suitable for (the Majesty of) the Most Beneficent (Allah) that He should beget a son (or offspring or children).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 92, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

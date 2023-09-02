@@ -1,0 +1,1 @@
+{'text': 'If good befalls you (O Muhammad SAW), it grieves them, but if a calamity overtakes you, they say: "We took our precaution beforehand," and they turn away rejoicing.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 50, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

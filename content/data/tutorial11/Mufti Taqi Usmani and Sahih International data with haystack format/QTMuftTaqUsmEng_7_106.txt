@@ -1,0 +1,1 @@
+{'text': 'He said, “If you have come with a sign, then bring it forth, if you are really truthful.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 106, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

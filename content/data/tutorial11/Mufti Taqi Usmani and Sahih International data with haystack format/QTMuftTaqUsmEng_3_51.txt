@@ -1,0 +1,1 @@
+{'text': 'Allah is surely my Lord and your Lord. So, worship Him. This is the straight path.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 51, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

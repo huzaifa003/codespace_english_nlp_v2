@@ -1,0 +1,1 @@
+{'text': 'So he went forth before his people in his pomp. Those who were desirous of the life of the world, said: "Ah, would that we had the like of what Qaroon (Korah) has been given? Verily! He is the owner of a great fortune."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 79, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

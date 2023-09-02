@@ -1,0 +1,1 @@
+{'text': 'Have you seen him who disbelieved in Our Ayat (this Quran and Muhammad SAW) and (yet) says: "I shall certainly be given wealth and children (if I will be alive (again)),"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 77, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

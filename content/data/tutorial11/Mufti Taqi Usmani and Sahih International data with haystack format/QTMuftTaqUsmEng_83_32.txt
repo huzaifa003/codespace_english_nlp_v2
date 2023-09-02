@@ -1,0 +1,1 @@
+{'text': 'and when they saw them, they said, “Surely these are the ones who have gone astray”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 83, 'ayah_no': 32, 'surah_name_en': 'Al-Mutaffifin (Defrauding)', 'surah_name_ar': 'المُطَفِّفِین'}}

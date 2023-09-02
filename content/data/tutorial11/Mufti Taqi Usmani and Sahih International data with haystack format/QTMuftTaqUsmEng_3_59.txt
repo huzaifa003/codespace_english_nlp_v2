@@ -1,0 +1,1 @@
+{'text': 'Surely, the case of ‘Īsā , in the sight of Allah, is like the case of ’Edam . He created him from dust, then He said to him, “Be”, and he came to be.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 59, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

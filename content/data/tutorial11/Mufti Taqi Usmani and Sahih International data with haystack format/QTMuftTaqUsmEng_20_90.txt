@@ -1,0 +1,1 @@
+{'text': 'Hārūn had already said to them, “O my people, you have only been led astray with it, and your Lord is the RaHmān (All-Merciful). So follow me and obey my command.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 90, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

@@ -1,0 +1,1 @@
+{'text': '(Iblees) said: "Because You have sent me astray, surely I will sit in wait against them (human beings) on Your Straight Path.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 7, 'ayah_no': 16, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

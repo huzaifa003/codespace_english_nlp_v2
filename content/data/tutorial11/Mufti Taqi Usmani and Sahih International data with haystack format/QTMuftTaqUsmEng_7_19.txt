@@ -1,0 +1,1 @@
+{'text': 'O ’Ādam, dwell, you and your wife, in Paradise, and eat from wherever you like, but do not go near this tree, otherwise you shall join the transgressors.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 19, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

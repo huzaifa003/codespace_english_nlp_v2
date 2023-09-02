@@ -1,0 +1,1 @@
+{'text': 'So, if you disbelieve, how will you save yourself from a day that will turn the small boys into grey-headed old men,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 73, 'ayah_no': 17, 'surah_name_en': 'Al-Muzzammil (The enshrouded one)', 'surah_name_ar': 'المزّمّل'}}

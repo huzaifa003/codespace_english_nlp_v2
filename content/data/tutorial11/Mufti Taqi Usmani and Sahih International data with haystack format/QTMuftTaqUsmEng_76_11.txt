@@ -1,0 +1,1 @@
+{'text': 'So Allah will save them from the evil of that day, and will grant them bloom and delight,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 76, 'ayah_no': 11, 'surah_name_en': 'Al-Insan (The man)', 'surah_name_ar': 'الانسان'}}

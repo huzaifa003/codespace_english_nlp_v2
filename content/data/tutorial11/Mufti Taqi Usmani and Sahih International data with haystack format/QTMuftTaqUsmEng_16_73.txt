@@ -1,0 +1,1 @@
+{'text': 'They worship, besides Allah, the objects that have no power to give them anything from the heavens and the earth, nor can they ever have such power.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 73, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

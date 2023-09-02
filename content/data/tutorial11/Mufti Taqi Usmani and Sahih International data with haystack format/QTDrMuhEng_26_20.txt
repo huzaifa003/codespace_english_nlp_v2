@@ -1,0 +1,1 @@
+{'text': 'Moosa (Moses) said: "I did it then, when I was an ignorant (as regards my Lord and His Message).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 20, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

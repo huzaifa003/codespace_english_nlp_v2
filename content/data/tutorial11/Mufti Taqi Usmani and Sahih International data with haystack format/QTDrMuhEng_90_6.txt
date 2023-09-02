@@ -1,0 +1,1 @@
+{'text': 'He says (boastfully): "I have wasted wealth in abundance!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 90, 'ayah_no': 6, 'surah_name_en': 'Al-Balad (The City)', 'surah_name_ar': 'البلد'}}

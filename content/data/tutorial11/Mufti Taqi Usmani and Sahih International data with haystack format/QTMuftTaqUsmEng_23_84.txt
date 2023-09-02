@@ -1,0 +1,1 @@
+{'text': 'Say, “Whose is the earth and all those therein if you have knowledge?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 23, 'ayah_no': 84, 'surah_name_en': 'Al-Mumenoon (The Believers)', 'surah_name_ar': 'المؤمنون'}}

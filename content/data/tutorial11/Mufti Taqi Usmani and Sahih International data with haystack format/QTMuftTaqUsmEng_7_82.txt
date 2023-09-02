@@ -1,0 +1,1 @@
+{'text': 'The answer of his people was no other than to say, “Expel them from your town. They are a people who pretend too much purity.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 82, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

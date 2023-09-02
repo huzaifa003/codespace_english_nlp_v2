@@ -1,0 +1,1 @@
+{'text': 'It is He, Who gave you life, and then will cause you to die, and will again give you life (on the Day of Resurrection). Verily! Man is indeed an ingrate.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 22, 'ayah_no': 66, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

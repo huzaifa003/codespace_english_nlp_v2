@@ -1,0 +1,1 @@
+{'text': 'Say (O Muhammad SAW) "Be you stones or iron,"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 50, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

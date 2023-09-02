@@ -1,0 +1,1 @@
+{'text': 'Be aware that your wealth and your children are but a trial and that with Allah there is a great reward.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 28, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

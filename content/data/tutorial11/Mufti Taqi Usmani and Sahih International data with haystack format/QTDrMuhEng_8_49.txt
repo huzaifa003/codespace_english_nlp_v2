@@ -1,0 +1,1 @@
+{'text': 'When the hypocrites and those in whose hearts was a disease (of disbelief) said: "These people (Muslims) are deceived by their religion." But whoever puts his trust in Allah, then surely, Allah is All-Mighty, All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 8, 'ayah_no': 49, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

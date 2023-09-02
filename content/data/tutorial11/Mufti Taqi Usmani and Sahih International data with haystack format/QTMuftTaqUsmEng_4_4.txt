@@ -1,0 +1,1 @@
+{'text': 'Give women their dower in good cheer. Then, if they forego some of it, of their own will, you may have it as pleasant and joyful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 4, 'ayah_no': 4, 'surah_name_en': 'An-Nisa (The woman)', 'surah_name_ar': 'النسآء'}}

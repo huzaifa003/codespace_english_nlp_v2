@@ -1,0 +1,1 @@
+{'text': 'Whoever brings good deed shall have better than it, and whoever brings evil deed, then those who commit evils shall not be punished except for what they used to do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 84, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

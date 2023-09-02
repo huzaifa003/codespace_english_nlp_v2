@@ -1,0 +1,1 @@
+{'text': 'And the sinners will see the Fire; so they will know that they will have to fall into it, and they will find no way to bypass it.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 53, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

@@ -1,0 +1,1 @@
+{'text': 'And whoever submits his self to Allah and is good in deeds, he in fact holds on to the strongest ring. Towards Allah is the ultimate end of all matters.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 31, 'ayah_no': 22, 'surah_name_en': 'Luqman (Luqman)', 'surah_name_ar': 'لقمٰن'}}

@@ -1,0 +1,1 @@
+{'text': 'and doors of their homes, and the coaches on which they would recline,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 43, 'ayah_no': 34, 'surah_name_en': 'Az-Zukhruf (Ornaments of Gold)', 'surah_name_ar': 'الزُّخرُف'}}

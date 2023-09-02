@@ -1,0 +1,1 @@
+{'text': 'Those before them did devise plans, but all the real plans belong only to Allah. He knows what every soul earns, and the disbelievers will soon know for whom is the excellent end.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 13, 'ayah_no': 42, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

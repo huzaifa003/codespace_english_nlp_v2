@@ -1,0 +1,1 @@
+{'text': 'And, when they will dispute in the Fire, the weak will say to those who were arrogant; "Verily! We followed you, can you then take from us some portion of the Fire?"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 47, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

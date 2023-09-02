@@ -1,0 +1,1 @@
+{'text': 'Had Allah opted to have a son of His own, He would have definitely chosen anyone, as He wished, out of what He had created. (But), Pure is He. He is Allah, the Only One, the All-Dominant.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 39, 'ayah_no': 4, 'surah_name_en': 'Az-Zumar (The Troops)', 'surah_name_ar': 'الزمر'}}

@@ -1,0 +1,1 @@
+{'text': 'Verily! As for those who believe and do righteous deeds, certainly! We shall not suffer to be lost the reward of anyone who does his (righteous) deeds in the most perfect manner.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 30, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

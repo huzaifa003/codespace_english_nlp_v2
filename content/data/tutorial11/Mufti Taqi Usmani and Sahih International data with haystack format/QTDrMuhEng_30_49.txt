@@ -1,0 +1,1 @@
+{'text': 'And verily before that (rain), just before it was sent down upon them, they were in despair!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 30, 'ayah_no': 49, 'surah_name_en': 'Ar-Room (The Romans)', 'surah_name_ar': 'الروم'}}

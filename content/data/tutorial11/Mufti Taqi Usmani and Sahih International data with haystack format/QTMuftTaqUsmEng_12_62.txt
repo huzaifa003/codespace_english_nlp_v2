@@ -1,0 +1,1 @@
+{'text': 'And he (Yūsuf) said to his boys, “Put their goods in their camel-packs. Perhaps they will recognize it when they go back to their family; perhaps they will come again.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 62, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

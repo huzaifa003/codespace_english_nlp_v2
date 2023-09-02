@@ -1,0 +1,1 @@
+{'text': 'And (recall) when they said, “O Allah, if this is indeed the truth (revealed) from You, then, rain down stones upon us from the heavens, or bring upon us a painful punishment.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 32, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

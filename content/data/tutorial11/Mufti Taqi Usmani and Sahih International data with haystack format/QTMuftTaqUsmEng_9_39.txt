@@ -1,0 +1,1 @@
+{'text': 'If you do not march forth (in the way of Allah), He will chastise you with a painful punishment and will replace you with another nation, and you can do Him no harm at all. Allah is powerful to do anything.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 39, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

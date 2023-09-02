@@ -1,0 +1,1 @@
+{'text': 'which he will arduously sip, and will not be able to swallow. Death will come upon him from every side, yet he will not die, and still a heavy chastisement will be ahead of him.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 14, 'ayah_no': 17, 'surah_name_en': 'Ibrahim (Abraham)', 'surah_name_ar': 'ابراھیم'}}

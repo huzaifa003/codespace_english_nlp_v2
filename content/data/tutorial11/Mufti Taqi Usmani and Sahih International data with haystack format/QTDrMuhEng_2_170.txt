@@ -1,0 +1,1 @@
+{'text': 'When it is said to them: "Follow what Allah has sent down." They say: "Nay! We shall follow what we found our fathers following." (Would they do that!) Even though their fathers did not understand anything nor were they guided?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 170, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

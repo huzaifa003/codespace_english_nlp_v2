@@ -1,0 +1,1 @@
+{'text': 'In fact, what they were concealing earlier will become clear to them. If they were sent back, they would again go for what they were forbidden from, as they are sheer liars.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 28, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

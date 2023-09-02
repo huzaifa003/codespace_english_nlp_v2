@@ -1,0 +1,1 @@
+{'text': 'And they say, “There is no life but our worldly life. We die and live, and nothing destroys us except time.” They have no knowledge about that; they do nothing but make conjectures.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 45, 'ayah_no': 24, 'surah_name_en': 'Al-Jathiya (Crouching)', 'surah_name_ar': 'الجاثیہ'}}

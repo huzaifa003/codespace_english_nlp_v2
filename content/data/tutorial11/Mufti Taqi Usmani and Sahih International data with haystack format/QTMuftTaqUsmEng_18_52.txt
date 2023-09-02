@@ -1,0 +1,1 @@
+{'text': '(Recall) the Day when He will say, “Call My ‘partners’ whom you claimed as such.” So, they will call them, but they will not respond to them, and We will put a destructive barrier between them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 52, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

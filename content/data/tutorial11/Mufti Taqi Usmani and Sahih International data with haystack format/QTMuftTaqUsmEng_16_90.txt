@@ -1,0 +1,1 @@
+{'text': 'Allah enjoins to do justice and to adopt good behavior and to give relatives (their due rights), and forbids shameful acts, evil deeds and oppressive attitude. He exhorts you, so that you may be mindful.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 90, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

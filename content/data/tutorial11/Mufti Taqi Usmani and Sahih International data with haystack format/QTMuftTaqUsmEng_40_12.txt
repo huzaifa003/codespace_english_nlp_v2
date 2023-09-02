@@ -1,0 +1,1 @@
+{'text': '(The reply will be, “No.) This is because whenever Allah alone was invoked, you used to disbelieve, and if partners were associated with Him, you used to believe. Now the decision lies with Allah, the High, the Great.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 12, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

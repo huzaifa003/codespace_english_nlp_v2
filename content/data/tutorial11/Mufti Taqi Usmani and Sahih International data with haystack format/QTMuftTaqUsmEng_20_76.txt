@@ -1,0 +1,1 @@
+{'text': 'the eternal gardens beneath which rivers flow, in which they shall live for ever. That is the reward for the one who has purified himself.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 76, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

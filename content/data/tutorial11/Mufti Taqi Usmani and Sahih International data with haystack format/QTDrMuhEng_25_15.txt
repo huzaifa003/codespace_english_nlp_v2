@@ -1,0 +1,1 @@
+{'text': 'Say: (O Muhammad SAW) "Is that (torment) better or the Paradise of Eternity promised to the Muttaqoon (pious and righteous persons - see V.2:2)?" It will be theirs as a reward and as a final destination.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 15, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

@@ -1,0 +1,1 @@
+{'text': 'Taking away (burning completely) the head skin!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 70, 'ayah_no': 16, 'surah_name_en': 'Al-Maarij (The Ascending stairways)', 'surah_name_ar': 'المعارج'}}

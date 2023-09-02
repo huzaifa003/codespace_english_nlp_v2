@@ -1,0 +1,1 @@
+{'text': 'Arrange the marriage of the spouseless among you, and the capable from among your bondmen and bondwomen. If they are poor, Allah will enrich them out of His grace. Allah is All-Encompassing, All-Knowing.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 32, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

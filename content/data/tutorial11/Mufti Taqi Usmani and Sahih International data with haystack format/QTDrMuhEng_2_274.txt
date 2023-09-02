@@ -1,0 +1,1 @@
+{'text': 'Those who spend their wealth (in Allahs Cause) by night and day, in secret and in public, they shall have their reward with their Lord. On them shall be no fear, nor shall they grieve.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 274, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

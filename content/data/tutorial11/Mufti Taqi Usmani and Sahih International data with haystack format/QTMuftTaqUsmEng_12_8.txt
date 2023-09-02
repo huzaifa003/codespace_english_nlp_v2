@@ -1,0 +1,1 @@
+{'text': '(It happened) when they said, “Yūsuf and his brother are dearer to our father than we are, while we are a whole group. Surely, our father is in clear error.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 8, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

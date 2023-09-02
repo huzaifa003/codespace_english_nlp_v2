@@ -1,0 +1,1 @@
+{'text': 'Had We intended to have a pastime, We would have had it from Our own, if We were ever to do so.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 17, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

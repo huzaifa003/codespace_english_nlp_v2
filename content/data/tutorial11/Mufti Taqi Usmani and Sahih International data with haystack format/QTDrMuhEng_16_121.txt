@@ -1,0 +1,1 @@
+{'text': '(He was) thankful for His (Allahs) Graces. He (Allah) chose him (as an intimate friend) and guided him to a Straight Path (Islamic Monotheism, neither Judaism nor Christianity).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 16, 'ayah_no': 121, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

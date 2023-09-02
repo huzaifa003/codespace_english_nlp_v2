@@ -1,0 +1,1 @@
+{'text': 'We did not send any prophet to a town, but We seized its people with hardship and suffering, so that they may turn humble.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 94, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

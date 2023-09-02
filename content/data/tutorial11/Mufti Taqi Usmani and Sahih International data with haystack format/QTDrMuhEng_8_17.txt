@@ -1,0 +1,1 @@
+{'text': 'You killed them not, but Allah killed them. And you (Muhammad SAW) threw not when you did throw but Allah threw, that He might test the believers by a fair trial from Him. Verily, Allah is All-Hearer, All-Knower.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 8, 'ayah_no': 17, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

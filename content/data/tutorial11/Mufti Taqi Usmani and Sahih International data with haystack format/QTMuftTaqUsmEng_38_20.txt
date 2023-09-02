@@ -1,0 +1,1 @@
+{'text': 'And We made his kingdom strong, and gave him wisdom and decisive speech.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 20, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

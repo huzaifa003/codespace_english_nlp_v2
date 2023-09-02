@@ -1,0 +1,1 @@
+{'text': '"He will speak to the people in the cradle and in manhood, and he will be one of the righteous."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 46, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

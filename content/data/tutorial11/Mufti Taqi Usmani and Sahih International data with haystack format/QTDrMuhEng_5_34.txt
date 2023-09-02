@@ -1,0 +1,1 @@
+{'text': 'Except for those who (having fled away and then) came back (as Muslims) with repentance before they fall into your power; in that case, know that Allah is OftForgiving, Most Merciful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 5, 'ayah_no': 34, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

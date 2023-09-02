@@ -1,0 +1,1 @@
+{'text': 'And other torments of similar kind, all together!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 38, 'ayah_no': 58, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

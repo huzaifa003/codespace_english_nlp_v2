@@ -1,0 +1,1 @@
+{'text': 'Beware, they are in doubt about meeting their Lord. Beware, He is the One who encompasses everything.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 41, 'ayah_no': 54, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

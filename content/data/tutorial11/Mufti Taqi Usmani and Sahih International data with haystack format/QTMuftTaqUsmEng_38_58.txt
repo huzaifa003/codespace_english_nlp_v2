@@ -1,0 +1,1 @@
+{'text': 'and other things similar to it of various kinds.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 58, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

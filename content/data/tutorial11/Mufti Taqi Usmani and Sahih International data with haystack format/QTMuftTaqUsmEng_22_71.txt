@@ -1,0 +1,1 @@
+{'text': 'They worship, besides Allah, the objects for which He did never send down an authority (or proof) and about which they have no knowledge. And for the wrongdoers there is no helper.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 71, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

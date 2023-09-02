@@ -1,0 +1,1 @@
+{'text': 'Then We shall save those who use to fear Allah and were dutiful to Him. And We shall leave the Zalimoon (polytheists and wrongdoers, etc.) therein (humbled) to their knees (in Hell).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 72, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

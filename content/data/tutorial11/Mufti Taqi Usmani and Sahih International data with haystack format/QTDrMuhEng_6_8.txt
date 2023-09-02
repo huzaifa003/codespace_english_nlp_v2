@@ -1,0 +1,1 @@
+{'text': 'And they say: "Why has not an angel been sent down to him?" Had We sent down an angel, the matter would have been judged at once, and no respite would be granted to them.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 8, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

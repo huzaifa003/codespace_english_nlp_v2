@@ -1,0 +1,1 @@
+{'text': 'and bring to you every expert sorcerer (who could defeat him).”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 112, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

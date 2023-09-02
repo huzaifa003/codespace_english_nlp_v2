@@ -1,0 +1,1 @@
+{'text': 'They will say: "We were not of those who used to offer their Salat (prayers)', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 74, 'ayah_no': 43, 'surah_name_en': 'Al-Muddathir (The cloaked one)', 'surah_name_ar': 'المدّثّر'}}

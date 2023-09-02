@@ -1,0 +1,1 @@
+{'text': '"And my breast straitens, and my tongue expresses not well. So send for Haroon (Aaron) (to come along with me).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 13, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

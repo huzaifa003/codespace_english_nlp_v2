@@ -1,0 +1,1 @@
+{'text': 'But those who disbelieved and denied Our signs, they are the people of the Fire.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 86, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

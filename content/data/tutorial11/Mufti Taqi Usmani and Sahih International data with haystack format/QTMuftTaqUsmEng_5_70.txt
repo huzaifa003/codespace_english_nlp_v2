@@ -1,0 +1,1 @@
+{'text': 'Certainly We took a pledge from the children of Isrā’īl and sent Messengers to them. Whenever a Messenger went to them with what did not meet their desires, they cried lie to some, and killed others.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 70, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

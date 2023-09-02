@@ -1,0 +1,1 @@
+{'text': 'O Prophet (MuhammadSAW )! Verily, We have sent you as witness, and a bearer of glad tidings, and a warner,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 33, 'ayah_no': 45, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

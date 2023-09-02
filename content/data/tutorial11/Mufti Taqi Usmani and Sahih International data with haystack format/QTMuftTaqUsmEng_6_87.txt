@@ -1,0 +1,1 @@
+{'text': 'We guided many among their fathers and their children and their brothers, and We chose them and led them on to the straight path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 87, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

@@ -1,0 +1,1 @@
+{'text': '(O people,) We have sent to you a messenger, as a witness over you, just as We sent a messenger to Fir‘aun (Pharaoh).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 73, 'ayah_no': 15, 'surah_name_en': 'Al-Muzzammil (The enshrouded one)', 'surah_name_ar': 'المزّمّل'}}

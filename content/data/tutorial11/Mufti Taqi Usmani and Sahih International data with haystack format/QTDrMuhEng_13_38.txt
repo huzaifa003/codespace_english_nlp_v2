@@ -1,0 +1,1 @@
+{'text': 'And indeed We sent Messengers before you (O Muhammad SAW), and made for them wives and offspring. And it was not for a Messenger to bring a sign except by Allahs Leave. (For) each and every matter there is a Decree (from Allah).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 13, 'ayah_no': 38, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

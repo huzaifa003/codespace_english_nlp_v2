@@ -1,0 +1,1 @@
+{'text': 'His companion (Satan devil)) will say: "Our Lord! I did not push him to transgress, (in disbelief, oppression, and evil deeds) but he was himself in error far astray."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 50, 'ayah_no': 27, 'surah_name_en': 'Qaf (Qaf)', 'surah_name_ar': 'قٓ'}}

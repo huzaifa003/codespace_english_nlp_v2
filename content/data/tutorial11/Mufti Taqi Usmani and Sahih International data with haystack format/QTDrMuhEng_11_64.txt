@@ -1,0 +1,1 @@
+{'text': '"And O my people! This she-camel of Allah is a sign to you, leave her to feed on Allahs earth, and touch her not with evil, lest a near torment will seize you."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 64, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

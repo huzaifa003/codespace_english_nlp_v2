@@ -1,0 +1,1 @@
+{'text': 'And there is not a town (population) but We shall destroy it before the Day of Resurrection, or punish it with a severe torment. That is written in the Book (of our Decrees)', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 58, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

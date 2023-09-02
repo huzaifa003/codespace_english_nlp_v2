@@ -1,0 +1,1 @@
+{'text': 'Not (as you think, that you (mankind) will not be resurrected and recompensed for your deeds), but (you men) love the present life of this world,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 75, 'ayah_no': 20, 'surah_name_en': 'Al-Qiyama (The rising of the dead)', 'surah_name_ar': 'القیٰمۃ'}}

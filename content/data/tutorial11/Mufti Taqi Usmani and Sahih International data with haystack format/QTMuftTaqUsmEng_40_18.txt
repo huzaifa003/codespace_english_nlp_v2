@@ -1,0 +1,1 @@
+{'text': 'And warn them of the Day of approaching horror, when hearts will jump up into the throats, (and they will be) choked. There will be neither a friend for the unjust, nor an intercessor to be listened to.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 18, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

@@ -1,0 +1,1 @@
+{'text': 'And We tested the people of Fir‘aun (Pharaoh) prior to them, and a noble messenger came to them', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 44, 'ayah_no': 17, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

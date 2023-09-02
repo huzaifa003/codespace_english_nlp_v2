@@ -1,0 +1,1 @@
+{'text': 'Say, “What is revealed to me is simply that your God is One God. So do you submit?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 108, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

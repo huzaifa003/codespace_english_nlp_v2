@@ -1,0 +1,1 @@
+{'text': 'How clearly will they (polytheists and disbelievers in the Oneness of Allah) see and hear, the Day when they will appear before Us! But the Zalimoon (polytheists and wrong-doers) today are in plain error.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 38, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

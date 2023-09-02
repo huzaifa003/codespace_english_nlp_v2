@@ -1,0 +1,1 @@
+{'text': 'Then it appeared to them, after they had seen the proofs (of his innocence) to imprison him for a time.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 35, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

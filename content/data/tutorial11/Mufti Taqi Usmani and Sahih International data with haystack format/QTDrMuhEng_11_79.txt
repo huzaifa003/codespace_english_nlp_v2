@@ -1,0 +1,1 @@
+{'text': 'They said: "Surely you know that we have neither any desire nor in need of your daughters, and indeed you know well what we want!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 79, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

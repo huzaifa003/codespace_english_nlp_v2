@@ -1,0 +1,1 @@
+{'text': 'And it was said to the people: "Are you (too) going to assemble?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 26, 'ayah_no': 39, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

@@ -1,0 +1,1 @@
+{'text': 'In a seat of truth (i.e. Paradise), near the Omnipotent King (Allah, the All-Blessed, the Most High, the Owner of Majesty and Honour).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 54, 'ayah_no': 55, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

@@ -1,0 +1,1 @@
+{'text': 'And fear a Day (of Judgement) when a person shall not avail another, nor will intercession be accepted from him nor will compensation be taken from him nor will they be helped.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 48, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

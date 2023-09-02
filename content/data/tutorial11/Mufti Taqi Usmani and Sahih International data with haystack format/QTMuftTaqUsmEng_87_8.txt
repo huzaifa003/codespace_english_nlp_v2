@@ -1,0 +1,1 @@
+{'text': 'And We will facilitate for you (to reach) the easiest way.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 87, 'ayah_no': 8, 'surah_name_en': 'Al-Ala (The Most High)', 'surah_name_ar': 'الاَعلیٰ'}}

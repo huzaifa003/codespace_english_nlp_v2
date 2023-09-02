@@ -1,0 +1,1 @@
+{'text': 'Those who believed (in the Oneness of Allah - Islamic Monotheism) and emigrated and strove hard and fought in Allahs Cause with their wealth and their lives are far higher in degree with Allah. They are the successful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 20, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

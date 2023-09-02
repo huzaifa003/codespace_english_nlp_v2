@@ -1,0 +1,1 @@
+{'text': 'And We have sent you (O Muhammad SAW) not but as a mercy for the Alameen (mankind, jinns and all that exists).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 107, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

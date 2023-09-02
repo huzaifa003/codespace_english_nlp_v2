@@ -1,0 +1,1 @@
+{'text': 'And (We sent) LūT when he said to his people, “Indeed you commit the shameful act that no one in the worlds has ever preceded you in it.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 28, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

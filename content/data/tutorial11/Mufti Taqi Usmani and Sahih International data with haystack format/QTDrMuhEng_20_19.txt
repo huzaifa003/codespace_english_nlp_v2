@@ -1,0 +1,1 @@
+{'text': '(Allah) said: "Cast it down, O Moosa (Moses)!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 19, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

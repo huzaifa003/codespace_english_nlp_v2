@@ -1,0 +1,1 @@
+{'text': 'From wherever you set out, turn your face in the direction of the Sacred Mosque (Al-Masjid-ul-Harām). That, indeed, is the truth from your Lord, and Allah is not unaware of what you do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 149, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

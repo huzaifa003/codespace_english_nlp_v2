@@ -1,0 +1,1 @@
+{'text': 'when he said to his father and his people, “What are these statues you are devoted to?”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 52, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

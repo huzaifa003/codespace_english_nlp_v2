@@ -1,0 +1,1 @@
+{'text': 'These are the people who have bought error at the price of guidance; so their trade has brought no gain, nor have they reached the right Path.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 16, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

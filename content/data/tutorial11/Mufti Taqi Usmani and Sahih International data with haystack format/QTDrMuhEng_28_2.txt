@@ -1,0 +1,1 @@
+{'text': 'These are Verses of the manifest Book (that makes clear truth from falsehood, good from evil, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 28, 'ayah_no': 2, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

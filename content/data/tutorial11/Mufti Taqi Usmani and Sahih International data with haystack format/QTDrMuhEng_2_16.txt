@@ -1,0 +1,1 @@
+{'text': 'These are they who have purchased error for guidance, so their commerce was profitless. And they were not guided.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 16, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

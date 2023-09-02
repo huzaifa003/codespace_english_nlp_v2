@@ -1,0 +1,1 @@
+{'text': 'People ask you concerning the Hour, say: "The knowledge of it is with Allah only. What do you know? It may be that the Hour is near!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 33, 'ayah_no': 63, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

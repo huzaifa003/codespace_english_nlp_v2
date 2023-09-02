@@ -1,0 +1,1 @@
+{'text': 'And indeed We gave to Moosa (Moses) nine clear signs. Ask then the Children of Israel, when he came to them, then Firaun (Pharaoh) said to him: "O Moosa (Moses)! I think you are indeed bewitched."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 17, 'ayah_no': 101, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

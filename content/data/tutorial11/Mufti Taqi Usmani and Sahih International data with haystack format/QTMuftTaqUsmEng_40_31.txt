@@ -1,0 +1,1 @@
+{'text': 'like the fate of the people of NūH and ‘Ād and Thamūd and those who were after them - and Allah does not intend to do any injustice to His servants.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 31, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

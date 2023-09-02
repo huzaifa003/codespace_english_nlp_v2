@@ -1,0 +1,1 @@
+{'text': 'Thus they rejected him, so they were seized by the torment of the Day of Canopy. Indeed it was the punishment of a terrible day.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 26, 'ayah_no': 189, 'surah_name_en': 'Ash-Shuara (The Poets)', 'surah_name_ar': 'الشعراء'}}

@@ -1,0 +1,1 @@
+{'text': 'Surely, Allah and His angels send blessings to the Prophet. O you who believe, do pray Allah to bless him, and send your Salām (prayer for his being in peace) to him in abundance.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 56, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

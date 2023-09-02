@@ -1,0 +1,1 @@
+{'text': 'When the fury of Mūsā calmed down, he picked up the Tablets, and in its contents there was guidance, and mercy for those who are fearful before their Lord.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 154, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

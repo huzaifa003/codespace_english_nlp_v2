@@ -1,0 +1,1 @@
+{'text': 'Their reward is forgiveness from their Lord and gardens beneath which rivers flow where they shall live forever. And excellent is the reward of those who work.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 136, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

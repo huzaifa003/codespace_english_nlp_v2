@@ -1,0 +1,1 @@
+{'text': 'Surely with Us are fetters and flaming fire,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 73, 'ayah_no': 12, 'surah_name_en': 'Al-Muzzammil (The enshrouded one)', 'surah_name_ar': 'المزّمّل'}}

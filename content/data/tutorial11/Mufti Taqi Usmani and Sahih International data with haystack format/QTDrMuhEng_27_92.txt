@@ -1,0 +1,1 @@
+{'text': 'And to recite the Quran, so whosoever receives guidance, receives it for the good of his ownself, and whosoever goes astray, say (to him): "I am only one of the warners."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 27, 'ayah_no': 92, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

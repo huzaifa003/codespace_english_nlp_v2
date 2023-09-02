@@ -1,0 +1,1 @@
+{'text': 'But We have given benefits to these and their fathers until life was prolonged for them. So do they not see that We are coming to the land narrowing it down from all its sides? Then, are they the ones to prevail?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 44, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

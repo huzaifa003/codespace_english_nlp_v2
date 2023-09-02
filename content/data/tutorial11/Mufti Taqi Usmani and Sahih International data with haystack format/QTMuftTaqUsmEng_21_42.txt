@@ -1,0 +1,1 @@
+{'text': 'Say, “Who will guard you, during night and day, against the RaHmān (All-Merciful, Allah)?” Rather, to the remembrance of their Lord they are averse.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 42, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

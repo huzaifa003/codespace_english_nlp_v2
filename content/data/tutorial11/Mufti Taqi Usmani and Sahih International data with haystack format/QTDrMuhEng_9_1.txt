@@ -1,0 +1,1 @@
+{'text': 'Freedom from (all) obligations (is declared) from Allah and His Messenger (SAW) to those of the Mushrikoon (polytheists, pagans, idolaters, disbelievers in the Oneness of Allah), with whom you made a treaty.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 1, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

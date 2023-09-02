@@ -1,0 +1,1 @@
+{'text': 'Or do those in whose hearts is a disease (of hypocrisy), think that Allah will not bring to light all their hidden ill-wills?', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 47, 'ayah_no': 29, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

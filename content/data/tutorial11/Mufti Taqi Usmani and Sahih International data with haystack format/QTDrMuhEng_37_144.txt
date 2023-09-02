@@ -1,0 +1,1 @@
+{'text': 'He would have indeed remained inside its belly (the fish) till the Day of Resurrection.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 144, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

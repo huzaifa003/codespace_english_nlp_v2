@@ -1,0 +1,1 @@
+{'text': 'He said, “Shall I seek any one other than Allah as God for you, while He has given you excellence over the (people of all the) worlds.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 140, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

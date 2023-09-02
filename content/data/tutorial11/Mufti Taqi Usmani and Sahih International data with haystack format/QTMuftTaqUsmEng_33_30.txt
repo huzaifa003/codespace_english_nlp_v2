@@ -1,0 +1,1 @@
+{'text': 'O wives of the Prophet, whoever from among you will commit a clearly shameful act, the punishment will be doubled for her; and it is easy for Allah to do so.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 30, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

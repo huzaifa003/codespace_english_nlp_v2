@@ -1,0 +1,1 @@
+{'text': 'As for those who disbelieved and rejected Our signs, they are the ones for whom there is a humiliating punishment.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 57, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

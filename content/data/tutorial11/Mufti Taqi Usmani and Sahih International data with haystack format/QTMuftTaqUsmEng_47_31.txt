@@ -1,0 +1,1 @@
+{'text': 'And We will certainly test you until We know those of you who carry out Jihād (struggle in Allah’s way) and observe patience, and until We check your episodes.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 47, 'ayah_no': 31, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

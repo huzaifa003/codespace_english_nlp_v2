@@ -1,0 +1,1 @@
+{'text': '(It will be said): "This is the Day of Judgement which you used to deny."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 37, 'ayah_no': 21, 'surah_name_en': 'As-Saaffat (Those who set the ranks)', 'surah_name_ar': 'الصّٰفّٰت'}}

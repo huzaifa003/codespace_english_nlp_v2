@@ -1,0 +1,1 @@
+{'text': 'And the example of those who disbelieve, is as that of him who shouts to the (flock of sheep) that hears nothing but calls and cries. (They are) deaf, dumb and blind. So they do not understand.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 2, 'ayah_no': 171, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

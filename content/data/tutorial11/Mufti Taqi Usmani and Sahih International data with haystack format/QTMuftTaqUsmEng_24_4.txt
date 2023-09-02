@@ -1,0 +1,1 @@
+{'text': 'Those who accuse the chaste women (of fornication), but they do not produce four witnesses, flog them with eighty stripes and do not accept their any evidence any more. They are the sinners,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 24, 'ayah_no': 4, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

@@ -1,0 +1,1 @@
+{'text': 'and that some of us are (already) righteous, and some of us are otherwise, and we were on different ways;', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 72, 'ayah_no': 11, 'surah_name_en': 'Al-Jinn (The Jinn)', 'surah_name_ar': 'الجن'}}

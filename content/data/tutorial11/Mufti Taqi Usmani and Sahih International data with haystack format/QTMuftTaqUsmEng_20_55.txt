@@ -1,0 +1,1 @@
+{'text': 'From this (dust) We created you, and in this we shall put you back, and from this We shall raise you up once again.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 55, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

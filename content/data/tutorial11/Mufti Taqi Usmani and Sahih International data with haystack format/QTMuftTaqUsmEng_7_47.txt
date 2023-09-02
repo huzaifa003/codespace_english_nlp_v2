@@ -1,0 +1,1 @@
+{'text': 'When their eyes will be turned to the people of the Fire, they will say, “Our Lord, do not join us with the unjust people.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 47, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

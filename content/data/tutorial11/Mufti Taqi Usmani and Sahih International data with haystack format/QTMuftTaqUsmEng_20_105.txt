@@ -1,0 +1,1 @@
+{'text': 'They ask you about the mountains. So, say (to them), “My Lord will crush them into dust thoroughly,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 105, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

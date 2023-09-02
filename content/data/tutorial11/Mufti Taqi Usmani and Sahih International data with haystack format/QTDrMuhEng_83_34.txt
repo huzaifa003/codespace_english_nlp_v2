@@ -1,0 +1,1 @@
+{'text': 'But this Day (the Day of Resurrection) those who believe will laugh at the disbelievers', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 83, 'ayah_no': 34, 'surah_name_en': 'Al-Mutaffifin (Defrauding)', 'surah_name_ar': 'المُطَفِّفِین'}}

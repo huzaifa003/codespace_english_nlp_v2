@@ -1,0 +1,1 @@
+{'text': 'They say, “Why is it that an angel has not been sent down to him?” Had We sent down an angel, the whole matter would have been closed, and thereafter no further time would have been allowed to them.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 8, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

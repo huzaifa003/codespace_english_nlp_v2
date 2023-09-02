@@ -1,0 +1,1 @@
+{'text': 'And who does more wrong than he who invents a lie against Allah or rejects His Ayat (proofs, evidences, verses, lessons, revelations, etc.)? Verily, the Zalimoon (polytheists and wrongdoers, etc.) shall never be successful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 6, 'ayah_no': 21, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

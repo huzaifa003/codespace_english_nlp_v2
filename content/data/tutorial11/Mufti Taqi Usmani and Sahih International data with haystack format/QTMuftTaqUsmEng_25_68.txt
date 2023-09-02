@@ -1,0 +1,1 @@
+{'text': '- and those who do not invoke any other god along with Allah, and do not kill a person whom Allah has given sanctity, except rightfully, nor do they fornicate; and whoever does it, shall face the recompense of his sin,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 68, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

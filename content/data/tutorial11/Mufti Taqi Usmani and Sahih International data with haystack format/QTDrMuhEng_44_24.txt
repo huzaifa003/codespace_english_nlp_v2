@@ -1,0 +1,1 @@
+{'text': '"And leave the sea as it is (quiet and divided). Verily, They are a host to be drowned."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 44, 'ayah_no': 24, 'surah_name_en': 'Ad-Dukhan (The Smoke)', 'surah_name_ar': 'الدُّخَان'}}

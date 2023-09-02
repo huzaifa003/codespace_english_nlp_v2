@@ -1,0 +1,1 @@
+{'text': '"O my people! Truly, this life of the world is nothing but a (quick passing) enjoyment, and verily, the Hereafter that is the home that will remain forever."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 40, 'ayah_no': 39, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

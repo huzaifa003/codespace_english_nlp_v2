@@ -1,0 +1,1 @@
+{'text': 'Then, they accused him of falsehood; so We saved him, and those with him in the Ark, and drowned those who rejected Our signs. Certainly, they were a blind people.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 64, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

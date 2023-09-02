@@ -1,0 +1,1 @@
+{'text': '(Then Yūsuf said), “That was because he (the governor) may know that I did not betray him in his absence, and that Allah does not lead the guile of betrayers to success.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 52, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

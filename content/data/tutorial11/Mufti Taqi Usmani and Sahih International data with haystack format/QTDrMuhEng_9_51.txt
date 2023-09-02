@@ -1,0 +1,1 @@
+{'text': 'Say: "Nothing shall ever happen to us except what Allah has ordained for us. He is our Maula (Lord, Helper and Protector)." And in Allah let the believers put their trust.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 9, 'ayah_no': 51, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

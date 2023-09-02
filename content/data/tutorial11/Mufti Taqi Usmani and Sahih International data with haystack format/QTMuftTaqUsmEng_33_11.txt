@@ -1,0 +1,1 @@
+{'text': 'At that occasion, the believers were put to a trial and were shaken with a violent convulsion.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 33, 'ayah_no': 11, 'surah_name_en': 'Al-Ahzab (The Coalition)', 'surah_name_ar': 'الاحزاب'}}

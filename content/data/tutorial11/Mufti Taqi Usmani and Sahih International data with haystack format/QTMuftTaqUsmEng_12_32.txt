@@ -1,0 +1,1 @@
+{'text': 'She said, “This is the one about whom you reproached me. Yes, I seduced him, but he abstained. And should he not follow my command, he shall be imprisoned and will be disgraced.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 12, 'ayah_no': 32, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

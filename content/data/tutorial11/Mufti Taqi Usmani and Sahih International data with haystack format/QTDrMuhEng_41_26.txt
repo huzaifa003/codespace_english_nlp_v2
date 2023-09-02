@@ -1,0 +1,1 @@
+{'text': 'And those who disbelieve say: "Listen not to this Quran, and make noise in the midst of its (recitation) that you may overcome."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 41, 'ayah_no': 26, 'surah_name_en': 'Fussilat (Exlained in detail)', 'surah_name_ar': 'فصلت'}}

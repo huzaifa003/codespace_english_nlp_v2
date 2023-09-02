@@ -1,0 +1,1 @@
+{'text': 'And you cannot escape from Allah (i.e. His Punishment) in the earth, and besides Allah you have neither any Walee (guardian or a protector) nor any helper.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 42, 'ayah_no': 31, 'surah_name_en': 'Ash-Shura (Council, Consultation)', 'surah_name_ar': 'الشُّورٰی'}}

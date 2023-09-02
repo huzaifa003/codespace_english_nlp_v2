@@ -1,0 +1,1 @@
+{'text': 'O you who believe, obey Allah and His Messenger, and do not turn away from Him when you listen (to him).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 20, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

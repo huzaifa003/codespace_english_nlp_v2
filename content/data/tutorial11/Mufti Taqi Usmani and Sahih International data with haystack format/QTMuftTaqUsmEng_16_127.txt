@@ -1,0 +1,1 @@
+{'text': 'And be patient. Your patience is bestowed by none but Allah, and do not grieve over them, and do not be in distress for what they devise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 127, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

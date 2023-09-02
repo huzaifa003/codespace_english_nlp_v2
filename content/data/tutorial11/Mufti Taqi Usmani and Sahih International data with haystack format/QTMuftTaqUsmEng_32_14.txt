@@ -1,0 +1,1 @@
+{'text': 'So, have a taste, because you had forgotten the meeting of this day of yours. We have forgotten you; and taste the eternal punishment for what you used to do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 32, 'ayah_no': 14, 'surah_name_en': 'As-Sajda (The Prostration)', 'surah_name_ar': 'السجدۃ'}}

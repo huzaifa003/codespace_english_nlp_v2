@@ -1,0 +1,1 @@
+{'text': 'The disbelievers should never think that they have surpassed (the divine punishment). Surely, they cannot frustrate (the Divine will).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 8, 'ayah_no': 59, 'surah_name_en': 'Al-Anfal (Spoils of war, booty)', 'surah_name_ar': 'الانفال'}}

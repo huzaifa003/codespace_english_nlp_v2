@@ -1,0 +1,1 @@
+{'text': 'And the Messenger (Muhammad SAW) will say: "O my Lord! Verily, my people deserted this Quran (neither listened to it, nor acted on its laws and orders).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 30, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

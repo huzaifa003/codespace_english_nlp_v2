@@ -1,0 +1,1 @@
+{'text': 'Then do they wait for (anything) save for (destruction) like the days of the men who passed away before them? Say: "Wait then, I am (too) with you among those who wait."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 10, 'ayah_no': 102, 'surah_name_en': 'Yunus (Jonah)', 'surah_name_ar': 'یونس'}}

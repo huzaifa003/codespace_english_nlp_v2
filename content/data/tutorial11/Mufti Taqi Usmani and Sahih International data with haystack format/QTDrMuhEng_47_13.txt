@@ -1,0 +1,1 @@
+{'text': 'And many a town, stronger than your town (Makkah) (O Muhammad SAW) which has driven you out We have destroyed. And there was none to help them.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 47, 'ayah_no': 13, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

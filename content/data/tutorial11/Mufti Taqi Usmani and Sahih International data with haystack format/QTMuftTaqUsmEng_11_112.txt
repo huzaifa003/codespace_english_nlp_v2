@@ -1,0 +1,1 @@
+{'text': 'So, stand firm (on faith) as you have been commanded, as well as those who having repented (from disbelief) have joined you, and do not cross the limits. Surely, He is watchful of what you do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 112, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

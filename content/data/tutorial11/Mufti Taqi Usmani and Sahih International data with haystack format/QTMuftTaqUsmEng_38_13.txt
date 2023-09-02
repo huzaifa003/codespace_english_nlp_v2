@@ -1,0 +1,1 @@
+{'text': 'and Thamūd and the people of LūT and the people of Aaikah have rejected (the messengers). They were the (strong) groups.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 13, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

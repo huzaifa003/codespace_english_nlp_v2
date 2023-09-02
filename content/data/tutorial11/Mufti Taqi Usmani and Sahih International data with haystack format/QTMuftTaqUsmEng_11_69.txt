@@ -1,0 +1,1 @@
+{'text': 'And Our emissaries came to Ibrāhīm with the good news. They greeted him with “Salām (peace).” He said, “Salām.” Then he took not much time in bringing a roasted calf.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 69, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

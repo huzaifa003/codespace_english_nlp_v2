@@ -1,0 +1,1 @@
+{'text': 'And verily, your Lord will give you (all i.e. good) so that you shall be well-pleased.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 93, 'ayah_no': 5, 'surah_name_en': 'Ad-Dhuha (The morning hours)', 'surah_name_ar': 'الضُّحٰی'}}

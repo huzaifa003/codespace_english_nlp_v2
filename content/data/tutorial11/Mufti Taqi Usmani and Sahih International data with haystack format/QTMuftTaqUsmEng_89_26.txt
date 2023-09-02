@@ -1,0 +1,1 @@
+{'text': 'nor can anyone shackle like He will shackle.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 89, 'ayah_no': 26, 'surah_name_en': 'Al-Fajr (The Dawn)', 'surah_name_ar': 'الفجر'}}

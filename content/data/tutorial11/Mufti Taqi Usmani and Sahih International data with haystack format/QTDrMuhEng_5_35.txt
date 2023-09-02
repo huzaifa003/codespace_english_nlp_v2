@@ -1,0 +1,1 @@
+{'text': 'O you who believe! Do your duty to Allah and fear Him. Seek the means of approach to Him, and strive hard in His Cause as much as you can. So that you may be successful.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 5, 'ayah_no': 35, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

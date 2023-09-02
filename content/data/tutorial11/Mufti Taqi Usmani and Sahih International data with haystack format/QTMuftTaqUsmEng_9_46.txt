@@ -1,0 +1,1 @@
+{'text': 'Had they wished to set out, they would have made some preparation for it, but Allah disliked their going forth, so He made them lag behind, and it was said to them, “Stay back with those who are staying back.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 46, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

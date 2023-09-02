@@ -1,0 +1,1 @@
+{'text': 'That will be a Day of Decision! We have brought you and the men of old together!', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 77, 'ayah_no': 38, 'surah_name_en': 'Al-Mursalat (The emissaries)', 'surah_name_ar': 'المرسلٰت'}}

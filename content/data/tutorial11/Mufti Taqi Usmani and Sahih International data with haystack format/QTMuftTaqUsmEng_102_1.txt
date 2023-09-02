@@ -1,0 +1,1 @@
+{'text': 'You are distracted by mutual competition in amassing (worldly benefits),', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 102, 'ayah_no': 1, 'surah_name_en': 'At-Takathur (Competition)', 'surah_name_ar': 'التّکاثُر'}}

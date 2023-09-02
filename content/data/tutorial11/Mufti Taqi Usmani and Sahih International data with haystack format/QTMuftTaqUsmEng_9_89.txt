@@ -1,0 +1,1 @@
+{'text': 'Allah has prepared for them gardens beneath which rivers flow where they will live forever. That is the supreme achievement.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 89, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

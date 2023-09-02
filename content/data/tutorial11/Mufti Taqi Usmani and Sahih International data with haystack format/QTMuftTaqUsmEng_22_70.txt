@@ -1,0 +1,1 @@
+{'text': 'Do you not know that Allah knows all that is in the sky and the earth? Surely, that is contained in a Book. Indeed it is so easy for Allah.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 22, 'ayah_no': 70, 'surah_name_en': 'Al-Hajj (The Pilgrimage)', 'surah_name_ar': 'الحج'}}

@@ -1,0 +1,1 @@
+{'text': 'They said, “You know that we have no claim on your daughters, and you know well what we want.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 79, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

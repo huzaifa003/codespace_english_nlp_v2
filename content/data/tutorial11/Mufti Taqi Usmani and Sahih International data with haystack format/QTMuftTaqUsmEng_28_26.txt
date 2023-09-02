@@ -1,0 +1,1 @@
+{'text': 'One of the two women said, “Dear father, hire him; the best man you can hire is someone who is strong, trustworthy.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 28, 'ayah_no': 26, 'surah_name_en': 'Al-Qasas (The Story)', 'surah_name_ar': 'القصص'}}

@@ -1,0 +1,1 @@
+{'text': 'This is because of that (evil) which your hands have sent before you. And certainly, Allah is never unjust to (His) slaves.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 3, 'ayah_no': 182, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

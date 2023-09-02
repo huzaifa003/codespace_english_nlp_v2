@@ -1,0 +1,1 @@
+{'text': 'Those are the ones who bought the worldly life at the cost of the Hereafter. So, punishment shall not be lightened for them, nor shall they be helped.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 86, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

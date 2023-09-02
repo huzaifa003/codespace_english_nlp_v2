@@ -1,0 +1,1 @@
+{'text': 'And when We appointed forty nights for Mūsā, then you took the calf (as God) thereafter, and you were unjust.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 51, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'And (remember) Ismaeel (Ishmael), and Idris (Enoch) and Dhul-Kifl (Isaiah), all were from among As-Sabirin (the patient ones, etc.).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 21, 'ayah_no': 85, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

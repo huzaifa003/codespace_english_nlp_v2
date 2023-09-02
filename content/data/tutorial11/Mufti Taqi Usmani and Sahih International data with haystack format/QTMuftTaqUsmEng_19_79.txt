@@ -1,0 +1,1 @@
+{'text': 'Never! We will write what he says and extend for him the punishment extensively.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 79, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

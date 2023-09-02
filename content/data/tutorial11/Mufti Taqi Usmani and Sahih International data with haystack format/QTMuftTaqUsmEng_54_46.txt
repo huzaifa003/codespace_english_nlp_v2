@@ -1,0 +1,1 @@
+{'text': 'Rather the Hour (of judgment) is their appointed time (for their full recompense), and the Hour is more calamitous and much more bitter.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 54, 'ayah_no': 46, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}

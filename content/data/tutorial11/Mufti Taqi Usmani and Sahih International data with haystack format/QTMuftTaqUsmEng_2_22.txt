@@ -1,0 +1,1 @@
+{'text': 'He is the One who made the earth a bed for you, and the sky a roof, and sent down water from the sky, then brought forth with it fruits, as a provision for you. So, do not set up parallels to Allah when you know.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 2, 'ayah_no': 22, 'surah_name_en': 'Al-Baqara (The Cow)', 'surah_name_ar': 'البقرۃ'}}

@@ -1,0 +1,1 @@
+{'text': 'In them (both) will be two springs flowing (free)', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 55, 'ayah_no': 50, 'surah_name_en': 'Al-Rahman (The Beneficient)', 'surah_name_ar': 'الرحمٰن'}}

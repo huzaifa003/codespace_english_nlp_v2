@@ -1,0 +1,1 @@
+{'text': 'Believe in Allah and His Messenger, and spend out of that (wealth) in which He has appointed you as deputies. So, for those of you who have believed and spent (in Allah’s way), there is a big reward.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 57, 'ayah_no': 7, 'surah_name_en': 'Al-Hadid (The Iron)', 'surah_name_ar': 'الحدید'}}

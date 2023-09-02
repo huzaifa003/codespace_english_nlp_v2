@@ -1,0 +1,1 @@
+{'text': 'Has he peeped into the Unseen or taken a covenant with the All-Merciful (Allah)?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 78, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

@@ -1,0 +1,1 @@
+{'text': 'And the Horn will be blown, and suddenly they will be rushing from their graves towards their Lord.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 36, 'ayah_no': 51, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

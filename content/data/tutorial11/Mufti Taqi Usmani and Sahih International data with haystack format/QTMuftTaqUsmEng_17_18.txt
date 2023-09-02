@@ -1,0 +1,1 @@
+{'text': 'Whoever opts for the immediate (benefits from) life herein, We give him, right here in this life, as much as We will, to whomever We intend. Then We assign Jahannam for him where he shall enter condemned, discarded.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 18, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

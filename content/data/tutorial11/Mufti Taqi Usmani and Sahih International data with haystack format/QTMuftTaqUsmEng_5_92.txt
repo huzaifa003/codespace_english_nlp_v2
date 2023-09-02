@@ -1,0 +1,1 @@
+{'text': 'Obey Allah, obey the Messenger, and be heedful. If you still turn back, be assured that the duty of Our Messenger is only to convey the Message clearly.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 92, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

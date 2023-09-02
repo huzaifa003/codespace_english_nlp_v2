@@ -1,0 +1,1 @@
+{'text': 'They ask you about Dhul-Qarnain. Say, “I shall now recite to you an account of him.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 18, 'ayah_no': 83, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

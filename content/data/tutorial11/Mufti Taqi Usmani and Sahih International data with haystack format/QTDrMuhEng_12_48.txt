@@ -1,0 +1,1 @@
+{'text': '"Then will come after that, seven hard (years), which will devour what you have laid by in advance for them, (all) except a little of that which you have guarded (stored).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 48, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

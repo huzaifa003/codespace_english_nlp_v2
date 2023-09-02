@@ -1,0 +1,1 @@
+{'text': 'They said, “We are powerful and tough fighters, and the decision lies with you; so consider what command you should give.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 33, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

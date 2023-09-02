@@ -1,0 +1,1 @@
+{'text': 'as a grace from Allah, and as a blessing. And Allah is All-Knowing, All-Wise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 49, 'ayah_no': 8, 'surah_name_en': 'Al-Hujraat (The private apartments)', 'surah_name_ar': 'الحجرات'}}

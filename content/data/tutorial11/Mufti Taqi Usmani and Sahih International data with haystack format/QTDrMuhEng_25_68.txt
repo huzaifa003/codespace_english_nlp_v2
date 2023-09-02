@@ -1,0 +1,1 @@
+{'text': 'And those who invoke not any other ilah (god) along with Allah, nor kill such life as Allah has forbidden, except for just cause, nor commit illegal sexual intercourse and whoever does this shall receive the punishment.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 25, 'ayah_no': 68, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

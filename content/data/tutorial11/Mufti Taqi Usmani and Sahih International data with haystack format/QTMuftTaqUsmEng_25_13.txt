@@ -1,0 +1,1 @@
+{'text': 'and when they will be thrown into a narrow place therein, while they will be chained together, they will call for death.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 13, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

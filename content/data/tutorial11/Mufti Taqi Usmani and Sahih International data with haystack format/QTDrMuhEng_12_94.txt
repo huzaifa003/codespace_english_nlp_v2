@@ -1,0 +1,1 @@
+{'text': 'And when the caravan departed, their father said: "I do indeed feel the smell of Yoosuf (Joseph), if only you think me not a dotard (a person who has weakness of mind because of old age)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 12, 'ayah_no': 94, 'surah_name_en': 'Yusuf (Joseph)', 'surah_name_ar': 'یوسف'}}

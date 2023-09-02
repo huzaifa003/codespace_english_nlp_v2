@@ -1,0 +1,1 @@
+{'text': 'As for a man or a woman who commits theft, cut off the hands of both to punish them for what they earned,-a deterrent punishment from Allah. Allah is Mighty, Wise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 5, 'ayah_no': 38, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

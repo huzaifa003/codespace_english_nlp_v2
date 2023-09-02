@@ -1,0 +1,1 @@
+{'text': 'Then, verily, We know best those who are most worthy of being burnt therein.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 19, 'ayah_no': 70, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

@@ -1,0 +1,1 @@
+{'text': 'and will be whispering among themselves, “You did not remain (in graves) more than ten (days)”.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 20, 'ayah_no': 103, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

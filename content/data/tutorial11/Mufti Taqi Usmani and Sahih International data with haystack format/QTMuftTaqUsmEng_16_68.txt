@@ -1,0 +1,1 @@
+{'text': 'Your Lord revealed to the honeybee: “Make homes in the mountains, in the trees and in the structures they raise.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 68, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

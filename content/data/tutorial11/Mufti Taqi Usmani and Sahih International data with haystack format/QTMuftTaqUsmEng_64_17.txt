@@ -1,0 +1,1 @@
+{'text': 'If you advance a good loan to Allah, He will multiply it for you, and will forgive you. And Allah is Appreciative, Forbearing,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 64, 'ayah_no': 17, 'surah_name_en': 'At-Taghabun (Mutual Disillusion)', 'surah_name_ar': 'التّغابن'}}

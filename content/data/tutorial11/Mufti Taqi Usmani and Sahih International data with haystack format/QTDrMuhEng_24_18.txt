@@ -1,0 +1,1 @@
+{'text': 'And Allah makes the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) plain to you, and Allah is All-Knowing, All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 24, 'ayah_no': 18, 'surah_name_en': 'An-Noor (The Light)', 'surah_name_ar': 'النور'}}

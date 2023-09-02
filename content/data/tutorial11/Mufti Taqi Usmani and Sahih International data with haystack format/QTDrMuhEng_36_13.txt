@@ -1,0 +1,1 @@
+{'text': 'And put forward to them a similitude; the (story of the) dwellers of the town, (It is said that the town was Antioch (Antakiya)), when there came Messengers to them.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 36, 'ayah_no': 13, 'surah_name_en': 'Ya Seen (Ya Seen)', 'surah_name_ar': 'یٰسٓ'}}

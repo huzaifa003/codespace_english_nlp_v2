@@ -1,0 +1,1 @@
+{'text': 'Then, as for him who will be given his Record in his right hand,', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 84, 'ayah_no': 7, 'surah_name_en': 'Al-Inshiqaq (The Sundering, Splitting Open)', 'surah_name_ar': 'الاِنشِقَاق'}}

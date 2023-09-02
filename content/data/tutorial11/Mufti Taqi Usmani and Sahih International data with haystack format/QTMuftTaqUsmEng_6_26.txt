@@ -1,0 +1,1 @@
+{'text': 'From it (the Qur’ān) they prevent others, and from it they keep themselves away. They ruin none but their own selves, while they do not realize it.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 6, 'ayah_no': 26, 'surah_name_en': 'Al-Anaam (The cattle)', 'surah_name_ar': 'الانعام'}}

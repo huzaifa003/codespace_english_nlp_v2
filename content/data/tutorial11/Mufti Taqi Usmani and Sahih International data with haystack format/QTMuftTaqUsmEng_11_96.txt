@@ -1,0 +1,1 @@
+{'text': 'And We sent Mūsā, with Our signs and with clear proof,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 96, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

@@ -1,0 +1,1 @@
+{'text': 'The revelation of the Book (this Quran) is from Allah, the All-Mighty, the All-Wise.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 46, 'ayah_no': 2, 'surah_name_en': 'Al-Ahqaf (The wind-curved sandhills)', 'surah_name_ar': 'الاحقاف'}}

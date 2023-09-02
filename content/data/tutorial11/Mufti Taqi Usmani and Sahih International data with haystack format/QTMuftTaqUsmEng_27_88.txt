@@ -1,0 +1,1 @@
+{'text': 'And you see the mountains (at present) supposing them as fixed (forever), while (on that Day) they will fly like the flight of clouds - an act of Allah who has perfected every thing. Surely, He is All-Aware of what you do.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 27, 'ayah_no': 88, 'surah_name_en': 'An-Naml (The Ant)', 'surah_name_ar': 'النمل'}}

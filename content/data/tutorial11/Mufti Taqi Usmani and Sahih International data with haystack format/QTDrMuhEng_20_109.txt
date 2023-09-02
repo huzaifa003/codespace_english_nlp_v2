@@ -1,0 +1,1 @@
+{'text': 'On that day no intercession shall avail, except the one for whom the Most Beneficent (Allah) has given permission and whose word is acceptable to Him.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 109, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

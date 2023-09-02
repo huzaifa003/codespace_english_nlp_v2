@@ -1,0 +1,1 @@
+{'text': 'If some good comes to you, it annoys them, and if hardship befalls you, they say, “We had already taken care of our problem”, and they go their way delighted.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 9, 'ayah_no': 50, 'surah_name_en': 'At-Taubah (Repentance)', 'surah_name_ar': 'التوبۃ'}}

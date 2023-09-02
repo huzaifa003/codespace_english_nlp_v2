@@ -1,0 +1,1 @@
+{'text': 'that you should worship none but Allah, (otherwise) I fear for you the punishment of a painful day.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 26, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

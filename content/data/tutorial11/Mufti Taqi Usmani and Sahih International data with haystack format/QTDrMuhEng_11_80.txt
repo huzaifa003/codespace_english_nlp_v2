@@ -1,0 +1,1 @@
+{'text': 'He said: "Would that I had strength (men) to overpower you, or that I could betake myself to some powerful support (to resist you)."', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 11, 'ayah_no': 80, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

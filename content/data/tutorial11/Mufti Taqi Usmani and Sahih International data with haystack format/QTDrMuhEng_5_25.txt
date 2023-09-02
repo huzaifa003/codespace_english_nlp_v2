@@ -1,0 +1,1 @@
+{'text': 'He (Moosa (Moses)) said: "O my Lord! I have power only over myself and my brother, so separate us from the people who are the Fasiqoon (rebellious and disobedient to Allah)!"', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 5, 'ayah_no': 25, 'surah_name_en': 'Al-Meada (The Table Spread)', 'surah_name_ar': 'المآئدۃ'}}

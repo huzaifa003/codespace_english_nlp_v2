@@ -1,0 +1,1 @@
+{'text': 'He punishes whom He wills and has mercy on whom He wills. And to Him you are to be turned back.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 29, 'ayah_no': 21, 'surah_name_en': 'Al-Ankaboot (The Spider)', 'surah_name_ar': 'العنکبوت'}}

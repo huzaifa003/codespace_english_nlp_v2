@@ -1,0 +1,1 @@
+{'text': 'And they say, “O our Lord, give us our share (of the punishment) sooner, before the Day of Reckoning.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 38, 'ayah_no': 16, 'surah_name_en': 'Sad (Sad)', 'surah_name_ar': 'صٓ'}}

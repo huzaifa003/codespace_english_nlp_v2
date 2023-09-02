@@ -1,0 +1,1 @@
+{'text': 'whereas for the one who feared to stand before his Lord, and restrained his self from the (evil) desire,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 79, 'ayah_no': 40, 'surah_name_en': 'An-Naziat (Those who drag forth)', 'surah_name_ar': 'النّٰزِعٰتِ'}}

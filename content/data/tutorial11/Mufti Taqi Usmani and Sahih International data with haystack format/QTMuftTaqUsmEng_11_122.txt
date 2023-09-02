@@ -1,0 +1,1 @@
+{'text': 'And wait. We too are waiting.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 11, 'ayah_no': 122, 'surah_name_en': 'Hud (Hud)', 'surah_name_ar': 'ھود'}}

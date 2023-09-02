@@ -1,0 +1,1 @@
+{'text': 'Allah makes those on the right path excel in guidance. And the everlasting virtues are better with your Lord in respect of reward and better in their return.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 19, 'ayah_no': 76, 'surah_name_en': 'Maryam (Mary)', 'surah_name_ar': 'مریم'}}

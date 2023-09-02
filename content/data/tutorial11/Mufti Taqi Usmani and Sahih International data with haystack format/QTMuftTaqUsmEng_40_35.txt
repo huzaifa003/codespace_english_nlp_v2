@@ -1,0 +1,1 @@
+{'text': 'those who quarrel in Allah’s verses without any authority having reached them. It is terribly hateful with Allah and with those who believe. That is how Allah stamps a seal on the entire heart of an arrogant tyrant.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 40, 'ayah_no': 35, 'surah_name_en': 'Al-Ghafir (The Forgiver)', 'surah_name_ar': 'الغافر'}}

@@ -1,0 +1,1 @@
+{'text': 'That is because they say to those who hate that which Allah has revealed, “We will obey you in some respects.” And Allah knows their secret talk.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 47, 'ayah_no': 26, 'surah_name_en': 'Muhammad (Muhammad)', 'surah_name_ar': 'محمد'}}

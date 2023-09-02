@@ -1,0 +1,1 @@
+{'text': '(O Prophet,) establish Salāh between the decline of the sun and the darkness of the night, and (establish) the recital at dawn. Surely, the recital at dawn is well attended.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 78, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

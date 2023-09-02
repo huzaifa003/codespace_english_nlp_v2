@@ -1,0 +1,1 @@
+{'text': 'Say, “Believe in it or do not believe in it; when it is recited to those who were given knowledge before it, they fall down on their faces in prostration', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 107, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

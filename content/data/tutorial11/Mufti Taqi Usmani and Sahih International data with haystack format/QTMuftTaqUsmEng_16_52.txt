@@ -1,0 +1,1 @@
+{'text': 'And to Him belongs what is in the heavens and the earth, and it is only He who deserves obedience as ever due. Would you, then, fear someone other than Allah?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 52, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

@@ -1,0 +1,1 @@
+{'text': '"Verily! Those who believe (in the Oneness of Allah Islamic Monotheism) and do righteous deeds, shall have the Gardens of Al-Firdaus (the Paradise) for their entertainment.', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 18, 'ayah_no': 107, 'surah_name_en': 'Al-Kahf (The cave)', 'surah_name_ar': 'الکہف'}}

@@ -1,0 +1,1 @@
+{'text': 'Whoever seeks a faith other than Islam, it will never be accepted from him, and he, in the Hereafter, will be among the losers.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 3, 'ayah_no': 85, 'surah_name_en': 'Aal-e-Imran (The family of Imran)', 'surah_name_ar': 'آل عمران'}}

@@ -1,0 +1,1 @@
+{'text': 'Does he have knowledge of the Unseen whereby he sees (what he believes)?', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 53, 'ayah_no': 35, 'surah_name_en': 'An-Najm (The Star)', 'surah_name_ar': 'النجم'}}

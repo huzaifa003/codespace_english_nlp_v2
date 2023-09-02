@@ -1,0 +1,1 @@
+{'text': 'And He placed mountains on the earth, lest it should shake with you, and rivers and tracks, so that you may find the right way,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 16, 'ayah_no': 15, 'surah_name_en': 'An-Nahl (The Bee)', 'surah_name_ar': 'النحل'}}

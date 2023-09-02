@@ -1,0 +1,1 @@
+{'text': 'Surely, in this (Qur’ān) there is a message conveyed to a people who worship (Allah).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 21, 'ayah_no': 106, 'surah_name_en': 'Al-Ambiya (The Prophets)', 'surah_name_ar': 'الانبیآء'}}

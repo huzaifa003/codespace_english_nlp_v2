@@ -1,0 +1,1 @@
+{'text': 'Allah knows what every female carries and what the wombs decrease or increase. Everything has measure with Him', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 13, 'ayah_no': 8, 'surah_name_en': 'Ar-Rad (The Thunder)', 'surah_name_ar': 'الرعد'}}

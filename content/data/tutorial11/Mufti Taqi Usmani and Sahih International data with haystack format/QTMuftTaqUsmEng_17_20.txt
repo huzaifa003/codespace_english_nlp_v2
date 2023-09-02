@@ -1,0 +1,1 @@
+{'text': 'To all of them - both these and those - We extend the grants of your Lord. And the grant of your Lord is not barred (for anyone).', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 17, 'ayah_no': 20, 'surah_name_en': 'Al-Isra (The night journey)', 'surah_name_ar': 'الاسراء'}}

@@ -1,0 +1,1 @@
+{'text': 'and those who say, “Our Lord, avert from us the punishment of Jahannam (the Hell); indeed, its punishment is a persisting affliction.”', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 25, 'ayah_no': 65, 'surah_name_en': 'Al-Furqan (The Standard)', 'surah_name_ar': 'الفرقان'}}

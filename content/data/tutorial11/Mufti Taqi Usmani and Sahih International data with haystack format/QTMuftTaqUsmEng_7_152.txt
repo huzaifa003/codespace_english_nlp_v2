@@ -1,0 +1,1 @@
+{'text': 'Surely, those who have taken the calf (as god) shall be seized by Allah’s wrath and by humiliation in the worldly life. That is how we recompense the fabricators.', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 7, 'ayah_no': 152, 'surah_name_en': 'Al-Araf (The heights)', 'surah_name_ar': 'الاعراف'}}

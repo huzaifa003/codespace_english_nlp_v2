@@ -1,0 +1,1 @@
+{'text': 'Thus We relate to you (O Muhammad SAW) some information of what happened before. And indeed We have given you from Us a Reminder (this Quran).', 'meta': {'translator': 'Dr Mohsin Khan', 'surah_id': 20, 'ayah_no': 99, 'surah_name_en': 'Taha (Taha)', 'surah_name_ar': 'طٰہٰ'}}

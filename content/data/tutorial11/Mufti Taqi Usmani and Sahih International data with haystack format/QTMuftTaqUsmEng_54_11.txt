@@ -1,0 +1,1 @@
+{'text': 'So We opened the gates of the sky with water pouring forth profusely,', 'meta': {'translator': 'Mufti Taqi Usmani', 'surah_id': 54, 'ayah_no': 11, 'surah_name_en': 'Al-Qamar (The moon)', 'surah_name_ar': 'القمر'}}
