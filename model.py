@@ -8,6 +8,7 @@ from haystack.pipelines import ExtractiveQAPipeline
 from haystack.utils import print_answers
 from haystack.pipelines import Pipeline
 from haystack.nodes import JoinDocuments
+import pickle
 
 
 document_store = InMemoryDocumentStore(use_bm25=True)
@@ -26,7 +27,10 @@ bm25_retriever = BM25Retriever(document_store=document_store)
 embedding_retriever = EmbeddingRetriever(
     document_store=document_store, embedding_model="sentence-transformers/multi-qa-mpnet-base-dot-v1"
 )
-document_store.update_embeddings(embedding_retriever, update_existing_embeddings=False)
+# document_store.update_embeddings(embedding_retriever, update_existing_embeddings=False)
+
+document_store = pickle.load(open("document_store.pkl", "rb"))
+print(document_store)
 
 # Initialize Reader
 reader = FARMReader(model_name_or_path="deepset/roberta-base-squad2")

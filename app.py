@@ -10,7 +10,7 @@ def get_predictions():
 @app.route("/app", methods =['GET', 'POST'])
 def frontend():
     if request.method == "GET":
-        return render_template("answer")
+        return render_template("query.html")
     if request.method == "POST":
         query = request.form['query']
         prediction =  model.predict(query)
