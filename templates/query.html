@@ -6,12 +6,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Query</title>
+    <style>
+        form{
+            text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35vh;
+    gap: 25px;
+        }
+
+    </style>
 </head>
 
 <body>
+    <h1 style="text-align: center;" >Type Your Query</h1>
+    
     <form action="/app" method  = "post">
-        <input name="query" type="text"> </input>
-        <button type="submit"> Ask Question</button>
+       
+        
+        <input style="padding: 10px; border-radius: 5px;" name="query" type="text" placeholder="Search Query"> </input>
+        <button style="padding: 10px; background-color: green; color:white ; " type="submit"> Ask Question</button>
     </form>
 </body>
 

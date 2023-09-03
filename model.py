@@ -114,6 +114,3 @@ def predict(query):
     documents = documentSearch(query)
     return {"answers" : answers, "documents" : documents}
 
-
-
-
