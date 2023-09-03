@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request
 import model
+import json
 app = Flask(__name__)
 
 @app.route("/", methods = ['POST'])
@@ -14,5 +15,5 @@ def frontend():
     if request.method == "POST":
         query = request.form['query']
         prediction =  model.predict(query)
-        return prediction
+        return render_template('answer.html' ,prediction=prediction)
     
