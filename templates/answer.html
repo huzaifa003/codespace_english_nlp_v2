@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<style>
+.query{
+    text-align: center;
+    font-size: 4rem;
+    background: #cbcbcb;
+}
+.query > span{
+    font-weight: 100;
+}
+.answer_container{
+    background: aliceblue;
+    margin: 30px 0px;
+}
+span{
+    font-weight: 100;
+}
+
+</style>
+<body>
+        <h1 class="query">Query : <span>{{prediction.answers.query}}</span> </h1> 
+        {% for x in range(3) %}
+        <div class="answer_container">
+            <h1>Answer : <span>{{ prediction.answers.answers[x].answer }}</span></h1>
+            <h1>Context : <span>{{ prediction.answers.answers[x].context.split("', 'meta': {'translator': '")[0] }}</span></h1>
+            <h1>Translator : <span>{{ prediction.answers.answers[x].context.split("', 'meta': {'translator': '")[1] }}</span></h1>
+            <h1>Document Content : <span>{{ prediction.answers.documents[x].content.split("'")[3] }}</span></h1>
+            <h1>Document Translator: <span>{{ prediction.answers.documents[x].content.split("'")[9] }}</span></h1>
+            <h1>Surah Id: <span>{{ prediction.answers.documents[x].content.split("'")[12] }}</span></h1>
+            <h1>Ayah No: <span>{{ prediction.answers.documents[x].content.split("'")[14] }}</span></h1>
+            <h1>surah_name_en: <span>{{ prediction.answers.documents[x].content.split("'")[17] }}</span></h1>
+            <h1>surah_name_ar: <span>{{ prediction.answers.documents[x].content.split("'")[21] }}</span></h1>
+        </div>
+    {% endfor %}
+
+</body>
+</html>
