@@ -34,12 +34,12 @@
     {% for x in range(3) %}
     <div class="answer_container">
         <h1>Answer : <span>{{ prediction.answers.answers[x].answer }}</span></h1>
-        <h1>Context : <span>{{ prediction.answers.answers[x].context.split("'")[0] }}</span></h1>
+        <!-- <h1>Context : <span>{{ prediction.answers.answers[x].context.split("'")[0] }}</span></h1> -->
         <h1>Translator: <span>{{ prediction.answers.documents[x].content.split("'")[9] }}</span></h1>
         <h1>Surah Id: <span>{{ prediction.answers.documents[x].content.split("'")[12] }}</span></h1>
         <h1>Ayah No: <span>{{ prediction.answers.documents[x].content.split("'")[14] }}</span></h1>
-        <h1>surah_name_en: <span>{{ prediction.answers.documents[x].content.split("'")[17] }}</span></h1>
-        <h1>surah_name_ar: <span>{{ prediction.answers.documents[x].content.split("'")[21] }}</span></h1>
+        <h1>Surah Name (English): <span>{{ prediction.answers.documents[x].content.split("'")[17] }}</span></h1>
+        <h1>Surah Name (Arabic): <span>{{ prediction.answers.documents[x].content.split("'")[21] }}</span></h1>
     </div>
     {% endfor %}
 
@@ -51,8 +51,8 @@
         <h1>Translator: <span>{{ prediction.answers.documents[x].content.split("'")[9] }}</span></h1>
         <h1>Surah Id: <span>{{ prediction.answers.documents[x].content.split("'")[12] }}</span></h1>
         <h1>Ayah No: <span>{{ prediction.answers.documents[x].content.split("'")[14] }}</span></h1>
-        <h1>surah_name_en: <span>{{ prediction.answers.documents[x].content.split("'")[17] }}</span></h1>
-        <h1>surah_name_ar: <span>{{ prediction.answers.documents[x].content.split("'")[21] }}</span></h1>
+        <h1>Surah Name (English): <span>{{ prediction.answers.documents[x].content.split("'")[17] }}</span></h1>
+        <h1>Surah Name (Arabic): <span>{{ prediction.answers.documents[x].content.split("'")[21] }}</span></h1>
     </div>
     {% endfor %}
 
